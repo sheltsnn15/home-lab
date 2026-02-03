@@ -1,6 +1,22 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [High-Level Lighting Automation Logic](#high-level-lighting-automation-logic)
+  - [1. Initialization](#1-initialization)
+  - [2. Event Detection and Processing](#2-event-detection-and-processing)
+  - [3. Override Handling](#3-override-handling)
+  - [4. Notification System](#4-notification-system)
+  - [5. Maintenance Mode](#5-maintenance-mode)
+  - [6. Energy Monitoring](#6-energy-monitoring)
+- [Flow Diagram Summary](#flow-diagram-summary)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ### High-Level Lighting Automation Logic
 
 #### 1. Initialization
+
 1. System Boot:
    - Raspberry Pi starts up and initializes Zigbee dongle, motion sensors, and smart bulbs.
    - API call to retrieve sunrise and sunset times based on latitude and longitude.
@@ -11,6 +27,7 @@
    - Log or alert if any devices are offline or malfunctioning.
 
 #### 2. Event Detection and Processing
+
 1. Motion Detected:
    - Motion sensor sends a trigger signal to the Raspberry Pi.
    - Check current time against the sunrise/sunset schedule:
@@ -28,6 +45,7 @@
        - Keep lights off.
 
 #### 3. Override Handling
+
 1. Manual Overrides (App or Switch):
    - Monitor for manual inputs:
      - Toggle lights ON/OFF regardless of motion sensor or schedule status.
@@ -39,6 +57,7 @@
      - Use a fallback schedule based on pre-configured times (e.g., sunset at 6:00 PM, sunrise at 6:00 AM).
 
 #### 4. Notification System
+
 1. Battery Alerts:
    - Monitor battery status of motion sensors.
    - Send notifications for low battery or sensor maintenance.
@@ -49,7 +68,8 @@
 3. Manual Override Alerts:
    - Send a notification when a manual override occurs.
 
-#### 5. Maintenance Mode (Optional)
+#### 5. Maintenance Mode
+
 1. System Updates:
    - Enter a maintenance mode for software or hardware updates.
    - Disable automation temporarily during updates.
@@ -57,7 +77,8 @@
 2. Testing:
    - Allow manual testing of motion sensors and lights via app or command-line interface.
 
-#### 6. Energy Monitoring (If Enabled)
+#### 6. Energy Monitoring
+
 1. Usage Logging:
    - Log the ON/OFF status of lights with timestamps.
    - Calculate daily/weekly energy consumption estimates (if supported by smart bulbs).
@@ -66,6 +87,7 @@
    - Analyze usage patterns to recommend adjustments to schedules or timeout periods.
 
 ### Flow Diagram Summary
+
 1. Start:
    - Initialize system → Retrieve API times → Device health check.
 2. Detect Motion:
@@ -76,4 +98,3 @@
    - Manual or API override → Adjust light status.
 5. Notify:
    - Send alerts for overrides, low battery, or offline devices.
-

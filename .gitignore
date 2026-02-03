@@ -11,9 +11,21 @@ Desktop.ini
 .idea/
 .vscode/
 *.code-workspace
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
 
-# Windows volume metadata (you have this)
+# Windows volume metadata
 System Volume Information/
+
+# =========================
+# Docker Compose & Runtime
+# =========================
+docker-compose.override.yml
+docker-compose.*.yml
+*.local
 
 # =========================
 # Env / Secrets (DO NOT COMMIT)
@@ -34,6 +46,8 @@ secrets/
 *api_key*
 *credentials*
 *creds*
+**/secrets.yaml
+**/secrets.yml
 
 # =========================
 # Logs / Cache / Runtime
@@ -46,6 +60,20 @@ temp/
 .cache/
 __pycache__/
 *.pyc
+*.db-shm
+*.db-wal
+
+# =========================
+# Package / Dependency Files
+# =========================
+package-lock.json
+yarn.lock
+shard.lock
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
 
 # =========================
 # Ignore Invidious entirely
@@ -58,13 +86,26 @@ invidious/
 # Prometheus TSDB data
 monitoring/prom-data/
 
+# Prometheus tokens (keep .example files)
+monitoring/prometheus/*.token
+
 # Grafana runtime
-monitoring/grafana/data/
+monitoring/grafana/grafana.db
 monitoring/grafana/plugins/
 monitoring/grafana/logs/
+monitoring/grafana/data/
+monitoring/grafana/csv/
+monitoring/grafana/pdf/
+monitoring/grafana/png/
 
 # Uptime Kuma runtime
+monitoring/uptime-kuma/kuma.db
+monitoring/uptime-kuma/kuma.db-*
+monitoring/uptime-kuma/error.log
 monitoring/uptime-kuma/data/
+monitoring/uptime-kuma/docker-tls/
+monitoring/uptime-kuma/screenshots/
+monitoring/uptime-kuma/upload/
 
 # Node-RED runtime
 monitoring/nodered/node_modules/
@@ -82,7 +123,7 @@ monitoring/adguard/logs/
 # =========================
 # Home Assistant stack
 # =========================
-# Keep YAML in homeassistant/config; ignore DB/cache/storage & secrets
+# Keep YAML configs; ignore DB/cache/storage & secrets
 homeassistant/config/.storage/
 homeassistant/config/.cloud/
 homeassistant/config/deps/
@@ -97,6 +138,14 @@ homeassistant/config/secrets.yaml
 homeassistant/config/known_devices.yaml
 homeassistant/config/ip_bans.yaml
 
+# Zigbee2MQTT
+homeassistant/config/zigbee2mqtt/data/
+homeassistant/config/zigbee2mqtt/log/
+
+# Mosquitto
+homeassistant/config/mosquitto/data/
+homeassistant/config/mosquitto/log/
+
 # Home Assistant Node-RED
 homeassistant/nodered/node_modules/
 homeassistant/nodered/.config.runtime.json
@@ -104,9 +153,13 @@ homeassistant/nodered/.sessions.json
 homeassistant/nodered/.npm/
 homeassistant/nodered/.cache/
 homeassistant/nodered/*.log
+homeassistant/nodered/settings.js.bak
 
 # Home Assistant local store dir
 homeassistant/store/
+
+# Local setup script (if contains secrets)
+homeassistant/setup.sh
 
 # =========================
 # CouchDB livesync
@@ -126,6 +179,12 @@ jellyfin/tvseries/
 photoprism/database/
 photoprism/media/
 photoprism/storage/
+photoprism/storage/index/
+photoprism/storage/thumbnails/
+photoprism/storage/sessions/
+photoprism/storage/backup/
+photoprism/storage/cache/
+photoprism/storage/config/
 
 # =========================
 # qBittorrent
@@ -140,7 +199,20 @@ vault_warden/data/
 vault_warden/.env
 
 # =========================
-# Backups / dumps
+# Heimdall
+# =========================
+heimdall/data/
+heimdall/config/
+heimdall/app/
+
+# =========================
+# Watchtower
+# =========================
+watchtower/.env
+watchtower/data/
+
+# =========================
+# Backups / dumps / archives
 # =========================
 backups/
 backup/
@@ -150,9 +222,23 @@ backup/
 *.sqlite
 *.sqlite3
 *.db
-*.db-shm
-*.db-wal
 *.tar
 *.tar.gz
 *.tgz
 *.zip
+*.7z
+*.rar
+
+# =========================
+# Temporary / Build files
+# =========================
+build/
+dist/
+out/
+target/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib

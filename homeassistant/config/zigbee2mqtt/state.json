@@ -1,6 +1,6 @@
 {
     "0x0ceff6fffe1a1740": {
-        "occupancy": false,
+        "occupancy": true,
         "battery": 85,
         "voltage": 2700,
         "update": {

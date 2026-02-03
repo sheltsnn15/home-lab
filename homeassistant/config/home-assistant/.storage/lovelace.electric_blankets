@@ -1,0 +1,270 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "lovelace.electric_blankets",
+  "data": {
+    "config": {
+      "views": [
+        {
+          "title": "Home",
+          "path": "home",
+          "icon": "mdi:home-thermometer",
+          "type": "sections",
+          "cards": [
+            {
+              "type": "chips",
+              "chips": [
+                {
+                  "type": "action",
+                  "icon": "mdi:toggle-switch",
+                  "name": "All On",
+                  "tap_action": {
+                    "action": "call-service",
+                    "service": "switch.turn_on",
+                    "target": {
+                      "entity_id": "group.electric_blankets"
+                    }
+                  }
+                },
+                {
+                  "type": "action",
+                  "icon": "mdi:toggle-switch-off",
+                  "name": "All Off",
+                  "tap_action": {
+                    "action": "call-service",
+                    "service": "switch.turn_off",
+                    "target": {
+                      "entity_id": "group.electric_blankets"
+                    }
+                  }
+                },
+                {
+                  "type": "entity",
+                  "entity": "automation.electric_blanket_schedule_winter_only",
+                  "name": "Schedule"
+                }
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "type": "grid",
+              "cards": [
+                {
+                  "type": "heading",
+                  "heading": "Control"
+                },
+                {
+                  "type": "grid",
+                  "square": false,
+                  "columns": 2,
+                  "cards": [
+                    {
+                      "type": "tile",
+                      "entity": "switch.bedroom1_eb_sp",
+                      "name": "Judith",
+                      "icon": "mdi:power-socket-eu",
+                      "features": [
+                        {
+                          "type": "toggle"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tile",
+                      "entity": "switch.bedroom2_eb_sp",
+                      "name": "Shelton",
+                      "icon": "mdi:power-socket-eu",
+                      "features": [
+                        {
+                          "type": "toggle"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tile",
+                      "entity": "switch.bedroom3_eb_sp",
+                      "name": "Charmaine",
+                      "icon": "mdi:power-socket-eu",
+                      "features": [
+                        {
+                          "type": "toggle"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "button",
+                      "entity": "automation.electric_blanket_schedule_winter_only",
+                      "name": "Schedule (All blankets)",
+                      "icon": "mdi:calendar-clock",
+                      "tap_action": {
+                        "action": "call-service",
+                        "service": "automation.toggle",
+                        "target": {
+                          "entity_id": "automation.electric_blanket_schedule_winter_only"
+                        }
+                      },
+                      "hold_action": {
+                        "action": "more-info"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "grid",
+                  "title": "Quick Heat — 20 minutes",
+                  "columns": 3,
+                  "square": false,
+                  "cards": [
+                    {
+                      "type": "button",
+                      "name": "Judith — 20 min",
+                      "icon": "mdi:fire",
+                      "tap_action": {
+                        "action": "call-service",
+                        "service": "mqtt.publish",
+                        "data": {
+                          "topic": "zigbee2mqtt/bedroom1_eb_sp/set",
+                          "payload": "{\"state\":\"ON\",\"on_time\":1200}"
+                        }
+                      },
+                      "hold_action": {
+                        "action": "call-service",
+                        "service": "switch.turn_off",
+                        "target": {
+                          "entity_id": "switch.bedroom1_eb_sp"
+                        }
+                      }
+                    },
+                    {
+                      "type": "button",
+                      "name": "Shelton — 20 min",
+                      "icon": "mdi:fire",
+                      "tap_action": {
+                        "action": "call-service",
+                        "service": "mqtt.publish",
+                        "data": {
+                          "topic": "zigbee2mqtt/bedroom2_eb_sp/set",
+                          "payload": "{\"state\":\"ON\",\"on_time\":1200}"
+                        }
+                      },
+                      "hold_action": {
+                        "action": "call-service",
+                        "service": "switch.turn_off",
+                        "target": {
+                          "entity_id": "switch.bedroom2_eb_sp"
+                        }
+                      }
+                    },
+                    {
+                      "type": "button",
+                      "name": "Charmaine — 20 min",
+                      "icon": "mdi:fire",
+                      "tap_action": {
+                        "action": "call-service",
+                        "service": "mqtt.publish",
+                        "data": {
+                          "topic": "zigbee2mqtt/bedroom3_eb_sp/set",
+                          "payload": "{\"state\":\"ON\",\"on_time\":1200}"
+                        }
+                      },
+                      "hold_action": {
+                        "action": "call-service",
+                        "service": "switch.turn_off",
+                        "target": {
+                          "entity_id": "switch.bedroom3_eb_sp"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "grid",
+              "cards": [
+                {
+                  "type": "heading",
+                  "heading": "Live Power & Trends"
+                },
+                {
+                  "type": "entities",
+                  "title": "SONOFF — Live Readings",
+                  "entities": [
+                    {
+                      "entity": "sensor.bedroom1_eb_sp_power",
+                      "name": "Judith Power (W)"
+                    },
+                    {
+                      "entity": "sensor.bedroom2_eb_sp_power",
+                      "name": "Shelton Power (W)"
+                    },
+                    {
+                      "entity": "sensor.bedroom3_eb_sp_power",
+                      "name": "Charmaine Power (W)"
+                    },
+                    {
+                      "entity": "sensor.bedroom1_eb_sp_energy_today",
+                      "name": "Judith Energy Today (kWh)"
+                    },
+                    {
+                      "entity": "sensor.bedroom2_eb_sp_energy_today",
+                      "name": "Shelton Energy Today (kWh)"
+                    },
+                    {
+                      "entity": "sensor.bedroom3_eb_sp_energy_today",
+                      "name": "Charmaine Energy Today (kWh)"
+                    }
+                  ]
+                },
+                {
+                  "type": "history-graph",
+                  "title": "Power (Last 24h)",
+                  "hours_to_show": 24,
+                  "refresh_interval": 30,
+                  "entities": [
+                    {
+                      "entity": "sensor.bedroom1_eb_sp_power",
+                      "name": "Judtih"
+                    },
+                    {
+                      "entity": "sensor.bedroom2_eb_sp_power",
+                      "name": "Shelton"
+                    },
+                    {
+                      "entity": "sensor.bedroom3_eb_sp_power",
+                      "name": "Charmaine"
+                    }
+                  ]
+                },
+                {
+                  "type": "statistics-graph",
+                  "title": "Energy Today — Last 7 days",
+                  "days_to_show": 7,
+                  "chart_type": "bar",
+                  "stat_types": [
+                    "sum"
+                  ],
+                  "entities": [
+                    {
+                      "entity": "sensor.bedroom1_eb_sp_energy_today",
+                      "name": "Judtih"
+                    },
+                    {
+                      "entity": "sensor.bedroom2_eb_sp_energy_today",
+                      "name": "Shelton"
+                    },
+                    {
+                      "entity": "sensor.bedroom3_eb_sp_energy_today",
+                      "name": "Charmaine"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

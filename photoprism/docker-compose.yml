@@ -1,0 +1,102 @@
+services:
+  mariadb:
+    image: mariadb:11
+    restart: unless-stopped
+    stop_grace_period: 15s
+    security_opt:
+      - seccomp:unconfined
+      - apparmor:unconfined
+    command: >
+      --innodb-buffer-pool-size=512M
+      --transaction-isolation=READ-COMMITTED
+      --character-set-server=utf8mb4
+      --collation-server=utf8mb4_unicode_ci
+      --max-connections=512
+      --innodb-rollback-on-timeout=OFF
+      --innodb-lock-wait-timeout=120
+    environment:
+      TZ: ${TZ}
+      MARIADB_AUTO_UPGRADE: "1"
+      MARIADB_INITDB_SKIP_TZINFO: "1"
+      MARIADB_DATABASE: photoprism
+      MARIADB_USER: photoprism
+      MARIADB_PASSWORD: ${MARIADB_PASSWORD}
+      MARIADB_ROOT_PASSWORD: ${MARIADB_ROOT_PASSWORD}
+    volumes:
+      - ./database:/var/lib/mysql
+
+  photoprism:
+    image: photoprism/photoprism:latest
+    depends_on:
+      - mariadb
+    stop_grace_period: 15s
+    security_opt:
+      - seccomp:unconfined
+      - apparmor:unconfined
+    # Bind ONLY to localhost; Tailscale will proxy this securely.
+    ports:
+      - "127.0.0.1:${PHOTOPRISM_PORT}:2342"
+    environment:
+      TZ: ${TZ}
+      PHOTOPRISM_ADMIN_USER: "admin"
+      PHOTOPRISM_ADMIN_PASSWORD: ${PHOTOPRISM_ADMIN_PASSWORD}
+      PHOTOPRISM_AUTH_MODE: "password"
+
+      # Disable TLS inside the container since Tailscale will terminate HTTPS for us:
+      PHOTOPRISM_DISABLE_TLS: "true"
+      PHOTOPRISM_DEFAULT_TLS: "false"
+
+      PHOTOPRISM_DEFAULT_LOCALE: "en"
+      PHOTOPRISM_PLACES_LOCALE: "local"
+      PHOTOPRISM_SITE_URL: ${PHOTOPRISM_SITE_URL}
+      PHOTOPRISM_SITE_TITLE: "PhotoPrism"
+      PHOTOPRISM_SITE_CAPTION: "AI-Powered Photos App"
+      PHOTOPRISM_LOG_LEVEL: "info"
+
+      PHOTOPRISM_READONLY: "false"
+      PHOTOPRISM_EXPERIMENTAL: "false"
+      PHOTOPRISM_DISABLE_CHOWN: "false"
+      PHOTOPRISM_DISABLE_WEBDAV: "false"
+      PHOTOPRISM_DISABLE_SETTINGS: "false"
+      PHOTOPRISM_DISABLE_TENSORFLOW: "false"
+      PHOTOPRISM_DISABLE_FACES: "false"
+      PHOTOPRISM_DISABLE_CLASSIFICATION: "false"
+      PHOTOPRISM_DISABLE_VECTORS: "false"
+      PHOTOPRISM_DISABLE_RAW: "false"
+      PHOTOPRISM_RAW_PRESETS: "false"
+
+      PHOTOPRISM_SIDECAR_YAML: "true"
+      PHOTOPRISM_BACKUP_ALBUMS: "true"
+      PHOTOPRISM_BACKUP_DATABASE: "true"
+      PHOTOPRISM_BACKUP_SCHEDULE: "daily"
+      PHOTOPRISM_INDEX_SCHEDULE: ""
+      PHOTOPRISM_AUTO_INDEX: 300
+      PHOTOPRISM_AUTO_IMPORT: -1
+      PHOTOPRISM_DETECT_NSFW: "false"
+      PHOTOPRISM_UPLOAD_NSFW: "true"
+      PHOTOPRISM_UPLOAD_LIMIT: 5000
+      PHOTOPRISM_ORIGINALS_LIMIT: 5000
+      PHOTOPRISM_HTTP_COMPRESSION: "gzip"
+
+      PHOTOPRISM_DATABASE_DRIVER: "mysql"
+      PHOTOPRISM_DATABASE_SERVER: "mariadb:3306"
+      PHOTOPRISM_DATABASE_NAME: "photoprism"
+      PHOTOPRISM_DATABASE_USER: "photoprism"
+      PHOTOPRISM_DATABASE_PASSWORD: ${MARIADB_PASSWORD}
+
+      PHOTOPRISM_UPLOAD_ALLOW: "jpg,jpeg,png,heic,mp4,mov"
+      PHOTOPRISM_UPLOAD_ARCHIVES: "true"
+      PHOTOPRISM_INDEX_SCHEDULE: "@every 6h"
+      PHOTOPRISM_DETECT_NSFW: "true"
+      PHOTOPRISM_UID: 1000
+      PHOTOPRISM_GID: 1000
+      PHOTOPRISM_FFMPEG_SIZE: "1920"
+      PHOTOPRISM_FFMPEG_BITRATE: "32"
+      PHOTOPRISM_FFMPEG_ENCODER: "software"
+
+      # Keep init simple (we're not using container TLS here):
+      PHOTOPRISM_INIT: "tensorflow"
+    working_dir: /photoprism
+    volumes:
+      - ./media:/photoprism/originals          # your photos
+      - ./storage:/photoprism/storage          # cache, sidecars, DB backups

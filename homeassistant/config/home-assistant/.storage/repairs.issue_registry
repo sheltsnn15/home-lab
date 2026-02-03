@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "minor_version": 2,
+  "key": "repairs.issue_registry",
+  "data": {
+    "issues": [
+      {
+        "created": "2025-05-14T13:18:37.403264+00:00",
+        "dismissed_version": null,
+        "domain": "hacs",
+        "is_persistent": false,
+        "issue_id": "restart_required_307098646_tags/v1.10.8"
+      },
+      {
+        "created": "2025-09-24T20:39:04.559917+00:00",
+        "dismissed_version": "2025.9.3",
+        "domain": "smartthings",
+        "is_persistent": false,
+        "issue_id": "deprecated_switch_appliance_switch.washer"
+      },
+      {
+        "created": "2025-09-24T20:39:04.560183+00:00",
+        "dismissed_version": "2025.9.3",
+        "domain": "smartthings",
+        "is_persistent": false,
+        "issue_id": "deprecated_switch_appliance_switch.dryer"
+      }
+    ]
+  }
+}

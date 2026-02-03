@@ -1,0 +1,351 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "lovelace.security_dashboard",
+  "data": {
+    "config": {
+      "views": [
+        {
+          "title": "Home",
+          "path": "alarm",
+          "icon": "mdi:home-security",
+          "type": "sections",
+          "cards": [
+            {
+              "type": "chips",
+              "chips": [
+                {
+                  "type": "action",
+                  "name": "Arm Home",
+                  "icon": "mdi:home-lock",
+                  "tap_action": {
+                    "action": "call-service",
+                    "service": "input_select.select_option",
+                    "data": {
+                      "option": "armed_home"
+                    },
+                    "target": {
+                      "entity_id": "input_select.alarm_mode"
+                    }
+                  }
+                },
+                {
+                  "type": "action",
+                  "name": "Arm Night",
+                  "icon": "mdi:shield-moon",
+                  "tap_action": {
+                    "action": "call-service",
+                    "service": "input_select.select_option",
+                    "data": {
+                      "option": "armed_night"
+                    },
+                    "target": {
+                      "entity_id": "input_select.alarm_mode"
+                    }
+                  }
+                },
+                {
+                  "type": "action",
+                  "name": "Disarm",
+                  "icon": "mdi:shield-off",
+                  "tap_action": {
+                    "action": "call-service",
+                    "service": "input_select.select_option",
+                    "data": {
+                      "option": "disarmed"
+                    },
+                    "target": {
+                      "entity_id": "input_select.alarm_mode"
+                    }
+                  }
+                },
+                {
+                  "type": "entity",
+                  "name": "Mode",
+                  "icon": "mdi:shield",
+                  "entity": "input_select.alarm_mode"
+                },
+                {
+                  "type": "entity",
+                  "name": "Triggered",
+                  "icon": "mdi:alarm-light",
+                  "entity": "input_boolean.alarm_triggered"
+                },
+                {
+                  "type": "entity",
+                  "name": "Siren (sec)",
+                  "icon": "mdi:timer-outline",
+                  "entity": "input_number.alarm_siren_seconds"
+                }
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "type": "grid",
+              "cards": [
+                {
+                  "type": "heading",
+                  "heading": "Alarm Control"
+                },
+                {
+                  "type": "entities",
+                  "state_color": true,
+                  "entities": [
+                    {
+                      "entity": "input_select.alarm_mode",
+                      "name": "Mode"
+                    },
+                    {
+                      "entity": "input_boolean.alarm_triggered",
+                      "name": "Triggered (status)"
+                    },
+                    {
+                      "entity": "input_number.alarm_siren_seconds",
+                      "name": "Siren Duration (sec)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "grid",
+              "cards": [
+                {
+                  "type": "heading",
+                  "heading": "Siren & Chimes"
+                },
+                {
+                  "type": "grid",
+                  "columns": 3,
+                  "square": false,
+                  "cards": [
+                    {
+                      "type": "button",
+                      "name": "Chime (3s)",
+                      "icon": "mdi:bell-ring",
+                      "tap_action": {
+                        "action": "call-service",
+                        "service": "script.alarm_fire",
+                        "data": {
+                          "reason": "chime",
+                          "ringtone": "ringtone 11",
+                          "volume": "medium",
+                          "seconds": 3
+                        }
+                      }
+                    },
+                    {
+                      "type": "button",
+                      "name": "Test Siren",
+                      "icon": "mdi:alarm-light",
+                      "tap_action": {
+                        "action": "call-service",
+                        "service": "script.alarm_fire",
+                        "data": {
+                          "reason": "door",
+                          "ringtone": "ringtone 3",
+                          "volume": "medium",
+                          "seconds": "{{ states('input_number.alarm_siren_seconds')|int }}"
+                        }
+                      }
+                    },
+                    {
+                      "type": "button",
+                      "name": "Panic (60s Max)",
+                      "icon": "mdi:alarm-light-outline",
+                      "tap_action": {
+                        "action": "call-service",
+                        "service": "script.alarm_fire",
+                        "data": {
+                          "reason": "panic",
+                          "ringtone": "ringtone 10",
+                          "volume": "high",
+                          "seconds": 60
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "grid",
+                  "columns": 3,
+                  "square": false,
+                  "cards": [
+                    {
+                      "type": "button",
+                      "name": "Stop All",
+                      "icon": "mdi:alarm-light-off",
+                      "tap_action": {
+                        "action": "call-service",
+                        "service": "mqtt.publish",
+                        "data": {
+                          "topic": "zigbee2mqtt/downstairs_alarm/set/alarm",
+                          "payload": "OFF"
+                        }
+                      },
+                      "hold_action": {
+                        "action": "call-service",
+                        "service": "mqtt.publish",
+                        "data": {
+                          "topic": "zigbee2mqtt/upstairs_alarm/set/alarm",
+                          "payload": "OFF"
+                        }
+                      }
+                    },
+                    {
+                      "type": "button",
+                      "name": "Stop Downstairs",
+                      "icon": "mdi:alarm-light-off",
+                      "tap_action": {
+                        "action": "call-service",
+                        "service": "mqtt.publish",
+                        "data": {
+                          "topic": "zigbee2mqtt/downstairs_alarm/set/alarm",
+                          "payload": "OFF"
+                        }
+                      }
+                    },
+                    {
+                      "type": "button",
+                      "name": "Stop Upstairs",
+                      "icon": "mdi:alarm-light-off",
+                      "tap_action": {
+                        "action": "call-service",
+                        "service": "mqtt.publish",
+                        "data": {
+                          "topic": "zigbee2mqtt/upstairs_alarm/set/alarm",
+                          "payload": "OFF"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "grid",
+                  "title": "Siren Entities",
+                  "columns": 2,
+                  "square": false,
+                  "cards": [
+                    {
+                      "type": "tile",
+                      "entity": "switch.downstairs_alarm_alarm",
+                      "name": "Downstairs Alarm",
+                      "icon": "mdi:alarm-light",
+                      "features": [
+                        {
+                          "type": "toggle"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tile",
+                      "entity": "switch.upstairs_alarm_alarm",
+                      "name": "Upstairs Alarm",
+                      "icon": "mdi:alarm-light",
+                      "features": [
+                        {
+                          "type": "toggle"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "grid",
+              "cards": [
+                {
+                  "type": "heading",
+                  "heading": "Door & Window Sensors"
+                },
+                {
+                  "type": "grid",
+                  "columns": 2,
+                  "square": false,
+                  "cards": [
+                    {
+                      "type": "entity",
+                      "entity": "binary_sensor.dinning_balcony_ds_contact",
+                      "name": "Dining Balcony",
+                      "state_color": true
+                    },
+                    {
+                      "type": "entity",
+                      "entity": "binary_sensor.kitchen_balcony_ds_contact",
+                      "name": "Kitchen Balcony",
+                      "state_color": true
+                    },
+                    {
+                      "type": "entity",
+                      "entity": "binary_sensor.kitchen_window_ds_contact",
+                      "name": "Kitchen Balcony",
+                      "state_color": true
+                    }
+                  ]
+                },
+                {
+                  "type": "history-graph",
+                  "title": "Doors/Windows — Last 12h",
+                  "hours_to_show": 12,
+                  "refresh_interval": 30,
+                  "entities": [
+                    "binary_sensor.dinning_balcony_ds_contact",
+                    "binary_sensor.kitchen_balcony_ds_contact",
+                    "binary_sensor.kitchen_window_ds_contact"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "grid",
+              "cards": [
+                {
+                  "type": "heading",
+                  "heading": "Motion Sensors"
+                },
+                {
+                  "type": "grid",
+                  "columns": 3,
+                  "square": false,
+                  "cards": [
+                    {
+                      "type": "entity",
+                      "entity": "binary_sensor.ms_dining_occupancy",
+                      "name": "Dining Room",
+                      "state_color": true
+                    },
+                    {
+                      "type": "entity",
+                      "entity": "binary_sensor.ms_kitchen_occupancy",
+                      "name": "Kitchen",
+                      "state_color": true
+                    },
+                    {
+                      "type": "entity",
+                      "entity": "binary_sensor.ms_stairs_occupancy",
+                      "name": "Stairs",
+                      "state_color": true
+                    }
+                  ]
+                },
+                {
+                  "type": "history-graph",
+                  "title": "Motion — Last 12h",
+                  "hours_to_show": 12,
+                  "refresh_interval": 30,
+                  "entities": [
+                    "binary_sensor.ms_dining_occupancy",
+                    "binary_sensor.ms_kitchen_occupancy",
+                    "binary_sensor.ms_stairs_occupancy"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+global:
+  scrape_interval: 15s
+
+scrape_configs:
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['prometheus:9090']
+
+  - job_name: 'node'
+    static_configs:
+      - targets: ['node-exporter:9100']
+
+  - job_name: 'uptime-kuma'
+    metrics_path: /metrics
+    static_configs:
+      - targets: ['uptime-kuma:3001']
+    basic_auth:
+      username: "curliness"
+      password_file: /etc/prometheus/kuma.token
+
+  - job_name: 'grafana'
+    metrics_path: /metrics
+    static_configs:
+      - targets: ['grafana:3000']
+
+  - job_name: 'cadvisor'
+    static_configs:
+      - targets: ['cadvisor:8080']
+
+  - job_name: 'homeassistant'
+    metrics_path: /api/prometheus
+    bearer_token_file: /etc/prometheus/hass.token
+    static_configs:
+      - targets: ['host.docker.internal:8123']
+
+

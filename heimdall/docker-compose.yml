@@ -1,0 +1,20 @@
+services:
+  heimdall:
+    image: lscr.io/linuxserver/heimdall:latest
+    container_name: heimdall
+    ports:
+      - "127.0.0.1:${HEIMDALL_PORT}:80"
+    env_file:
+      - ../.env
+    environment:
+      - PUID=${PUID} # Set this in your .env file, e.g., 1000
+      - PGID=${PGID} # Set this in your .env file, e.g., 1000
+      - TZ=${TZ} # Set your timezone in .env, e.g., Etc/UTC
+    volumes:
+      - heimdall-config:/config
+    restart: unless-stopped
+networks:
+  tailscale-net:
+    driver: bridge
+volumes:
+  heimdall-config:

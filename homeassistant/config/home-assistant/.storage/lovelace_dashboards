@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "lovelace_dashboards",
+  "data": {
+    "items": [
+      {
+        "id": "security_dashboard",
+        "show_in_sidebar": true,
+        "icon": "mdi:security",
+        "title": "Security Dashboard",
+        "require_admin": false,
+        "mode": "storage",
+        "url_path": "security-dashboard"
+      },
+      {
+        "id": "dashboard_leakage",
+        "show_in_sidebar": true,
+        "title": "Leakage",
+        "require_admin": false,
+        "mode": "storage",
+        "url_path": "dashboard-leakage",
+        "icon": "mdi:pipe-leak"
+      },
+      {
+        "id": "electric_blankets",
+        "show_in_sidebar": true,
+        "icon": "mdi:toggle-switch-variant",
+        "title": "Electric Blankets",
+        "require_admin": false,
+        "mode": "storage",
+        "url_path": "electric-blankets"
+      }
+    ]
+  }
+}

@@ -1,0 +1,386 @@
+﻿[Script Info]
+Title: [Erai-raws] Deutsch
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Internal,Arial Bold,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: Top,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0000,0000,0020,1
+Style: TypePlaceholder,Arial Unicode MS,22,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0020,1
+Style: Overlap,Arial Bold,23,&H00F3EDE3,&H000000FF,&H00362B17,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: Flashback,Arial Bold,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.38,0:00:16.84,Default,Ui,0000,0000,0000,,Was ist los?
+Dialogue: 0,0:00:16.84,0:00:18.96,Default,Itadori,0000,0000,0000,,Ich habe irgendwas gehört …
+Dialogue: 0,0:00:18.96,0:00:21.91,Default,Mechamaru,0000,0000,0000,,Hörst du mich, Itadori Yūji?
+Dialogue: 0,0:00:21.91,0:00:22.67,Default,Mechamaru,0000,0000,0000,,Ich muss dir was …
+Dialogue: 0,0:00:29.38,0:00:31.66,Default,Mechamaru,0000,0000,0000,,Hey, ich bin auf deiner Seite,\Ndu Vollhorst!
+Dialogue: 0,0:00:31.66,0:00:34.18,Default,Mechamaru,0000,0000,0000,,Ich bin’s, Mechamaru\Nvon der Kyōto-Akademie!
+Dialogue: 0,0:00:35.45,0:00:38.35,Default,Mechamaru,0000,0000,0000,,Die Zeit drängt, also hör mir gut zu.
+Dialogue: 0,0:00:39.25,0:00:41.03,Default,Mechamaru,0000,0000,0000,,Gojō Satoru …
+Dialogue: 0,0:00:41.03,0:00:42.35,Default,Mechamaru,0000,0000,0000,,wurde versiegelt.
+Dialogue: 0,0:00:49.10,0:00:51.52,Default,Getō,0000,0000,0000,,Schlaf gut, Gojō Satoru.
+Dialogue: 0,0:00:52.23,0:00:54.99,Default,Getō,0000,0000,0000,,Treffen wir uns\Nin der neuen Welt wieder.
+Dialogue: 0,0:00:55.27,0:00:59.00,Default,Gojō,0000,0000,0000,,Ich schlafe, aber du solltest\Nlangsam mal aufwachen.
+Dialogue: 0,0:00:59.30,0:01:02.25,Default,Gojō,0000,0000,0000,,Wie lange willst du dich noch\Nrumkommandieren lassen, Suguru?
+Dialogue: 0,0:01:21.52,0:01:23.08,Default,Getō,0000,0000,0000,,Unglaublich!
+Dialogue: 0,0:01:23.08,0:01:24.94,Default,Getō,0000,0000,0000,,Das ist noch nie passiert!
+Dialogue: 0,0:01:30.34,0:01:32.17,Default,Mahito,0000,0000,0000,,Ah, Getō.
+Dialogue: 0,0:01:32.17,0:01:34.20,Default,Getō,0000,0000,0000,,Mahito, schau dir das an.
+Dialogue: 0,0:01:34.56,0:01:38.77,Default,Getō,0000,0000,0000,,Deine Theorie war es doch,\Ndass die Seele vor dem Körper existierte,
+Dialogue: 0,0:01:38.77,0:01:41.08,Default,Getō,0000,0000,0000,,aber offenbar ist der Körper die Seele
+Dialogue: 0,0:01:41.08,0:01:43.53,Default,Getō,0000,0000,0000,,und die Seele der Körper.
+Dialogue: 0,0:01:43.53,0:01:45.68,Default,Getō,0000,0000,0000,,Sonst ließe sich dieses Phänomen
+Dialogue: 0,0:01:45.68,0:01:49.93,Default,Getō,0000,0000,0000,,oder dass mir die Erinnerungen des Körpers\Nnach einem Wechsel des Wirts zufließen,
+Dialogue: 0,0:01:49.93,0:01:51.71,Default,Getō,0000,0000,0000,,nicht erklären.
+Dialogue: 0,0:01:51.71,0:01:54.82,Default,Mahito,0000,0000,0000,,Muss es darauf eine\Nkonsistente Antwort geben?
+Dialogue: 0,0:01:54.82,0:01:58.31,Default,Mahito,0000,0000,0000,,Funktioniert die Welt für deine\Nund meine Fluchtechnik nicht anders?
+Dialogue: 0,0:01:58.98,0:02:01.65,Default,Getō,0000,0000,0000,,Jede Fluchtechnik\Nist also ihre eigene Welt?
+Dialogue: 0,0:02:02.65,0:02:05.26,Default,Getō,0000,0000,0000,,Das gefällt mir.\NDas ist wundervoll.
+Dialogue: 0,0:02:05.26,0:02:07.19,Default,Gojō,0000,0000,0000,,Hey!
+Dialogue: 0,0:02:07.45,0:02:09.81,Default,Gojō,0000,0000,0000,,Würdest du dich bitte beeilen?
+Dialogue: 0,0:02:09.81,0:02:12.19,Default,Gojō,0000,0000,0000,,Ist echt kein Augenschmaus hier,\Nund schmutzig dazu.
+Dialogue: 0,0:02:12.65,0:02:16.28,Default,Getō,0000,0000,0000,,Ich hätte es gerne noch\Netwas länger hinausgezögert.
+Dialogue: 0,0:02:16.28,0:02:19.70,Default,Getō,0000,0000,0000,,Aber du hast recht.\NNicht, dass etwas dazwischenkommt.
+Dialogue: 0,0:02:20.11,0:02:21.20,Default,Getō,0000,0000,0000,,Torschluss.
+Dialogue: 0,0:02:43.73,0:02:46.40,Default,Mahito,0000,0000,0000,,Das können wir jetzt\Nnicht mehr benutzen?
+Dialogue: 0,0:02:46.40,0:02:49.13,Default,Getō,0000,0000,0000,,Ja, es hält nur einen.
+Dialogue: 0,0:02:49.13,0:02:52.75,Default,Getō,0000,0000,0000,,Solange der Mensch darin sich\Nnicht umbringt, ist es nutzlos.
+Dialogue: 0,0:02:52.75,0:02:55.06,Default,Mahito,0000,0000,0000,,Ach so. Oh Mann.
+Dialogue: 0,0:02:55.06,0:02:57.20,Default,Mahito,0000,0000,0000,,Aber so sei es.
+Dialogue: 0,0:02:58.47,0:03:00.68,Default,Getō,0000,0000,0000,,Versiegelung abgeschlossen.
+Dialogue: 0,0:02:59.95,0:03:02.95,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fsp1\c&HFAFAFA&\bord0\pos(320,105)}Folge 34\N\N\N\N\N\N\N\N\N\N\N{\fs+5}Durcheinander
+Dialogue: 0,0:03:13.51,0:03:18.05,TypePlaceholder,Type,0000,0000,0000,,{\fad(0,1075)\fnVerdana Bold\shad0\bord2\an2\fs45)\move(320,75,320,80,29,4659)\c&H000103&\3c&H91D9D5&\t(0,0,\fscx95\fscy95)}Jujutsu Kaisen
+Dialogue: 0,0:03:13.51,0:03:18.05,TypePlaceholder,Type,0000,0000,0000,,{\fad(0,1075)\fnTimes New Roman Bold\fsp1\bord0\move(320,280,320,275.5,29,4659)\c&HFFFFFF&\t(0,0,\fscx95\fscy95)}Der Shibuya-Vorfall
+Dialogue: 0,0:04:38.81,0:04:41.01,Default,Mei,0000,0000,0000,,Wir reden hier von Gojō Satoru.
+Dialogue: 0,0:04:41.01,0:04:44.01,Default,Mei,0000,0000,0000,,Hast du einen Beweis dafür?
+Dialogue: 0,0:04:44.30,0:04:46.33,Default,Mechamaru,0000,0000,0000,,Das leider nicht,
+Dialogue: 0,0:04:46.33,0:04:50.02,Default,Mechamaru,0000,0000,0000,,aber reicht der Umstand,\Ndass ich überhaupt existiere?
+Dialogue: 0,0:04:50.31,0:04:52.82,Default,Mechamaru,0000,0000,0000,,Ich wurde am 19. Oktober
+Dialogue: 0,0:04:52.82,0:04:56.11,Default,Mechamaru,0000,0000,0000,,von Mahito, einem Fluchgeist\Nder Sonderstufe, getötet.
+Dialogue: 0,0:04:56.11,0:05:00.03,Default,Mechamaru,0000,0000,0000,,Mein jetziges Ich ist nur eine Versicherung,\Ndie mein altes Ich zurückließ.
+Dialogue: 0,0:05:00.30,0:05:03.31,Default,Mechamaru,0000,0000,0000,,Eine ausgeklügelte Versicherung,\Ndie dann in Kraft tritt,
+Dialogue: 0,0:05:03.31,0:05:06.73,Default,Mechamaru,0000,0000,0000,,wenn Gojō Satoru versiegelt wird.
+Dialogue: 0,0:05:06.73,0:05:09.13,Default,Mechamaru,0000,0000,0000,,Um das Risiko einer\NNichtauslösung gering zu halten,
+Dialogue: 0,0:05:09.13,0:05:13.04,Default,Mechamaru,0000,0000,0000,,habe ich diese Puppen zuvor\Nan drei Orten versteckt.
+Dialogue: 0,0:05:13.37,0:05:16.48,Default,Mechamaru,0000,0000,0000,,Von allen an der Akademie\Nwar Itadori Yūji derjenige,
+Dialogue: 0,0:05:16.48,0:05:19.05,Default,Mechamaru,0000,0000,0000,,dem man es am wenigsten zutraute,\Nder Spion zu sein.
+Dialogue: 0,0:05:19.50,0:05:21.08,Default,Mechamaru,0000,0000,0000,,Und Mei Mei …
+Dialogue: 0,0:05:21.08,0:05:24.62,Default,Mechamaru,0000,0000,0000,,In Anbetracht der Lage bin ich auch\Nvon deiner Unschuld überzeugt.
+Dialogue: 0,0:05:24.62,0:05:25.55,Default,Mei,0000,0000,0000,,Wieso das?
+Dialogue: 0,0:05:26.87,0:05:30.44,Default,Mechamaru,0000,0000,0000,,Weil jemand, der so gut\Nim Auskundschaften ist,
+Dialogue: 0,0:05:30.44,0:05:33.56,Default,Mechamaru,0000,0000,0000,,zum Meiji-Schrein entsandt wurde,\Nstatt in Shibuya zu agieren.
+Dialogue: 0,0:05:33.87,0:05:38.88,Default,Mechamaru,0000,0000,0000,,Bis vor wenigen Monaten war Itadori\Nnicht einmal Teil der Jujutsu-Welt.
+Dialogue: 0,0:05:38.88,0:05:42.57,Default,Mei,0000,0000,0000,,Aber vielleicht brauchte ich ja eine Ausrede,\Num ihnen nicht zu helfen.
+Dialogue: 0,0:05:42.57,0:05:46.20,Default,Mei,0000,0000,0000,,Zudem war ich es,\Ndie Itadori davon abhielt,
+Dialogue: 0,0:05:46.20,0:05:49.42,Default,Mei,0000,0000,0000,,sofort nach Shibuya zu stürmen.
+Dialogue: 0,0:05:49.42,0:05:51.64,Default,Mei,0000,0000,0000,,Obwohl wir uns in Bereitschaft\Nhalten sollten.
+Dialogue: 0,0:05:51.64,0:05:53.10,Default,Mechamaru,0000,0000,0000,,Dann sag mir, …
+Dialogue: 0,0:05:53.79,0:05:57.80,Default,Mechamaru,0000,0000,0000,,wieso ist sonst ein Fluchmagier unterwegs,\Num dich zu erledigen?
+Dialogue: 0,0:06:07.94,0:06:10.94,Default,Mei,0000,0000,0000,,Einer, zwei … Zwei sind es also.
+Dialogue: 0,0:06:11.38,0:06:16.31,Default,Mei,0000,0000,0000,,Itadori, sind sie oder der Fluchgeist,\Nden du eben bekämpft hast, stärker?
+Dialogue: 0,0:06:16.95,0:06:19.82,Default,Itadori,0000,0000,0000,,Vermutlich die Heuschrecke.
+Dialogue: 0,0:06:20.67,0:06:24.79,Internal,Mei,0000,0000,0000,,Offenbar konnte der Fluchgeist,\Nden Itadori austrieb, sprechen.
+Dialogue: 0,0:06:24.79,0:06:27.88,Internal,Mei,0000,0000,0000,,Er muss als mindestens\Nvon Rang Prä-1 gewesen sein.
+Dialogue: 0,0:06:27.88,0:06:30.95,Internal,Mei,0000,0000,0000,,Gibt es so viele von denen?
+Dialogue: 0,0:06:32.14,0:06:34.83,Internal,Mei,0000,0000,0000,,Wo haben sie dann bisher gesteckt?
+Dialogue: 0,0:06:36.56,0:06:39.15,Default,Mei,0000,0000,0000,,Ignorieren wir die Fluchmagier\Nund gehen weiter.
+Dialogue: 0,0:06:39.15,0:06:41.42,Default,Mei,0000,0000,0000,,Wir schauen, wie es um Gojō steht.
+Dialogue: 0,0:06:41.42,0:06:42.80,Default,Mechamaru,0000,0000,0000,,Lass das.
+Dialogue: 0,0:06:43.07,0:06:45.86,Default,Mechamaru,0000,0000,0000,,Die Lage in Shibuya\Nhat sich völlig geändert.
+Dialogue: 0,0:06:45.86,0:06:49.10,Default,Mechamaru,0000,0000,0000,,Ihre Barrieren sind unseren\Num Längen überlegen.
+Dialogue: 0,0:06:49.10,0:06:52.85,TypePlaceholder,,0000,0000,0000,,{\fnTahoma\b0\c&HE2E4E4&\fs-3\3c&H2F3034&\pos(338.29,204.19)\t(2227,2228,\c&H9CA09B&\3c&H2A2C2A&)\t(2978,2979,\c&H7C756F&\3c&H2E2B29&)}Bahnhof Shibuya
+Dialogue: 0,0:06:49.65,0:06:52.85,Default,Mechamaru,0000,0000,0000,,In Shibuya sind derzeit\Nvier Schleier aufgespannt.
+Dialogue: 0,0:06:53.21,0:06:56.33,Default,Mechamaru,0000,0000,0000,,A: Der Schleier,\Nder die Zivilisten einschließt.
+Dialogue: 0,0:06:56.33,0:06:59.53,Default,Mechamaru,0000,0000,0000,,B: Der Schleier,\Nin dem Gojō Satoru steckt.
+Dialogue: 0,0:06:59.53,0:07:01.86,Default,Mechamaru,0000,0000,0000,,C: Der Schleier, der Jujuzisten aussperrt.
+Dialogue: 0,0:07:02.23,0:07:06.45,Default,Mechamaru,0000,0000,0000,,D: Ein Schleier,\Nder wie A Zivilisten einsperrt.
+Dialogue: 0,0:07:07.07,0:07:10.91,Default,Mei,0000,0000,0000,,Wenn wir den Schienen folgen,\Nwird uns also C im Weg sein?
+Dialogue: 0,0:07:10.91,0:07:15.87,Default,Mechamaru,0000,0000,0000,,Genau. Die Jujuzisten, die dort die Stellung\Nhalten, sind eingeschlossen.
+Dialogue: 0,0:07:16.10,0:07:19.31,Default,Mechamaru,0000,0000,0000,,Und im Inneren kann man\Nkeine Handys benutzen.
+Dialogue: 0,0:07:19.31,0:07:21.26,Default,Mei,0000,0000,0000,,Das ist offenbar noch nicht alles.
+Dialogue: 0,0:07:21.26,0:07:24.82,Default,Mei,0000,0000,0000,,Ich kann die Assistenzaufseher außerhalb\Nder Schleier auch nicht erreichen.
+Dialogue: 0,0:07:24.82,0:07:27.89,Default,Mechamaru,0000,0000,0000,,Ich flehe dich an,\Nbitte folge meinen Anweisungen.
+Dialogue: 0,0:07:28.30,0:07:31.11,Default,Mechamaru,0000,0000,0000,,Diese Versicherung\Nwird nicht lange halten.
+Dialogue: 0,0:07:31.11,0:07:32.08,Default,Mechamaru,0000,0000,0000,,Bitte.
+Dialogue: 0,0:07:33.81,0:07:35.14,Default,Itadori,0000,0000,0000,,Mei.
+Dialogue: 0,0:07:37.34,0:07:40.27,Default,Mei,0000,0000,0000,,Gut, dann sprich.
+Dialogue: 0,0:07:40.78,0:07:43.33,Default,Mechamaru,0000,0000,0000,,Itadori, kehr zum Bahnhof\Nam Meiji-Schrein zurück
+Dialogue: 0,0:07:43.33,0:07:45.28,Default,Mechamaru,0000,0000,0000,,und begib dich\Nüberirdisch nach Shibuya.
+Dialogue: 0,0:07:45.74,0:07:48.28,Default,Mechamaru,0000,0000,0000,,Erzähl den Jujuzisten dort\Nvon Gojōs Versiegelung.
+Dialogue: 0,0:07:48.83,0:07:52.03,Default,Mechamaru,0000,0000,0000,,Bring sie dazu,\Nuns bei seiner Rettung zu helfen.
+Dialogue: 0,0:07:52.03,0:07:53.04,Default,Itadori,0000,0000,0000,,Geht klar!
+Dialogue: 0,0:07:53.30,0:07:56.44,Default,Mechamaru,0000,0000,0000,,Mei Mei, sorg du dafür,\Ndass Itadori entkommen kann.
+Dialogue: 0,0:07:56.44,0:08:00.04,Default,Mechamaru,0000,0000,0000,,Wenn die Fluchmagier zurückgedrängt sind,\Nfolge den Schienen.
+Dialogue: 0,0:08:00.04,0:08:02.46,Default,Mechamaru,0000,0000,0000,,Doch noch wissen wir nicht,\Nwie der Feind agieren wird.
+Dialogue: 0,0:08:02.46,0:08:04.05,Default,Mei,0000,0000,0000,,Ich passe mich der Lage an.
+Dialogue: 0,0:08:04.36,0:08:07.75,Default,Mei,0000,0000,0000,,Übrigens, dein Bankkonto wurde\Nnoch nicht eingefroren, oder?
+Dialogue: 0,0:08:07.75,0:08:08.68,Default,Mechamaru,0000,0000,0000,,Was?
+Dialogue: 0,0:08:10.18,0:08:14.93,Default,Mechamaru,0000,0000,0000,,Ohne Gojō Satoru werden sich die Jujutsu-\Nund Menschenwelt fundamental ändern.
+Dialogue: 0,0:08:14.93,0:08:17.31,Default,Mechamaru,0000,0000,0000,,Ich muss dich bitten,\Nnotfalls dein Leben zu riskieren.
+Dialogue: 0,0:08:18.16,0:08:21.02,Internal,Mechamaru,0000,0000,0000,,Und ich hatte nichts\Ngegen diesen Wandel.
+Dialogue: 0,0:08:21.02,0:08:23.32,Internal,Mechamaru,0000,0000,0000,,Ich war echt das Letzte.
+Dialogue: 0,0:08:23.61,0:08:25.00,Default,Ui,0000,0000,0000,,Hey, und ich?
+Dialogue: 0,0:08:25.00,0:08:26.26,Default,Mechamaru,0000,0000,0000,,Folge einem von beiden.
+Dialogue: 0,0:08:26.26,0:08:27.32,Default,Ui,0000,0000,0000,,Dann Mei!
+Dialogue: 0,0:08:28.78,0:08:30.78,Default,Mei,0000,0000,0000,,Da sind sie ja.
+Dialogue: 0,0:08:35.23,0:08:36.97,Default,Ebina,0000,0000,0000,,Du bist Mei Mei, richtig?
+Dialogue: 0,0:08:37.96,0:08:39.96,Default,Mei,0000,0000,0000,,Agiere, wie du magst.
+Dialogue: 0,0:08:40.25,0:08:41.71,Default,Mei,0000,0000,0000,,Ich werde mich anpassen.
+Dialogue: 0,0:08:41.71,0:08:43.09,Default,Itadori,0000,0000,0000,,Jawohl!
+Dialogue: 0,0:08:45.09,0:08:47.84,TypePlaceholder,,0000,0000,0000,,{\fnVerdana Bold\bord1\fs-1\c&HFBFEF5&\an1\3c&H000000&\pos(34.67,59.83)}21:26\h\h\h\h\h\h\h\h\h\h\hTōkyō-Metro, Bahnhof Meiji-Schrein\N{\alpha&HFF&}21:26\h\h\h\h\h\h\h\h\h\h\h{\alpha&H00&}5. UG Gleis Shintoshin-Linie
+Dialogue: 0,0:08:45.72,0:08:47.43,Default,Getō,0000,0000,0000,,Ihr seid also alle wach.
+Dialogue: 0,0:08:48.12,0:08:50.12,Default,Getō,0000,0000,0000,,Was das weitere Vorgehen angeht …
+Dialogue: 0,0:08:51.25,0:08:52.26,Default,Jōgo,0000,0000,0000,,Was ist los?
+Dialogue: 0,0:08:57.70,0:08:59.10,Default,Getō,0000,0000,0000,,Dieser Teufelskerl!
+Dialogue: 0,0:09:12.56,0:09:15.72,Default,Gojō,0000,0000,0000,,Offenbar vergeht hier drinnen\Nkeine physische Zeit.
+Dialogue: 0,0:09:17.27,0:09:19.13,Default,Gojō,0000,0000,0000,,Ich hab’s vermasselt.
+Dialogue: 0,0:09:19.13,0:09:20.96,Default,Gojō,0000,0000,0000,,Das ist gar nicht gut.
+Dialogue: 0,0:09:22.46,0:09:24.42,Default,Gojō,0000,0000,0000,,Aber das wird schon irgendwie.
+Dialogue: 0,0:09:27.70,0:09:28.96,Default,Gojō,0000,0000,0000,,Ich zähl auf euch, …
+Dialogue: 0,0:09:30.42,0:09:31.41,Default,Gojō,0000,0000,0000,,Leute.
+Dialogue: 0,0:09:34.60,0:09:36.97,TypePlaceholder,Type,0000,0000,0000,,{\fad(250,0)\fnVerdana Bold\shad0\bord2\an2\fs45)\move(320,75,320,80,29,4659)\c&HFFFFFF&\3c&HFFFFFF&\t(0,550,1,\c&H0B070D&\3c&HA8DCD8&)\t(0,0,\fscx97\fscy97)}Jujutsu Kaisen
+Dialogue: 0,0:09:36.97,0:09:40.73,TypePlaceholder,,0000,0000,0000,,{\fnVerdana BOld\bord0\fs+1.5\c&HF9FEFF&\pos(317.5,211.5)}21:22 Uhr Shibuya
+Dialogue: 0,0:09:41.02,0:09:42.64,Default,Kusakabe,0000,0000,0000,,Wohl wahr.
+Dialogue: 0,0:09:42.64,0:09:45.90,Default,Kusakabe,0000,0000,0000,,Selbst unter Berücksichtigung\Nder im Bahnhof Eingesperrten
+Dialogue: 0,0:09:45.90,0:09:48.28,Default,Kusakabe,0000,0000,0000,,war die Dichte der\NMenschenmenge sehr gering.
+Dialogue: 0,0:09:52.61,0:09:57.29,Default,Naobito,0000,0000,0000,,Die umgestalteten Menschen,\Ndie in den Gebäuden auf der Lauer lagen,
+Dialogue: 0,0:09:57.29,0:09:59.95,Default,Naobito,0000,0000,0000,,greifen nun also Nicht-Jujuzisten an.
+Dialogue: 0,0:09:59.95,0:10:02.96,Default,Nanami,0000,0000,0000,,Deshalb schreiten auch wir\Nnun zur Tat und stürmen rein.
+Dialogue: 0,0:10:03.74,0:10:05.71,Default,Nanami,0000,0000,0000,,Das ist nicht zu ändern,
+Dialogue: 0,0:10:05.71,0:10:08.51,Default,Nanami,0000,0000,0000,,aber wir werden viel zu oft aufgehalten.
+Dialogue: 0,0:10:08.51,0:10:10.46,Default,Nanami,0000,0000,0000,,Eins bereitet mir aber\Nnoch größere Sorgen.
+Dialogue: 0,0:10:10.94,0:10:11.65,Overlap,Ino,0000,0000,0000,,Der …
+Dialogue: 0,0:10:10.94,0:10:13.93,Default,Fushiguro,0000,0000,0000,,Der zeitgleiche Schleier,\Nder Jujuzisten aussperrt.
+Dialogue: 0,0:10:14.63,0:10:18.35,Default,Fushiguro,0000,0000,0000,,Seit Herr Gojōs Ankunft ist\Nnun schon einige Zeit verstrichen.
+Dialogue: 0,0:10:18.35,0:10:20.18,Default,Fushiguro,0000,0000,0000,,Warum tun sie das ausgerechnet jetzt?
+Dialogue: 0,0:10:20.43,0:10:22.48,Default,Nanami,0000,0000,0000,,Entweder ist drinnen etwas vorgefallen
+Dialogue: 0,0:10:22.48,0:10:26.19,Default,Nanami,0000,0000,0000,,oder ihr Plan sieht vor, dass es\Ngenau dieser Moment sein musste.
+Dialogue: 0,0:10:26.52,0:10:28.19,Default,Nanami,0000,0000,0000,,Sicher ist nur eines.
+Dialogue: 0,0:10:28.67,0:10:31.77,Default,Nanami,0000,0000,0000,,Diese Kerle würden\Nnicht planlos vorgehen.
+Dialogue: 0,0:10:32.56,0:10:35.33,Default,Nanami,0000,0000,0000,,Ich kümmere mich\Num die Urheber der Schleier.
+Dialogue: 0,0:10:35.33,0:10:38.53,Default,Nanami,0000,0000,0000,,Helft ihr bitte möglichst\Nvielen Zivilisten.
+Dialogue: 0,0:10:47.50,0:10:48.50,TypePlaceholder,,0000,0000,0000,,{\fnVerdana BOld\bord0\fs+1.5\c&HF9FEFF&\pos(317.5,211.5)}Zeitgleich stürmen die drei Teams rein
+Dialogue: 0,0:10:52.58,0:10:56.02,Default,Ijichi,0000,0000,0000,,Ja, genau. Sobald Sie\Ndie Lage überprüft haben,
+Dialogue: 0,0:10:56.02,0:10:58.65,Default,Ijichi,0000,0000,0000,,verlassen Sie den Schleier\Nbitte wieder, Nitta.
+Dialogue: 0,0:10:59.21,0:11:03.89,Default,Ijichi,0000,0000,0000,,Da es drinnen keinen Empfang gibt,\Nmuss stets jemand draußen sein.
+Dialogue: 0,0:11:04.89,0:11:07.40,Default,Ijichi,0000,0000,0000,,Ich würde Sie bitten, das zu übernehmen.
+Dialogue: 0,0:11:07.87,0:11:12.40,Default,Ijichi,0000,0000,0000,,Wir müssen ein Kommunikationsnetz\Nunter uns Assistenzaufsehern aufbauen.
+Dialogue: 0,0:11:12.40,0:11:15.20,Default,Ijichi,0000,0000,0000,,Wenn wir die, die nicht im Dienst sind,\Nund einen Teil der Fenster …
+Dialogue: 0,0:11:15.20,0:11:16.40,Default,Shigemo,0000,0000,0000,,Hepp!
+Dialogue: 0,0:11:23.25,0:11:24.05,Default,Shigemo,0000,0000,0000,,Hepp!
+Dialogue: 0,0:11:28.02,0:11:29.29,Default,Shigemo,0000,0000,0000,,Hepp!
+Dialogue: 0,0:11:30.54,0:11:32.13,Default,Shigemo,0000,0000,0000,,Und hepp!
+Dialogue: 0,0:11:40.52,0:11:44.84,Default,Shigemo,0000,0000,0000,,Mir liegt es einfach total,\NSchwächere zu schikanieren!
+Dialogue: 0,0:11:45.43,0:11:46.94,Default,Shigemo,0000,0000,0000,,Das reicht doch, oder?
+Dialogue: 0,0:11:47.98,0:11:48.94,Default,Weißhaariger Fluchmagier,0000,0000,0000,,Ja.
+Dialogue: 0,0:11:49.18,0:11:51.64,Default,Weißhaariger Fluchmagier,0000,0000,0000,,Bitte jage außerhalb des Schleiers
+Dialogue: 0,0:11:51.64,0:11:54.44,Default,Weißhaariger Fluchmagier,0000,0000,0000,,weiter Menschen in Anzügen.
+Dialogue: 0,0:11:54.44,0:11:58.20,Default,Shigemo,0000,0000,0000,,Okaaay! Und wenn ich fertig bin,\Ndarf ich reingehen, oder?
+Dialogue: 0,0:12:02.81,0:12:05.16,Default,Mahito,0000,0000,0000,,Wie bitte? Was ist hier los?
+Dialogue: 0,0:12:05.58,0:12:08.00,Default,Getō,0000,0000,0000,,Die Versiegelung ist abgeschlossen.
+Dialogue: 0,0:12:08.00,0:12:14.42,Default,Getō,0000,0000,0000,,Doch noch hat das Gefängnisportal\NGojō Satoru nicht ganz verarbeitet.
+Dialogue: 0,0:12:14.42,0:12:17.30,Default,Getō,0000,0000,0000,,Einstweilen können wir\Nihn nicht bewegen.
+Dialogue: 0,0:12:27.12,0:12:28.18,Default,Getō,0000,0000,0000,,Erwischt.
+Dialogue: 0,0:12:29.70,0:12:31.60,Default,Mechamaru,0000,0000,0000,,Itadori, gute Neuigkeiten!
+Dialogue: 0,0:12:31.60,0:12:32.19,Default,Itadori,0000,0000,0000,,Hm?
+Dialogue: 0,0:12:32.19,0:12:38.45,TypePlaceholder,,0000,0000,0000,,{\fnVerdana BOld\bord0\fs\an3\c&HF9FEFF&\pos(607.5,295.5)}21:27  Zwischen Meiji-Schrein und Shibuya
+Dialogue: 0,0:12:32.43,0:12:36.00,Top,Mechamaru,0000,0000,0000,,Sie können den versiegelten Gojō\Nnicht vom 5. UG wegbewegen!
+Dialogue: 0,0:12:36.00,0:12:36.80,Top,Itadori,0000,0000,0000,,Wieso das?
+Dialogue: 0,0:12:36.80,0:12:38.45,Top,Mechamaru,0000,0000,0000,,Wir reden hier von Gojō Satoru.
+Dialogue: 0,0:12:39.17,0:12:40.44,Default,Itadori,0000,0000,0000,,Ergibt Sinn!
+Dialogue: 0,0:12:40.44,0:12:41.95,Default,Mechamaru,0000,0000,0000,,Umzingeln wir sie.
+Dialogue: 0,0:12:41.95,0:12:42.95,Default,Mechamaru,0000,0000,0000,,Lass die Jujuzisten
+Dialogue: 0,0:12:42.95,0:12:46.45,Default,Mechamaru,0000,0000,0000,,von den umliegenden U-Bahn-Stationen\Nzum Bahnhof Shibuya schicken.
+Dialogue: 0,0:12:46.45,0:12:49.96,TypePlaceholder,,0000,0000,0000,,{\p1\bord0\c&HF5F0EA&\pos(287,17)}m 0 0 l 128 0 l 128 54 l 0 54
+Dialogue: 0,0:12:46.45,0:12:49.96,TypePlaceholder,,0000,0000,0000,,{\p1\bord0\c&HF5F0EA&\pos(531.5,51.5)\clip(483.81,51.05,584.76,107.05)}m 0 0 l 128 0 l 128 54 l 0 54
+Dialogue: 0,0:12:46.45,0:12:49.96,TypePlaceholder,,0000,0000,0000,,{\p1\bord0\c&HF5F0EA&\pos(548.19,164.95)\clip(497.14,165.71,596.19,219.81)}m 0 0 l 128 0 l 128 54 l 0 54
+Dialogue: 0,0:12:46.45,0:12:49.96,TypePlaceholder,,0000,0000,0000,,{\p1\bord0\c&HF5F0EA&\pos(248.38,275.43)\clip(182.86,280,304.38,333.33)}m 0 0 l 128 0 l 128 54 l 0 54
+Dialogue: 2,0:12:46.45,0:12:49.96,TypePlaceholder,,0000,0000,0000,,{\fnVerdana BOld\c&H292528&\an7\fs-4\bord0\pos(228.19,21.33)}Fukutoshin-Linie\N{\fs+2}Bahnhof\NMeiji-Schrein
+Dialogue: 2,0:12:46.45,0:12:49.96,TypePlaceholder,,0000,0000,0000,,{\fnVerdana BOld\c&H292528&\an7\fs-4.2\bord0\pos(485.71,56)}Hanzōmon-Linie\N{\fs+2}Bahnhof\NOmotesandō
+Dialogue: 2,0:12:46.45,0:12:49.96,TypePlaceholder,,0000,0000,0000,,{\fnVerdana BOLD\bord1.5\fs-1\c&HF5F0EA&\3c&H302823&\pos(324.57,201.14)}Bahnhof Shibuya
+Dialogue: 2,0:12:46.45,0:12:49.96,TypePlaceholder,,0000,0000,0000,,{\fnVerdana BOld\c&H292528&\an7\fs-4\bord0\pos(500.56,169.91)}Toyoko-Linie\N{\fs+2}Bahnhof\NDaikanyama
+Dialogue: 2,0:12:46.45,0:12:49.96,TypePlaceholder,,0000,0000,0000,,{\fnVerdana BOld\c&H292528&\an7\fs-4\bord0\pos(189.71,284.57)}Denentoshi-Linie\N{\fs+2}Bahnhof\NIkejiri-Ōhashi
+Dialogue: 1,0:12:46.92,0:12:49.96,Default,Mechamaru,0000,0000,0000,,Sobald der Anti-Jujuzisten-Schleier fällt,\Nstürmen wir rein.
+Dialogue: 0,0:12:50.15,0:12:53.95,Default,Itadori,0000,0000,0000,,Aber wie das? Ich kann Ijichi\Ndoch nicht erreichen.
+Dialogue: 0,0:12:53.95,0:12:55.08,Default,Itadori,0000,0000,0000,,Oh!
+Dialogue: 0,0:12:55.08,0:12:55.96,Default,Mechamaru,0000,0000,0000,,Was ist?
+Dialogue: 0,0:12:56.50,0:12:59.15,Flashback,Itadori,0000,0000,0000,,Sag mal, wer kommt\Nalles nach Shibuya?
+Dialogue: 0,0:12:59.15,0:13:00.81,Flashback,Mei,0000,0000,0000,,Mal überlegen …
+Dialogue: 0,0:13:13.50,0:13:15.32,Default,Umgestalteter,0000,0000,0000,,Töte mich.
+Dialogue: 0,0:13:40.38,0:13:44.79,Default,Umgestalteter,0000,0000,0000,,{\frz3}Hast {\frz-5}du {\frz4}mich {\frz-5}gerufen?
+Dialogue: 0,0:14:12.18,0:14:18.92,Default,Itadori,0000,0000,0000,,Nanamin!
+Dialogue: 0,0:14:18.92,0:14:21.92,Default,Itadori,0000,0000,0000,,{\fs-1}Nanamin!
+Dialogue: 0,0:14:21.92,0:14:25.91,Default,Itadori,0000,0000,0000,,Nanamin, bist du hier?!
+Dialogue: 0,0:14:25.91,0:14:28.06,Default,Itadori,0000,0000,0000,,{\fs-1}Nanamin, bist du hier?!
+Dialogue: 0,0:14:28.06,0:14:28.93,Default,Fushiguro,0000,0000,0000,,Itadori?
+Dialogue: 0,0:14:29.55,0:14:31.18,Default,Ino,0000,0000,0000,,N-Nanamin?
+Dialogue: 0,0:14:31.31,0:14:34.70,Default,Itadori,0000,0000,0000,,Herr Gojō …
+Dialogue: 0,0:14:35.19,0:14:39.69,Default,Itadori,0000,0000,0000,,wurde versiegelt!
+Dialogue: 0,0:14:39.69,0:14:41.83,Default,Itadori,0000,0000,0000,,{\fs-1}… wurde versiegelt!
+Dialogue: 0,0:14:41.83,0:14:42.97,Default,Fushiguro,0000,0000,0000,,Versiegelt?
+Dialogue: 0,0:14:42.97,0:14:45.37,Default,Nanami,0000,0000,0000,,Planänderung, ihr beiden.
+Dialogue: 0,0:14:45.37,0:14:47.45,Default,Nanami,0000,0000,0000,,Wir stoßen umgehend zu Itadori.
+Dialogue: 0,0:14:48.01,0:14:51.13,Default,Nanami,0000,0000,0000,,Wenn er wirklich versiegelt wurde,\Nist das das Ende
+Dialogue: 0,0:14:51.13,0:14:53.33,Default,Nanami,0000,0000,0000,,für alle Menschen in diesem Land.
+Dialogue: 0,0:14:54.78,0:14:58.08,Default,Mahito,0000,0000,0000,,Oje, jetzt wissen sie,\Nwas wir hier treiben.
+Dialogue: 0,0:14:58.08,0:15:00.55,Default,Mahito,0000,0000,0000,,Jetzt werden die Jujuzisten\Nin Scharen herkommen.
+Dialogue: 0,0:15:00.55,0:15:03.00,Default,Getō,0000,0000,0000,,Also ich bleibe hier.
+Dialogue: 0,0:15:03.00,0:15:04.05,Default,Getō,0000,0000,0000,,Ihr?
+Dialogue: 0,0:15:04.32,0:15:09.33,Default,Chōsō,0000,0000,0000,,Ich werde Itadori Yūji und Kugisaki Nobara\Ntöten, um meinen Bruder zu rächen.
+Dialogue: 0,0:15:09.33,0:15:14.06,Default,Chōsō,0000,0000,0000,,Dann werde ich die Überreste meiner\Nanderen Brüder aus der Akademie holen.
+Dialogue: 0,0:15:14.06,0:15:17.53,Default,Jōgo,0000,0000,0000,,Diese Kugisaki ist mir egal,\Naber lass die Finger von Itadori.
+Dialogue: 0,0:15:17.53,0:15:19.02,Default,Jōgo,0000,0000,0000,,Den machen wir zu Sukuna.
+Dialogue: 0,0:15:19.02,0:15:20.40,Default,Chōsō,0000,0000,0000,,Mir doch egal.
+Dialogue: 0,0:15:20.40,0:15:21.07,Default,Jōgo,0000,0000,0000,,Bitte?
+Dialogue: 0,0:15:23.74,0:15:25.97,Default,Mahito,0000,0000,0000,,Immer mit der Ruhe, Jōgo.
+Dialogue: 0,0:15:29.90,0:15:32.60,Default,Mahito,0000,0000,0000,,Ich will Itadori auch lieber umbringen.
+Dialogue: 0,0:15:32.60,0:15:35.04,Default,Jōgo,0000,0000,0000,,Mahito! Was redest du da?!
+Dialogue: 0,0:15:35.04,0:15:38.29,Default,Mahito,0000,0000,0000,,Jetzt, wo ich Gojō Satoru \Nkennengelernt habe, …
+Dialogue: 0,0:15:38.29,0:15:42.30,Default,Mahito,0000,0000,0000,,schätze ich, dass Jujuzisten und Fluchgeister\Nnach seiner Versiegelung gleichauf sind.
+Dialogue: 0,0:15:42.66,0:15:45.24,Default,Mahito,0000,0000,0000,,Wenn Sukuna zurückkehrt,\Nhaben wir klar die Oberhand
+Dialogue: 0,0:15:45.24,0:15:47.20,Default,Mahito,0000,0000,0000,,und der Sieg ist uns\Nquasi gewiss, oder?
+Dialogue: 0,0:15:47.20,0:15:48.80,Default,Getō,0000,0000,0000,,Ja, allerdings.
+Dialogue: 0,0:15:48.80,0:15:53.31,Default,Mahito,0000,0000,0000,,Aber dann könnten wir doch auch\Nmit unserem jetzigen Aufgebot gewinnen.
+Dialogue: 0,0:15:54.22,0:15:56.40,Default,Mahito,0000,0000,0000,,Lasst uns Itadori umbringen.
+Dialogue: 0,0:15:56.40,0:16:00.98,Default,Mahito,0000,0000,0000,,Keine Sorge, wir können\Nauch ohne Sukuna siegen.
+Dialogue: 0,0:16:01.38,0:16:02.36,Default,Jōgo,0000,0000,0000,,Dein Ernst?
+Dialogue: 0,0:16:02.63,0:16:04.61,Default,Mahito,0000,0000,0000,,Mein voller Ernst.
+Dialogue: 0,0:16:13.65,0:16:18.37,Default,Jōgo,0000,0000,0000,,Ich muss nicht der sein,\Nder sich am Ende ins Fäustchen lacht.
+Dialogue: 0,0:16:18.95,0:16:22.54,Default,Jōgo,0000,0000,0000,,Solange Flüche als Menschen\Nleben können, reicht mir das.
+Dialogue: 0,0:16:24.67,0:16:27.46,Default,Jōgo,0000,0000,0000,,Sukuna ist nicht unser Verbündeter.
+Dialogue: 0,0:16:27.46,0:16:31.89,Default,Jōgo,0000,0000,0000,,Es wäre ein großes Risiko,\Nihn zurückzuholen.
+Dialogue: 0,0:16:32.16,0:16:36.39,Default,Jōgo,0000,0000,0000,,Aber wenn er zurückkommt,\Nwird er die Ära der Flüche definitiv einleiten.
+Dialogue: 0,0:16:36.61,0:16:39.39,Default,Jōgo,0000,0000,0000,,Wir sind nicht wie\Ndie Menschen von heute.
+Dialogue: 0,0:16:39.70,0:16:43.90,Default,Jōgo,0000,0000,0000,,Wir fürchten den Tod nicht und gehen\Nfür unsere Ziele keine Kompromisse ein.
+Dialogue: 0,0:16:44.23,0:16:47.86,Default,Jōgo,0000,0000,0000,,Dies ist das Wesen von uns Flüchen,\Ndas diesen Nachahmern fehlt.
+Dialogue: 0,0:16:47.86,0:16:48.86,Default,Mahito,0000,0000,0000,,Unsinn.
+Dialogue: 0,0:16:49.98,0:16:52.62,Default,Mahito,0000,0000,0000,,Ob wir vom Weg abweichen\Noder inkonsistent sind,
+Dialogue: 0,0:16:52.62,0:16:56.15,Default,Mahito,0000,0000,0000,,wir handeln stets offen\Ngemäß unserer Begierden.
+Dialogue: 0,0:16:56.15,0:16:58.16,Default,Mahito,0000,0000,0000,,Das macht uns Flüche aus.
+Dialogue: 0,0:16:59.65,0:17:02.57,Default,Mahito,0000,0000,0000,,Mit „Unsinn“ meinte ich,\Nwie du unser Wesen beschreibst.
+Dialogue: 0,0:17:02.57,0:17:04.95,Default,Mahito,0000,0000,0000,,Den Wiederbelebungsplan\Nfinde ich durchaus denkbar.
+Dialogue: 0,0:17:04.95,0:17:07.08,Default,Mahito,0000,0000,0000,,Ich will hier nicht mit dir streiten.
+Dialogue: 0,0:17:07.08,0:17:09.67,Default,Mahito,0000,0000,0000,,Also lass uns doch ein Spiel spielen.
+Dialogue: 0,0:17:09.98,0:17:14.44,Default,Mahito,0000,0000,0000,,Wenn ich Itadori zuerst über\Nden Weg laufe, töte ich ihn.
+Dialogue: 0,0:17:14.44,0:17:18.68,Default,Mahito,0000,0000,0000,,Wenn du ihn zuerst findest, dann gib ihm\Nruhig die Finger und hol Sukuna zurück.
+Dialogue: 0,0:17:18.94,0:17:21.75,Default,Chōsō,0000,0000,0000,,Und wenn ich ihn zuerst finde,\Nbring {\i1}ich{\i0} ihn um, okay?
+Dialogue: 0,0:17:21.75,0:17:22.68,Default,Jōgo,0000,0000,0000,,Hey!
+Dialogue: 0,0:17:22.68,0:17:25.20,Default,Mahito,0000,0000,0000,,Oh, du bist auch dabei?
+Dialogue: 0,0:17:25.20,0:17:26.36,Default,Mahito,0000,0000,0000,,Ist mir recht.
+Dialogue: 0,0:17:26.90,0:17:29.64,Default,Mahito,0000,0000,0000,,Du siehst das eher wie Jōgo, oder, Getō?
+Dialogue: 0,0:17:29.64,0:17:31.02,Default,Mahito,0000,0000,0000,,Was meinst du?
+Dialogue: 0,0:17:31.02,0:17:33.95,Default,Getō,0000,0000,0000,,Ich muss das Gefängnisportal\Nim Auge behalten.
+Dialogue: 0,0:17:34.25,0:17:35.85,Default,Getō,0000,0000,0000,,Daher verzichte ich.
+Dialogue: 0,0:17:37.47,0:17:39.57,Default,Getō,0000,0000,0000,,Tut, was ihr wollt.
+Dialogue: 0,0:17:39.57,0:17:44.46,Default,Getō,0000,0000,0000,,Für mich war Sukuna nur ein Plan B,\Nfalls das Gefängnisportal scheitert.
+Dialogue: 0,0:17:44.46,0:17:46.38,Default,Jōgo,0000,0000,0000,,Was für ein Schwachsinn.
+Dialogue: 0,0:17:46.38,0:17:51.00,Default,Jōgo,0000,0000,0000,,Die Jujuzisten inklusive Itadori\Nwerden eh herkommen, um Gojō zu retten.
+Dialogue: 0,0:17:51.00,0:17:53.08,Default,Jōgo,0000,0000,0000,,Wir sollten einfach hier warten.
+Dialogue: 0,0:17:53.08,0:17:54.59,Default,Jōgo,0000,0000,0000,,Vergessen wir das Spiel …
+Dialogue: 0,0:17:53.80,0:17:55.92,Overlap,Mahito,0000,0000,0000,,Fertig, los!
+Dialogue: 0,0:17:58.36,0:17:59.35,Default,Jōgo,0000,0000,0000,,Bleibt stehen!
+Dialogue: 0,0:18:01.62,0:18:04.85,Default,Getō,0000,0000,0000,,Diese Fluchgeister\Nsind klüger als ihr beiden.
+Dialogue: 0,0:18:05.26,0:18:06.45,Default,Nanako,0000,0000,0000,,Gib ihn zurück.
+Dialogue: 0,0:18:11.18,0:18:15.80,Default,Mimiko,0000,0000,0000,,Wir haben mit dir kooperiert\Nund zahllose dieser Affen getötet.
+Dialogue: 0,0:18:15.80,0:18:18.74,Default,Nanako,0000,0000,0000,,Also gib uns wie versprochen\NMeister Getōs Körper zurück.
+Dialogue: 0,0:18:19.01,0:18:21.13,Default,Mimiko,0000,0000,0000,,Wag es ja nicht, Meister Getō …
+Dialogue: 0,0:18:21.13,0:18:23.25,Default,Nanako,0000,0000,0000,,… weiter als dein Spielzeug\Nzu missbrauchen.
+Dialogue: 0,0:18:23.58,0:18:26.04,Default,Getō,0000,0000,0000,,Warum sollte ich ihn zurückgeben?
+Dialogue: 0,0:18:26.04,0:18:30.02,Default,Getō,0000,0000,0000,,Ich hatte eure Gehirne\Ndoch gar nicht rausgenommen.
+Dialogue: 0,0:18:30.02,0:18:32.25,Default,Getō,0000,0000,0000,,Bei der nächsten Abmachung\Nmit einem Jujuzisten
+Dialogue: 0,0:18:32.25,0:18:35.24,Default,Getō,0000,0000,0000,,denkt daran, es genau durch\Neinen Vertrag festzuhalten.
+Dialogue: 0,0:18:35.24,0:18:39.22,Default,Getō,0000,0000,0000,,Verzieht euch. Oder soll\Ndieser Körper euch umbringen?
+Dialogue: 0,0:18:42.01,0:18:43.72,Default,Nanako,0000,0000,0000,,Das wirst du noch bereuen.
+Dialogue: 0,0:18:45.45,0:18:47.14,Default,Getō,0000,0000,0000,,Reue, ja?
+Dialogue: 0,0:18:47.73,0:18:48.73,Default,Getō,0000,0000,0000,,Tja,
+Dialogue: 0,0:18:48.73,0:18:51.90,Default,Getō,0000,0000,0000,,wie schmeckte die noch gleich?
+Dialogue: 0,0:18:53.12,0:18:56.74,Default,Itadori,0000,0000,0000,,Nanamin!
+Dialogue: 0,0:18:56.74,0:18:59.74,Default,Itadori,0000,0000,0000,,Nanamin! Nanamin!
+Dialogue: 0,0:19:00.01,0:19:03.37,Default,Itadori,0000,0000,0000,,Nanananananamin!
+Dialogue: 0,0:19:03.37,0:19:04.34,Default,Fushiguro,0000,0000,0000,,Hey.
+Dialogue: 0,0:19:05.25,0:19:06.43,Default,Fushiguro,0000,0000,0000,,Hey!
+Dialogue: 0,0:19:07.15,0:19:08.75,Default,Itadori,0000,0000,0000,,Nanami…
+Dialogue: 0,0:19:09.07,0:19:12.28,Default,Itadori,0000,0000,0000,,Fushiguro! Nanamin!\NUnd wer ist das?
+Dialogue: 0,0:19:12.28,0:19:15.76,Internal,Ino,0000,0000,0000,,Mit Nanamin meintest\Ndu echt Nanami?
+Dialogue: 0,0:19:16.23,0:19:17.57,Default,Nanami,0000,0000,0000,,Das hat Getō getan?
+Dialogue: 0,0:19:18.01,0:19:23.11,Default,Mechamaru,0000,0000,0000,,Genauer gesagt das Ding,\Ndas in Getō Suguru steckt.
+Dialogue: 0,0:19:23.11,0:19:26.04,Default,Mechamaru,0000,0000,0000,,Das Innere des Bahnhofs Shibuya\Nist ein einziges Pandämonium.
+Dialogue: 0,0:19:26.04,0:19:28.64,Default,Mechamaru,0000,0000,0000,,Sonderflüche und die,\Ndie sie mitgebracht haben,
+Dialogue: 0,0:19:28.64,0:19:30.84,Default,Mechamaru,0000,0000,0000,,die Fluchmagier unter Getō
+Dialogue: 0,0:19:30.84,0:19:33.53,Default,Mechamaru,0000,0000,0000,,sowie Zivilisten und\Numgestaltete Menschen.
+Dialogue: 0,0:19:33.81,0:19:38.03,Default,Nanami,0000,0000,0000,,In dem Fall wäre es schneller, von einem\Nder umliegenden Bahnhöfe anzugreifen.
+Dialogue: 0,0:19:38.33,0:19:41.53,Default,Nanami,0000,0000,0000,,Doch dafür müssen wir zunächst\Nden Schleier beseitigen.
+Dialogue: 0,0:19:41.53,0:19:43.40,Default,Mechamaru,0000,0000,0000,,Das ist ein Notfall.
+Dialogue: 0,0:19:43.40,0:19:45.04,Default,Mechamaru,0000,0000,0000,,Jetzt multitaske\Ndoch ein bisschen.
+Dialogue: 0,0:19:45.56,0:19:48.04,Internal,Nanami,0000,0000,0000,,Jetzt ist wohl nicht die Zeit,\Nsich zu beklagen.
+Dialogue: 0,0:19:48.45,0:19:51.53,Default,Nanami,0000,0000,0000,,Einiges kann nur jemand\Nvon Rang 1 erledigen.
+Dialogue: 0,0:19:51.53,0:19:55.48,Default,Nanami,0000,0000,0000,,Ich werde rausgehen und mich\Nmit Ijichi um alles kümmern.
+Dialogue: 0,0:19:55.98,0:20:00.05,Default,Nanami,0000,0000,0000,,Beseitigt ihr derweil den Schleier,\Nder Jujuzisten aussperrt.
+Dialogue: 0,0:20:00.32,0:20:01.43,Default,Nanami,0000,0000,0000,,Ino.
+Dialogue: 0,0:20:01.93,0:20:07.60,Default,Nanami,0000,0000,0000,,Kusakabe und Zen’in, außerordentlicher\NJujuzist von Rang 1, sollten im Schleier sein.
+Dialogue: 0,0:20:07.85,0:20:12.57,Default,Nanami,0000,0000,0000,,Bitte weihe sie ein, wenn du sie triffst,\Nund bitte sie um Hilfe.
+Dialogue: 0,0:20:12.57,0:20:15.57,Default,Nanami,0000,0000,0000,,Auch wenn sie nach dem Schrei\Nvermutlich schon wissen, was los ist.
+Dialogue: 0,0:20:15.57,0:20:16.61,Default,Ino,0000,0000,0000,,Jawohl!
+Dialogue: 0,0:20:16.94,0:20:18.12,Default,Nanami,0000,0000,0000,,Und bitte …
+Dialogue: 0,0:20:19.07,0:20:20.99,Default,Nanami,0000,0000,0000,,kümmere dich um die beiden.
+Dialogue: 0,0:20:22.18,0:20:23.49,Default,Ino,0000,0000,0000,,Jawohl!
+Dialogue: 0,0:20:26.21,0:20:27.74,Default,Itadori,0000,0000,0000,,Ino?
+Dialogue: 0,0:20:27.74,0:20:30.75,Default,Ino,0000,0000,0000,,Nanami … verlässt sich auf mich!
+Dialogue: 0,0:20:30.75,0:20:32.25,Default,Ino,0000,0000,0000,,Hergehört!
+Dialogue: 0,0:20:32.81,0:20:35.88,Default,Ino,0000,0000,0000,,Bevor wir anfangen, will ich euch einbläuen,\Nwie wichtig die Sache ist!
+Dialogue: 0,0:20:35.88,0:20:40.13,Default,Ino,0000,0000,0000,,Es gibt zwei große Probleme,\Ndie der Verlust Gojōs bedingt.
+Dialogue: 0,0:20:40.13,0:20:42.73,Default,Ino,0000,0000,0000,,Erstens: Den Verlust der Familie Gojō,
+Dialogue: 0,0:20:42.73,0:20:45.20,Default,Ino,0000,0000,0000,,die nur aus Gojō Satoru besteht.
+Dialogue: 0,0:20:45.20,0:20:50.52,Default,Ino,0000,0000,0000,,Durch seinen Einfluss und Egoismus\Nwurden etliche Jujuzisten gerettet.
+Dialogue: 0,0:20:48.56,0:20:50.52,TypePlaceholder,,0000,0000,0000,,{\fnGeorgia Bold\c&H2B2E2A&\bord0\move(320,-14.86,320.76,147.81,20,1939)}Im Himmel und auf Erden bin einzig ich erhaben.
+Dialogue: 0,0:20:50.89,0:20:53.52,Default,Ino,0000,0000,0000,,Itadori, dazu gehörst doch\Nauch du, oder?
+Dialogue: 0,0:20:53.52,0:20:54.15,Default,Itadori,0000,0000,0000,,Jep!
+Dialogue: 0,0:20:54.15,0:20:55.40,Default,Ino,0000,0000,0000,,Ein bisschen mehr Rührung!
+Dialogue: 0,0:20:55.94,0:20:59.39,Default,Ino,0000,0000,0000,,All diese Leute werden\NProbleme kriegen
+Dialogue: 0,0:20:59.39,0:21:01.16,Default,Ino,0000,0000,0000,,und schlimmstenfalls\Neliminiert werden.
+Dialogue: 0,0:21:01.50,0:21:03.20,Default,Ino,0000,0000,0000,,Kommen wir zu Problem Nr. 2,
+Dialogue: 0,0:21:03.20,0:21:05.73,Default,Ino,0000,0000,0000,,dem Verlust des Kräftegleichgewichts.
+Dialogue: 0,0:21:05.73,0:21:09.37,Default,Ino,0000,0000,0000,,Haufenweise Fluchmagier und Fluchgeister,\Ndie seinetwegen brav waren,
+Dialogue: 0,0:21:09.37,0:21:11.42,Default,Ino,0000,0000,0000,,werden auf einmal in Aktion treten.
+Dialogue: 0,0:21:11.74,0:21:14.48,Default,Ino,0000,0000,0000,,Aber was, wenn diese Gruppe\Neinen Kleinkrieg anzettelt,
+Dialogue: 0,0:21:14.48,0:21:18.42,Default,Ino,0000,0000,0000,,während wir noch über Problem Nr. 1 streiten.\NDas wäre unser Aus.
+Dialogue: 0,0:21:19.12,0:21:21.28,Default,Ino,0000,0000,0000,,Das ist Nanamis\Nund meine Theorie.
+Dialogue: 0,0:21:21.28,0:21:22.93,Default,Ino,0000,0000,0000,,Was passiert, wenn wir verlieren?
+Dialogue: 0,0:21:23.21,0:21:27.32,Default,Fushiguro,0000,0000,0000,,Zumindest in Japan wird die Ära\Nder Menschen dann vorbei sein.
+Dialogue: 0,0:21:27.87,0:21:29.68,Default,Ino,0000,0000,0000,,Bist ein kluges Kerlchen.
+Dialogue: 0,0:21:30.21,0:21:32.19,Default,Ino,0000,0000,0000,,Kommt, Jungs.
+Dialogue: 0,0:21:32.61,0:21:35.99,Default,Ino,0000,0000,0000,,Wir werden den Schleier zerstören,\Nbis Nanami zurück ist!
+Dialogue: 0,0:21:36.94,0:21:39.37,Default,Ino,0000,0000,0000,,Retten wir Gojō Satoru!
+Dialogue: 0,0:21:40.45,0:21:42.28,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fs18\fsp1\fad(0,0)\bord1\shad1\c&HC1C4C0&\3c&H201F19&\4c&H131313&\pos(145,215)}Übersetzung:\NRuben Grest
+Dialogue: 0,0:21:44.12,0:21:45.95,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fs18\fsp1\fad(0,0)\bord1\shad1\c&HC1C4C0&\3c&H201F19&\4c&H131313&\pos(145.5,265.5)}Spotting:\NPeter Schirrmeister
+Dialogue: 0,0:21:47.79,0:21:49.62,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fs18\fsp1\fad(0,0)\bord1\shad1\c&HC1C4C0&\3c&H201F19&\4c&H131313&\pos(159.38,272.83)}Revision & Typesetting:\NJacqueline Philippi
+Dialogue: 0,0:21:56.96,0:21:58.80,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fs18\fsp1\fad(0,0)\bord1\shad1\c&HC1C4C0&\3c&H201F19&\4c&H131313&\pos(397.24,299.02)}Qualitätskontrolle:\NJörg Bauer
+Dialogue: 0,0:22:00.63,0:22:02.47,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fs18\fsp1\fad(0,0)\bord1\shad1\c&HC1C4C0&\3c&H201F19&\4c&H131313&\pos(535.5,125.5)}Projektleitung:\NTobias Philippi
+Dialogue: 0,0:23:11.33,0:23:13.83,Default,Ōgami,0000,0000,0000,,Hast du das gehört, Awasaka?
+Dialogue: 0,0:23:13.83,0:23:16.33,Default,Ōgami,0000,0000,0000,,Gojō Satoru wurde versiegelt.
+Dialogue: 0,0:23:16.58,0:23:19.46,Default,Ōgami,0000,0000,0000,,Sie lassen Infos\Nzum Feind durchsickern.
+Dialogue: 0,0:23:20.00,0:23:22.30,Default,Awasaka,0000,0000,0000,,Wo ist das Problem, Oma Ōgami?
+Dialogue: 0,0:23:22.30,0:23:24.84,Default,Awasaka,0000,0000,0000,,Endlich fühlt es sich real an.
+Dialogue: 0,0:23:25.26,0:23:28.51,Default,Awasaka,0000,0000,0000,,Gojō Satoru wurde echt versiegelt.
+Dialogue: 0,0:23:29.10,0:23:30.85,Default,Awasaka,0000,0000,0000,,Ich bin ganz aus dem Häuschen.
+Dialogue: 0,0:23:31.51,0:23:34.81,Default,Awasaka,0000,0000,0000,,Was nun wohl\Naus diesem Land wird?
+Dialogue: 0,0:23:35.60,0:23:39.86,Default,Ōgami,0000,0000,0000,,Nichts wird sich ändern. Menschen\Nverfluchen, werden verflucht und sterben.
+Dialogue: 0,0:23:40.36,0:23:42.19,Default,Jōgo,0000,0000,0000,,Haben Sie das gehört, gute Dame?
+Dialogue: 0,0:23:42.19,0:23:45.28,Default,Jōgo,0000,0000,0000,,Der kleine Satoru der Gojōs\Nsoll versiegelt worden sein!
+Dialogue: 0,0:23:45.28,0:23:47.82,Default,Mahito,0000,0000,0000,,Ich hab ja gesagt, dass das\Nirgendwann passieren würde!
+Dialogue: 0,0:23:47.82,0:23:51.12,Default,Mahito,0000,0000,0000,,Der Kerl hat immer seine überlangen\NBeine zur Schau gestellt!
+Dialogue: 0,0:23:50.99,0:23:56.33,TypePlaceholder,Type,0000,0000,0000,,{\fnTimes New Roman Bold\fsp1\c&HFAFAFA&\bord3\blur3\pos(320,105)\3c&H000000&}Nächstes Mal\N\N\N\N\N\N\N\N\N\N\N{\fs+2}Geistersitzung
+Dialogue: 0,0:23:51.12,0:23:52.33,Default,Jōgo,0000,0000,0000,,Nächstes Mal: „Geistersitzung“!
+Dialogue: 0,0:23:52.33,0:23:54.87,Default,Mahito,0000,0000,0000,,Schon gehört, Getō?\NDer kleine Satoru der Gojōs …
+

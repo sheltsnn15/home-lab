@@ -1,0 +1,305 @@
+[Script Info]
+Title: [Erai-raws] Español (España)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_EpiTitle,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H3278070E,&H00494949,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Serieslogo,Times New Roman,40,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0005,0005,0000,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Box,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,0,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.07,0:00:16.41,Gen_Main,Yuji,0000,0000,0000,,Es inútil.
+Dialogue: 0,0:00:16.57,0:00:18.16,Gen_Main,Yuji,0000,0000,0000,,Ni se inmuta.
+Dialogue: 0,0:00:18.62,0:00:21.79,Gen_Main,Ino,0000,0000,0000,,La verdad es que no va mal de fuerza.
+Dialogue: 0,0:00:22.41,0:00:24.04,Gen_Italics,Ino,0000,0000,0000,,¿Lo de este tío va en serio?
+Dialogue: 0,0:00:24.21,0:00:27.13,Gen_Italics,Ino,0000,0000,0000,,Podría pasarle por encima\Na Nanami a golpes físicos.
+Dialogue: 0,0:00:27.29,0:00:29.55,Gen_Italics,Ino,0000,0000,0000,,Aunque supongo que por eso…
+Dialogue: 0,0:00:29.71,0:00:32.09,Gen_Main,Fushiguro,0000,0000,0000,,Es un velo bastante resistente.
+Dialogue: 0,0:00:32.26,0:00:34.34,Gen_Main,Fushiguro,0000,0000,0000,,Habrá que buscar el punto débil
+Dialogue: 0,0:00:34.51,0:00:37.05,Gen_Main,Fushiguro,0000,0000,0000,,y hacerle un agujero\Naunque sea un instante.
+Dialogue: 0,0:00:37.22,0:00:39.68,Gen_Main,Fushiguro,0000,0000,0000,,No haremos nada\Nsi no conseguimos entrar antes.
+Dialogue: 0,0:00:40.68,0:00:42.56,Gen_Main,Yuji,0000,0000,0000,,¿Por qué no?
+Dialogue: 0,0:00:42.73,0:00:44.19,Gen_Main,Ino,0000,0000,0000,,¿Que por qué?
+Dialogue: 0,0:00:44.35,0:00:47.69,Gen_Main,Ino,0000,0000,0000,,Mira, este es un velo\Npara mantener fuera a los hechiceros.
+Dialogue: 0,0:00:47.86,0:00:49.69,Gen_Main,Ino,0000,0000,0000,,Es una barrera.
+Dialogue: 0,0:00:50.19,0:00:53.74,Gen_Main,Ino,0000,0000,0000,,Las barreras se crean a tu alrededor\Npara protegerte, ¿no?
+Dialogue: 0,0:00:53.90,0:00:57.20,Gen_Main,Ino,0000,0000,0000,,Por lo que, básicamente,\Nel que haya puesto este velo
+Dialogue: 0,0:00:57.36,0:01:00.08,Gen_Main,Ino,0000,0000,0000,,está dentro de él.
+Dialogue: 0,0:01:00.91,0:01:03.83,Gen_Main,Yuji,0000,0000,0000,,Pero en Harajuku…
+Dialogue: 0,0:01:07.96,0:01:09.45,Gen_Main,Ino,0000,0000,0000,,¡Ya veo!
+Dialogue: 0,0:01:09.79,0:01:12.43,Gen_Main,Ino,0000,0000,0000,,Al quedarse fuera del velo\Nen vez de envolverse,
+Dialogue: 0,0:01:12.58,0:01:15.55,Gen_Main,Ino,0000,0000,0000,,aumenta el riesgo\Nde que lo descubran y lo venzan.
+Dialogue: 0,0:01:15.80,0:01:17.80,Gen_Main,Ino,0000,0000,0000,,Así que si aumenta\Nla fuerza del velo…
+Dialogue: 0,0:01:18.51,0:01:20.51,Gen_Main,Ino,0000,0000,0000,,Es un auténtico huevo de Colón.
+Dialogue: 0,0:01:20.68,0:01:21.85,Gen_Main,Yuji,0000,0000,0000,,¿Un huevo?
+Dialogue: 0,0:01:22.01,0:01:25.85,Gen_Main,Ino,0000,0000,0000,,Madre mía, les trae sin cuidado\Nlo básico de las barreras.
+Dialogue: 0,0:01:26.02,0:01:27.81,Gen_Main,Ino,0000,0000,0000,,Qué idea tan loca.
+Dialogue: 0,0:01:28.38,0:01:32.69,Gen_Main,Ino,0000,0000,0000,,Ahora veo por qué el golpe de Itadori\Nno ha reventado la barrera.
+Dialogue: 0,0:01:32.86,0:01:34.19,Gen_Main,Fushiguro,0000,0000,0000,,Si esa es la lógica,
+Dialogue: 0,0:01:34.36,0:01:37.82,Gen_Main,Fushiguro,0000,0000,0000,,la fuente del velo debe de esta cerca\Ny dar el cante, ¿no?
+Dialogue: 0,0:01:38.36,0:01:40.78,Gen_Main,Ino,0000,0000,0000,,Al aumentar el riesgo de descubrimiento,
+Dialogue: 0,0:01:40.95,0:01:43.24,Gen_Main,Ino,0000,0000,0000,,aumentará más todavía su fuerza, ¿no?
+Dialogue: 0,0:01:45.00,0:01:47.83,Gen_Main,Yuji,0000,0000,0000,,¿Algo que dé el cante?
+Dialogue: 0,0:01:49.46,0:01:52.97,Cart_A_Tim,,0000,0000,0000,,{\an2\fs28\bord0\shad0\pos(369.6,296.8)}Cerulean Tower, Shibuya
+Dialogue: 0,0:01:54.30,0:01:56.80,Gen_Main,Awasaka,0000,0000,0000,,¿Crees que se darán cuenta\Nlos hechiceros?
+Dialogue: 0,0:02:03.56,0:02:07.56,Gen_Main,Awasaka,0000,0000,0000,,Este es el sitio dentro del velo\Nque más destaca, ¿no?
+Dialogue: 0,0:02:07.73,0:02:09.10,Gen_Main,Ogami,0000,0000,0000,,Probablemente.
+Dialogue: 0,0:02:09.27,0:02:12.15,Gen_Main,Grandson,0000,0000,0000,,Pero aunque se den cuenta…
+Dialogue: 0,0:02:12.61,0:02:13.94,Gen_Main,Awasaka,0000,0000,0000,,Sí.
+Dialogue: 0,0:02:14.61,0:02:18.53,Gen_Main,Awasaka,0000,0000,0000,,Los pisos inferiores están a rebosar\Nde humanos modificados.
+Dialogue: 0,0:02:19.70,0:02:22.70,Gen_Main,Awasaka,0000,0000,0000,,No van a poder llegar\Naquí arriba tan rápido.
+Dialogue: 0,0:02:27.62,0:02:28.96,Gen_Italics,Awasaka,0000,0000,0000,,¿Cables?
+Dialogue: 0,0:02:29.12,0:02:30.42,Gen_Main,Maki,0000,0000,0000,,Son geniales.
+Dialogue: 0,0:02:29.25,0:02:31.46,Cart_C_Tre,,0000,0000,0000,,{\b0\fad(500,0)\c&H9A7AC2&\pos(173.6,8.8)\frz7.591}Son geniales
+Dialogue: 0,0:02:38.38,0:02:43.93,Gen_Italics,Awasaka,0000,0000,0000,,¿Estos cabrones conocen\Nlo del velo confiado?
+Dialogue: 0,0:02:45.01,0:02:47.39,Gen_Main,Ino,0000,0000,0000,,¡Bien! ¡Como había planeado!
+Dialogue: 0,0:02:47.93,0:02:51.15,Gen_Main,Ino,0000,0000,0000,,-¿Esta es la fuente del velo?\N-Sí.
+Dialogue: 0,0:02:51.31,0:02:55.44,Gen_Main,Yuji,0000,0000,0000,,Según Mei, ya tiene\Nla barrera programada dentro
+Dialogue: 0,0:02:55.61,0:02:59.49,Gen_Main,Yuji,0000,0000,0000,,y solo necesita que alguien\Nle imbuya su energía maldita.
+Dialogue: 0,0:02:59.65,0:03:02.45,Gen_Main,Fushiguro,0000,0000,0000,,Por lo que mientras los destruyamos,
+Dialogue: 0,0:03:02.62,0:03:05.49,Gen_Main,Fushiguro,0000,0000,0000,,podemos dejar para luego\Na los hechiceros malignos.
+Dialogue: 0,0:03:06.91,0:03:08.83,Gen_Main,Ino,0000,0000,0000,,¿Había tres?
+Dialogue: 0,0:03:09.64,0:03:12.10,Gen_Main,Ino,0000,0000,0000,,El velo que aleja a los hechiceros\Nsigue activo.
+Dialogue: 0,0:03:12.28,0:03:13.92,Gen_Main,Ino,0000,0000,0000,,¿Y los otros dos?
+Dialogue: 0,0:03:14.88,0:03:16.21,Gen_Main,Ino,0000,0000,0000,,¿Los tiene él?
+Dialogue: 0,0:03:32.14,0:03:34.10,Gen_Main,Yuji,0000,0000,0000,,¡Fushiguro, anula a Nue!
+Dialogue: 0,0:03:41.90,0:03:43.20,Gen_Main,Ogami,0000,0000,0000,,Nietecito mío.
+Dialogue: 0,0:03:43.66,0:03:47.12,Gen_Main,Grandson,0000,0000,0000,,Sí, ya lo sé, abuela.
+Dialogue: 0,0:03:47.62,0:03:50.37,Gen_Main,Ino,0000,0000,0000,,Ahora tengo\Nunos compañeros encantadores,
+Dialogue: 0,0:03:50.68,0:03:53.84,Gen_Main,Ino,0000,0000,0000,,así que es hora de hacer méritos
+Dialogue: 0,0:03:54.71,0:03:57.65,Gen_Main,Ino,0000,0000,0000,,para llegar a ser de primer grado.
+Dialogue: 0,0:04:02.38,0:04:03.38,Gen_Main,Yuji,0000,0000,0000,,¡Fushiguro!
+Dialogue: 0,0:04:04.64,0:04:05.59,Gen_Main,Yuji,0000,0000,0000,,¿Dónde está?
+Dialogue: 0,0:04:05.76,0:04:07.14,Gen_Main,Fushiguro,0000,0000,0000,,Ahí mismo.
+Dialogue: 0,0:04:09.10,0:04:11.31,Gen_Main,Fushiguro,0000,0000,0000,,No he visto el momento del impacto.
+Dialogue: 0,0:04:12.87,0:04:14.57,Gen_Main,Fushiguro,0000,0000,0000,,Su cadáver está demasiado limpio.
+Dialogue: 0,0:04:15.73,0:04:17.36,Gen_Main,Fushiguro,0000,0000,0000,,Por mucho que sea un hechicero,
+Dialogue: 0,0:04:17.54,0:04:19.75,Gen_Main,Fushiguro,0000,0000,0000,,ha caído desde el piso 41.
+Dialogue: 0,0:04:20.69,0:04:23.32,Gen_Main,Fushiguro,0000,0000,0000,,¡Levanta, viejo tramposo!
+Dialogue: 0,0:04:28.58,0:04:30.04,Gen_Main,Awasaka,0000,0000,0000,,Hay que ver…
+Dialogue: 0,0:04:34.00,0:04:37.50,Gen_Main,Awasaka,0000,0000,0000,,Los jóvenes de ahora no tenéis\Ncompasión por los ancianos.
+Dialogue: 0,0:04:37.92,0:04:39.75,Gen_Main,Fushiguro,0000,0000,0000,,No hay tiempo que perder.
+Dialogue: 0,0:04:39.92,0:04:41.42,Gen_Main,Yuji,0000,0000,0000,,No tardaremos.
+Dialogue: 0,0:04:42.01,0:04:45.01,Cart_A_Tim,,0000,0000,0000,,{\pos(320,111.15)\bord0}Episodio 35\N\N\N\N\N\N\N\N\N\N\N{\fs30}Espiritismo
+Dialogue: 0,0:04:55.57,0:05:00.07,Cart_Serieslogo,,0000,0000,0000,,{\fad(0,800)\fs28\3c&H9EF2FA&\move(320,47.64,320,48.85,20,4983)}{\t(0,5050,\fs-0.3)}JUJUTSU KAISEN{\fscy100}\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N{\bord0\c&HFFFFFF&}Shibuya Incident
+Dialogue: 0,0:06:17.94,0:06:21.27,Gen_Main,Nanami,0000,0000,0000,,¿Por qué insistes tanto\Nen mi recomendación?
+Dialogue: 0,0:06:21.44,0:06:25.78,Gen_Main,Nanami,0000,0000,0000,,Podrías ser de semiprimer grado\Ncon tu técnica.
+Dialogue: 0,0:06:26.49,0:06:29.86,Gen_Main,Ino,0000,0000,0000,,Porque creo que lo importante\Nes hacer bien las cosas.
+Dialogue: 0,0:06:30.36,0:06:34.03,Gen_Main,Ino,0000,0000,0000,,Sobre todo con un trabajo tan engorroso\Ncomo ser hechicero.
+Dialogue: 0,0:06:34.54,0:06:39.54,Gen_Main,Ino,0000,0000,0000,,Pero no tengo tantas luces, así que\Na veces no sé cuál es el modo correcto.
+Dialogue: 0,0:06:41.00,0:06:43.71,Gen_Main,Ino,0000,0000,0000,,Así que cuando no sé qué hacer,\Npienso para mí:
+Dialogue: 0,0:06:45.17,0:06:47.17,Gen_Main,Ino,0000,0000,0000,,"¿Qué haría Nanami en este caso?".
+Dialogue: 0,0:06:48.22,0:06:52.09,Gen_Main,Ino,0000,0000,0000,,Así que no podría llegar\Na primer grado sin tu aprobación.
+Dialogue: 0,0:06:54.21,0:06:55.60,Gen_Main,Ino,0000,0000,0000,,¿Quieres otra copa?
+Dialogue: 0,0:06:56.52,0:06:57.76,Gen_Main,Nanamni,0000,0000,0000,,Un makgeolli.
+Dialogue: 0,0:06:58.81,0:07:00.98,Gen_Main,Ino,0000,0000,0000,,Primera Bestia Propicia:
+Dialogue: 0,0:07:02.90,0:07:04.17,Gen_Main,Ino,0000,0000,0000,,¡Kaichi!
+Dialogue: 0,0:07:12.91,0:07:13.95,Gen_Italics,Grandson,0000,0000,0000,,¿Me sigue?
+Dialogue: 0,0:07:14.49,0:07:17.76,Gen_Italics,Narrator,0000,0000,0000,,La técnica de Espiritismo,\Nla Invocación de la Bestia Propicia.
+Dialogue: 0,0:07:17.96,0:07:20.84,Gen_Italics,Narrator,0000,0000,0000,,Al ocultar su cara,\NIno se vuelve un médium espiritual
+Dialogue: 0,0:07:20.98,0:07:24.00,Gen_Italics,Narrator,0000,0000,0000,,que manifiesta los poderes\Nde las cuatro bestias propicias.
+Dialogue: 0,0:07:24.63,0:07:27.00,Gen_Main,Grandson,0000,0000,0000,,Abuela, eso es…
+Dialogue: 0,0:07:27.17,0:07:29.37,Gen_Main,Ogami,0000,0000,0000,,Sí, menuda coincidencia.
+Dialogue: 0,0:07:32.22,0:07:34.51,Gen_Main,Ino,0000,0000,0000,,Número dos, Reiki.
+Dialogue: 0,0:07:34.93,0:07:37.06,Gen_Italics,Ino,0000,0000,0000,,Nanami me los confió a mí,
+Dialogue: 0,0:07:37.22,0:07:39.27,Gen_Italics,Ino,0000,0000,0000,,así que no puedo dejarlos solos,
+Dialogue: 0,0:07:39.73,0:07:43.10,Gen_Italics,Ino,0000,0000,0000,,pero sería una mala idea\Nllevarles esos dos a ellos.
+Dialogue: 0,0:07:43.27,0:07:47.36,Gen_Italics,Ino,0000,0000,0000,,La mejor opción es matarlos rápido\Ny volver con mis compañeros.
+Dialogue: 0,0:08:09.96,0:08:13.26,Gen_Italics,Ino,0000,0000,0000,,Adáptate a la situación,\Nmantén la calma.
+Dialogue: 0,0:08:14.68,0:08:16.89,Gen_Italics,Ino,0000,0000,0000,,Ignora tu orgullo.
+Dialogue: 0,0:08:31.19,0:08:32.86,Gen_Italics,Fushiguro,0000,0000,0000,,Joder, ir al mismo ritmo que él
+Dialogue: 0,0:08:33.61,0:08:36.66,Gen_Italics,Fushiguro,0000,0000,0000,,cuesta más que ir al ritmo del enemigo.
+Dialogue: 0,0:09:02.68,0:09:03.98,Gen_Main,Fushiguro,0000,0000,0000,,¡Itadori!
+Dialogue: 0,0:09:05.48,0:09:06.56,Gen_Main,Yuji,0000,0000,0000,,Todo controlado.
+Dialogue: 0,0:09:06.73,0:09:07.90,Gen_Main,Yuji,0000,0000,0000,,Solo es un arañazo.
+Dialogue: 0,0:09:09.82,0:09:11.30,Gen_Main,Awasaka,0000,0000,0000,,Cuánta energía.
+Dialogue: 0,0:09:11.46,0:09:12.99,Gen_Main,Awasaka,0000,0000,0000,,Qué futuros tan prometedores.
+Dialogue: 0,0:09:15.15,0:09:17.45,Gen_Main,Awasaka,0000,0000,0000,,Así hace que valga la pena mataros.
+Dialogue: 0,0:09:18.22,0:09:21.95,Gen_Main,Fushiguro,0000,0000,0000,,Las garras del Perro Demonio\Nhieren hasta a los de grado especial.
+Dialogue: 0,0:09:22.21,0:09:24.16,Gen_Main,Yuji,0000,0000,0000,,Y yo lo he golpeado en serio.
+Dialogue: 0,0:09:25.12,0:09:27.08,Gen_Main,Fushiguro,0000,0000,0000,,Entonces, ¿cómo es que…
+Dialogue: 0,0:09:28.46,0:09:30.96,Gen_Main,Fushiguro,0000,0000,0000,,está intacto?
+Dialogue: 0,0:09:31.75,0:09:33.99,Gen_Main,Fushiguro,0000,0000,0000,,Creía que esto no nos llevaría mucho.
+Dialogue: 0,0:09:34.17,0:09:35.72,Gen_Main,Yuji,0000,0000,0000,,Sin comentarios.
+Dialogue: 0,0:09:34.26,0:09:35.72,Cart_C_Tre,,0000,0000,0000,,{\fad(500,0)\b0\c&H1C1C1C&\fs16\frz15.72\pos(64.8,259.2)}Sin comentarios{\b1}
+Dialogue: 0,0:09:52.07,0:09:54.86,Gen_Italics,Ino,0000,0000,0000,,Es tal y como parece.\NNo es demasiado fuerte.
+Dialogue: 0,0:09:55.49,0:09:59.62,Gen_Italics,Ino,0000,0000,0000,,Pero está haciendo cuanto puede\Npara proteger a la vieja.
+Dialogue: 0,0:10:00.32,0:10:01.41,Gen_Italics,Ino,0000,0000,0000,,Algo no encaja.
+Dialogue: 0,0:10:01.58,0:10:03.12,Gen_Main,Ino,0000,0000,0000,,Debería darme prisa.
+Dialogue: 0,0:10:09.42,0:10:11.63,Gen_Italics,Ino,0000,0000,0000,,¡Ha cambiado su aura!
+Dialogue: 0,0:10:11.79,0:10:13.38,Gen_Main,Ogami,0000,0000,0000,,Ya está todo listo.
+Dialogue: 0,0:10:13.55,0:10:15.63,Gen_Main,Grandson,0000,0000,0000,,Entendido, abuela.
+Dialogue: 0,0:10:15.80,0:10:16.88,Gen_Main,Ino,0000,0000,0000,,¡No te dejaré!
+Dialogue: 0,0:10:25.68,0:10:28.02,Gen_Main,Ogami,0000,0000,0000,,Toji Zen'in.
+Dialogue: 0,0:10:34.73,0:10:36.44,Gen_Main,Ogami,0000,0000,0000,,¿Qué tal, nieto?
+Dialogue: 0,0:10:37.78,0:10:42.03,Gen_Main,Grandson,0000,0000,0000,,Sí, es estupendo, abuela.
+Dialogue: 0,0:10:43.41,0:10:45.16,Gen_Main,Grandson,0000,0000,0000,,Mucho mejor que antes.
+Dialogue: 0,0:10:49.34,0:10:51.05,Cart_Serieslogo,,0000,0000,0000,,{\fad(550,0)\3c&H75EFED&}JUJUTSU KAISEN
+Dialogue: 0,0:10:54.17,0:10:56.05,Cart_Serieslogo,,0000,0000,0000,,{\fad(550,0)\3c&H75EFED&}JUJUTSU KAISEN
+Dialogue: 0,0:11:00.06,0:11:03.06,Cart_A_Verd,,0000,0000,0000,,{\bord0\shad0\fscx96\fs30\pos(320,121.6)}7 de diciembre de 1989
+Dialogue: 0,0:11:10.82,0:11:13.82,Cart_A_Verd,,0000,0000,0000,,{\bord0\shad0\fscx96\fs30\pos(320,121.6)}Nace Satoru Gojo
+Dialogue: 0,0:11:17.40,0:11:20.24,Gen_Main,Girl,0000,0000,0000,,Felicidades, papá.
+Dialogue: 0,0:11:22.95,0:11:26.37,Gen_Main,Girl,0000,0000,0000,,Tu regalo es verme con el uniforme.
+Dialogue: 0,0:11:26.54,0:11:28.29,Gen_Main,Girl,0000,0000,0000,,¿A que es bonito?
+Dialogue: 0,0:11:28.45,0:11:31.62,Gen_Main,Girl,0000,0000,0000,,Me alegro de haber escogido el Mori.
+Dialogue: 0,0:11:32.17,0:11:34.00,Gen_Main,Papa,0000,0000,0000,,Eso está muy bien,
+Dialogue: 0,0:11:34.17,0:11:36.29,Gen_Main,Papa,0000,0000,0000,,pero si haces esto con tanta confianza,
+Dialogue: 0,0:11:36.46,0:11:38.55,Gen_Main,Papa,0000,0000,0000,,acabarás como tu madre.
+Dialogue: 0,0:11:41.06,0:11:42.41,Gen_Main,Girl,0000,0000,0000,,¿Odias a mamá?
+Dialogue: 0,0:11:42.97,0:11:44.80,Gen_Main,Papa,0000,0000,0000,,No es que la odie,
+Dialogue: 0,0:11:45.10,0:11:46.93,Gen_Main,Papa,0000,0000,0000,,pero me puso los cuernos.
+Dialogue: 0,0:11:47.10,0:11:48.47,Gen_Main,Girl,0000,0000,0000,,Ya.
+Dialogue: 0,0:11:53.60,0:11:55.23,Gen_Main,Girl,0000,0000,0000,,Pobrecito.
+Dialogue: 0,0:11:58.82,0:11:59.82,Gen_Main,Papa,0000,0000,0000,,¿Quién eres?
+Dialogue: 0,0:12:01.86,0:12:03.74,Gen_Main,Papa,0000,0000,0000,,Honoka…
+Dialogue: 0,0:12:05.53,0:12:07.91,Gen_Main,Papa,0000,0000,0000,,¿Dónde está mi hija?
+Dialogue: 0,0:12:08.08,0:12:09.37,Gen_Main,Ogami,0000,0000,0000,,La he matado yo.
+Dialogue: 0,0:12:09.54,0:12:12.50,Gen_Main,Ogami,0000,0000,0000,,Necesitaba un cadáver\Npara adoptar su apariencia.
+Dialogue: 0,0:12:17.00,0:12:21.73,Gen_Main,Ogami,0000,0000,0000,,Antes de morir,\Ngritó el nombre de su madre.
+Dialogue: 0,0:12:23.05,0:12:25.64,Gen_Main,Man,0000,0000,0000,,¡Lo siento!
+Dialogue: 0,0:12:26.47,0:12:28.51,Gen_Main,Man,0000,0000,0000,,¡Lo siento!
+Dialogue: 0,0:12:29.43,0:12:31.73,Gen_Main,Man,0000,0000,0000,,¡Lo siento!
+Dialogue: 0,0:12:32.68,0:12:34.77,Gen_Main,Awasaka,0000,0000,0000,,Se ha roto por el camino.
+Dialogue: 0,0:12:34.98,0:12:37.90,Gen_Main,Man,0000,0000,0000,,¡Por favor, déjame salir de aquí!
+Dialogue: 0,0:12:38.06,0:12:39.27,Gen_Main,Awasaka,0000,0000,0000,,Silencio.
+Dialogue: 0,0:12:39.48,0:12:43.49,Gen_Main,Man,0000,0000,0000,,¿Por qué haces esto?
+Dialogue: 0,0:12:51.16,0:12:53.54,Gen_Main,Awasaka,0000,0000,0000,,Mi trabajo es matar a la gente.
+Dialogue: 0,0:12:54.54,0:12:58.42,Gen_Main,Awasaka,0000,0000,0000,,Así que necesito comprender\Ncómo funciona el cuerpo humano.
+Dialogue: 0,0:13:01.03,0:13:02.51,Gen_Italics,Awasaka,0000,0000,0000,,Éramos…
+Dialogue: 0,0:13:03.55,0:13:05.05,Gen_Italics,Awasaka,0000,0000,0000,,libres.
+Dialogue: 0,0:13:06.18,0:13:10.53,Gen_Italics,Awasaka,0000,0000,0000,,Los hechiceros estaban liados con las\Nmaldiciones, que estaban más activas.
+Dialogue: 0,0:13:10.87,0:13:15.19,Gen_Italics,Awasaka,0000,0000,0000,,Siempre que lo hiciéramos bien,\Npodríamos ganarnos la vida sin ataduras.
+Dialogue: 0,0:13:15.64,0:13:19.65,Gen_Italics,Awasaka,0000,0000,0000,,Los hechiceros malignos podíamos\Nvivir libres y hacer lo que quisiéramos.
+Dialogue: 0,0:13:23.28,0:13:26.07,Gen_Main,Awasaka,0000,0000,0000,,-¿Satoru Gojo?\N-Sí.
+Dialogue: 0,0:13:26.66,0:13:29.70,Gen_Main,Man,0000,0000,0000,,El niño del clan Gojo\Ncon los Seis Ojos.
+Dialogue: 0,0:13:29.87,0:13:30.95,Gen_Main,Awasaka,0000,0000,0000,,¿Un niño?
+Dialogue: 0,0:13:31.91,0:13:35.46,Gen_Main,Man,0000,0000,0000,,La recompensa por su cabeza\Nsupera los 100 millones de yenes.
+Dialogue: 0,0:13:36.33,0:13:39.13,Gen_Main,Man,0000,0000,0000,,Y no es una solicitud.
+Dialogue: 0,0:13:40.96,0:13:42.84,Gen_Main,Man,0000,0000,0000,,Es para el primero que llegue.
+Dialogue: 0,0:13:51.30,0:13:52.93,Gen_Main,Waiter,0000,0000,0000,,Siento la espera.
+Dialogue: 0,0:14:33.12,0:14:35.77,Gen_Italics,Awasaka,0000,0000,0000,,Las maldiciones\Nse han fortalecido con los años.
+Dialogue: 0,0:14:35.93,0:14:39.27,Gen_Italics,Awasaka,0000,0000,0000,,Y en ese momento comprendí la razón.
+Dialogue: 0,0:14:39.48,0:14:42.52,Gen_Italics,Awasaka,0000,0000,0000,,¡Es por culpa de él! ¡De Satoru Gojo!
+Dialogue: 0,0:14:42.73,0:14:47.02,Gen_Italics,Awasaka,0000,0000,0000,,Es como si se hubiera batido\Nun récord de atletismo insuperable.
+Dialogue: 0,0:14:47.67,0:14:49.83,Gen_Italics,Awasaka,0000,0000,0000,,O como cuando los patinadores añaden
+Dialogue: 0,0:14:49.99,0:14:53.03,Gen_Italics,Awasaka,0000,0000,0000,,más giros a sus saltos\Ndebido a otro competidor.
+Dialogue: 0,0:14:53.24,0:14:57.52,Gen_Italics,Awasaka,0000,0000,0000,,El equilibrio del mundo cambió\Ncuando nació Satoru Gojo.
+Dialogue: 0,0:14:57.91,0:14:59.79,Gen_Main,Gojo,0000,0000,0000,,Deja de mirarme, debilucho.
+Dialogue: 0,0:15:00.75,0:15:04.00,Gen_Italics,Awasaka,0000,0000,0000,,Éramos libres.
+Dialogue: 0,0:15:05.38,0:15:08.80,Gen_Italics,Awasaka,0000,0000,0000,,¡Y años después\Nnos arrebataron esa libertad!
+Dialogue: 0,0:15:10.01,0:15:11.68,Gen_Italics,Awasaka,0000,0000,0000,,¡Que le den!
+Dialogue: 0,0:15:16.47,0:15:19.27,Gen_Italics,Awasaka,0000,0000,0000,,¡No me retiraré jamás!
+Dialogue: 0,0:15:24.23,0:15:27.94,Gen_Italics,Awasaka,0000,0000,0000,,¡Pisotearé a los débiles\Nhasta que muera!
+Dialogue: 0,0:15:29.99,0:15:31.95,Gen_Italics,Awasaka,0000,0000,0000,,¡Qué divertido!
+Dialogue: 0,0:15:41.33,0:15:43.46,Gen_Main,Yuji,0000,0000,0000,,En serio, ¿de qué va este tío?
+Dialogue: 0,0:15:43.63,0:15:46.04,Gen_Main,Yuji,0000,0000,0000,,Decir que es fuerte se queda corto.
+Dialogue: 0,0:15:47.17,0:15:50.09,Gen_Italics,Fushiguro,0000,0000,0000,,Estoy casi seguro\Nde que es resultado de su técnica.
+Dialogue: 0,0:15:50.88,0:15:52.76,Gen_Italics,Fushiguro,0000,0000,0000,,¿Anula el daño?
+Dialogue: 0,0:15:53.05,0:15:54.05,Gen_Italics,Fushiguro,0000,0000,0000,,No…
+Dialogue: 0,0:15:57.56,0:16:00.81,Gen_Main,Fushiguro,0000,0000,0000,,¡Eh! ¡Satoru Gojo está en Shibuya!
+Dialogue: 0,0:16:00.98,0:16:03.81,Gen_Main,Fushiguro,0000,0000,0000,,¡Deja ese velo de una vez\Ny lárgate mientras puedas!
+Dialogue: 0,0:16:05.19,0:16:07.48,Gen_Main,Awasaka,0000,0000,0000,,Vaya farol de mierda.
+Dialogue: 0,0:16:08.25,0:16:10.15,Gen_Main,Awasaka,0000,0000,0000,,"Han sellado a Gojo".
+Dialogue: 0,0:16:10.32,0:16:13.57,Gen_Main,Awasaka,0000,0000,0000,,Es lo que habéis gritado\Na los cuatro vientos.
+Dialogue: 0,0:16:14.28,0:16:16.84,Gen_Main,Awasaka,0000,0000,0000,,Por eso nos estamos divirtiendo tanto.
+Dialogue: 0,0:16:17.02,0:16:20.08,Gen_Main,Awasaka,0000,0000,0000,,Si Gojo estuviera suelto,\Nahora estaríamos en casa dormidos.
+Dialogue: 0,0:16:20.66,0:16:22.08,Gen_Italics,Fushiguro,0000,0000,0000,,Lo sabía.
+Dialogue: 0,0:16:22.25,0:16:24.67,Gen_Italics,Fushiguro,0000,0000,0000,,No puede vencer al profesor Gojo.
+Dialogue: 0,0:16:24.83,0:16:27.09,Gen_Main,Yuji,0000,0000,0000,,Fushiguro, mientes como el culo.
+Dialogue: 0,0:16:27.29,0:16:31.76,Gen_Italics,Fushiguro,0000,0000,0000,,La técnica de este tío no puede ser\Nalgo tan bestia como la anulación.
+Dialogue: 0,0:16:32.59,0:16:33.63,Gen_Main,Yuji,0000,0000,0000,,Pero no pasa nada.
+Dialogue: 0,0:16:34.13,0:16:36.09,Gen_Main,Yuji,0000,0000,0000,,-No pasa nada.\N-Chitón.
+Dialogue: 0,0:16:38.68,0:16:41.85,Gen_Main,Awasaka,0000,0000,0000,,Si no queréis pelear,\Npues os mataré ya.
+Dialogue: 0,0:16:43.18,0:16:44.19,Gen_Main,Yuji,0000,0000,0000,,¡Aquí viene!
+Dialogue: 0,0:16:48.19,0:16:49.19,Gen_Main,Fushiguro,0000,0000,0000,,Liebres a la Fuga.
+Dialogue: 0,0:17:04.34,0:17:05.21,Gen_Main,Fushiguro,0000,0000,0000,,Aléjate.
+Dialogue: 0,0:17:07.46,0:17:09.46,Gen_Main,Fushiguro,0000,0000,0000,,Ya he descubierto su técnica.
+Dialogue: 0,0:17:15.13,0:17:17.35,Gen_Italics,Ino,0000,0000,0000,,¿Transformación mediante Espiritismo?
+Dialogue: 0,0:17:17.84,0:17:19.93,Gen_Italics,Ino,0000,0000,0000,,¿Esa vieja tiene un médium?
+Dialogue: 0,0:17:20.43,0:17:22.64,Gen_Italics,Ino,0000,0000,0000,,No, ese no es el problema.
+Dialogue: 0,0:17:22.81,0:17:24.31,Gen_Italics,Ino,0000,0000,0000,,¿De qué va este?
+Dialogue: 0,0:17:24.48,0:17:26.02,Gen_Italics,Ino,0000,0000,0000,,¿Es algún hechicero famoso?
+Dialogue: 0,0:17:26.19,0:17:28.15,Gen_Italics,Ino,0000,0000,0000,,Lo noto por su pose.
+Dialogue: 0,0:17:28.37,0:17:29.90,Gen_Italics,Ino,0000,0000,0000,,¡Es fuerte de pelotas!
+Dialogue: 0,0:17:30.11,0:17:31.32,Gen_Main,Ino,0000,0000,0000,,¡Número cuatro, Ryu!
+Dialogue: 0,0:17:54.96,0:17:57.72,Gen_Italics,Awasaka,0000,0000,0000,,¿Son shikigami\Nque crean una distracción en masa?
+Dialogue: 0,0:17:58.22,0:18:02.56,Gen_Italics,Awasaka,0000,0000,0000,,Planean lanzar un gran ataque\Ncubriéndose con las liebres, ¿eh?
+Dialogue: 0,0:18:05.85,0:18:08.02,Gen_Main,Awasaka,0000,0000,0000,,¡Se han ido! ¿Han huido?
+Dialogue: 0,0:18:12.01,0:18:12.86,Gen_Main,Fushiguro,0000,0000,0000,,Elefante Máximo.
+Dialogue: 0,0:18:22.49,0:18:24.41,Gen_Main,Awasaka,0000,0000,0000,,¿Qué coño pasa aquí?
+Dialogue: 0,0:18:26.00,0:18:28.67,Gen_Main,Awasaka,0000,0000,0000,,Aparece, desaparece… Qué agotamiento.
+Dialogue: 0,0:18:29.04,0:18:31.33,Gen_Main,Awasaka,0000,0000,0000,,Si eres un hombre, da la cara.
+Dialogue: 0,0:18:32.00,0:18:34.59,Gen_Main,Fushiguro,0000,0000,0000,,Eso no va conmigo.
+Dialogue: 0,0:18:44.56,0:18:47.48,Gen_Italics,Awasaka,0000,0000,0000,,Puto mocoso. ¿Cómo tiene tanta fuerza?
+Dialogue: 0,0:18:47.64,0:18:49.35,Gen_Italics,Awasaka,0000,0000,0000,,Me está dando escalofríos.
+Dialogue: 0,0:18:53.48,0:18:55.02,Gen_Italics,Fushiguro,0000,0000,0000,,Por ahora, sigue atacando.
+Dialogue: 0,0:18:57.33,0:18:59.49,Gen_Italics,Awasaka,0000,0000,0000,,El chaval se está embalando.
+Dialogue: 0,0:18:59.65,0:19:01.28,Gen_Italics,Awasaka,0000,0000,0000,,Qué bien.
+Dialogue: 0,0:19:07.70,0:19:09.54,Gen_Italics,Awasaka,0000,0000,0000,,¡Un golpe final!
+Dialogue: 0,0:19:12.75,0:19:15.55,Gen_Italics,Awasaka,0000,0000,0000,,Mi técnica es la inversión.
+Dialogue: 0,0:19:15.75,0:19:17.34,Gen_Italics,Awasaka,0000,0000,0000,,Cuando se activa,
+Dialogue: 0,0:19:17.51,0:19:20.07,Gen_Italics,Awasaka,0000,0000,0000,,los ataques fuertes que recibo\Nse vuelven débiles
+Dialogue: 0,0:19:20.22,0:19:22.30,Gen_Italics,Awasaka,0000,0000,0000,,y los débiles se vuelven más fuertes.
+Dialogue: 0,0:19:23.05,0:19:27.95,Gen_Italics,Awasaka,0000,0000,0000,,Nadie ha esquivado mi contraataque\Ntras lanzar su golpe final.
+Dialogue: 0,0:19:28.47,0:19:33.31,Gen_Italics,Awasaka,0000,0000,0000,,Cuanto más en serio os pongáis,\Nmenos opciones tendréis contra mí.
+Dialogue: 0,0:19:44.62,0:19:46.33,Gen_Main,Fushiguro,0000,0000,0000,,Ya he descubierto su técnica.
+Dialogue: 0,0:19:47.66,0:19:49.79,Gen_Main,Fushiguro,0000,0000,0000,,Seguramente sea inversión.
+Dialogue: 0,0:19:50.16,0:19:54.29,Gen_Main,Fushiguro,0000,0000,0000,,El ataque que lancé a destiempo\Nfue más efectivo que el tuyo.
+Dialogue: 0,0:19:55.34,0:19:57.05,Gen_Main,Fushiguro,0000,0000,0000,,Las liebres no eran para atacar,
+Dialogue: 0,0:19:57.21,0:19:59.84,Gen_Main,Fushiguro,0000,0000,0000,,pero no intentó liberarse\Nnada más quedar rodeado.
+Dialogue: 0,0:20:00.01,0:20:04.55,Gen_Main,Fushiguro,0000,0000,0000,,Creo que por eso estaba como si nada\Ntras caer desde arriba.
+Dialogue: 0,0:20:05.38,0:20:07.85,Gen_Main,Yuji,0000,0000,0000,,¿Y va a caer\Ncon un golpecillo en la frente?
+Dialogue: 0,0:20:08.01,0:20:10.43,Gen_Main,Fushiguro,0000,0000,0000,,No, el ataque no puede ser\Ndemasiado débil.
+Dialogue: 0,0:20:10.78,0:20:12.23,Gen_Main,Fushiguro,0000,0000,0000,,Si fuera una inversión pura,
+Dialogue: 0,0:20:12.39,0:20:16.40,Gen_Main,Fushiguro,0000,0000,0000,,al activarla moriría\Ncon la más mínima brisa.
+Dialogue: 0,0:20:16.03,0:20:16.99,Cart_C_Tre,,0000,0000,0000,,{\fad(200,200)\b0\pos(55.2,59.2)\frz19.55\3c&HFFFFFF&\3a&H9B&}Es verdad
+Dialogue: 0,0:20:17.94,0:20:19.65,Gen_Main,Fushiguro,0000,0000,0000,,Como no pasa eso,
+Dialogue: 0,0:20:19.82,0:20:22.15,Gen_Main,Fushiguro,0000,0000,0000,,debe de haber un límite\Nsuperior e inferior.
+Dialogue: 0,0:20:22.45,0:20:24.45,Gen_Main,Fushiguro,0000,0000,0000,,Ha soportado nuestros ataques
+Dialogue: 0,0:20:24.61,0:20:27.66,Gen_Main,Fushiguro,0000,0000,0000,,y ha usado energía\Npara defenderse de los cortes
+Dialogue: 0,0:20:27.83,0:20:29.66,Gen_Main,Fushiguro,0000,0000,0000,,y los efectos de nuestras técnicas.
+Dialogue: 0,0:20:29.83,0:20:31.08,Gen_Main,Yuji,0000,0000,0000,,Tiene sentido.
+Dialogue: 0,0:20:31.68,0:20:35.04,Gen_Main,Fushiguro,0000,0000,0000,,Por eso tampoco puede vencer\Na una anomalía como el profesor Gojo
+Dialogue: 0,0:20:35.21,0:20:38.09,Gen_Main,Fushiguro,0000,0000,0000,,y su técnica no funcionará bien\Ncon técnicas complejas.
+Dialogue: 0,0:20:38.29,0:20:40.81,Gen_Main,Yuji,0000,0000,0000,,Por lo que debemos atacar juntos.
+Dialogue: 0,0:20:41.17,0:20:45.72,Gen_Main,Yuji,0000,0000,0000,,Darle un ataque fuerte\Ny otro algo débil al mismo tiempo.
+Dialogue: 0,0:20:46.58,0:20:50.35,Gen_Main,Fushiguro,0000,0000,0000,,Claro. Pero no nos conviene que sepa\Nque conocemos su técnica.
+Dialogue: 0,0:20:50.94,0:20:54.61,Gen_Main,Fushiguro,0000,0000,0000,,Así que iremos con todo,\Ntú haz gala de tu fuerza bruta.
+Dialogue: 0,0:21:00.98,0:21:03.26,Gen_Main,Fushiguro,0000,0000,0000,,Empezaremos\Ncon un ataque débil de Gama.
+Dialogue: 0,0:21:04.11,0:21:06.61,Gen_Main,Fushiguro,0000,0000,0000,,Luego lanzamos\Nvarios ataques seguidos.
+Dialogue: 0,0:21:14.24,0:21:15.38,Gen_Italics,Awasaka,0000,0000,0000,,¡Putos niños!
+Dialogue: 0,0:21:17.67,0:21:19.42,Gen_Italics,Awasaka,0000,0000,0000,,¿Se han dado cuenta?
+Dialogue: 0,0:21:24.63,0:21:25.80,Gen_Italics,Awasaka,0000,0000,0000,,Aunque…
+Dialogue: 0,0:21:26.84,0:21:32.14,Gen_Main,Awasaka,0000,0000,0000,,¡Niñatos, no os vengáis tan arriba!
+Dialogue: 0,0:21:54.65,0:21:56.21,Gen_Italics,Awasaka,0000,0000,0000,,¿Lo ha detenido?
+Dialogue: 0,0:21:56.75,0:22:00.42,Gen_Italics,Awasaka,0000,0000,0000,,Ha frenado su impulso por un instante.
+Dialogue: 0,0:22:06.47,0:22:08.55,Gen_Main,Fushiguro,0000,0000,0000,,Eres bastante apañado.
+Dialogue: 0,0:22:08.72,0:22:10.01,Gen_Main,Yuji,0000,0000,0000,,¿En serio?
+Dialogue: 0,0:23:37.15,0:23:39.06,Cart_A_Tre,,0000,0000,0000,,{\b0\fs20\bord1.5\be1\3c&H161622&}Traducción: Abraham Gayuvas y Antonio Valdez\NEdición: Abraham Gayuvas\NControl de calidad: Nicolás Sepúlveda
+Dialogue: 0,0:23:40.94,0:23:44.48,Gen_Main,Mahito,0000,0000,0000,,¿Te has enterado de que han sellado\Na Satoru, el chico de los Gojo?
+Dialogue: 0,0:23:44.61,0:23:46.23,Gen_Main,Geto,0000,0000,0000,,-Ah, sí.\N-¿No te interesa?
+Dialogue: 0,0:23:46.40,0:23:48.90,Gen_Main,Jogo,0000,0000,0000,,¡Eh! Nos hemos enterado\Nde un cotilleo por Geto.
+Dialogue: 0,0:23:49.07,0:23:51.29,Gen_Main,Mahito,0000,0000,0000,,Madre mía, qué desastre.\N¡Cuánto lo siento!
+Dialogue: 0,0:23:51.37,0:23:55.04,Cart_A_Tim,Geto,0000,0000,0000,,{\pos(320,111.15)\bord2.5\blur3}Próximo episodio\N\N\N\N\N\N\N\N\N\N\N{\q2\fs30}Cuchillo desafilado
+Dialogue: 0,0:23:51.41,0:23:52.57,Gen_Main,Screen,0000,0000,0000,,"Cuchillo desafilado".
+Dialogue: 0,0:23:52.74,0:23:54.49,Gen_Main,Geto,0000,0000,0000,,Vedlo con precauciones.
+

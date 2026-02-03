@@ -1,0 +1,390 @@
+[Script Info]
+Title: [Erai-raws]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TopCenter,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: BottomCenter,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:42.08,0:01:43.88,BottomCenter,,0000,0000,0000,,Bem, isto é uma surpresa.
+Dialogue: 0,0:01:43.96,0:01:48.04,BottomCenter,,0000,0000,0000,,Eu nunca pensei que o Zombieman\Nfosse uma cobaia da Casa da Evolução.
+Dialogue: 0,0:01:48.71,0:01:52.46,BottomCenter,,0000,0000,0000,,Tenho muitas memórias da Amostra nº 66.
+Dialogue: 0,0:01:52.83,0:01:54.25,BottomCenter,,0000,0000,0000,,Você foi um espécime excepcional.
+Dialogue: 0,0:01:54.33,0:01:56.92,BottomCenter,,0000,0000,0000,,O único sucesso\Ndos meus experimentos de imortalidade.
+Dialogue: 0,0:01:56.96,0:01:59.79,BottomCenter,,0000,0000,0000,,E então, você destruiu o laboratório\Ne desapareceu.
+Dialogue: 0,0:02:00.25,0:02:02.25,BottomCenter,,0000,0000,0000,,Faz mais de dez anos.
+Dialogue: 0,0:02:02.54,0:02:04.50,BottomCenter,,0000,0000,0000,,E agora, você se tornou um herói.
+Dialogue: 0,0:02:04.88,0:02:07.29,BottomCenter,,0000,0000,0000,,Você conseguiu mesmo se transformar.
+Dialogue: 0,0:02:09.00,0:02:12.13,BottomCenter,,0000,0000,0000,,Então você vai me matar? Tudo bem também.
+Dialogue: 0,0:02:12.25,0:02:14.21,BottomCenter,,0000,0000,0000,,Por que a Casa da Evolução desapareceu?
+Dialogue: 0,0:02:14.50,0:02:17.75,BottomCenter,,0000,0000,0000,,Enquanto estiver vivo,\Npode reconstruí-la quantas vezes quiser.
+Dialogue: 0,0:02:17.96,0:02:19.58,BottomCenter,,0000,0000,0000,,Me responda, Dr. Genus!
+Dialogue: 0,0:02:20.08,0:02:22.42,BottomCenter,,0000,0000,0000,,Minha pesquisa foi um fracasso.
+Dialogue: 0,0:02:22.50,0:02:26.88,BottomCenter,,0000,0000,0000,,Eu testemunhei um poder que superava\Nde longe a evolução artificial.
+Dialogue: 0,0:02:27.29,0:02:29.58,BottomCenter,,0000,0000,0000,,Ele removeu seu limitador.
+Dialogue: 0,0:02:29.96,0:02:31.04,BottomCenter,,0000,0000,0000,,Limitador?
+Dialogue: 0,0:02:31.13,0:02:33.00,BottomCenter,,0000,0000,0000,,Não importa o quanto\Num organismo se esforce,
+Dialogue: 0,0:02:33.08,0:02:35.88,BottomCenter,,0000,0000,0000,,há limites para seu crescimento.
+Dialogue: 0,0:02:37.08,0:02:42.17,BottomCenter,,0000,0000,0000,,Força em excesso é um fardo para quem\Na carrega e pode causar falhas.
+Dialogue: 0,0:02:42.38,0:02:45.33,BottomCenter,,0000,0000,0000,,Ou podem se tornar monstros\Nque perderam toda a humanidade
+Dialogue: 0,0:02:45.46,0:02:47.29,BottomCenter,,0000,0000,0000,,e enlouqueceram fora de controle.
+Dialogue: 0,0:02:47.88,0:02:49.67,BottomCenter,,0000,0000,0000,,Por essa razão,
+Dialogue: 0,0:02:49.75,0:02:53.04,BottomCenter,,0000,0000,0000,,Deus projetou cada criatura\Npara crescer dentro de parâmetros
+Dialogue: 0,0:02:53.13,0:02:56.21,BottomCenter,,0000,0000,0000,,que permitam a sobrevivência\Ne preserve a razão.
+Dialogue: 0,0:03:33.13,0:03:35.13,BottomCenter,,0000,0000,0000,,{\i1}E isso é o que é um limitador.{\i0}
+Dialogue: 0,0:03:35.67,0:03:37.46,BottomCenter,,0000,0000,0000,,Mas ele era diferente.
+Dialogue: 0,0:03:37.63,0:03:41.25,BottomCenter,,0000,0000,0000,,Ao ultrapassar seus limites,\Nele removeu seu limitador
+Dialogue: 0,0:03:41.29,0:03:43.33,BottomCenter,,0000,0000,0000,,e alcançou uma força inimaginável.
+Dialogue: 0,0:03:43.50,0:03:48.54,BottomCenter,,0000,0000,0000,,Força sem limitador\Né algo que se obtém sem um custo?
+Dialogue: 0,0:03:48.79,0:03:51.33,BottomCenter,,0000,0000,0000,,É claro que não, ele pagou um preço.
+Dialogue: 0,0:03:52.08,0:03:54.67,BottomCenter,,0000,0000,0000,,Em troca de sua força, ele ficou careca.
+Dialogue: 0,0:03:54.75,0:03:57.79,BottomCenter,,0000,0000,0000,,Ele também sofre da solidão\Nque vem com um poder tão avassalador.
+Dialogue: 0,0:03:57.88,0:04:02.63,BottomCenter,,0000,0000,0000,,Após derrotar o guerreiro mais forte\Ndo meu laboratório com um único soco,
+Dialogue: 0,0:04:02.71,0:04:04.50,BottomCenter,,0000,0000,0000,,a expressão no seu rosto disse tudo.
+Dialogue: 0,0:04:04.75,0:04:05.83,BottomCenter,,0000,0000,0000,,Isso é ridículo.
+Dialogue: 0,0:04:05.92,0:04:08.42,BottomCenter,,0000,0000,0000,,Parece que a única falha causada\Npela sua pesquisa insana
+Dialogue: 0,0:04:08.50,0:04:10.50,BottomCenter,,0000,0000,0000,,foi na sua cabeça.
+Dialogue: 0,0:04:11.00,0:04:15.67,BottomCenter,,0000,0000,0000,,Eu já vi muitos monstros que ignoraram\Nos limites de suas habilidades.
+Dialogue: 0,0:04:16.83,0:04:18.96,BottomCenter,,0000,0000,0000,,Muito provavelmente\Nisso está muito além
+Dialogue: 0,0:04:19.17,0:04:21.33,BottomCenter,,0000,0000,0000,,do que você está imaginando.
+Dialogue: 0,0:04:21.50,0:04:23.54,BottomCenter,,0000,0000,0000,,Os gatilhos para se tornar\Num monstro variam.
+Dialogue: 0,0:04:23.63,0:04:24.96,BottomCenter,,0000,0000,0000,,Uma obsessão crescente,
+Dialogue: 0,0:04:25.04,0:04:28.08,BottomCenter,,0000,0000,0000,,um complexo de inferioridade\Nque leva ao desejo de mudar,
+Dialogue: 0,0:04:28.17,0:04:30.17,BottomCenter,,0000,0000,0000,,ou uma explosão de frustração reprimida.
+Dialogue: 0,0:04:30.25,0:04:33.79,BottomCenter,,0000,0000,0000,,As causas variam, mas em todos os casos\Nas células sofrem mutações
+Dialogue: 0,0:04:33.88,0:04:35.92,BottomCenter,,0000,0000,0000,,e eles se tornam criaturas mutantes.
+Dialogue: 0,0:04:36.42,0:04:38.29,BottomCenter,,0000,0000,0000,,Outros, como os nascidos\Nda minha pesquisa,
+Dialogue: 0,0:04:38.38,0:04:41.29,BottomCenter,,0000,0000,0000,,foram criados deliberadamente\Npor métodos científicos.
+Dialogue: 0,0:04:41.42,0:04:44.58,BottomCenter,,0000,0000,0000,,Muitas criaturas não-humanas\Nse mutam em formas monstruosas
+Dialogue: 0,0:04:44.67,0:04:47.25,BottomCenter,,0000,0000,0000,,devido à poluição ambiental\Nou outros fatores.
+Dialogue: 0,0:04:47.79,0:04:50.25,BottomCenter,,0000,0000,0000,,Mas isso é simplesmente\Nse tornar outra espécie.
+Dialogue: 0,0:04:50.33,0:04:52.42,BottomCenter,,0000,0000,0000,,Não é o mesmo que remover o limitador.
+Dialogue: 0,0:04:52.58,0:04:56.46,BottomCenter,,0000,0000,0000,,O Povo do Mar que atacou a Cidade J\Ne os alienígenas que surgiram na Cidade A
+Dialogue: 0,0:04:56.54,0:04:58.83,BottomCenter,,0000,0000,0000,,podem ser amplamente\Nclassificados como monstros.
+Dialogue: 0,0:04:58.96,0:05:01.25,BottomCenter,,0000,0000,0000,,Mas sempre foram criaturas assim\Ndesde o início
+Dialogue: 0,0:05:01.33,0:05:04.25,BottomCenter,,0000,0000,0000,,e inimigos naturais da humanidade\Ncom inteligência própria.
+Dialogue: 0,0:05:04.54,0:05:09.75,BottomCenter,,0000,0000,0000,,Heróis possuem o grande poder\Npara confrontar e lutar contra eles.
+Dialogue: 0,0:05:09.83,0:05:12.96,BottomCenter,,0000,0000,0000,,Esses heróis nasceram com potencial\Npara se tornarem fortes
+Dialogue: 0,0:05:13.04,0:05:16.00,BottomCenter,,0000,0000,0000,,e o desenvolveram com esforço e talento.
+Dialogue: 0,0:05:16.13,0:05:19.58,BottomCenter,,0000,0000,0000,,Alguns tiveram aprimoramentos cibernéticos\Nou ganharam habilidades especiais
+Dialogue: 0,0:05:19.67,0:05:22.00,BottomCenter,,0000,0000,0000,,por meio de experimentos, como você.
+Dialogue: 0,0:05:22.08,0:05:25.08,BottomCenter,,0000,0000,0000,,Alguns nascem gênios extraordinários,\Ncomo eu,
+Dialogue: 0,0:05:25.17,0:05:26.83,BottomCenter,,0000,0000,0000,,ou são dotados de habilidades únicas.
+Dialogue: 0,0:05:27.29,0:05:29.63,BottomCenter,,0000,0000,0000,,Mas com ele foi diferente.
+Dialogue: 0,0:05:29.71,0:05:32.29,BottomCenter,,0000,0000,0000,,Nasceu como uma pessoa comum,\Nviveu uma vida comum
+Dialogue: 0,0:05:32.38,0:05:35.25,BottomCenter,,0000,0000,0000,,e não tinha talento especial.\NEra apenas alguém normal.
+Dialogue: 0,0:05:35.33,0:05:39.88,BottomCenter,,0000,0000,0000,,Mas, por puro esforço, forçou seus\Npróprios limites e removeu seu limitador.
+Dialogue: 0,0:05:40.46,0:05:42.58,BottomCenter,,0000,0000,0000,,A força de alguém\Nque removeu seu limitador
+Dialogue: 0,0:05:42.67,0:05:45.54,BottomCenter,,0000,0000,0000,,e passou por uma autoevolução é notável.
+Dialogue: 0,0:05:46.08,0:05:47.71,BottomCenter,,0000,0000,0000,,Só de pensar nisso agora,
+Dialogue: 0,0:05:47.75,0:05:51.33,BottomCenter,,0000,0000,0000,,rio de quão absurdas eram\Nminhas próprias ambições.
+Dialogue: 0,0:05:51.75,0:05:54.38,BottomCenter,,0000,0000,0000,,Um dia, você pode ter a chance\Nde conhecê-lo também.
+Dialogue: 0,0:05:54.75,0:05:57.13,BottomCenter,,0000,0000,0000,,Aparentemente, ele também é um herói.
+Dialogue: 0,0:05:57.79,0:05:59.50,BottomCenter,,0000,0000,0000,,Você tem mais perguntas?
+Dialogue: 0,0:05:59.67,0:06:01.75,BottomCenter,,0000,0000,0000,,Então, por que takoyaki?
+Dialogue: 0,0:06:02.17,0:06:04.96,BottomCenter,,0000,0000,0000,,Enquanto pesquisava a regeneração humana,\Ndescobri uma forma
+Dialogue: 0,0:06:05.04,0:06:07.58,BottomCenter,,0000,0000,0000,,de regenerar infinitamente\Nos tentáculos de polvo.
+Dialogue: 0,0:06:07.67,0:06:08.58,BottomCenter,,0000,0000,0000,,Entendi.
+Dialogue: 0,0:06:14.17,0:06:15.33,BottomCenter,,0000,0000,0000,,{\i1}Eu posso vencer.{\i0}
+Dialogue: 0,0:06:15.54,0:06:18.46,BottomCenter,,0000,0000,0000,,{\i1}Eles não são nada comparados ao velhote.{\i0}
+Dialogue: 0,0:06:18.75,0:06:21.42,BottomCenter,,0000,0000,0000,,Não consigo acreditar\Nque um humano pôde ir tão longe.
+Dialogue: 0,0:06:21.58,0:06:25.38,BottomCenter,,0000,0000,0000,,São dois contra um.\NVocê deve ser bem forte.
+Dialogue: 0,0:06:26.83,0:06:31.75,BottomCenter,,0000,0000,0000,,Eu ia brincar com você um pouco,\Nmas esquece. Vamos terminar com isso.
+Dialogue: 0,0:06:31.92,0:06:33.50,BottomCenter,,0000,0000,0000,,A luta de verdade começa agora.
+Dialogue: 0,0:06:34.04,0:06:36.13,BottomCenter,,0000,0000,0000,,Já aprendi todos os seus movimentos.
+Dialogue: 0,0:06:40.00,0:06:41.67,BottomCenter,,0000,0000,0000,,Você nunca mais vai me acertar.
+Dialogue: 0,0:06:43.00,0:06:43.88,BottomCenter,,0000,0000,0000,,Velho...
+Dialogue: 0,0:06:44.21,0:06:45.08,BottomCenter,,0000,0000,0000,,Hum?
+Dialogue: 0,0:06:45.17,0:06:46.46,BottomCenter,,0000,0000,0000,,-O quê?\N-Hã?
+Dialogue: 0,0:06:49.96,0:06:53.25,BottomCenter,,0000,0000,0000,,Velho, me desculpe...
+Dialogue: 0,0:06:53.63,0:06:56.29,BottomCenter,,0000,0000,0000,,Hedro-Jellyfish, o que está fazendo aqui?
+Dialogue: 0,0:06:56.58,0:07:00.04,BottomCenter,,0000,0000,0000,,Tenho uma rixa pessoal\Ncom aquele cara.
+Dialogue: 0,0:07:00.38,0:07:01.50,BottomCenter,,0000,0000,0000,,{\i1}Aquele desgraçado...{\i0}
+Dialogue: 0,0:07:02.50,0:07:04.71,BottomCenter,,0000,0000,0000,,Esse pirralho\Nnão tem nada a ver com isso!
+Dialogue: 0,0:07:17.92,0:07:18.83,BottomCenter,,0000,0000,0000,,Caramba.
+Dialogue: 0,0:07:19.04,0:07:19.92,BottomCenter,,0000,0000,0000,,Ei!
+Dialogue: 0,0:07:20.38,0:07:22.67,BottomCenter,,0000,0000,0000,,Não tínhamos ordens para não matá-lo?
+Dialogue: 0,0:07:22.75,0:07:25.79,BottomCenter,,0000,0000,0000,,Você devia ter me parado antes,\NDeus-Inseto.
+Dialogue: 0,0:07:26.21,0:07:30.25,BottomCenter,,0000,0000,0000,,Agora, é tarde demais, ele está morto.
+Dialogue: 0,0:07:31.00,0:07:35.21,BottomCenter,,0000,0000,0000,,Ah, venham! Vamos todos sair daqui.
+Dialogue: 0,0:07:42.63,0:07:44.33,TopCenter,,0000,0000,0000,,BLIP BLIP
+Dialogue: 0,0:07:44.42,0:07:46.25,TopCenter,,0000,0000,0000,,PÁ BLIP BLOP
+Dialogue: 0,0:07:46.33,0:07:49.25,BottomCenter,,0000,0000,0000,,{\i1}Por que ele queria me ver jogar um jogo?{\i0}\N{\i1}O que ele aprontou?{\i0}
+Dialogue: 0,0:07:49.75,0:07:51.63,BottomCenter,,0000,0000,0000,,Então, eu zerei o jogo.
+Dialogue: 0,0:07:51.75,0:07:53.71,BottomCenter,,0000,0000,0000,,E aí? Você está feliz agora?
+Dialogue: 0,0:07:53.96,0:07:55.42,BottomCenter,,0000,0000,0000,,Já acabou?
+Dialogue: 0,0:07:55.67,0:07:57.67,BottomCenter,,0000,0000,0000,,Eu não entendi nada.
+Dialogue: 0,0:07:58.21,0:08:01.46,BottomCenter,,0000,0000,0000,,{\i1}Então ainda é cedo demais{\i0}\N{\i1}para eu me juntar às batalhas simuladas{\i0}
+Dialogue: 0,0:08:01.54,0:08:04.29,BottomCenter,,0000,0000,0000,,{\i1}que o mestre Saitama{\i0}\N{\i1}e o King costumam jogar.{\i0}
+Dialogue: 0,0:08:04.42,0:08:07.58,BottomCenter,,0000,0000,0000,,{\i1}Preciso upar mais.{\i0}\N{\i1}Há tantas coisas que preciso melhorar.{\i0}
+Dialogue: 0,0:08:07.88,0:08:10.25,BottomCenter,,0000,0000,0000,,Está ficando tarde.
+Dialogue: 0,0:08:10.42,0:08:13.75,BottomCenter,,0000,0000,0000,,Ninguém vai encontrar\No Garou procurando às cegas.
+Dialogue: 0,0:08:13.83,0:08:16.75,BottomCenter,,0000,0000,0000,,Ele provavelmente está com os monstros\Nno esconderijo deles.
+Dialogue: 0,0:08:16.83,0:08:19.00,BottomCenter,,0000,0000,0000,,O mestre parecia muito determinado.
+Dialogue: 0,0:08:19.08,0:08:21.96,BottomCenter,,0000,0000,0000,,Até ele descobrir e destruir\Na base da Associação dos Monstros,
+Dialogue: 0,0:08:22.04,0:08:23.21,BottomCenter,,0000,0000,0000,,pode ser que não volte.
+Dialogue: 0,0:08:23.54,0:08:28.25,BottomCenter,,0000,0000,0000,,O Saitama é forte, mas com essa atitude\Nfico um pouco preocupado.
+Dialogue: 0,0:08:28.33,0:08:30.92,BottomCenter,,0000,0000,0000,,E se ele, por acaso,\Ncair na armadilha dos monstros?
+Dialogue: 0,0:08:34.79,0:08:36.04,BottomCenter,,0000,0000,0000,,Cheguei!
+Dialogue: 0,0:08:36.38,0:08:37.42,BottomCenter,,0000,0000,0000,,É o mestre!
+Dialogue: 0,0:08:37.50,0:08:38.88,BottomCenter,,0000,0000,0000,,Ele voltou naturalmente.
+Dialogue: 0,0:08:38.96,0:08:40.88,BottomCenter,,0000,0000,0000,,Você teve sucesso?
+Dialogue: 0,0:08:41.21,0:08:42.75,BottomCenter,,0000,0000,0000,,Caramba...
+Dialogue: 0,0:08:43.04,0:08:44.08,BottomCenter,,0000,0000,0000,,Poxa...
+Dialogue: 0,0:08:45.25,0:08:47.13,BottomCenter,,0000,0000,0000,,Cara, foi um desastre...
+Dialogue: 0,0:08:47.58,0:08:49.13,BottomCenter,,0000,0000,0000,,Que confusão eu me meti.
+Dialogue: 0,0:08:49.38,0:08:50.25,BottomCenter,,0000,0000,0000,,-O quê?!\N-O quê?!
+Dialogue: 0,0:08:50.33,0:08:52.92,BottomCenter,,0000,0000,0000,,Não me diga que você encontrou o Garou?
+Dialogue: 0,0:08:53.25,0:08:55.92,BottomCenter,,0000,0000,0000,,O quê? Vocês ainda estão aqui?
+Dialogue: 0,0:08:56.42,0:08:57.75,BottomCenter,,0000,0000,0000,,Está muito apertado aqui.
+Dialogue: 0,0:08:57.88,0:09:00.79,BottomCenter,,0000,0000,0000,,Mestre! Há sangue no senhor.\NÉ do Caçador de Heróis?
+Dialogue: 0,0:09:00.88,0:09:02.75,BottomCenter,,0000,0000,0000,,Não. Eu encontrei um monstro na volta.
+Dialogue: 0,0:09:02.83,0:09:04.42,BottomCenter,,0000,0000,0000,,Era da Associação dos Monstros?
+Dialogue: 0,0:09:04.58,0:09:07.58,BottomCenter,,0000,0000,0000,,Não, sempre há monstros por aqui.
+Dialogue: 0,0:09:07.92,0:09:09.17,BottomCenter,,0000,0000,0000,,Vai saber por quê?
+Dialogue: 0,0:09:09.92,0:09:12.29,BottomCenter,,0000,0000,0000,,De qualquer forma, isso não é o problema.
+Dialogue: 0,0:09:12.54,0:09:15.92,BottomCenter,,0000,0000,0000,,O que aconteceu que foi tão desastroso?
+Dialogue: 0,0:09:16.25,0:09:18.00,BottomCenter,,0000,0000,0000,,Você saiu todo motivado.
+Dialogue: 0,0:09:18.17,0:09:19.75,BottomCenter,,0000,0000,0000,,Quem fez o quê com você?
+Dialogue: 0,0:09:21.88,0:09:23.00,BottomCenter,,0000,0000,0000,,A questão é...
+Dialogue: 0,0:09:24.25,0:09:26.08,BottomCenter,,0000,0000,0000,,Eu perdi minha carteira em algum lugar.
+Dialogue: 0,0:09:26.71,0:09:28.54,BottomCenter,,0000,0000,0000,,Tinha cerca de 6.000 ienes dentro.
+Dialogue: 0,0:09:29.29,0:09:33.46,BottomCenter,,0000,0000,0000,,Foi só isso? Eu pensei\Nque tivesse encontrado com o Garou.
+Dialogue: 0,0:09:33.63,0:09:35.96,BottomCenter,,0000,0000,0000,,Ah, não! Agora que você falou isso.
+Dialogue: 0,0:09:36.04,0:09:37.63,BottomCenter,,0000,0000,0000,,O que aconteceu?
+Dialogue: 0,0:09:38.58,0:09:40.33,BottomCenter,,0000,0000,0000,,Aquele caloteiro!
+Dialogue: 0,0:09:40.50,0:09:42.04,BottomCenter,,0000,0000,0000,,Você sabe quem é?
+Dialogue: 0,0:09:42.46,0:09:44.29,BottomCenter,,0000,0000,0000,,Quando eu saí correndo atrás dele...
+Dialogue: 0,0:09:45.04,0:09:46.92,BottomCenter,,0000,0000,0000,,o repolho que eu comprei...
+Dialogue: 0,0:09:47.17,0:09:48.67,BottomCenter,,0000,0000,0000,,eu esqueci no restaurante!
+Dialogue: 0,0:09:48.92,0:09:50.96,BottomCenter,,0000,0000,0000,,Eu vou recuperá-lo.
+Dialogue: 0,0:09:51.04,0:09:53.63,BottomCenter,,0000,0000,0000,,Não, Genos.\NVocê não pode com esses ferimentos.
+Dialogue: 0,0:09:53.71,0:09:55.38,BottomCenter,,0000,0000,0000,,Tudo isso por causa de repolho?
+Dialogue: 0,0:09:56.38,0:09:57.92,BottomCenter,,0000,0000,0000,,Parece que estão se divertindo.
+Dialogue: 0,0:09:58.25,0:10:02.29,BottomCenter,,0000,0000,0000,,Você voltou de novo, Nevasca do Inferno?\NO que você quer desta vez?
+Dialogue: 0,0:10:02.38,0:10:04.67,BottomCenter,,0000,0000,0000,,Saitama, como ousa.
+Dialogue: 0,0:10:06.83,0:10:09.96,BottomCenter,,0000,0000,0000,,Aquele é o repolho?\NPor que a Nevasca está com ele?
+Dialogue: 0,0:10:10.38,0:10:12.08,BottomCenter,,0000,0000,0000,,Aqui, você esqueceu isto.
+Dialogue: 0,0:10:12.29,0:10:13.88,BottomCenter,,0000,0000,0000,,Eba! Você salvou o dia!
+Dialogue: 0,0:10:14.00,0:10:16.33,BottomCenter,,0000,0000,0000,,Estou com vontade de comer\Num caldo quente hoje.
+Dialogue: 0,0:10:16.79,0:10:19.04,BottomCenter,,0000,0000,0000,,E o que é um caldo quente sem repolho?
+Dialogue: 0,0:10:19.13,0:10:22.08,BottomCenter,,0000,0000,0000,,Você não tem mais nada a me dizer?
+Dialogue: 0,0:10:22.42,0:10:24.63,BottomCenter,,0000,0000,0000,,Hã? Obrigado pelo repolho.
+Dialogue: 0,0:10:25.33,0:10:31.50,BottomCenter,,0000,0000,0000,,Não! Peça desculpas por me deixar pagar\Na conta no restaurante!
+Dialogue: 0,0:10:31.67,0:10:34.63,BottomCenter,,0000,0000,0000,,Ah, sim, esqueci disso. Me desculpe.
+Dialogue: 0,0:10:34.79,0:10:37.00,BottomCenter,,0000,0000,0000,,Você ainda saiu no meio\Nda conversa de novo!
+Dialogue: 0,0:10:37.08,0:10:41.50,BottomCenter,,0000,0000,0000,,-Hã? Estávamos conversando sobre algo?\N-Viu, sabia que você não estava ouvindo!
+Dialogue: 0,0:10:41.71,0:10:46.00,BottomCenter,,0000,0000,0000,,De qualquer forma, você me deve uma.\NNão esqueça!
+Dialogue: 0,0:10:46.58,0:10:50.25,BottomCenter,,0000,0000,0000,,{\i1}Ela sabe que não está no nosso nível.{\i0}\N{\i1}Por que ela continua aparecendo?{\i0}
+Dialogue: 0,0:10:51.00,0:10:53.21,BottomCenter,,0000,0000,0000,,{\i1}Será que ela quer ser discípula do mestre?{\i0}
+Dialogue: 0,0:10:53.33,0:10:55.75,BottomCenter,,0000,0000,0000,,{\i1}Seria um problema{\i0}\N{\i1}se o mestre tivesse mais trabalho.{\i0}
+Dialogue: 0,0:10:55.79,0:10:58.00,BottomCenter,,0000,0000,0000,,{\i1}Devo impedir isso a todo custo.{\i0}
+Dialogue: 0,0:10:59.29,0:11:00.75,BottomCenter,,0000,0000,0000,,{\i1}Aproximação rápida detectada.{\i0}
+Dialogue: 0,0:11:00.83,0:11:01.83,BottomCenter,,0000,0000,0000,,{\i1}Alguma coisa está vindo.{\i0}
+Dialogue: 0,0:11:02.21,0:11:05.38,BottomCenter,,0000,0000,0000,,{\i1}Droga. Com esses ferimentos,{\i0}\N{\i1}não vou conseguir lutar direito.{\i0}
+Dialogue: 0,0:11:05.63,0:11:07.29,BottomCenter,,0000,0000,0000,,{\i1}O Bang e seu irmão estão feridos.{\i0}
+Dialogue: 0,0:11:07.42,0:11:09.83,BottomCenter,,0000,0000,0000,,{\i1}A Nevasca provavelmente{\i0}\N{\i1}não teria chance se o inimigo fosse{\i0}
+Dialogue: 0,0:11:09.92,0:11:11.29,BottomCenter,,0000,0000,0000,,{\i1}nível Demônio ou superior.{\i0}
+Dialogue: 0,0:11:11.79,0:11:15.25,BottomCenter,,0000,0000,0000,,{\i1}O mestre sofreu um dano{\i0}\N{\i1}psicológico sério por perder a carteira.{\i0}
+Dialogue: 0,0:11:15.33,0:11:17.54,BottomCenter,,0000,0000,0000,,{\i1}O único que pode lutar agora é...{\i0}
+Dialogue: 0,0:11:18.38,0:11:22.21,BottomCenter,,0000,0000,0000,,King! Um inimigo se aproxima,\Nvá lá fora e o intercepte.
+Dialogue: 0,0:11:22.33,0:11:23.25,BottomCenter,,0000,0000,0000,,Hã?
+Dialogue: 0,0:11:23.38,0:11:26.00,BottomCenter,,0000,0000,0000,,-Não podemos lutar aqui dentro.\N-Por que não?
+Dialogue: 0,0:11:26.08,0:11:28.75,BottomCenter,,0000,0000,0000,,-Apenas vá lá fora!\N-Espera, não precisa empurrar.
+Dialogue: 0,0:11:28.83,0:11:32.08,BottomCenter,,0000,0000,0000,,-Se acalma. O que está acontecendo?\N-Não se preocupe. Há só um inimigo.
+Dialogue: 0,0:11:32.17,0:11:33.04,BottomCenter,,0000,0000,0000,,Mas por quê?!
+Dialogue: 0,0:11:33.63,0:11:34.71,BottomCenter,,0000,0000,0000,,O que houve, Genos?
+Dialogue: 0,0:11:34.79,0:11:37.67,BottomCenter,,0000,0000,0000,,Um monstro veio,\Nmas eu pedi para o King cuidar disso.
+Dialogue: 0,0:11:37.75,0:11:38.79,BottomCenter,,0000,0000,0000,,Ui...
+Dialogue: 0,0:11:39.63,0:11:42.33,BottomCenter,,0000,0000,0000,,Ele estava bem na porta da frente.
+Dialogue: 0,0:11:42.79,0:11:45.88,BottomCenter,,0000,0000,0000,,-Você tem uma visita.\N-King! Por que o convidaria para entrar?
+Dialogue: 0,0:11:45.96,0:11:49.42,BottomCenter,,0000,0000,0000,,Não, espere. Parece que você\Nfoi gravemente danificado de novo.
+Dialogue: 0,0:11:49.54,0:11:52.00,BottomCenter,,0000,0000,0000,,Você não deve se esforçar.
+Dialogue: 0,0:11:52.25,0:11:54.25,BottomCenter,,0000,0000,0000,,Sou eu, Genos.
+Dialogue: 0,0:11:55.33,0:11:56.63,BottomCenter,,0000,0000,0000,,Dr. Fétido!
+Dialogue: 0,0:11:56.71,0:11:58.83,BottomCenter,,0000,0000,0000,,Você o conhece? Que alívio.
+Dialogue: 0,0:11:58.92,0:12:02.04,BottomCenter,,0000,0000,0000,,-Por que o senhor está aqui?\N-Eu estava preocupado com você.
+Dialogue: 0,0:12:02.21,0:12:06.50,BottomCenter,,0000,0000,0000,,Logo depois que o reparei,\Nrecebi outro chamado de socorro.
+Dialogue: 0,0:12:06.63,0:12:09.79,BottomCenter,,0000,0000,0000,,Quis ver pessoalmente como você estava\Ne o que estava acontecendo.
+Dialogue: 0,0:12:09.88,0:12:14.08,BottomCenter,,0000,0000,0000,,Sinto muito por preocupá-lo.\NEu disse que não perderia de novo, e...
+Dialogue: 0,0:12:14.17,0:12:15.50,BottomCenter,,0000,0000,0000,,Estou surpreso.
+Dialogue: 0,0:12:15.58,0:12:19.38,BottomCenter,,0000,0000,0000,,Eu tinha melhorado consideravelmente\Nseus sistemas e seu poder de fogo.
+Dialogue: 0,0:12:19.67,0:12:21.29,BottomCenter,,0000,0000,0000,,Bem, não se preocupe com isso.
+Dialogue: 0,0:12:21.38,0:12:24.25,BottomCenter,,0000,0000,0000,,Sobreviver é mais importante\Ndo que vencer.
+Dialogue: 0,0:12:24.50,0:12:28.04,BottomCenter,,0000,0000,0000,,Então, o que aconteceu com o inimigo\Nque te danificou tão gravemente?
+Dialogue: 0,0:12:28.33,0:12:30.54,BottomCenter,,0000,0000,0000,,Como de costume,\No mestre Saitama o derrotou.
+Dialogue: 0,0:12:30.67,0:12:32.46,BottomCenter,,0000,0000,0000,,Entendi. Então você deve ser...
+Dialogue: 0,0:12:33.08,0:12:36.79,BottomCenter,,0000,0000,0000,,o mestre do Genos, Saitama.\NEu sempre quis te conhecer...
+Dialogue: 0,0:12:36.88,0:12:38.38,BottomCenter,,0000,0000,0000,,Pode tirar os sapatos?
+Dialogue: 0,0:12:38.46,0:12:41.08,BottomCenter,,0000,0000,0000,,Ah! Me desculpe!
+Dialogue: 0,0:12:42.08,0:12:44.04,TopCenter,,0000,0000,0000,,ONE-PUNCH MAN
+Dialogue: 0,0:12:44.25,0:12:45.54,BottomCenter,,0000,0000,0000,,Eu sou o Fétido.
+Dialogue: 0,0:12:45.67,0:12:49.25,BottomCenter,,0000,0000,0000,,Eu era um simples engenheiro mecânico,\Nmas devido às circunstâncias, agora apoio
+Dialogue: 0,0:12:49.33,0:12:53.08,BottomCenter,,0000,0000,0000,,-o Genos em sua busca por justiça.\N-Sou Saitama. Prazer em conhecê-lo.
+Dialogue: 0,0:12:53.17,0:12:54.17,BottomCenter,,0000,0000,0000,,Entendi...
+Dialogue: 0,0:12:54.25,0:12:56.67,BottomCenter,,0000,0000,0000,,Aquece o meu coração que\No Genos tenha encontrado
+Dialogue: 0,0:12:56.75,0:13:00.04,BottomCenter,,0000,0000,0000,,um mentor tão respeitável.\NQuando Genos e eu nos conhecemos...
+Dialogue: 0,0:13:00.13,0:13:02.88,BottomCenter,,0000,0000,0000,,-Ele veio buscá-lo, Genos!\N-...não tínhamos aliados.
+Dialogue: 0,0:13:03.00,0:13:06.54,BottomCenter,,0000,0000,0000,,-Está apertado aqui, então pode ir saindo!\N-Nós vagamos pela escuridão...
+Dialogue: 0,0:13:06.63,0:13:08.13,BottomCenter,,0000,0000,0000,,-Tchau, Fétido!\N-Enfrentamos o mal...
+Dialogue: 0,0:13:08.21,0:13:10.96,BottomCenter,,0000,0000,0000,,Doutor, por favor,\Nresuma em 20 caracteres ou menos.
+Dialogue: 0,0:13:11.17,0:13:12.83,BottomCenter,,0000,0000,0000,,Como assim? Não diga isso.
+Dialogue: 0,0:13:12.96,0:13:17.21,BottomCenter,,0000,0000,0000,,Já que eu sabia que visitaria\Na casa do Saitama, eu trouxe um agrado.
+Dialogue: 0,0:13:17.29,0:13:19.46,BottomCenter,,0000,0000,0000,,É algum tipo de aprimoramento\Npara o mestre?
+Dialogue: 0,0:13:19.63,0:13:21.08,BottomCenter,,0000,0000,0000,,Ei, eu sou humano, sabe...
+Dialogue: 0,0:13:21.17,0:13:24.83,BottomCenter,,0000,0000,0000,,O kit de carne deluxe premium definitivo.
+Dialogue: 0,0:13:24.92,0:13:26.50,BottomCenter,,0000,0000,0000,,Qualidade máxima.
+Dialogue: 0,0:13:26.71,0:13:31.21,BottomCenter,,0000,0000,0000,,Considere um símbolo de gratidão\Npor cuidar do Genos. Você aceita?
+Dialogue: 0,0:13:31.33,0:13:33.54,BottomCenter,,0000,0000,0000,,Carne chique?
+Dialogue: 0,0:13:33.63,0:13:36.25,BottomCenter,,0000,0000,0000,,Faz muito tempo que não como carne.
+Dialogue: 0,0:13:36.46,0:13:38.00,BottomCenter,,0000,0000,0000,,Fétido...
+Dialogue: 0,0:13:38.08,0:13:39.42,BottomCenter,,0000,0000,0000,,Quer dizer, Dr. Fétido.
+Dialogue: 0,0:13:40.04,0:13:44.29,BottomCenter,,0000,0000,0000,,Como mentor de Genos, tenho certeza\Nde que temos muito para conversar.
+Dialogue: 0,0:13:44.63,0:13:47.33,BottomCenter,,0000,0000,0000,,Sinta-se à vontade\Npara aparecer sempre que quiser!
+Dialogue: 0,0:13:47.46,0:13:49.33,BottomCenter,,0000,0000,0000,,{\i1}Que otário. Foi fácil demais.{\i0}
+Dialogue: 0,0:13:49.42,0:13:53.00,BottomCenter,,0000,0000,0000,,{\i1}Agora me sinto burra{\i0}\N{\i1}por pensar que seria difícil recrutá-lo.{\i0}
+Dialogue: 0,0:13:53.38,0:13:55.50,BottomCenter,,0000,0000,0000,,Ok, vamos colocar isso\Nno caldo quente também.
+Dialogue: 0,0:13:55.58,0:13:57.25,BottomCenter,,0000,0000,0000,,Eu vou cortar os legumes.
+Dialogue: 0,0:13:57.50,0:14:00.54,BottomCenter,,0000,0000,0000,,Você vai usar essa carne premium\Nnum caldo quente?
+Dialogue: 0,0:14:00.63,0:14:02.88,BottomCenter,,0000,0000,0000,,Que desperdício.
+Dialogue: 0,0:14:03.58,0:14:05.83,BottomCenter,,0000,0000,0000,,Tem vinho tinto aqui?
+Dialogue: 0,0:14:05.96,0:14:07.50,BottomCenter,,0000,0000,0000,,Hã? Claro que não.
+Dialogue: 0,0:14:08.71,0:14:11.38,BottomCenter,,0000,0000,0000,,{\i1}Vocês não estão pensando{\i0}\N{\i1}em ficar para o jantar, estão?{\i0}
+Dialogue: 0,0:14:11.46,0:14:14.08,BottomCenter,,0000,0000,0000,,{\i1}Se não têm mais o que fazer aqui,{\i0}\N{\i1}é hora de ir.{\i0}
+Dialogue: 0,0:14:14.17,0:14:16.92,BottomCenter,,0000,0000,0000,,{\i1}Vamos, King, velhos, vão para casa!{\i0}
+Dialogue: 0,0:14:17.58,0:14:21.88,BottomCenter,,0000,0000,0000,,Tivemos uma conversinha com o Garou.\NE ele falhou no teste.
+Dialogue: 0,0:14:22.29,0:14:24.96,BottomCenter,,0000,0000,0000,,Bem, na verdade,\Nno calor do momento, nós o matamos.
+Dialogue: 0,0:14:25.38,0:14:31.25,BottomCenter,,0000,0000,0000,,Dissemos que só queríamos conversar,\Nmas ele nos atacou de repente!
+Dialogue: 0,0:14:31.33,0:14:33.83,BottomCenter,,0000,0000,0000,,Desprezível, não é, Deus-Inseto?
+Dialogue: 0,0:14:35.04,0:14:37.63,BottomCenter,,0000,0000,0000,,Essas mentiras inúteis\Nsão tudo o que você tem?
+Dialogue: 0,0:14:38.04,0:14:40.88,BottomCenter,,0000,0000,0000,,Diga-me o que realmente aconteceu.
+Dialogue: 0,0:14:41.04,0:14:44.75,BottomCenter,,0000,0000,0000,,Ele era apenas um cara meia-boca\Nse autodenominando monstro.
+Dialogue: 0,0:14:44.88,0:14:48.75,BottomCenter,,0000,0000,0000,,Ele poderia nos atacar a qualquer momento,\Ndependendo da situação.
+Dialogue: 0,0:14:49.42,0:14:50.50,BottomCenter,,0000,0000,0000,,E daí?
+Dialogue: 0,0:14:50.54,0:14:54.13,BottomCenter,,0000,0000,0000,,Você tem algum problema\Npor termos decidido acabar com ele?
+Dialogue: 0,0:14:54.25,0:14:57.17,BottomCenter,,0000,0000,0000,,Nada a reclamar.\NFico feliz que vocês dois tenham ido.
+Dialogue: 0,0:14:57.25,0:15:00.63,BottomCenter,,0000,0000,0000,,Vocês dois parecem bastante machucados.\NEle era forte?
+Dialogue: 0,0:15:01.67,0:15:04.21,BottomCenter,,0000,0000,0000,,Aquele magrelo\Nera mais forte do que eu esperava
+Dialogue: 0,0:15:04.29,0:15:05.42,BottomCenter,,0000,0000,0000,,e me pegou de surpresa.
+Dialogue: 0,0:15:05.63,0:15:08.38,BottomCenter,,0000,0000,0000,,Agora entendo porque você enviou nós dois.
+Dialogue: 0,0:15:08.46,0:15:10.08,BottomCenter,,0000,0000,0000,,Então ele está mesmo morto?
+Dialogue: 0,0:15:10.17,0:15:12.79,BottomCenter,,0000,0000,0000,,Não conferimos,\Nmas tenho quase certeza de que sim.
+Dialogue: 0,0:15:13.08,0:15:15.58,BottomCenter,,0000,0000,0000,,Foi porque o Deus-Inseto\Ndemorou para me deter.
+Dialogue: 0,0:15:15.71,0:15:18.58,BottomCenter,,0000,0000,0000,,Você quis matá-lo desde o começo!
+Dialogue: 0,0:15:20.08,0:15:20.96,BottomCenter,,0000,0000,0000,,{\i1}Velho...{\i0}
+Dialogue: 0,0:15:23.17,0:15:25.50,BottomCenter,,0000,0000,0000,,Então, o que tem esse garoto?
+Dialogue: 0,0:15:25.88,0:15:28.13,BottomCenter,,0000,0000,0000,,Ele nos viu, então nós o trouxemos.
+Dialogue: 0,0:15:28.63,0:15:31.42,BottomCenter,,0000,0000,0000,,Do que você está rindo?\NSe livrem dele imediatamente.
+Dialogue: 0,0:15:31.50,0:15:33.58,BottomCenter,,0000,0000,0000,,Ah, não fique tão zangado.
+Dialogue: 0,0:15:33.67,0:15:36.38,BottomCenter,,0000,0000,0000,,Eu o trouxe para poder\Ntorturá-lo com calma depois.
+Dialogue: 0,0:15:36.46,0:15:38.00,BottomCenter,,0000,0000,0000,,Preciso descarregar a raiva,
+Dialogue: 0,0:15:38.08,0:15:41.42,BottomCenter,,0000,0000,0000,,senão vou acabar cortando\Nalguém por aqui de novo.
+Dialogue: 0,0:15:42.00,0:15:44.21,BottomCenter,,0000,0000,0000,,Não temos mais tempo para brincadeiras.
+Dialogue: 0,0:15:44.67,0:15:46.63,BottomCenter,,0000,0000,0000,,Um robô de vigilância\Nda Associação dos Heróis
+Dialogue: 0,0:15:46.71,0:15:48.67,BottomCenter,,0000,0000,0000,,foi visto perto do nosso esconderijo.
+Dialogue: 0,0:15:48.75,0:15:52.33,BottomCenter,,0000,0000,0000,,Eles vão achar este lugar\Nem menos de um dia.
+Dialogue: 0,0:15:52.67,0:15:56.38,BottomCenter,,0000,0000,0000,,Significa que os heróis Classe-S,\Nque esperávamos, serão enviados pra cá.
+Dialogue: 0,0:15:56.46,0:15:58.58,BottomCenter,,0000,0000,0000,,E eles são adversários formidáveis.
+Dialogue: 0,0:15:59.08,0:16:01.29,BottomCenter,,0000,0000,0000,,Todos, preparem-se para a batalha!
+Dialogue: 0,0:16:01.79,0:16:03.75,BottomCenter,,0000,0000,0000,,É verdade que foi uma vitória fácil?
+Dialogue: 0,0:16:03.83,0:16:06.79,BottomCenter,,0000,0000,0000,,Sim, o Gyoro-Gyoro escolhe oponentes\Ncom base na compatibilidade.
+Dialogue: 0,0:16:06.88,0:16:08.33,BottomCenter,,0000,0000,0000,,Compatibilidade, uma ova!
+Dialogue: 0,0:16:08.63,0:16:10.96,BottomCenter,,0000,0000,0000,,Se acovardando diante de meros humanos!?
+Dialogue: 0,0:16:11.25,0:16:16.25,BottomCenter,,0000,0000,0000,,Monstros fortes como eu\Nacabariam com eles em um confronto direto.
+Dialogue: 0,0:16:16.50,0:16:17.79,BottomCenter,,0000,0000,0000,,Patético!
+Dialogue: 0,0:16:18.46,0:16:21.54,BottomCenter,,0000,0000,0000,,Se essa história for verdade,\Neu também posso me tornar um...
+Dialogue: 0,0:16:21.71,0:16:24.04,BottomCenter,,0000,0000,0000,,O Rei dos Monstros Phoenix Man!
+Dialogue: 0,0:16:24.42,0:16:25.92,BottomCenter,,0000,0000,0000,,Ouçam, pessoal.
+Dialogue: 0,0:16:26.13,0:16:30.08,BottomCenter,,0000,0000,0000,,Eu quero uma morte de cada um de vocês.\NArrisquem suas vidas!
+Dialogue: 0,0:16:30.88,0:16:33.58,BottomCenter,,0000,0000,0000,,E o crédito será todo meu!
+Dialogue: 0,0:16:36.00,0:16:38.92,BottomCenter,,0000,0000,0000,,Você não ouviu? Nada de matar monstros.
+Dialogue: 0,0:16:39.17,0:16:43.00,BottomCenter,,0000,0000,0000,,Vocês, pseudo-monstros, não têm o direito\Nde nos desafiar, monstros de verdade.
+Dialogue: 0,0:16:43.13,0:16:44.58,BottomCenter,,0000,0000,0000,,Aprendam o seu lugar!
+Dialogue: 0,0:16:44.71,0:16:48.13,BottomCenter,,0000,0000,0000,,Cabeludemon, você é tão poderoso!\NVocê é nível de ameaça Demônio?
+Dialogue: 0,0:16:48.21,0:16:50.29,BottomCenter,,0000,0000,0000,,Como um tigre com asas\Ne cabelos castanhos compridos.
+Dialogue: 0,0:16:50.38,0:16:53.75,BottomCenter,,0000,0000,0000,,Alisar meu cabelo me deu poder.\NIsso é o que criou o Cabeludemon.
+Dialogue: 0,0:16:53.79,0:16:57.29,BottomCenter,,0000,0000,0000,,Uau, então você virou um monstro\Nsó cuidando dos cabelos?
+Dialogue: 0,0:16:57.83,0:17:01.08,BottomCenter,,0000,0000,0000,,Aí, Nyaan,\Nquando o Pretty Pretty Prisoner aparecer,
+Dialogue: 0,0:17:01.17,0:17:02.83,BottomCenter,,0000,0000,0000,,nos deixe cuidar dele.
+Dialogue: 0,0:17:02.96,0:17:06.42,BottomCenter,,0000,0000,0000,,Sim, gostei da ideia.\NEstamos fortes o bastante para nos vingar.
+Dialogue: 0,0:17:06.54,0:17:09.04,BottomCenter,,0000,0000,0000,,Não vou sossegar até matá-lo pessoalmente.
+Dialogue: 0,0:17:09.79,0:17:12.21,BottomCenter,,0000,0000,0000,,Muito bem.\NFaçam o que quiserem e percam a linha.
+Dialogue: 0,0:17:12.92,0:17:14.42,BottomCenter,,0000,0000,0000,,O único oponente de alto nível
+Dialogue: 0,0:17:14.50,0:17:16.96,BottomCenter,,0000,0000,0000,,na Associação dos Heróis\Né o Lightspeed Flash.
+Dialogue: 0,0:17:17.42,0:17:19.00,BottomCenter,,0000,0000,0000,,Os outros são peixes pequenos.
+Dialogue: 0,0:17:19.25,0:17:22.42,BottomCenter,,0000,0000,0000,,Tem pessoas com poderes sobrenaturais\Ne robôs lutando junto deles.
+Dialogue: 0,0:17:22.79,0:17:24.63,BottomCenter,,0000,0000,0000,,Robôs são irrelevantes.
+Dialogue: 0,0:17:25.00,0:17:29.54,BottomCenter,,0000,0000,0000,,Nenhuma máquina seria capaz de acompanhar\Na velocidade de um ninja.
+Dialogue: 0,0:18:30.67,0:18:32.00,BottomCenter,,0000,0000,0000,,E os poderes sobrenaturais?
+Dialogue: 0,0:18:34.50,0:18:37.83,BottomCenter,,0000,0000,0000,,Vamos matá-los tão rápido\Nque não vão conseguir ativar os poderes.
+Dialogue: 0,0:18:47.08,0:18:49.75,BottomCenter,,0000,0000,0000,,Você é o G5, certo?
+Dialogue: 0,0:18:51.04,0:18:53.92,BottomCenter,,0000,0000,0000,,O que é isso?\NVocê roubou isso de algum lugar?
+Dialogue: 0,0:18:54.00,0:18:57.67,BottomCenter,,0000,0000,0000,,É uma coisinha que peguei\Npor interesse próprio.
+Dialogue: 0,0:18:58.21,0:19:00.96,BottomCenter,,0000,0000,0000,,Pretendo desmontá-la\Ne analisá-la em detalhes.
+Dialogue: 0,0:19:01.08,0:19:03.46,BottomCenter,,0000,0000,0000,,{\i1}O Metal Knight está em pedaços?!{\i0}
+Dialogue: 0,0:19:03.96,0:19:05.96,BottomCenter,,0000,0000,0000,,É uma amostra valiosa.
+Dialogue: 0,0:19:06.46,0:19:07.46,BottomCenter,,0000,0000,0000,,Com licença.
+Dialogue: 0,0:19:12.71,0:19:15.96,BottomCenter,,0000,0000,0000,,Waganma, eu trouxe um amigo.
+Dialogue: 0,0:19:17.58,0:19:22.38,BottomCenter,,0000,0000,0000,,Quem é você? Eu sou o Tareo.\NVocê também foi capturado pelos monstros?
+Dialogue: 0,0:19:22.83,0:19:25.08,BottomCenter,,0000,0000,0000,,Ah... Waganma?
+Dialogue: 0,0:19:25.54,0:19:28.67,BottomCenter,,0000,0000,0000,,Sim. E aí, já está de noite?
+Dialogue: 0,0:19:29.00,0:19:30.21,BottomCenter,,0000,0000,0000,,Sim.
+Dialogue: 0,0:19:30.79,0:19:33.17,BottomCenter,,0000,0000,0000,,Você tem comida?
+Dialogue: 0,0:19:33.25,0:19:37.33,BottomCenter,,0000,0000,0000,,Eu tenho um doce.\NSó tenho um pedaço, mas se quiser...
+Dialogue: 0,0:19:40.83,0:19:41.79,BottomCenter,,0000,0000,0000,,Tem mais?
+Dialogue: 0,0:19:41.92,0:19:43.96,BottomCenter,,0000,0000,0000,,Desculpe, não.
+Dialogue: 0,0:19:44.54,0:19:46.67,BottomCenter,,0000,0000,0000,,Droga, você é inútil.
+Dialogue: 0,0:19:47.75,0:19:50.83,BottomCenter,,0000,0000,0000,,Então, o que vai acontecer com a gente?
+Dialogue: 0,0:19:51.13,0:19:53.63,BottomCenter,,0000,0000,0000,,Aqueles monstros são bem burros.
+Dialogue: 0,0:19:53.71,0:19:54.58,BottomCenter,,0000,0000,0000,,O quê?{Timing too short 870 ms}
+Dialogue: 0,0:19:54.67,0:19:56.79,BottomCenter,,0000,0000,0000,,De todas as pessoas, eles me sequestraram!
+Dialogue: 0,0:19:57.04,0:19:59.75,BottomCenter,,0000,0000,0000,,Meu pai é importante\Nna Associação dos Heróis.
+Dialogue: 0,0:20:00.04,0:20:01.00,BottomCenter,,0000,0000,0000,,É sério?
+Dialogue: 0,0:20:01.08,0:20:03.46,BottomCenter,,0000,0000,0000,,Sim, tenho certeza\Nde que não ficarão parados.
+Dialogue: 0,0:20:03.54,0:20:05.50,BottomCenter,,0000,0000,0000,,Não vai demorar\Npra eles virem me salvar.
+Dialogue: 0,0:20:05.58,0:20:08.63,BottomCenter,,0000,0000,0000,,Talvez mande eles te salvarem também,\Njá que vão estar por aqui.
+Dialogue: 0,0:20:08.71,0:20:11.17,BottomCenter,,0000,0000,0000,,-Sério?\N-Vou pedir heróis pra você.
+Dialogue: 0,0:20:11.25,0:20:12.63,BottomCenter,,0000,0000,0000,,Sim, por favor!
+Dialogue: 0,0:20:12.79,0:20:16.67,BottomCenter,,0000,0000,0000,,-A partir de agora, é meu subordinado.\N-Hã?
+Dialogue: 0,0:20:17.08,0:20:19.58,BottomCenter,,0000,0000,0000,,Tem problema com isso?\NQuer ser resgatado, certo?
+Dialogue: 0,0:20:19.75,0:20:20.75,BottomCenter,,0000,0000,0000,,Sim.
+Dialogue: 0,0:20:20.96,0:20:22.63,BottomCenter,,0000,0000,0000,,Quero ir para casa.
+Dialogue: 0,0:20:22.75,0:20:24.67,BottomCenter,,0000,0000,0000,,Do que vocês dois estão falando?
+Dialogue: 0,0:20:24.75,0:20:26.42,BottomCenter,,0000,0000,0000,,Ah! Um monstro!
+Dialogue: 0,0:20:26.75,0:20:29.79,BottomCenter,,0000,0000,0000,,Desculpe,\Nmas vocês dois nunca vão para casa.
+Dialogue: 0,0:20:29.88,0:20:31.63,BottomCenter,,0000,0000,0000,,Que pena.
+Dialogue: 0,0:20:31.75,0:20:35.58,BottomCenter,,0000,0000,0000,,Se você não me deixar ir pra casa agora,\Nos heróis vão vir!
+Dialogue: 0,0:20:37.08,0:20:39.75,BottomCenter,,0000,0000,0000,,Vocês todos vão morrer.\NOs heróis e seu pai também.
+Dialogue: 0,0:20:39.79,0:20:43.67,BottomCenter,,0000,0000,0000,,Tudo porque eles vieram te salvar.\NTodos vão morrer!
+Dialogue: 0,0:20:46.88,0:20:51.71,BottomCenter,,0000,0000,0000,,Os heróis de Classe-S estão chegando!\NVocês vão levar uma surra!
+Dialogue: 0,0:20:51.79,0:20:55.42,BottomCenter,,0000,0000,0000,,Sim, só o Metal Bat\Nseria capaz de vencer todos vocês.
+Dialogue: 0,0:20:55.50,0:20:58.17,BottomCenter,,0000,0000,0000,,Eu sei. Eu o vi de perto.\NÉ fácil pra ele.
+Dialogue: 0,0:20:58.29,0:21:01.50,BottomCenter,,0000,0000,0000,,Sim, claro.\NEu estou morrendo de medo do Metal Bat.
+Dialogue: 0,0:21:03.46,0:21:05.08,BottomCenter,,0000,0000,0000,,Ah, Waganma...
+Dialogue: 0,0:21:05.71,0:21:07.88,BottomCenter,,0000,0000,0000,,Eu vi no noticiário...
+Dialogue: 0,0:21:08.00,0:21:11.38,BottomCenter,,0000,0000,0000,,Todos eles.\NRelâmpago Genji, Heavy Kong, Metal Bat...
+Dialogue: 0,0:21:11.75,0:21:14.21,BottomCenter,,0000,0000,0000,,E também o Metal Knight...\NHá pouco tempo foram...
+Dialogue: 0,0:21:14.29,0:21:17.75,BottomCenter,,0000,0000,0000,,E daí? A Associação dos Heróis\Ntambém tem a Tornado e o Blast.
+Dialogue: 0,0:21:17.92,0:21:20.21,BottomCenter,,0000,0000,0000,,Ah, sim, e tem o King também!
+Dialogue: 0,0:21:20.92,0:21:23.63,BottomCenter,,0000,0000,0000,,Que tal isso?\NAposto que só ouvir esse nome dá medo!
+Dialogue: 0,0:21:23.83,0:21:28.42,BottomCenter,,0000,0000,0000,,Ei, garoto. Sabe por que\Na Associação dos Monstros foi criada?
+Dialogue: 0,0:21:28.58,0:21:32.21,BottomCenter,,0000,0000,0000,,Para varrer\Ncada uma daquelas pragas do mapa.
+Dialogue: 0,0:21:32.46,0:21:36.75,BottomCenter,,0000,0000,0000,,Sabíamos desde o início que os heróis\Nde Classe-S são bastante fortes.
+Dialogue: 0,0:21:36.83,0:21:40.67,BottomCenter,,0000,0000,0000,,Mas eu continuo afirmando.\NTodos os heróis vão morrer.
+Dialogue: 0,0:21:41.17,0:21:44.79,BottomCenter,,0000,0000,0000,,Temos monstros loucos muito mais perigosos\Ndo que os heróis de Classe-S.
+Dialogue: 0,0:21:45.00,0:21:49.75,BottomCenter,,0000,0000,0000,,Especialmente nossos monstros de topo,\Nque são nível de ameaça Dragão.
+Dialogue: 0,0:21:56.96,0:21:59.79,BottomCenter,,0000,0000,0000,,Possuindo uma força milagrosa,
+Dialogue: 0,0:21:59.92,0:22:04.17,BottomCenter,,0000,0000,0000,,eles são como obras de arte de Deus!
+Dialogue: 0,0:22:04.38,0:22:07.00,BottomCenter,,0000,0000,0000,,Humanos não têm chance contra eles.
+Dialogue: 0,0:22:08.04,0:22:09.71,BottomCenter,,0000,0000,0000,,Até o King vai morrer.
+Dialogue: 0,0:23:56.13,0:24:00.96,TopCenter,,0000,0000,0000,,SINAL PARA CONTRA-ATACAR
+

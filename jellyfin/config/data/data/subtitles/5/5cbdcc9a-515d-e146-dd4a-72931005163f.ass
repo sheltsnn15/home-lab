@@ -1,0 +1,419 @@
+[Script Info]
+Title: [Erai-raws] Deutsch
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Internal,Arial Bold,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: Top,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0000,0000,0020,1
+Style: Overlap,Arial Bold,23,&H00F3EDE3,&H000000FF,&H00362B17,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: Flashback,Arial Bold,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: TypePlaceholder,Arial Bold,19,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0020,1
+Style: TypePlaceholderBox,Arial Bold,22,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,2,0,8,0010,0010,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:24.71,0:00:24.92,TypePlaceholder,TYPE,0000,0000,0000,,{\fnGeorgia bold\fs+5\shad1\c&HDC006C&\fad(0,146)\4c&HFAE6F7&}Wolf
+Dialogue: 0,0:00:25.09,0:00:25.54,TypePlaceholder,TYPE,0000,0000,0000,,{\fnGeorgia bold\fs+5\shad1\c&H0FBDD7&\fad(150,150)\4c&HAAFFFE&\pos(190.286,43.429)}Tiger
+Dialogue: 0,0:00:25.62,0:00:26.08,TypePlaceholder,TYPE,0000,0000,0000,,{\fnGeorgia bold\fs+5\shad1\c&H0600B8&\fad(150,150)\4c&HC1DFFD&\pos(159.429,27.429)}Dämon
+Dialogue: 0,0:00:26.21,0:00:26.67,TypePlaceholder,TYPE,0000,0000,0000,,{\fnGeorgia bold\fs+5\shad1\c&H798D14&\fad(150,150)\4c&HFEFFAA&\pos(196,25.715)}Drache
+Dialogue: 0,0:01:41.00,0:01:47.92,TypePlaceholder,TYPE,0000,0000,0000,,{\fnImpact\fsp1\c&H402D30&\fax-0.25\fs+4\frz5.491\move(355.5,280,359.5,-34,17,6899)}Schmeichelt den Monstern!!!
+Dialogue: 0,0:01:44.03,0:01:47.58,Default,Anführer der Partei der Monsterverehrung,0000,0000,0000,,Am Zustand der Heldenvereinigung\Nwird deutlich,
+Dialogue: 0,0:01:46.63,0:01:52.22,TypePlaceholder,TYPE,0000,0000,0000,,{\fnVerdana bold\c&H3E50AA&\fs-1\fax-0.1\frz12.65\move(370.5,366,370.5,134.5,18,5565)}Kapitulation
+Dialogue: 0,0:01:47.58,0:01:50.10,Default,Anführer der Partei der Monsterverehrung,0000,0000,0000,,dass die Menschheit keine Siegchance hat!
+Dialogue: 0,0:01:50.10,0:01:52.22,Default,Anführer der Partei der Monsterverehrung,0000,0000,0000,,Wir sollten kapitulieren!
+Dialogue: 0,0:01:52.22,0:01:56.60,Default,Anführer der Partei der Monsterverehrung,0000,0000,0000,,Widerstand führt nur\Nzur Tötung aller Menschen!
+Dialogue: 0,0:01:52.22,0:02:00.47,TypePlaceholder,TYPE,0000,0000,0000,,{\fnComic Sans MS bold\bord3\c&H2C2022&\fs+2\fax-0.1\3c&HFEFEFE&\move(468,183.5,637.5,-40,17,8233)}Die {\c&H494EA3&}Menschheit\N{\c&H2C2022&}hat keine Chance!!
+Dialogue: 0,0:01:52.22,0:02:02.02,TypePlaceholder,TYPE,0000,0000,0000,,{\fnImpact\fsp1\fs+1\c&H7C5158&\fax-0.2\frz353.9\move(-38.5,223,183,-75,17,9776)}Kooperation\Nmit den\NMonstern
+Dialogue: 0,0:01:56.60,0:01:59.58,Default,Anführer der Partei der Monsterverehrung,0000,0000,0000,,Wir, die Partei der Monsterverehrung,
+Dialogue: 0,0:01:59.58,0:02:02.02,Default,Anführer der Partei der Monsterverehrung,0000,0000,0000,,haben die einzige Lösung ersonnen!
+Dialogue: 0,0:02:02.02,0:02:22.00,TypePlaceholder,TYPE,0000,0000,0000,,{\fnVerdana bold\fs-2\bord3\c&HFFFFFC&\3c&H4B50A1&\pos(127,20)}Schmeichelt den Monstern!\NMonsterverehrung\N{\fnGeorgia Bold}Mit Monstern in Koexistenz\N{\fnVerdana bold\c&H424346&\3c&H7D94A6&}Monsterverehrung\N{\fnGeorgia Bold\c&H2E1E1F&\3c&H424796&}Schmeichelt den Monstern!
+Dialogue: 0,0:02:02.48,0:02:05.85,Default,Anführer der Partei der Monsterverehrung,0000,0000,0000,,Bringt den Monstern\Nregelmäßig Menschenopfer dar.
+Dialogue: 0,0:02:05.85,0:02:11.73,Default,Anführer der Partei der Monsterverehrung,0000,0000,0000,,Durch Regelung des Gefressenwerdens\Nwird die Ausrottung der Menschheit umgangen!
+Dialogue: 0,0:02:12.32,0:02:17.12,Default,Anführer der Partei der Monsterverehrung,0000,0000,0000,,Reiht euch ein, wenn auch ihr\Nan der Seite der Monster stehen wollt!
+Dialogue: 0,0:02:17.60,0:02:22.00,Default,Anführer der Partei der Monsterverehrung,0000,0000,0000,,So überleben wir in einer Welt,\Nderen Vernunft und Ethik erneuert werden!
+Dialogue: 0,0:02:22.00,0:02:23.66,Default,Bürger A,0000,0000,0000,,So ein Blödsinn!
+Dialogue: 0,0:02:23.66,0:02:27.21,Default,Bürger A,0000,0000,0000,,Bevor ich mich auf die Seite\Nder Monster schlage, sterbe ich lieber!
+Dialogue: 0,0:02:27.21,0:02:33.05,TypePlaceholder,TYPE,0000,0000,0000,,{\fnTrebuchet MS bold\bord3\c&H483233&\3c&HDADAD6&\pos(331,23)\frz2.033}Monster
+Dialogue: 0,0:02:28.09,0:02:29.42,Default,Anführer der Partei der Monsterverehrung,0000,0000,0000,,Wie passend!
+Dialogue: 0,0:02:29.42,0:02:33.05,Default,Anführer der Partei der Monsterverehrung,0000,0000,0000,,Da haben wir ja unser\Nerstes Menschenopfer gefunden!
+Dialogue: 0,0:02:33.05,0:02:34.33,Default,Anführer der Partei der Monsterverehrung,0000,0000,0000,,Ergreift ihn!
+Dialogue: 0,0:02:35.76,0:02:38.22,Default,Bürger A,0000,0000,0000,,N-Nicht doch!
+Dialogue: 0,0:02:40.43,0:02:41.89,TypePlaceholder,TYPE,0000,0000,0000,,{\fnTrebuchet MS bold\bord3\c&H483233&\fs+2\3c&HDADAD6&}Monster
+Dialogue: 0,0:02:42.76,0:02:46.28,Default,Garo,0000,0000,0000,,Andere opfern,\Num seine eigene Haut zu retten?
+Dialogue: 0,0:02:46.64,0:02:49.36,Default,Garo,0000,0000,0000,,Ihr unterschätzt die Monster maßlos!
+Dialogue: 0,0:02:49.36,0:02:52.99,Internal,Garo,0000,0000,0000,,Wie leicht die menschliche Gesellschaft\Ndoch zu erschüttern ist.
+Dialogue: 0,0:02:52.99,0:02:54.61,Internal,Garo,0000,0000,0000,,Wie entmutigend.
+Dialogue: 0,0:02:55.06,0:02:57.16,Internal,Garo,0000,0000,0000,,Bei diesen Verhältnissen
+Dialogue: 0,0:02:57.16,0:02:59.27,Internal,Garo,0000,0000,0000,,werde ich, das stärkste aller Monster,
+Dialogue: 0,0:02:59.27,0:03:02.76,Internal,Garo,0000,0000,0000,,bei meinem großartigem Auftritt\Neine geringere Wirkung hinterlassen.
+Dialogue: 0,0:03:02.76,0:03:04.58,Internal,Garo,0000,0000,0000,,Das steht zu befürchten.
+Dialogue: 0,0:03:04.58,0:03:09.25,TypePlaceholder,TYPE,0000,0000,0000,,{\fnGeorgia Bold\an2\fs+3\fad(0,550)\bord2\c&HFFFFFF&\3c&H000000&\pos(475.71,241.93)}Bedingung der Monster
+Dialogue: 0,0:03:04.58,0:03:10.37,Top,Ansager,0000,0000,0000,,Vielerorts kommt es zu Ausschreitungen\Nwie Überfällen, Einbrüchen und Diebstählen.
+Dialogue: 0,0:03:10.37,0:03:15.22,Default,Ansager,0000,0000,0000,,Polizei und Heldenvereinigung verstärken\Nihre Patrouillen und mahnen zur Vorsicht.
+Dialogue: 0,0:03:15.77,0:03:17.18,Default,Ansager,0000,0000,0000,,Zudem marschieren in S-Stadt
+Dialogue: 0,0:03:17.18,0:03:21.95,Default,Ansager,0000,0000,0000,,Gruppen auf, die das baldige Ende\Nder Menschheitsgeschichte skandieren,
+Dialogue: 0,0:03:21.95,0:03:24.10,Default,Ansager,0000,0000,0000,,was die Unruhen weiter anfacht.
+Dialogue: 0,0:03:24.52,0:03:29.37,Internal,Garo,0000,0000,0000,,Nur weil Monster wüten, werden dadurch\Ndie eigenen Sünden nicht geringer!
+Dialogue: 0,0:03:30.18,0:03:33.15,Internal,Garo,0000,0000,0000,,Weil die Monster-Vereinigung\Nnur herumstümpert,
+Dialogue: 0,0:03:33.15,0:03:36.00,Internal,Garo,0000,0000,0000,,werden lauter Großmäuler\Nhier noch frech!
+Dialogue: 0,0:03:36.83,0:03:39.91,Default,Halbstarker,0000,0000,0000,,Was los, Alter?\NDu hast mich doch angerempelt!
+Dialogue: 0,0:03:39.91,0:03:42.24,Default,Halbstarker,0000,0000,0000,,Hast du ’n Problem, oder was?
+Dialogue: 0,0:03:39.91,0:03:42.24,Top,Bürger B,0000,0000,0000,,Aufhören! So darf man doch\Nmit Älteren nicht umgehen!
+Dialogue: 0,0:03:42.60,0:03:45.23,Default,Halbstarker,0000,0000,0000,,Schnauze!\NDer hat mich doch angerempelt!
+Dialogue: 0,0:03:45.23,0:03:47.33,Default,Bürger C,0000,0000,0000,,Der ist besoffen!\NVöllig außer Kontrolle!
+Dialogue: 0,0:03:47.33,0:03:50.73,Default,Halbstarker,0000,0000,0000,,Wir werden sowieso alle\Nvon den Monstern getötet!
+Dialogue: 0,0:03:50.73,0:03:52.42,Default,Halbstarker,0000,0000,0000,,Mir ist jetzt alles egal!
+Dialogue: 0,0:03:52.42,0:03:55.92,Default,Garo,0000,0000,0000,,He!\NDu blockierst den Eingang zum Geschäft!
+Dialogue: 0,0:03:55.92,0:03:56.63,Default,Garo,0000,0000,0000,,Verschwinde!
+Dialogue: 0,0:03:56.63,0:03:57.94,Default,Halbstarker,0000,0000,0000,,Hä?
+Dialogue: 0,0:03:57.94,0:04:00.76,Default,Halbstarker,0000,0000,0000,,Haste was gesagt, du Knirps?
+Dialogue: 0,0:04:07.30,0:04:08.64,Default,Garo,0000,0000,0000,,Verpiss dich!
+Dialogue: 0,0:04:09.76,0:04:11.86,Internal,Garo,0000,0000,0000,,Ich bin anders als jene Typen.
+Dialogue: 0,0:04:12.40,0:04:16.32,Internal,Garo,0000,0000,0000,,Ich verbreite eine Furcht, die selbst\Ndieses Gesindel zum Schweigen bringt.
+Dialogue: 0,0:04:17.40,0:04:20.32,Internal,Garo,0000,0000,0000,,Aber jetzt habe ich erst mal Hunger!
+Dialogue: 0,0:04:21.36,0:04:26.19,Default,Bedienung A,0000,0000,0000,,Hier ist Ihr ultradickes Steak im\NVielfrass-Set mit einer Extraportion Reis!
+Dialogue: 0,0:04:26.19,0:04:28.04,Default,Bedienung A,0000,0000,0000,,Guten Appetit!
+Dialogue: 0,0:04:28.84,0:04:30.75,Default,Garo,0000,0000,0000,,Eine mammutiöse Mahlzeit!
+Dialogue: 0,0:04:46.86,0:04:47.81,Default,Garo,0000,0000,0000,,Huch?
+Dialogue: 0,0:04:48.27,0:04:50.73,Default,Garo,0000,0000,0000,,Das reicht hinten und vorne nicht!
+Dialogue: 0,0:04:52.27,0:04:55.66,Default,Garo,0000,0000,0000,,Von dieser Fleischkarte nehme ich\Nvon oben beginnend alles!
+Dialogue: 0,0:04:55.66,0:04:58.07,Default,Garo,0000,0000,0000,,Bring mir auch alles,\Nwas an Salat da ist.
+Dialogue: 0,0:04:58.07,0:05:00.01,Default,Garo,0000,0000,0000,,Und einen großen Pott Wasser!
+Dialogue: 0,0:05:06.06,0:05:07.58,Default,Garo,0000,0000,0000,,Ich bestelle noch etwas!
+Dialogue: 0,0:05:07.58,0:05:11.58,TypePlaceholder,TYPE,0000,0000,0000,,{\fnImpact\fsp2\bord2\fs+5\c&H5543C1&\3c&HF6FEFF&\frz1.29\pos(259.5,58.5)}Kau {\alpha&HFF&\t(1311,1312,\alpha&H00&)}Kau
+Dialogue: 0,0:05:07.91,0:05:11.58,TypePlaceholder,TYPE,0000,0000,0000,,{\fnTrebuchet MS bold\bord1.2\fs+3\c&HFAE6AA&\3c&HB29256&\pos(592,37)}Mampf\NMampf
+Dialogue: 0,0:05:08.25,0:05:11.58,TypePlaceholder,TYPE,0000,0000,0000,,{\fnGeorgia Bold\bord1.5\c&H393D41&\3c&HE4E9EC&\pos(39.5,257.5)}Haps\NHaps
+Dialogue: 0,0:05:08.58,0:05:11.58,TypePlaceholder,TYPE,0000,0000,0000,,{\fnTrebuchet MS bold\bord1.2\fs+3\c&HFAE6AA&\3c&HB29256&\pos(184,139)}Mampf\NMampf
+Dialogue: 0,0:05:09.25,0:05:11.58,TypePlaceholder,TYPE,0000,0000,0000,,{\pos(590,258)\fnTrebuchet MS bold\fs+2\bord1.3\c&H5AC9FB&\3c&H3476BC&}Schluck\N{\c&H58EBFB&\3c&H3F9CC4&}Beiß
+Dialogue: 0,0:05:11.58,0:05:13.54,TypePlaceholder,TYPE,0000,0000,0000,,{\fnImpact\fsp2\bord2\fs+5\c&H5543C1&\3c&HF6FEFF&\pos(543,27.5)\frz0.4379}Kau\NKau
+Dialogue: 0,0:05:11.58,0:05:13.54,TypePlaceholder,TYPE,0000,0000,0000,,{\fnTrebuchet MS bold\bord2\fs+3\c&HFAE6AA&\3c&HAF8045&\frz0\pos(483,262.5)}Mampf\NMampf
+Dialogue: 0,0:05:11.58,0:05:13.54,TypePlaceholder,TYPE,0000,0000,0000,,{\fnTrebuchet MS bold\fs+1\bord1.6\pos(158,102.5)\c&H5AEDFA&\3c&H3E95D1&}Schling\NSchling
+Dialogue: 0,0:05:13.54,0:05:16.50,TypePlaceholder,TYPE,0000,0000,0000,,{\fnTrebuchet MS bold\fs+1\bord1.6\c&H5AEDFA&\3c&H3E95D1&\pos(49,132.5)}Schling\NSchling
+Dialogue: 0,0:05:13.54,0:05:16.50,TypePlaceholder,TYPE,0000,0000,0000,,{\fnImpact\fsp2\bord2\fs+5\c&H5543C1&\3c&HF6FEFF&\frz0.4379\pos(587,71)}Kau\NKau
+Dialogue: 0,0:05:20.38,0:05:22.84,TypePlaceholder,TYPE,0000,0000,0000,,{\fnTrebuchet MS bold\bord3\fs+4\c&HF1DBA3&\3c&HAF8046&\pos(109,313)}Gulp Gulp Gulp
+Dialogue: 0,0:05:20.38,0:05:22.84,TypePlaceholder,TYPE,0000,0000,0000,,{\fnImpact\fsp1\bord1\fs+5\c&H2D2E2C&\pos(524.5,313)}Schluck Schluck
+Dialogue: 0,0:05:23.01,0:05:24.30,TypePlaceholder,TYPE,0000,0000,0000,,{\fad(0,1000)\fnImpact\fsp1\fs+10\bord1.8\c&H3532C6&\move(264,135,256,127.5,21,1272)}Bäm!
+Dialogue: 0,0:05:30.09,0:05:31.38,Default,Saitama,0000,0000,0000,,Pappsatt!
+Dialogue: 0,0:05:31.38,0:05:32.85,Default,Saitama,0000,0000,0000,,Ein paviantastischer Schmaus!
+Dialogue: 0,0:05:32.85,0:05:34.50,Default,Saitama,0000,0000,0000,,Wo hab ich nur …?
+Dialogue: 0,0:05:36.54,0:05:37.30,Default,Saitama,0000,0000,0000,,Ups …?
+Dialogue: 0,0:05:38.90,0:05:41.32,TypePlaceholder,TYPE,0000,0000,0000,,{\fad(950,0)\fnVerdana bold\fscx90\fs+2\move(130,58.5,117,58.5,21,2399)\c&H9F9B99&}Mein Portemonnaie\Nist weg …
+Dialogue: 0,0:05:38.96,0:05:40.40,Internal,Saitama,0000,0000,0000,,Mein Portemonnaie ist weg …
+Dialogue: 0,0:05:41.72,0:05:45.09,Internal,Saitama,0000,0000,0000,,Habe ich es im Supermarkt verloren,\Nals ich den Kohl kaufte?
+Dialogue: 0,0:05:45.53,0:05:47.34,Internal,Saitama,0000,0000,0000,,H-Hilfe!
+Dialogue: 0,0:05:47.96,0:05:51.04,Internal,Saitama,0000,0000,0000,,Genos kann ich auch nicht rufen.\NDer ist schließlich kaputt.
+Dialogue: 0,0:05:53.89,0:05:56.96,Default,Ladenansage,0000,0000,0000,,Unsere Spezialität des Monats:\NFrittierter Tiefseefisch!
+Dialogue: 0,0:05:56.96,0:05:59.50,Default,Ladenansage,0000,0000,0000,,Draußen mag es gerade turbulent zugehen,
+Dialogue: 0,0:05:59.50,0:06:05.58,Default,Ladenansage,0000,0000,0000,,doch hier im Laden sind wir gewappnet\Ngegen Rowdytum, Überfälle und Zechprellerei!
+Dialogue: 0,0:06:07.51,0:06:11.40,Default,Ladenansage,0000,0000,0000,,Unser Wachschutz setzt sich\Naus Ex-Profihelden zusammen.
+Dialogue: 0,0:06:11.40,0:06:14.94,Default,Ladenansage,0000,0000,0000,,Sie können daher beruhigt\NIhre Mahlzeit genießen!
+Dialogue: 0,0:06:16.29,0:06:20.90,Internal,Saitama,0000,0000,0000,,Wenn ich die Ausführungen des Personals höre,\Nwill ich mich am liebsten selbst stellen.
+Dialogue: 0,0:06:21.81,0:06:24.01,Internal,Saitama,0000,0000,0000,,Au Backe! Was nun?
+Dialogue: 0,0:06:24.01,0:06:25.65,Internal,Saitama,0000,0000,0000,,Das ist eine Notlage!
+Dialogue: 0,0:06:25.65,0:06:27.77,Internal,Saitama,0000,0000,0000,,Die größte Gefahr des Jahres!
+Dialogue: 0,0:06:28.70,0:06:30.08,Top,Blizzard,0000,0000,0000,,He, du!
+Dialogue: 0,0:06:29.39,0:06:32.20,Internal,Saitama,0000,0000,0000,,Das könnte mein Ende sein.
+Dialogue: 0,0:06:30.87,0:06:32.22,Default,Blizzard,0000,0000,0000,,Hörst du schlecht?
+Dialogue: 0,0:06:32.58,0:06:34.09,Default,Blizzard,0000,0000,0000,,Saitama!
+Dialogue: 0,0:06:34.69,0:06:36.50,Default,Saitama,0000,0000,0000,,N-Nein! Ich wollte doch nur …
+Dialogue: 0,0:06:36.50,0:06:37.98,Default,Blizzard,0000,0000,0000,,Du wolltest was?
+Dialogue: 0,0:06:39.21,0:06:40.75,Default,Saitama,0000,0000,0000,,Was machst du denn hier?
+Dialogue: 0,0:06:40.75,0:06:43.95,Default,Blizzard,0000,0000,0000,,Du bist gar nicht\Nso leicht zu finden, Saitama!
+Dialogue: 0,0:06:43.95,0:06:46.89,Default,Blizzard,0000,0000,0000,,Mitten in meinen Ausführungen\Nbist du ausgebüxt.
+Dialogue: 0,0:06:46.89,0:06:50.41,Default,Blizzard,0000,0000,0000,,Also, du suchst den Heldenjäger, richtig?
+Dialogue: 0,0:06:50.41,0:06:54.02,Default,Blizzard,0000,0000,0000,,Schön, ausnahmsweise\Nwerde ich dir helfen.
+Dialogue: 0,0:06:54.02,0:06:55.82,Default,Saitama,0000,0000,0000,,Entschuldigung,\Nich möchte was bestellen.
+Dialogue: 0,0:06:55.82,0:07:00.07,Default,Blizzard,0000,0000,0000,,Im Gegenzug beanspruche ich\N70 % der Erfolgspunkte für mich.
+Dialogue: 0,0:06:56.78,0:06:58.71,Top,Saitama,0000,0000,0000,,Einen Berg Pommes, bitte.
+Dialogue: 0,0:07:00.65,0:07:04.28,Default,Blizzard,0000,0000,0000,,Du bist zwar bereits bis auf Rang 7\Nder B-Klasse geklettert,
+Dialogue: 0,0:07:04.28,0:07:06.89,Default,Blizzard,0000,0000,0000,,doch ab hier wird der Aufstieg steinig.
+Dialogue: 0,0:07:07.46,0:07:13.12,Default,Blizzard,0000,0000,0000,,Wenn diese Sache hier gut läuft,\Nwäre sogar Rang 5 realistisch.
+Dialogue: 0,0:07:13.12,0:07:17.77,Default,Blizzard,0000,0000,0000,,Doch dafür ist\Nmeine Unterstützung unabdingbar.
+Dialogue: 0,0:07:17.77,0:07:19.46,Default,Blizzard,0000,0000,0000,,So wie ich dich kenne,
+Dialogue: 0,0:07:19.46,0:07:23.13,Default,Blizzard,0000,0000,0000,,hast du weder Eigenschaften\Nnoch Aussehen deines Ziels recherchiert.
+Dialogue: 0,0:07:23.13,0:07:25.63,Default,Blizzard,0000,0000,0000,,Du bist unverbesserlich!
+Dialogue: 0,0:07:25.63,0:07:27.51,Default,Blizzard,0000,0000,0000,,Ich füttere dich mit den Infos!
+Dialogue: 0,0:07:27.51,0:07:31.04,Default,Blizzard,0000,0000,0000,,Halte dich genau\Nan meine Anweisungen, dann …
+Dialogue: 0,0:07:27.51,0:07:33.02,TypePlaceholder,TYPE,0000,0000,0000,,{\fnComic Sans MS bold\bord1.2\fs+3\an2\c&HF8DF9F&\3c&H9A8862&\move(229,79,183.5,77,20,5484)}Träum ~
+Dialogue: 0,0:07:31.81,0:07:33.02,Default,Blizzard,0000,0000,0000,,Hörst du zu?!
+Dialogue: 0,0:07:33.02,0:07:35.66,Default,Bedienung B,0000,0000,0000,,Die Pommes!\NLassen Sie es sich schmecken.
+Dialogue: 0,0:07:41.22,0:07:42.39,Default,Blizzard,0000,0000,0000,,Für mich?
+Dialogue: 0,0:07:44.65,0:07:45.75,Default,Blizzard,0000,0000,0000,,Danke.
+Dialogue: 0,0:07:51.24,0:07:53.90,Internal,Blizzard,0000,0000,0000,,Was grinst der denn so dämlich?
+Dialogue: 0,0:07:53.90,0:07:57.30,Internal,Blizzard,0000,0000,0000,,Der freut sich wohl,\Nmit mir zusammenzuarbeiten.
+Dialogue: 0,0:07:57.30,0:08:00.40,Internal,Blizzard,0000,0000,0000,,Ist Saitama damit Mitglied\Nmeiner Blizzard-Bande?
+Dialogue: 0,0:08:00.40,0:08:02.13,Default,Bedienung B,0000,0000,0000,,Ein Zechpreller!
+Dialogue: 0,0:08:02.13,0:08:04.00,Default,Saitama,0000,0000,0000,,Hab noch nix gemacht!
+Dialogue: 0,0:08:04.00,0:08:06.77,Default,Bedienung A,0000,0000,0000,,Jemand muss den Mann festhalten!
+Dialogue: 0,0:08:08.97,0:08:10.37,Default,Saitama,0000,0000,0000,,So ein gemeiner Zechpreller!
+Dialogue: 0,0:08:10.37,0:08:12.19,Default,Saitama,0000,0000,0000,,Den schnapp ich mir!
+Dialogue: 0,0:08:10.37,0:08:12.19,Overlap,Blizzard,0000,0000,0000,,Hallo? Saitama?!
+Dialogue: 0,0:08:12.19,0:08:15.14,Default,Saitama,0000,0000,0000,,Du hast auch Pommes gegessen, oder?\NÜbernimm mal die Rechnung!
+Dialogue: 0,0:08:18.10,0:08:20.63,Internal,Blizzard,0000,0000,0000,,W-Wegen Pommes …?
+Dialogue: 0,0:08:20.63,0:08:22.84,Internal,Blizzard,0000,0000,0000,,Ist das zu fassen?
+Dialogue: 0,0:08:22.84,0:08:27.57,Internal,Blizzard,0000,0000,0000,,Die ganze Welt gerät aus den Fugen\Nund der ist so ein Knauser?
+Dialogue: 0,0:08:30.19,0:08:32.99,Default,Garo,0000,0000,0000,,Für einen Marathon bin ich\Nnoch nicht wieder fit genug …
+Dialogue: 0,0:08:34.03,0:08:38.68,Flashback,Gyro Gyoro,0000,0000,0000,,Es wäre ratsam, deine Wunden im Unterschlupf\Nder Monster-Vereinigung zu heilen.
+Dialogue: 0,0:08:38.68,0:08:43.75,Flashback,Gyro Gyoro,0000,0000,0000,,Doch leider musst du vorher\Nunsere Bedingung erfüllen.
+Dialogue: 0,0:08:44.17,0:08:46.83,Internal,Garo,0000,0000,0000,,Ich soll den Kopf eines Helden bringen …
+Dialogue: 0,0:08:47.34,0:08:51.74,Internal,Garo,0000,0000,0000,,Ich verstehe die Logik nicht, einen Helden\Nzu töten, um als Monster anerkannt zu werden.
+Dialogue: 0,0:08:51.74,0:08:53.47,Internal,Garo,0000,0000,0000,,Ein Monster ist doch eher etwas,
+Dialogue: 0,0:08:53.47,0:08:57.00,Internal,Garo,0000,0000,0000,,dessen reine Existenz\Nbereits pure Furcht verbreitet.
+Dialogue: 0,0:08:58.99,0:09:01.30,Internal,Garo,0000,0000,0000,,Mir brummt der Schädel …
+Dialogue: 0,0:09:06.75,0:09:08.20,Internal,Garo,0000,0000,0000,,Wie auch immer …
+Dialogue: 0,0:09:11.45,0:09:13.05,Default,Junge A,0000,0000,0000,,He, Tareo!
+Dialogue: 0,0:09:13.05,0:09:15.33,Default,Junge A,0000,0000,0000,,Wieso bist du unverletzt geblieben?
+Dialogue: 0,0:09:15.33,0:09:17.45,Default,Junge B,0000,0000,0000,,Bist wohl auch ein Monster?
+Dialogue: 0,0:09:17.45,0:09:19.81,Default,Junge C,0000,0000,0000,,Hässliches Trottelmonster!
+Dialogue: 0,0:09:19.81,0:09:21.92,Default,Tareo,0000,0000,0000,,Das tut weh!
+Dialogue: 0,0:09:25.34,0:09:27.30,Default,Garo,0000,0000,0000,,Schluss jetzt!
+Dialogue: 0,0:09:27.30,0:09:30.26,Default,Jungen,0000,0000,0000,,Mama!
+Dialogue: 0,0:09:31.06,0:09:33.63,Default,Garo,0000,0000,0000,,Was heulst du Fratzengesicht hier herum?
+Dialogue: 0,0:09:33.63,0:09:36.59,Default,Garo,0000,0000,0000,,Kein Wunder, dass du gepiesackt wirst.
+Dialogue: 0,0:09:37.81,0:09:41.23,Default,Garo,0000,0000,0000,,Was für ein Zufall, dass wir uns\Nan einem Tag zweimal über den Weg laufen.
+Dialogue: 0,0:09:41.23,0:09:42.02,Default,Tareo,0000,0000,0000,,Der Opa?
+Dialogue: 0,0:09:42.02,0:09:43.27,TypePlaceholder,TYPE,0000,0000,0000,,{\fad(0,675)\fnTrebuchet MS bold\fs+5\bord1.8\c&H010300&\pos(75,51)}Zuck
+Dialogue: 0,0:09:42.02,0:09:44.52,Default,Garo,0000,0000,0000,,Nix Opa! Ich bin erst 18!
+Dialogue: 0,0:09:46.94,0:09:49.65,Default,Garo,0000,0000,0000,,Verschwinde nach Hause.\NWird bald dunkel!
+Dialogue: 0,0:09:49.65,0:09:52.03,Default,Garo,0000,0000,0000,,Vermutlich tauchen wieder Monster auf.
+Dialogue: 0,0:09:54.36,0:09:55.46,Default,Tareo,0000,0000,0000,,Opa …
+Dialogue: 0,0:09:57.01,0:09:57.98,Default,Tareo,0000,0000,0000,,Tut mir leid, …
+Dialogue: 0,0:09:59.23,0:10:01.28,Default,Tareo,0000,0000,0000,,dass ich abgehauen bin …
+Dialogue: 0,0:10:03.83,0:10:04.83,Default,Garo,0000,0000,0000,,Was?
+Dialogue: 0,0:10:05.44,0:10:06.04,Default,Tareo,0000,0000,0000,,Ich …
+Dialogue: 0,0:10:06.52,0:10:08.37,Default,Tareo,0000,0000,0000,,habe alles mitangesehen!
+Dialogue: 0,0:10:09.25,0:10:12.67,Default,Tareo,0000,0000,0000,,Die Helden wollten dich erledigen.
+Dialogue: 0,0:10:12.67,0:10:15.14,Default,Tareo,0000,0000,0000,,Das war falsch von denen, stimmt’s?
+Dialogue: 0,0:10:15.14,0:10:20.89,Default,Tareo,0000,0000,0000,,Immerhin hattest du mich\Nvor den Kugeln beschützt.
+Dialogue: 0,0:10:20.89,0:10:24.24,Default,Tareo,0000,0000,0000,,Hast mich beschützt,\Ngenau wie jetzt auch!
+Dialogue: 0,0:10:24.60,0:10:27.23,Default,Tareo,0000,0000,0000,,Bestimmt bist du\Nein Verfechter der Gere…
+Dialogue: 0,0:10:28.28,0:10:31.35,Default,Garo,0000,0000,0000,,Lass das!\NDa bekomme ich ja Gänsehaut!
+Dialogue: 0,0:10:31.35,0:10:33.05,Default,Saitama,0000,0000,0000,,He! Zechpreller!
+Dialogue: 0,0:10:34.22,0:10:35.70,Default,Saitama,0000,0000,0000,,He! Zechpreller!
+Dialogue: 0,0:10:36.13,0:10:38.49,Default,Saitama,0000,0000,0000,,So ein Schuft!\NEinfach die Zeche prellen!
+Dialogue: 0,0:10:38.49,0:10:40.34,Internal,Garo,0000,0000,0000,,Ist das ein Held?
+Dialogue: 0,0:10:39.39,0:10:42.07,Top,Saitama,0000,0000,0000,,Hast dir ja den besten Tag\Ndafür ausgesucht, du Schuft!
+Dialogue: 0,0:10:42.07,0:10:43.25,Default,Saitama,0000,0000,0000,,Heute lasse ich dich laufen.
+Dialogue: 0,0:10:43.25,0:10:45.31,Default,Garo,0000,0000,0000,,He, warte! Was soll denn das?
+Dialogue: 0,0:10:44.25,0:10:46.50,Overlap,Saitama,0000,0000,0000,,Lass dir das eine Warnung sein.
+Dialogue: 0,0:10:46.50,0:10:49.06,Default,Garo,0000,0000,0000,,Bist du nicht hier, um mich zu erledigen?
+Dialogue: 0,0:10:49.06,0:10:50.45,Default,Garo,0000,0000,0000,,Hast du Schiss, oder was?
+Dialogue: 0,0:10:50.45,0:10:52.13,Default,Garo,0000,0000,0000,,Was ist dein Heldenname?
+Dialogue: 0,0:10:57.28,0:10:59.97,Default,Saitama,0000,0000,0000,,G-Glatzenumhang …
+Dialogue: 0,0:10:59.97,0:11:01.18,Internal,Garo,0000,0000,0000,,Wie?
+Dialogue: 0,0:11:01.18,0:11:04.06,Internal,Garo,0000,0000,0000,,Hab’s nicht ganz verstanden,\Naber klang nach Held.
+Dialogue: 0,0:11:04.57,0:11:07.03,Internal,Garo,0000,0000,0000,,Wie klein der Fisch auch ist,\NHelden werden gejagt!
+Dialogue: 0,0:11:07.95,0:11:11.73,Default,Tareo,0000,0000,0000,,Im Lexikon steht der nicht.\NBestimmt ein Neuling.
+Dialogue: 0,0:11:11.73,0:11:13.27,Default,Garo,0000,0000,0000,,Scher dich endlich nach Hause!
+Dialogue: 0,0:11:14.99,0:11:17.95,Default,Tareo,0000,0000,0000,,Du bist weggerannt, ohne zu bezahlen?
+Dialogue: 0,0:11:17.95,0:11:20.95,Default,Tareo,0000,0000,0000,,Wenn er drüber hinwegsieht,\Ndann belasse es doch dabei.
+Dialogue: 0,0:11:24.49,0:11:26.12,Internal,Garo,0000,0000,0000,,Ich raste noch aus!
+Dialogue: 0,0:11:27.08,0:11:28.96,Internal,Garo,0000,0000,0000,,Nicht nur die Monster-Vereinigung,
+Dialogue: 0,0:11:28.96,0:11:32.38,Internal,Garo,0000,0000,0000,,jetzt bemitleiden mich schon\NRotzbengel und Heldentölpel!
+Dialogue: 0,0:11:32.38,0:11:33.98,Internal,Garo,0000,0000,0000,,So geht das nicht weiter!
+Dialogue: 0,0:11:34.72,0:11:37.47,Internal,Garo,0000,0000,0000,,Als ich hörte, dass der Alte überlebt hat,
+Dialogue: 0,0:11:37.47,0:11:40.40,Internal,Garo,0000,0000,0000,,machte es mich sauer,\Ndass ich insgeheim erleichtert war.
+Dialogue: 0,0:11:40.82,0:11:46.31,Internal,Garo,0000,0000,0000,,Um mich als Monster zu definieren, mangelt es\Nmir tatsächlich noch an Entschlossenheit.
+Dialogue: 0,0:11:46.31,0:11:48.21,Internal,Garo,0000,0000,0000,,Ich mach’s!
+Dialogue: 0,0:11:48.64,0:11:51.47,Internal,Garo,0000,0000,0000,,Ich hole mir den Kopf eines Helden!
+Dialogue: 0,0:11:51.87,0:11:53.65,Internal,Garo,0000,0000,0000,,Unterschätzt mich nicht!
+Dialogue: 0,0:11:53.65,0:11:55.24,Internal,Garo,0000,0000,0000,,Ich bin ein Monster!
+Dialogue: 0,0:11:57.36,0:11:58.30,Default,Garo,0000,0000,0000,,He!
+Dialogue: 0,0:11:58.66,0:12:00.49,Default,Garo,0000,0000,0000,,Du wirst jetzt …
+Dialogue: 0,0:12:01.32,0:12:04.70,Default,Saitama,0000,0000,0000,,Bedaure, ich habe mich ebenfalls\Nschuldig gemacht, also lass gut sein.
+Dialogue: 0,0:12:10.31,0:12:11.71,Default,Saitama,0000,0000,0000,,Ups.
+Dialogue: 0,0:12:12.64,0:12:13.85,Default,Saitama,0000,0000,0000,,Nun ist es passiert.
+Dialogue: 0,0:12:14.68,0:12:17.22,Default,Saitama,0000,0000,0000,,Ich wollte den eigentlich nicht umhauen.
+Dialogue: 0,0:12:18.03,0:12:20.55,Internal,Saitama,0000,0000,0000,,Uff. Es gibt Augenzeugen.
+Dialogue: 0,0:12:20.55,0:12:22.05,Internal,Saitama,0000,0000,0000,,Was’n das für’n Buch?
+Dialogue: 0,0:12:22.05,0:12:25.22,Internal,Saitama,0000,0000,0000,,Ausgerechnet ein junger Helden-Fan?
+Dialogue: 0,0:12:25.62,0:12:27.98,Internal,Saitama,0000,0000,0000,,Damit fliegt meine Identität auf.
+Dialogue: 0,0:12:27.98,0:12:29.20,Internal,Saitama,0000,0000,0000,,So was Dummes.
+Dialogue: 0,0:12:30.17,0:12:32.48,Default,Saitama,0000,0000,0000,,Sag mal, weißt du, wer ich bin?
+Dialogue: 0,0:12:35.73,0:12:38.74,TypePlaceholderBox,TYPE,0000,0000,0000,,{\fnImpact\fsp1\c&H3F6581&\fax0.16\3c&H0F0A51&\fs-3\frz351.4\pos(354.5,61)}\h\hVollständige Ausgabe\h\h
+Dialogue: 0,0:12:35.73,0:12:38.74,TypePlaceholder,TYPE,0000,0000,0000,,{\fnImpact\an7\fs+5\fax0.15\fsp2\c&H0F0B55&\frz351.7\pos(238.5,63)}Helden\h\h\h\h\h\h\h\h\h\h\h\hLexikon
+Dialogue: 0,0:12:36.76,0:12:38.32,Default,Saitama,0000,0000,0000,,Zeig mal kurz her.
+Dialogue: 0,0:12:40.50,0:12:41.69,Default,Saitama,0000,0000,0000,,Echt?
+Dialogue: 0,0:12:42.07,0:12:43.55,Default,Saitama,0000,0000,0000,,Ich steh gar nicht drin!
+Dialogue: 0,0:12:44.23,0:12:45.37,Default,Saitama,0000,0000,0000,,Ach so?
+Dialogue: 0,0:12:48.55,0:12:50.25,Default,Tareo,0000,0000,0000,,Wer ist das?
+Dialogue: 0,0:12:50.96,0:12:52.50,Default,Tareo,0000,0000,0000,,Oh, stimmt ja!
+Dialogue: 0,0:12:52.50,0:12:56.00,Default,Tareo,0000,0000,0000,,Opa! Wach auf, Opa!
+Dialogue: 0,0:12:56.59,0:12:58.22,Default,Garo,0000,0000,0000,,One-Punch Man!
+Dialogue: 0,0:12:57.01,0:13:01.01,TypePlaceholder,TYPE,0000,0000,0000,,{\fnImpact\c&H000000&\bord1.5\shad1.5\fs+20\fax-0.3\pos(320,10)}One{\alpha&HFF&\t(224,225,\alpha&H00&)}-Punch {\alpha&HFF&\t(475,476,\alpha&H00&)}Man
+Dialogue: 0,0:13:01.91,0:13:03.60,Default,Tareo,0000,0000,0000,,One-Punch Man!
+Dialogue: 0,0:13:02.01,0:13:06.01,TypePlaceholder,TYPE,0000,0000,0000,,{\fnComic Sans MS bold\c&HFFFFFF&\bord3\shad2.5\fs+20\pos(320,10)\3c&H000000&}One{\alpha&HFF&\t(229,230,\alpha&H00&)}-Punch {\alpha&HFF&\t(480,481,\alpha&H00&)}Man
+Dialogue: 0,0:13:18.37,0:13:20.38,Default,Tareo,0000,0000,0000,,Alles in Ordnung, Opa?
+Dialogue: 0,0:13:20.38,0:13:24.62,Default,Tareo,0000,0000,0000,,Der Held mit der Glatze hat dich umgehauen\Nund sich dann davongemacht.
+Dialogue: 0,0:13:25.41,0:13:26.83,Default,Garo,0000,0000,0000,,Ich habe verloren?!
+Dialogue: 0,0:13:26.83,0:13:28.42,Default,Garo,0000,0000,0000,,W-Was war das für ein Held?
+Dialogue: 0,0:13:28.42,0:13:30.80,Default,Tareo,0000,0000,0000,,E-Erinnerst du dich nicht?
+Dialogue: 0,0:13:30.80,0:13:33.17,Default,Tareo,0000,0000,0000,,Hat er dich an einer\Nschlimmen Stelle getroffen?
+Dialogue: 0,0:13:34.20,0:13:35.97,Default,King the Ripper,0000,0000,0000,,Garo!
+Dialogue: 0,0:13:35.97,0:13:38.13,Default,King the Ripper,0000,0000,0000,,Was treibst du bloß?
+Dialogue: 0,0:13:42.29,0:13:44.18,Default,King the Ripper,0000,0000,0000,,Ich habe alles mitangesehen!
+Dialogue: 0,0:13:45.18,0:13:49.14,Default,King the Ripper,0000,0000,0000,,Du bist nicht wie wir, Garo!
+Dialogue: 0,0:13:45.30,0:13:49.14,TypePlaceholder,TYPE,0000,0000,0000,,{\fad(175,0)\fnComic Sans MS bold\fs+5\c&H05003D&\pos(122.5,13)}Krah Krah Krah
+Dialogue: 0,0:13:49.14,0:13:51.48,Default,Insektenkönig,0000,0000,0000,,Ja, der ist anders!
+Dialogue: 0,0:13:51.48,0:13:52.98,Default,Insektenkönig,0000,0000,0000,,Sehr bedauerlich,
+Dialogue: 0,0:13:52.98,0:13:56.77,Default,Insektenkönig,0000,0000,0000,,doch ich spürte bei dir\Nkeine Monstereigenschaften.
+Dialogue: 0,0:13:58.67,0:13:59.98,Default,Garo,0000,0000,0000,,He, Rotzgöre!
+Dialogue: 0,0:14:00.55,0:14:02.77,Default,Garo,0000,0000,0000,,Glotz nicht nur,\Nsondern verschwinde endlich!
+Dialogue: 0,0:14:03.33,0:14:05.99,Default,Garo,0000,0000,0000,,Die haben anscheinend\Netwas mit mir zu besprechen.
+Dialogue: 0,0:14:15.31,0:14:17.38,Default,Tareo,0000,0000,0000,,Der steht im Lexikon …
+Dialogue: 0,0:14:17.38,0:14:19.91,Default,Tareo,0000,0000,0000,,Es sind also doch nicht nur Gerüchte.
+Dialogue: 0,0:14:21.26,0:14:24.48,Default,Tareo,0000,0000,0000,,Was … macht der hier?
+Dialogue: 0,0:14:23.59,0:14:24.89,TypePlaceholder,TYPE,0000,0000,0000,,{\fad(325,0)\fnTimes New Roman\bord3\fs+2\fax-0.9\c&H40495C&\3c&H99C2E8&\frz10.96\move(329.5,223.5,326.5,192,22,1274)}Legendäre Monster\NKing the Ripper
+Dialogue: 0,0:14:25.99,0:14:27.52,Default,Tareo,0000,0000,0000,,King the Ripper …
+Dialogue: 0,0:14:27.52,0:14:30.31,Default,Tareo,0000,0000,0000,,Schlächter unzähliger Kinder!
+Dialogue: 0,0:14:31.02,0:14:33.56,Default,Tareo,0000,0000,0000,,King the Ripper!
+Dialogue: 0,0:14:34.64,0:14:36.46,Default,Garo,0000,0000,0000,,Mensch, reiß dich zusammen!
+Dialogue: 0,0:14:36.46,0:14:38.27,Default,Garo,0000,0000,0000,,Heul nicht! Steh auf!
+Dialogue: 0,0:14:38.27,0:14:42.99,Default,King the Ripper,0000,0000,0000,,Ich wusste ja gar nicht,\Ndass du so kleine Freunde hast, Garo.
+Dialogue: 0,0:14:42.99,0:14:45.49,Default,Garo,0000,0000,0000,,Bleib, wo du bist!\NSag von dort, was du willst!
+Dialogue: 0,0:14:45.49,0:14:48.39,Default,King the Ripper,0000,0000,0000,,Ojemine, verzeih mir!
+Dialogue: 0,0:14:48.39,0:14:51.84,Default,King the Ripper,0000,0000,0000,,Ich wollte dich\Nnoch nicht zum Weinen bringen.
+Dialogue: 0,0:14:52.20,0:14:53.46,Default,King the Ripper,0000,0000,0000,,Verzeih mir.
+Dialogue: 0,0:14:53.84,0:14:59.18,Default,King the Ripper,0000,0000,0000,,Ich wollte erst später\Ndein Wehklagen erschallen lassen.
+Dialogue: 0,0:14:59.18,0:15:00.79,Default,King the Ripper,0000,0000,0000,,Verzeih mir.
+Dialogue: 0,0:15:01.23,0:15:02.92,Default,King the Ripper,0000,0000,0000,,Ach, wie bemitleidenswert.
+Dialogue: 0,0:15:02.92,0:15:06.46,Default,King the Ripper,0000,0000,0000,,Ich werde dich in lauter\Nkleine Fetzen schneiden.
+Dialogue: 0,0:15:06.46,0:15:08.43,Default,King the Ripper,0000,0000,0000,,Verzeih mir.
+Dialogue: 0,0:15:09.87,0:15:11.42,Default,King the Ripper,0000,0000,0000,,Junge.
+Dialogue: 0,0:15:11.42,0:15:14.52,Default,King the Ripper,0000,0000,0000,,Für dich gibt es leider\Nkeine Rettung mehr.
+Dialogue: 0,0:15:16.16,0:15:17.42,Default,Garo,0000,0000,0000,,Bleib zurück.
+Dialogue: 0,0:15:21.71,0:15:22.78,Default,Phönixman,0000,0000,0000,,Verzeihung!
+Dialogue: 0,0:15:22.78,0:15:24.39,Default,Phönixman,0000,0000,0000,,Gestatte eine Frage!
+Dialogue: 0,0:15:24.39,0:15:27.99,Default,Gyro Gyoro,0000,0000,0000,,Ich mag es ja eigentlich nicht,\Nwährend der Meditation gestört zu werden.
+Dialogue: 0,0:15:27.99,0:15:31.22,Default,Phönixman,0000,0000,0000,,Wieso hast du King the Ripper\Nund Insektenkönig geschickt?
+Dialogue: 0,0:15:31.22,0:15:34.96,Default,Phönixman,0000,0000,0000,,Für eine bloße Observierung hätte es\Nkeine solchen Gewalttäter gebraucht.
+Dialogue: 0,0:15:34.96,0:15:37.83,Default,Gyro Gyoro,0000,0000,0000,,Warum?\NVielleicht passen sie ja gut zusammen.
+Dialogue: 0,0:15:37.83,0:15:38.92,Default,Phönixman,0000,0000,0000,,Unsinn!
+Dialogue: 0,0:15:38.92,0:15:41.88,Default,Phönixman,0000,0000,0000,,Ausgeschlossen,\Ndass die sich an Anweisungen halten!
+Dialogue: 0,0:15:41.88,0:15:44.26,Default,Phönixman,0000,0000,0000,,Sicherlich lassen die sich hinreißen\Nund töten Garo!
+Dialogue: 0,0:15:44.26,0:15:48.66,Default,Phönixman,0000,0000,0000,,Besonders King the Ripper\Nist ein absonderlicher Lustmörder.
+Dialogue: 0,0:15:48.66,0:15:52.22,Default,Phönixman,0000,0000,0000,,Selbst die Monster hier\Nwagen sich nicht in seine Nähe.
+Dialogue: 0,0:15:52.22,0:15:54.52,Default,Gyro Gyoro,0000,0000,0000,,Stimmt. Gerade deswegen ja.
+Dialogue: 0,0:15:54.52,0:15:59.12,Default,Gyro Gyoro,0000,0000,0000,,Der Kontakt mit denen wird Garo stimulieren\Nund seine Entwicklung vorantreiben.
+Dialogue: 0,0:15:59.12,0:16:00.19,Default,Phönixman,0000,0000,0000,,Entwicklung?
+Dialogue: 0,0:16:00.19,0:16:03.85,Default,Gyro Gyoro,0000,0000,0000,,Das ist eine Prüfung für ihn,\Nda er noch schwankt.
+Dialogue: 0,0:16:03.85,0:16:08.91,Default,Gyro Gyoro,0000,0000,0000,,Zunächst müssen Körper und Geist\Nnoch weiter und weiter zermürbt werden.
+Dialogue: 0,0:16:08.91,0:16:14.24,Default,Gyro Gyoro,0000,0000,0000,,Ich freue mich darauf, wie sich Garo verändert,\Nwenn er das „Monsterdasein“ hautnah erlebt.
+Dialogue: 0,0:16:14.24,0:16:17.52,Default,Phönixman,0000,0000,0000,,Gyoro Gyoro, worauf hast du es abgesehen?
+Dialogue: 0,0:16:17.52,0:16:20.13,Default,Phönixman,0000,0000,0000,,Wofür willst du Garo benutzen?
+Dialogue: 0,0:16:20.13,0:16:21.66,Default,Gyro Gyoro,0000,0000,0000,,Was machst du, wenn ich es dir sage?
+Dialogue: 0,0:16:21.66,0:16:23.88,Default,Phönixman,0000,0000,0000,,Nichts. Es ist reine Neugier.
+Dialogue: 0,0:16:23.88,0:16:25.84,Default,Gyro Gyoro,0000,0000,0000,,Sage mir, Phönixman,
+Dialogue: 0,0:16:25.84,0:16:28.97,Default,Gyro Gyoro,0000,0000,0000,,wo liegt deiner Vermutung nach\NOrochis Herkunft als Monster?
+Dialogue: 0,0:16:28.97,0:16:32.53,Default,Phönixman,0000,0000,0000,,Tja, ein altertümliches Wesen\Noder dergleichen?
+Dialogue: 0,0:16:33.50,0:16:37.50,Default,Gyro Gyoro,0000,0000,0000,,Auch Orochi war wie Garo\Nein einfacher Mensch.
+Dialogue: 0,0:16:38.38,0:16:43.10,Default,Gyro Gyoro,0000,0000,0000,,Ein nach vielen Rückschlägen und erbrachten\NOpfern vollendetes ultimatives Wesen.
+Dialogue: 0,0:16:43.10,0:16:46.40,Default,Gyro Gyoro,0000,0000,0000,,Wahrhaft würdig,\NMonsterkönig genannt zu werden!
+Dialogue: 0,0:16:46.40,0:16:49.24,Default,Gyro Gyoro,0000,0000,0000,,Orochi wurde durch mich geschaffen!
+Dialogue: 0,0:16:49.24,0:16:51.57,Default,Phönixman,0000,0000,0000,,Geschaffen?! Du hast …?
+Dialogue: 0,0:16:51.57,0:16:55.91,Default,Gyro Gyoro,0000,0000,0000,,Bei guter Pflege könnte Garo\Nzu einem zweiten Orochi heranreifen.
+Dialogue: 0,0:16:55.91,0:16:58.41,Default,Gyro Gyoro,0000,0000,0000,,Und nur ich weiß, wie man das anstellt.
+Dialogue: 0,0:16:58.77,0:17:04.28,Default,Gyro Gyoro,0000,0000,0000,,Ich wies Insektenkönig an, King the Ripper\Nzu stoppen, sollte er es mit Garo übertreiben.
+Dialogue: 0,0:17:04.28,0:17:07.13,Default,Gyro Gyoro,0000,0000,0000,,Doch wenn er stirbt,\Ndann war es das eben.
+Dialogue: 0,0:17:07.13,0:17:10.73,Default,Gyro Gyoro,0000,0000,0000,,Muss ich halt auf neues Material warten.
+Dialogue: 0,0:17:15.17,0:17:18.33,Default,Zombieman,0000,0000,0000,,Prüfung der Gegend abgeschlossen.\NHintereingang ebenfalls blockiert.
+Dialogue: 0,0:17:18.33,0:17:21.14,Default,Zombieman,0000,0000,0000,,In den letzten Stunden\Nging nur der Gorilla ein und aus.
+Dialogue: 0,0:17:21.14,0:17:23.80,Default,Zombieman,0000,0000,0000,,Andere Mitglieder sind abwesend.
+Dialogue: 0,0:17:23.80,0:17:25.33,Default,Zombieman,0000,0000,0000,,Der Zeitpunkt ist günstig.
+Dialogue: 0,0:17:25.33,0:17:27.71,Default,Zombieman,0000,0000,0000,,Das Kommando befindet sich\Nvermutlich im Inneren.
+Dialogue: 0,0:17:27.71,0:17:28.74,Default,Zombieman,0000,0000,0000,,Mit Überwachungsraum?
+Dialogue: 0,0:17:29.53,0:17:33.32,Default,Zombieman,0000,0000,0000,,Wunderliche Typen ungeklärter Identität\Nsind vor Kurzem hergezogen.
+Dialogue: 0,0:17:33.32,0:17:37.20,Default,Zombieman,0000,0000,0000,,Regelmäßig werden Mengen an Geräten\Nund rätselhaftes Pulver herangeschafft.
+Dialogue: 0,0:17:37.20,0:17:39.81,Default,Zombieman,0000,0000,0000,,Zudem Kisten mit nach Fisch\Nstinkenden Substanzen.
+Dialogue: 0,0:17:40.24,0:17:42.58,Default,Zombieman,0000,0000,0000,,Was ich durch Befragungen\Nüber sie herausbekam,
+Dialogue: 0,0:17:42.58,0:17:44.71,Default,Zombieman,0000,0000,0000,,deckt sich mit meinen Erkenntnissen.
+Dialogue: 0,0:17:45.23,0:17:47.61,Default,Zombieman,0000,0000,0000,,Kein Zweifel! Das sind sie!
+Dialogue: 0,0:17:48.04,0:17:50.67,Default,Zombieman,0000,0000,0000,,Jetzt ist die Zeit zum Stürmen!
+Dialogue: 0,0:17:52.21,0:17:57.35,Default,King the Ripper,0000,0000,0000,,Gyoro Gyoro hat uns befohlen,\Ndir etwas auf die Finger zu schauen.
+Dialogue: 0,0:17:57.35,0:18:01.77,Default,King the Ripper,0000,0000,0000,,Um uns zu vergewissern,\Nob du wirklich zu unserem Verbündeten taugst.
+Dialogue: 0,0:18:13.15,0:18:15.05,Default,King the Ripper,0000,0000,0000,,Heldenjäger.
+Dialogue: 0,0:18:15.05,0:18:20.91,Default,King the Ripper,0000,0000,0000,,Bist du nur ein absonderlicher Mensch,\Nder sich ekstatisch als Monster aufspielt?
+Dialogue: 0,0:18:20.91,0:18:22.87,Default,King the Ripper,0000,0000,0000,,Oder doch ein Monster?
+Dialogue: 0,0:18:22.87,0:18:25.75,Default,Garo,0000,0000,0000,,Pah. Was für ein arrogantes Gefasel.
+Dialogue: 0,0:18:25.75,0:18:29.25,Default,Garo,0000,0000,0000,,Vielmehr verzage ich gerade\Nan eurer Laschheit.
+Dialogue: 0,0:18:29.25,0:18:31.76,Default,King the Ripper,0000,0000,0000,,Dann bring doch mal das Kind dort um.
+Dialogue: 0,0:18:31.76,0:18:34.51,Default,Garo,0000,0000,0000,,Hä? Verstehe den Sinn dahinter nicht.
+Dialogue: 0,0:18:34.51,0:18:38.44,Default,Insektenkönig,0000,0000,0000,,Ein Monster ist ein Wesen,\Ndas dem Menschsein entsagt hat.
+Dialogue: 0,0:18:38.44,0:18:41.07,Default,Insektenkönig,0000,0000,0000,,Eine von der Welt der Menschen\Nabgetrennte Existenz!
+Dialogue: 0,0:18:41.07,0:18:44.77,Default,Insektenkönig,0000,0000,0000,,Garo, ich sah,\Nwie du dem Kind geholfen hast.
+Dialogue: 0,0:18:44.77,0:18:46.12,Default,Insektenkönig,0000,0000,0000,,So geht das nicht.
+Dialogue: 0,0:18:46.12,0:18:47.23,Default,Insektenkönig,0000,0000,0000,,Du musst sterben.
+Dialogue: 0,0:18:47.61,0:18:50.11,Default,Insektenkönig,0000,0000,0000,,Um Mitglied\Nder Monster-Vereinigung zu werden,
+Dialogue: 0,0:18:50.11,0:18:53.61,Default,Insektenkönig,0000,0000,0000,,muss man sich\Num unser Vertrauen bemühen.
+Dialogue: 0,0:18:53.61,0:18:56.87,Default,Insektenkönig,0000,0000,0000,,Du hast dein Menschsein\Nnicht abgeschüttelt.
+Dialogue: 0,0:18:56.99,0:19:00.23,Default,King the Ripper,0000,0000,0000,,Auch wir brauchen keine halbgaren Kerle!
+Dialogue: 0,0:19:00.23,0:19:04.06,Default,King the Ripper,0000,0000,0000,,Wir werden zur beherrschenden Organisation,\Ndie die menschliche Zivilisation ausrottet.
+Dialogue: 0,0:19:04.06,0:19:06.08,Default,King the Ripper,0000,0000,0000,,Solche Gören töten wir Schlag auf Schlag!
+Dialogue: 0,0:19:06.08,0:19:09.55,Default,King the Ripper,0000,0000,0000,,Außerdem hast du vorhin\Ngegen so einen dubiosen Helden verloren.
+Dialogue: 0,0:19:09.55,0:19:12.84,Default,King the Ripper,0000,0000,0000,,Solche Unachtsamkeit lässt auch\Nauf deine Kampfstärke schließen.
+Dialogue: 0,0:19:13.24,0:19:16.08,Default,Garo,0000,0000,0000,,He! Ich hatte es vorhin schon gesagt!
+Dialogue: 0,0:19:16.08,0:19:17.63,Default,Garo,0000,0000,0000,,Verzieh dich endlich!
+Dialogue: 0,0:19:19.09,0:19:21.53,Default,Tareo,0000,0000,0000,,Meine Knie zittern so,\Nkann mich nicht bewegen.
+Dialogue: 0,0:19:21.53,0:19:23.77,Default,Tareo,0000,0000,0000,,Kann mich nicht bewegen!
+Dialogue: 0,0:19:23.77,0:19:24.89,Default,Garo,0000,0000,0000,,Vollidiot!
+Dialogue: 0,0:19:24.89,0:19:28.70,Default,Garo,0000,0000,0000,,Glaube bloß nicht, dass jemand die Hand\Nausstreckt, weil du nicht stehen kannst!
+Dialogue: 0,0:19:28.70,0:19:30.58,Default,Garo,0000,0000,0000,,Niemand kommt dich retten!
+Dialogue: 0,0:19:30.58,0:19:32.82,Default,Garo,0000,0000,0000,,Du hast dich selbst zu beschützen!
+Dialogue: 0,0:19:32.82,0:19:36.43,Default,Garo,0000,0000,0000,,Gerade jetzt muss man\Nüber sich hinauswachsen!
+Dialogue: 0,0:19:38.12,0:19:39.74,Flashback,Garo,0000,0000,0000,,Du musst stärker werden!
+Dialogue: 0,0:19:40.78,0:19:41.73,Default,Garo,0000,0000,0000,,Steh auf!
+Dialogue: 0,0:19:41.73,0:19:43.12,Default,Garo,0000,0000,0000,,Tareo!
+Dialogue: 0,0:20:22.58,0:20:23.68,Default,Garo,0000,0000,0000,,Lauf weg!
+Dialogue: 0,0:20:24.95,0:20:26.66,Default,King the Ripper,0000,0000,0000,,Das war’s dann wohl.
+Dialogue: 0,0:20:26.66,0:20:29.75,Default,King the Ripper,0000,0000,0000,,Hast dich als unser Feind entpuppt!
+Dialogue: 0,0:20:29.75,0:20:33.56,Default,Insektenkönig,0000,0000,0000,,Nennt sich Heldenjäger,\Naber hat nicht einen einzigen getötet!
+Dialogue: 0,0:20:33.56,0:20:36.26,Default,Insektenkönig,0000,0000,0000,,Ein weichlicher Kerl, wie erwartet!
+Dialogue: 0,0:20:36.72,0:20:39.63,Default,Garo,0000,0000,0000,,Mir gefällt euer Gehabe nicht!
+Dialogue: 0,0:20:43.61,0:20:44.89,Default,Garo,0000,0000,0000,,Kommt!
+Dialogue: 0,0:20:49.10,0:20:53.23,TypePlaceholder,TYPE,0000,0000,0000,,{\fnTimes New Roman bold\bord1.2\fad(400,0)\blur1\fs18\c&HFFFFFF&\3c&H000000&}Übersetzung & Spotting:\NChristoph Zeller
+Dialogue: 0,0:20:54.02,0:20:58.15,TypePlaceholder,TYPE,0000,0000,0000,,{\fnTimes New Roman bold\bord1.2\fad(400,0)\blur1\fs18\c&HFFFFFF&\3c&H000000&\pos(122.5,30)}Revision & Typesetting:\NJacqueline Philippi
+Dialogue: 0,0:20:58.65,0:21:03.07,TypePlaceholder,TYPE,0000,0000,0000,,{\fnTimes New Roman bold\bord1.2\fad(400,0)\blur1\fs18\c&HFFFFFF&\3c&H000000&}Qualitätskontrolle:\NDaniel Wackenheim
+Dialogue: 0,0:21:03.53,0:21:07.95,TypePlaceholder,TYPE,0000,0000,0000,,{\fnTimes New Roman bold\bord1.2\fad(400,0)\blur1\fs18\c&HFFFFFF&\3c&H000000&}Projektleitung:\NTobias Philippi
+Dialogue: 0,0:22:19.72,0:22:21.01,Internal,Zombieman,0000,0000,0000,,Endlich!
+Dialogue: 0,0:22:21.01,0:22:23.63,Internal,Zombieman,0000,0000,0000,,Endlich habe ich sie aufgestöbert!
+Dialogue: 0,0:22:23.63,0:22:28.49,Internal,Zombieman,0000,0000,0000,,Die Bande, mit der mich am meisten verbindet\Nund der ich jahrelang nachgestellt habe.
+Dialogue: 0,0:22:29.05,0:22:32.44,Internal,Zombieman,0000,0000,0000,,Sie planen die Vertreibung der Menschheit\Nund wollen die Welt neu formen.
+Dialogue: 0,0:22:32.44,0:22:34.46,Internal,Zombieman,0000,0000,0000,,Die schlimmste Organisation der Geschichte.
+Dialogue: 0,0:22:35.17,0:22:39.87,Internal,Zombieman,0000,0000,0000,,Auch die Ereignisse der letzten Zeit\Nlassen vage ihre wahre Gestalt erahnen.
+Dialogue: 0,0:22:40.43,0:22:43.34,Internal,Zombieman,0000,0000,0000,,Leider habe ich sie nie\Nganz zu fassen bekommen.
+Dialogue: 0,0:22:44.47,0:22:47.42,Internal,Zombieman,0000,0000,0000,,Die Prophezeiung von Madame Shibabawa,\Ndass die Erde in Gefahr sei …
+Dialogue: 0,0:22:47.81,0:22:51.42,Internal,Zombieman,0000,0000,0000,,Die Existenz, die hinter der so genannten\NMonster-Vereinigung die Fäden zieht …
+Dialogue: 0,0:22:52.25,0:22:54.42,Internal,Zombieman,0000,0000,0000,,Sie sind die Wurzel allen Übels!
+Dialogue: 0,0:22:55.19,0:22:56.69,Internal,Zombieman,0000,0000,0000,,Kein Zweifel!
+Dialogue: 0,0:22:56.69,0:23:01.11,TypePlaceholder,TYPE,0000,0000,0000,,{\fnTimes New Roman bold\c&H141922&\frx20\fs+5\fry2\t(0,3689,\fscx70\fscy70)\move(426.5,-35,426.5,42,18,3689)}Haus des\NTakoyaki
+Dialogue: 0,0:23:01.11,0:23:03.41,Default,Zombieman,0000,0000,0000,,Heute findet ihr euer Ende!
+Dialogue: 0,0:23:03.41,0:23:04.61,Default,Zombieman,0000,0000,0000,,Haus der Evolution!
+Dialogue: 0,0:23:04.61,0:23:15.37,TypePlaceholder,TYPE,0000,0000,0000,,{\fnTimes New Roman bold\c&H141922&\frx20\fry2\pos(426.5,41)}Haus des\NTakoyaki
+Dialogue: 0,0:23:05.07,0:23:07.20,Default,Gepanzerter Gorilla,0000,0000,0000,,Huch? Ein Kunde?
+Dialogue: 0,0:23:07.20,0:23:08.90,Default,Gepanzerter Gorilla,0000,0000,0000,,Ein Kunde, ja?
+Dialogue: 0,0:23:09.91,0:23:13.44,Default,Zombieman,0000,0000,0000,,Habt ihr eure Basis wieder gewechselt\Nund tarnt euch nun als Takoyaki-Laden?
+Dialogue: 0,0:23:13.91,0:23:15.37,Default,Zombieman,0000,0000,0000,,Wie lachhaft!
+Dialogue: 0,0:23:15.37,0:23:18.22,Default,Zombieman,0000,0000,0000,,Ich habe eure Absicht\Nlängst durchschaut!
+Dialogue: 0,0:23:18.22,0:23:19.25,Default,Zombieman,0000,0000,0000,,Mich legt ihr nicht rein!
+Dialogue: 0,0:23:19.79,0:23:21.34,Default,Gepanzerter Gorilla,0000,0000,0000,,Einen Moment noch!
+Dialogue: 0,0:23:21.34,0:23:23.26,Default,Gepanzerter Gorilla,0000,0000,0000,,Ich bereite gerade alles vor.
+Dialogue: 1,0:23:23.26,0:23:35.35,TypePlaceholder,TYPE,0000,0000,0000,,{\fnTrebuchet MS bold\fs+10\bord3\c&H7100BC&\3c&H92DC86&\pos(562,158.5)}Groll
+Dialogue: 2,0:23:23.26,0:23:35.35,TypePlaceholder,TYPE,0000,0000,0000,,{\fnTrebuchet MS bold\fs+10\bord1.5\c&H7100BC&\3c&H24263A&\pos(562,158.5)}Groll
+Dialogue: 0,0:23:24.85,0:23:27.93,Default,Zombieman,0000,0000,0000,,Ich bin nun ein Held: Zombieman!
+Dialogue: 0,0:23:27.93,0:23:30.17,Default,Zombieman,0000,0000,0000,,Ein Wesen mit unsterblichem Körper!
+Dialogue: 0,0:23:31.12,0:23:35.35,Default,Zombieman,0000,0000,0000,,Sagt dir Versuchsobjekt\NNummer 66 noch etwas?
+Dialogue: 0,0:23:35.35,0:23:39.01,Default,Gepanzerter Gorilla,0000,0000,0000,,Was? Du bist ein Held, der das Haus\Nder Evolution zu Fall bringen will?
+Dialogue: 0,0:23:39.01,0:23:42.61,Default,Gepanzerter Gorilla,0000,0000,0000,,Bedaure, aber das Haus der Evolution\Nwurde bereits ausgelöscht.
+Dialogue: 0,0:23:46.55,0:23:50.86,Default,Gepanzerter Gorilla,0000,0000,0000,,Nun … Wollen Sie nicht\Nerst einmal etwas essen?
+Dialogue: 0,0:23:50.86,0:23:52.73,Default,Gepanzerter Gorilla,0000,0000,0000,,Im Moment sind Plätze frei.
+Dialogue: 0,0:23:53.37,0:23:56.00,TypePlaceholder,TYPE,0000,0000,0000,,{\fad(325,0)\fnGeorgia Bold\fs+5\bord2\c&H191717&\3c&HEEF7FC&}Wird fortgesetzt
+Dialogue: 0,0:23:56.00,0:24:00.96,TypePlaceholder,TYPE,0000,0000,0000,,{\fnGeorgia Bold\c&HF9F9F9&\fs+4\an2\pos(320,116)}Grenzen des Lebewesens
+

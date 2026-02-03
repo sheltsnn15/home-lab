@@ -1,0 +1,245 @@
+[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Narration,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Show_Title,Times New Roman,36,&H00000000,&H000000FF,&H0090D3CB,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Ep_Title,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0040,1
+Style: Next_Ep_Title,Times New Roman,24,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0060,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Convergence,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,200,0,0,1,0,0,2,0010,0010,0040,1
+Style: Flashback,Trebuchet MS,22,&H00FBFBFE,&H000000FF,&H00541A11,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:34.84,0:00:36.85,Main,Yuji,0000,0000,0000,,Tá muito cheio!
+Dialogue: 0,0:00:37.35,0:00:39.12,Main,Yuji,0000,0000,0000,,Não dá para eu ignorar...
+Dialogue: 0,0:00:39.12,0:00:41.46,Main,Yuji,0000,0000,0000,,Mas não tenho tempo\Nde salvar todo mundo!
+Dialogue: 0,0:00:41.46,0:00:43.40,Main,Yuji,0000,0000,0000,,Droga... O que eu faço?!
+Dialogue: 0,0:00:43.40,0:00:46.86,Main,Yuji,0000,0000,0000,,A estação e o Gojou-sensei...\Ntambém tão logo ali!
+Dialogue: 0,0:00:46.86,0:00:48.14,Main,Toge,0000,0000,0000,,Ovas!
+Dialogue: 0,0:00:48.14,0:00:49.36,Main,Yuji,0000,0000,0000,,Esse vocabulário!
+Dialogue: 0,0:00:50.83,0:00:52.16,Main,Yuji,0000,0000,0000,,Inumaki-senpai!
+Dialogue: 0,0:00:52.16,0:00:52.94,Main,Toge,0000,0000,0000,,Salmão!
+Dialogue: 0,0:00:52.94,0:00:53.77,Main,Yuji,0000,0000,0000,,Me ajuda!
+Dialogue: 0,0:00:53.77,0:00:55.00,Main,Toge,0000,0000,0000,,Salmão, salmão.
+Dialogue: 0,0:01:03.95,0:01:05.43,Main,Toge,0000,0000,0000,,{\an8}Não se mova!
+Dialogue: 0,0:01:03.95,0:01:06.95,Ep_Title,Screen,0000,0000,0000,,Episódio 37\N{\fs30\fscy150}Escama vermelha
+Dialogue: 0,0:01:17.51,0:01:22.02,Show_Title,Screen,0000,0000,0000,,{\fad(0,825)\pos(320,10)\3c&H8ECEDD&}JUJUTSU KAISEN\N{\fs16\bord0\fscy100\c&HDEDCE0&}Incidente em Shibuya
+Dialogue: 0,0:02:40.01,0:02:42.51,Sign_Basic,,0000,0000,0000,,{\an2\pos(320,300)\fnArial\fs22\bord0\shad0\b1}22:10  Interior da estação de Shibuya
+Dialogue: 0,0:02:49.52,0:02:53.02,Sign_Basic,Sign,0000,0000,0000,,{\fs18\c&H1B2325&\bord0\shad0\b1\pos(320,336)}É perigoso correr dentro da estação
+Dialogue: 0,0:03:05.53,0:03:08.54,Sign_Basic,Floor,0000,0000,0000,,{\frz180\c&H6A8673&\3c&H774326&\shad0\pos(325,100)\frx50}Bilhetes
+Dialogue: 0,0:03:08.54,0:03:11.42,Sign_Basic,Pillar,0000,0000,0000,,{\c&H264787&\shad0\an5\pos(322,212)}Automático
+Dialogue: 0,0:03:30.68,0:03:32.32,Main,Choso,0000,0000,0000,,Yuji Itadori!
+Dialogue: 0,0:03:32.56,0:03:34.32,Main,Choso,0000,0000,0000,,Assassino do meu irmão!
+Dialogue: 0,0:03:37.81,0:03:38.82,Main,Choso,0000,0000,0000,,Convergência!
+Dialogue: 0,0:03:37.82,0:03:38.82,Convergence,Screen,0000,0000,0000,,{\fsp2\pos(320,265)}Convergência
+Dialogue: 0,0:03:40.30,0:03:43.20,Narration,Narration,0000,0000,0000,,{\i1}Manipulação Sanguínea: Convergência!
+Dialogue: 0,0:03:43.95,0:03:48.45,Narration,Narration,0000,0000,0000,,{\i1}É uma técnica que envolve aplicar pressão\Nao sangue, para comprimi-lo até o limite.
+Dialogue: 0,0:03:50.45,0:03:52.92,Narration,Narration,0000,0000,0000,,{\i1}O sangue comprimido pela Convergência
+Dialogue: 0,0:03:52.92,0:03:55.10,Narration,Narration,0000,0000,0000,,{\i1}é posteriormente lançado\Npor um único ponto.
+Dialogue: 0,0:03:55.10,0:03:59.60,Narration,Narration,0000,0000,0000,,{\i1}A velocidade inicial deste sangue,\Nincrementado com energia amaldiçoado
+Dialogue: 0,0:03:59.60,0:04:01.56,Narration,Narration,0000,0000,0000,,{\i1}quando disparado,\Nsupera muito a velocidade do som.
+Dialogue: 0,0:04:02.34,0:04:06.43,Narration,Narration,0000,0000,0000,,{\i1}Esse feitiço secreto da\NManipulação de Sangue se chama...
+Dialogue: 0,0:04:08.18,0:04:09.43,Convergence,Screen,0000,0000,0000,,{\fsp2\pos(320,265)}Sangue Perfurante
+Dialogue: 0,0:04:08.18,0:04:09.44,Main,Choso,0000,0000,0000,,Sangue Perfurante.
+Dialogue: 0,0:04:23.24,0:04:25.09,Main,Choso,0000,0000,0000,,Impacto dobrado?
+Dialogue: 0,0:04:25.09,0:04:26.77,Main,Choso,0000,0000,0000,,Que técnica estranha.
+Dialogue: 0,0:04:42.74,0:04:43.76,Main,Choso,0000,0000,0000,,Eu quero
+Dialogue: 0,0:04:44.79,0:04:46.78,Main,Choso,0000,0000,0000,,lhe perguntar uma coisa.
+Dialogue: 0,0:04:47.76,0:04:51.40,Main,Choso,0000,0000,0000,,Meus irmãos deixaram últimas palavras?
+Dialogue: 0,0:04:51.82,0:04:52.89,Main,Yuji,0000,0000,0000,,Irmãos?
+Dialogue: 0,0:04:54.15,0:04:57.15,Main,Choso,0000,0000,0000,,Estou falando dos dois que você matou.
+Dialogue: 0,0:04:59.65,0:05:01.81,Main,Yuji,0000,0000,0000,,Não, não deixaram.
+Dialogue: 0,0:05:03.15,0:05:04.32,Main,Yuji,0000,0000,0000,,Mas...
+Dialogue: 0,0:05:06.71,0:05:07.74,Main,Yuji,0000,0000,0000,,Eles estavam chorando.
+Dialogue: 0,0:05:11.75,0:05:12.74,Main,Choso,0000,0000,0000,,Eso!
+Dialogue: 0,0:05:12.97,0:05:14.17,Main,Choso,0000,0000,0000,,Kechizu!
+Dialogue: 0,0:05:17.74,0:05:19.09,Main,Choso,0000,0000,0000,,Observem-me...
+Dialogue: 0,0:05:19.48,0:05:25.01,Main,Choso,0000,0000,0000,,Eu sou seu irmão mais velho!
+Dialogue: 0,0:06:42.81,0:06:44.56,Main,Yuji,0000,0000,0000,,{\i1}Droga!
+Dialogue: 0,0:06:45.54,0:06:48.14,Main,Yuji,0000,0000,0000,,{\i1}Ele pegou distância de mim de novo!
+Dialogue: 0,0:06:48.62,0:06:50.86,Main,Yuji,0000,0000,0000,,{\i1}A rajada de sangue é rápida demais...
+Dialogue: 0,0:06:50.86,0:06:52.64,Main,Yuji,0000,0000,0000,,{\i1}Minha chance de esquivar é 50%.
+Dialogue: 0,0:06:52.64,0:06:55.40,Main,Yuji,0000,0000,0000,,{\i1}Se minha intuição errar,\Ne pegar na minha cabeça...
+Dialogue: 0,0:06:55.89,0:06:57.44,Main,Yuji,0000,0000,0000,,{\i1}Eu morro!
+Dialogue: 0,0:06:59.99,0:07:01.89,Main,Yuji,0000,0000,0000,,{\i1}Então, preciso pelo menos...
+Dialogue: 0,0:07:07.93,0:07:11.91,Main,Yuji,0000,0000,0000,,{\i1}...decidir eu mesmo\Nquando ele vai disparar.
+Dialogue: 0,0:07:11.91,0:07:14.10,Main,Choso,0000,0000,0000,,{\i1}Ele quer me atrair...
+Dialogue: 0,0:07:14.10,0:07:15.52,Main,Choso,0000,0000,0000,,{\i1}Tudo bem, então.
+Dialogue: 0,0:07:35.43,0:07:36.92,Main,Yuji,0000,0000,0000,,{\i1}Eu sabia!
+Dialogue: 0,0:07:36.92,0:07:39.73,Main,Yuji,0000,0000,0000,,{\i1}O ataque só é rápido no comecinho.
+Dialogue: 0,0:07:39.73,0:07:41.95,Main,Yuji,0000,0000,0000,,{\i1}Depois de me esquivar,\Neu posso botar pressão!
+Dialogue: 0,0:07:43.52,0:07:45.19,Main,Choso,0000,0000,0000,,Supernova.
+Dialogue: 0,0:07:44.69,0:07:45.19,Convergence,Screen,0000,0000,0000,,{\fsp2\pos(320,265)}Supernova
+Dialogue: 0,0:08:18.54,0:08:20.09,Main,Choso,0000,0000,0000,,Me precipitei.
+Dialogue: 0,0:08:21.53,0:08:23.87,Main,Choso,0000,0000,0000,,{\i1}Não estava comprimido o bastante...
+Dialogue: 0,0:08:26.14,0:08:28.64,Main,Yuji,0000,0000,0000,,{\i1}Droga! O desgraçado...
+Dialogue: 0,0:08:31.65,0:08:32.97,Main,Yuji,0000,0000,0000,,{\i1}...é forte!
+Dialogue: 0,0:08:32.97,0:08:33.96,Main,Mechamaru,0000,0000,0000,,{\i1}Ei!
+Dialogue: 0,0:08:34.88,0:08:37.65,Main,Mechamaru,0000,0000,0000,,{\i1}Ei! Qual a situação?
+Dialogue: 0,0:08:37.65,0:08:38.72,Main,Yuji,0000,0000,0000,,Mekamaru!
+Dialogue: 0,0:08:38.72,0:08:39.80,Main,Yuji,0000,0000,0000,,O que você ficou fazendo?!
+Dialogue: 0,0:08:39.80,0:08:40.66,Main,Mechamaru,0000,0000,0000,,{\i1}Conservando energia!
+Dialogue: 0,0:08:40.66,0:08:42.78,Main,Mechamaru,0000,0000,0000,,{\i1}Ainda tem muito que eu preciso fazer!
+Dialogue: 0,0:08:42.78,0:08:45.38,Main,Mechamaru,0000,0000,0000,,{\i1}Choso! Manipulação de sangue, é?!
+Dialogue: 0,0:08:45.38,0:08:46.18,Main,Yuji,0000,0000,0000,,Você conhece?
+Dialogue: 0,0:08:46.18,0:08:48.05,Main,Mechamaru,0000,0000,0000,,{\i1}Ele está usando o mesmo\Nfeitiço que Kamo.
+Dialogue: 0,0:08:49.74,0:08:51.62,Main,Yuji,0000,0000,0000,,O veterano de olho fininho, né?!
+Dialogue: 0,0:08:51.62,0:08:52.90,Main,Yuji,0000,0000,0000,,Ou seja...
+Dialogue: 0,0:08:52.90,0:08:54.60,Main,Mechamaru,0000,0000,0000,,{\i1}Não sei a fraqueza dele.
+Dialogue: 0,0:08:54.60,0:08:55.30,Main,Yuji,0000,0000,0000,,Geh!
+Dialogue: 0,0:08:55.30,0:09:00.84,Main,Mechamaru,0000,0000,0000,,{\i1}A Manipulação de Sangue é um dos encantamentos\Nhereditários do clã Kamo. É um tesouro.
+Dialogue: 0,0:09:00.84,0:09:04.25,Main,Mechamaru,0000,0000,0000,,{\i1}O motivo é que a Convergência, que\Ncomprime o sangue com alta pressão,
+Dialogue: 0,0:09:04.25,0:09:08.04,Main,Mechamaru,0000,0000,0000,,{\i1}além do "Sangue Perfurante" e da\N"Lâmina de Sangue" que derivam dela,
+Dialogue: 0,0:09:08.04,0:09:11.32,Main,Mechamaru,0000,0000,0000,,{\i1}dão respostas balanceadas em\Ncurtas, médias e longas distâncias.
+Dialogue: 0,0:09:11.78,0:09:14.22,Main,Mechamaru,0000,0000,0000,,{\i1}Como Choso não vai ficar sem\Nsangue, ele não tem aberturas...
+Dialogue: 0,0:09:14.22,0:09:15.82,Main,Yuji,0000,0000,0000,,Valeu pela informação valiosa!
+Dialogue: 0,0:09:17.32,0:09:20.66,Main,Mechamaru,0000,0000,0000,,{\i1}Não sei a fraqueza dele,\Nmas tenho uma ideia.
+Dialogue: 0,0:09:20.66,0:09:22.12,Main,Yuji,0000,0000,0000,,Qual é?
+Dialogue: 0,0:09:22.12,0:09:24.01,Main,Mechamaru,0000,0000,0000,,{\i1}Primeiro, fuja pro banheiro.
+Dialogue: 0,0:09:24.01,0:09:24.91,Main,Yuji,0000,0000,0000,,Pro banheiro?!
+Dialogue: 0,0:09:24.91,0:09:25.64,Main,Yuji,0000,0000,0000,,Por quê?!
+Dialogue: 0,0:09:25.64,0:09:27.67,Main,Mechamaru,0000,0000,0000,,{\i1}Eu explico depois.
+Dialogue: 0,0:09:27.67,0:09:29.93,Main,Mechamaru,0000,0000,0000,,{\i1}Talvez tenha 10% de\Nchance do plano funcionar.
+Dialogue: 0,0:09:29.93,0:09:31.56,Main,Mechamaru,0000,0000,0000,,{\i1}Desculpe, mas prepare-se para morrer
+Dialogue: 0,0:09:31.56,0:09:32.68,Main,Mechamaru,0000,0000,0000,,{\i1}caso dê errado.
+Dialogue: 0,0:09:32.68,0:09:33.87,Main,Yuji,0000,0000,0000,,Que horror.
+Dialogue: 0,0:09:33.87,0:09:36.54,Main,Mechamaru,0000,0000,0000,,{\i1}Nesse ritmo, ele só vai ficar batendo\Nem você até a morte, de qualquer jeito.
+Dialogue: 0,0:09:45.73,0:09:47.31,Main,Choso,0000,0000,0000,,Estúpido.
+Dialogue: 0,0:09:47.31,0:09:50.48,Main,Choso,0000,0000,0000,,{\i1}As únicas coisas ali são\Nos banheiros e o elevador.
+Dialogue: 0,0:09:50.48,0:09:53.49,Main,Choso,0000,0000,0000,,{\i1}Não importa para onde ele fuja,\Ncontinua encurralado.
+Dialogue: 0,0:09:57.57,0:09:59.02,Main,Choso,0000,0000,0000,,{\i1}Que som é esse?
+Dialogue: 0,0:09:59.78,0:10:02.38,Main,Choso,0000,0000,0000,,{\i1}Esse sujeito já venceu os meus irmãos...
+Dialogue: 0,0:10:02.38,0:10:04.55,Main,Choso,0000,0000,0000,,{\i1}Os dois não perderiam\Npara um idiota qualquer.
+Dialogue: 0,0:10:04.96,0:10:08.30,Main,Choso,0000,0000,0000,,{\i1}Também há uma segunda voz,\Nque apareceu de repente.
+Dialogue: 0,0:10:09.52,0:10:12.16,Main,Choso,0000,0000,0000,,{\i1}O normal seria presumir\Nque ele tem algum plano.
+Dialogue: 0,0:10:12.16,0:10:13.31,Main,Choso,0000,0000,0000,,{\i1}Não fique distraído.
+Dialogue: 0,0:10:13.31,0:10:14.50,Main,Mechamaru,0000,0000,0000,,{\i1}O que houve?
+Dialogue: 0,0:10:14.50,0:10:16.04,Main,Mechamaru,0000,0000,0000,,{\i1}Não vai vir?
+Dialogue: 0,0:10:16.91,0:10:19.00,Main,Mechamaru,0000,0000,0000,,{\i1}Você é covarde, então.
+Dialogue: 0,0:10:19.00,0:10:21.24,Main,Mechamaru,0000,0000,0000,,{\i1}Igual aos seus irmãos.
+Dialogue: 0,0:10:22.31,0:10:23.77,Main,Choso,0000,0000,0000,,Vou matá-lo!
+Dialogue: 0,0:10:26.43,0:10:29.02,Show_Title,Eyecatch,0000,0000,0000,,{\fad(1350,0)\1c&H213835&\3c&H75EFED&\blur20\1a&HE0&\3a&HC0&\pos(320,18)}JUJUTSU KAISEN
+Dialogue: 0,0:10:26.43,0:10:29.02,Show_Title,Eyecatch,0000,0000,0000,,{\fad(675,0)\3c&HA0DCE8&\pos(320,18)\c&H292619&}JUJUTSU KAISEN
+Dialogue: 0,0:10:30.28,0:10:32.40,Main,Mechamaru,0000,0000,0000,,{\i1}Você é mesmo igual a eles.
+Dialogue: 0,0:10:36.48,0:10:39.49,Main,Mechamaru,0000,0000,0000,,{\i1}Vocês, três irmãozinhos, se amam tanto...
+Dialogue: 0,0:10:39.49,0:10:41.61,Main,Mechamaru,0000,0000,0000,,{\i1}É até fica fácil de manipular.
+Dialogue: 0,0:10:48.76,0:10:50.83,Main,Mechamaru,0000,0000,0000,,{\i1}Tudo certo até agora.
+Dialogue: 0,0:10:50.83,0:10:52.25,Main,Mechamaru,0000,0000,0000,,{\i1}Agora depende da sorte,
+Dialogue: 0,0:10:52.25,0:10:53.54,Main,Mechamaru,0000,0000,0000,,{\i1}Yuji Itadori!
+Dialogue: 0,0:11:05.83,0:11:07.66,Main,Choso,0000,0000,0000,,Que pena.
+Dialogue: 0,0:11:08.73,0:11:11.19,Main,Choso,0000,0000,0000,,{\i1}Essa foi a sua última chance.
+Dialogue: 0,0:11:11.19,0:11:14.27,Main,Choso,0000,0000,0000,,{\i1}Agora é você que não tem para onde fugir!
+Dialogue: 0,0:11:18.25,0:11:19.44,Main,Choso,0000,0000,0000,,{\i1}Hã?!
+Dialogue: 0,0:11:20.28,0:11:22.60,Main,Choso,0000,0000,0000,,{\i1}A Convergência se dissolveu?!
+Dialogue: 0,0:11:23.71,0:11:27.33,Narration,Narration,0000,0000,0000,,{\i1}Para amplificar o efeito do\Nfeitiço de Manipulação de Sangue,
+Dialogue: 0,0:11:27.33,0:11:31.28,Narration,Narration,0000,0000,0000,,{\i1}o usuário precisa desligar o efeito\Nde coagulação do próprio sangue.
+Dialogue: 0,0:11:31.96,0:11:37.29,Narration,Narration,0000,0000,0000,,{\i1}Sendo assim, o sangue de Choso se dissolve\Nna água mais facilmente que o de outros.
+Dialogue: 0,0:11:37.57,0:11:40.96,Narration,Narration,0000,0000,0000,,{\i1}Além disso, assim que é exposto à água,
+Dialogue: 0,0:11:40.96,0:11:46.41,Narration,Narration,0000,0000,0000,,{\i1}a pressão osmótica faz os glóbulos vermelhos se\Nexpandirem e quebrarem as paredes celulares.
+Dialogue: 0,0:11:47.37,0:11:53.84,Narration,Narration,0000,0000,0000,,{\i1}Isso fez com que ele perdesse o controle\Nda parte que compõe 45% do sangue,
+Dialogue: 0,0:11:53.84,0:11:56.31,Narration,Narration,0000,0000,0000,,{\i1}desfazendo a Convergência.
+Dialogue: 0,0:11:57.16,0:11:59.76,Narration,Narration,0000,0000,0000,,{\i1}Mekamaru estava correto em seu plano.
+Dialogue: 0,0:12:00.19,0:12:02.16,Narration,Narration,0000,0000,0000,,{\i1}Na situação atual,
+Dialogue: 0,0:12:02.16,0:12:06.32,Narration,Narration,0000,0000,0000,,{\i1}seria impossível para Choso usar a\NManipulação de Sangue fora do próprio corpo.
+Dialogue: 0,0:12:12.80,0:12:16.77,Main,Choso,0000,0000,0000,,Fluxo das Escamas Vermelhas: Intenso.
+Dialogue: 0,0:12:16.77,0:12:19.58,Narration,Narration,0000,0000,0000,,{\i1}Choso não tinha muita\Nexperiência de combate,
+Dialogue: 0,0:12:19.58,0:12:22.84,Narration,Narration,0000,0000,0000,,{\i1}então não conseguia compreender\No que estava acontecendo.
+Dialogue: 0,0:12:23.29,0:12:25.46,Narration,Narration,0000,0000,0000,,{\i1}Ele apenas aceitou\Nfriamente a nova realidade
+Dialogue: 0,0:12:25.46,0:12:28.88,Narration,Narration,0000,0000,0000,,{\i1}e realizou a Manipulação de\NSangue dentro de seu corpo.
+Dialogue: 0,0:12:30.21,0:12:32.28,Main,Yuji,0000,0000,0000,,{\i1}Eu não entendo a lógica.
+Dialogue: 0,0:12:32.28,0:12:35.04,Main,Yuji,0000,0000,0000,,{\i1}Nem tive a oportunidade de perguntar.
+Dialogue: 0,0:12:35.04,0:12:37.86,Main,Yuji,0000,0000,0000,,{\i1}Mas de uma coisa eu sei.
+Dialogue: 0,0:12:38.40,0:12:40.62,Main,Yuji,0000,0000,0000,,{\i1}Eu puxei ele pro meu território!
+Dialogue: 0,0:13:49.30,0:13:50.52,Main,Yuji,0000,0000,0000,,{\i1}Dá pra vencer!
+Dialogue: 0,0:13:52.39,0:13:57.09,Narration,Narration,0000,0000,0000,,{\i1}Choso vinha protegendo um\Ncoágulo de sangue para não expor
+Dialogue: 0,0:13:57.09,0:13:59.19,Narration,Narration,0000,0000,0000,,{\i1}e fazê-lo se dissolver na\Nágua, enquanto fortalecia
+Dialogue: 0,0:13:59.19,0:14:00.75,Narration,Narration,0000,0000,0000,,{\i1}esse sangue com energia amaldiçoada
+Dialogue: 0,0:14:00.75,0:14:03.96,Narration,Narration,0000,0000,0000,,{\i1}e o comprimia o máximo possível.
+Dialogue: 0,0:14:05.82,0:14:08.62,Narration,Narration,0000,0000,0000,,{\i1}Então, no momento em que\No Yuji Itadori se convenceu da vitória,
+Dialogue: 0,0:14:08.62,0:14:10.37,Narration,Narration,0000,0000,0000,,{\i1}ela perfurou o fígado dele.
+Dialogue: 0,0:14:11.32,0:14:15.32,Main,Choso,0000,0000,0000,,Manipulação de Sangue:\NMeteorito de Sangue.
+Dialogue: 0,0:14:15.32,0:14:16.83,Main,Yuji,0000,0000,0000,,{\i1}Me descuidei!
+Dialogue: 0,0:14:16.83,0:14:18.08,Main,Yuji,0000,0000,0000,,{\i1}Achei que não tinha mais tiros!
+Dialogue: 0,0:14:18.83,0:14:19.67,Main,Yuji,0000,0000,0000,,{\i1}E agora?!
+Dialogue: 0,0:14:19.67,0:14:21.04,Main,Yuji,0000,0000,0000,,{\i1}Onde ele me acertou?!
+Dialogue: 0,0:14:21.33,0:14:24.32,Main,Yuji,0000,0000,0000,,{\i1}Não é igual a quando eu estava\Ncom um buraco na barriga!
+Dialogue: 0,0:14:24.32,0:14:26.92,Main,Yuji,0000,0000,0000,,{\i1}Ele destruiu alguma\Ncoisa que não podia!
+Dialogue: 0,0:14:27.34,0:14:28.48,Main,Yuji,0000,0000,0000,,{\i1}Eu vou perder...
+Dialogue: 0,0:14:28.89,0:14:29.59,Main,Yuji,0000,0000,0000,,{\i1}e morrer!
+Dialogue: 0,0:14:36.36,0:14:39.85,Main,Yuji,0000,0000,0000,,{\i1}Eu compreendi qual o meu papel.
+Dialogue: 0,0:14:39.85,0:14:42.68,Main,Yuji,0000,0000,0000,,{\i1}Fushiguro, Kugisaki,
+Dialogue: 0,0:14:42.68,0:14:46.20,Main,Yuji,0000,0000,0000,,{\i1}os outros veteranos, todos eles
+Dialogue: 0,0:14:46.20,0:14:49.62,Main,Yuji,0000,0000,0000,,{\i1}vão passar por aqui no\Ncaminho pro Gojo-sensei.
+Dialogue: 0,0:14:49.62,0:14:53.12,Main,Yuji,0000,0000,0000,,{\i1}Então eu vou derrubar esse\Ncara, nem que eu morra.
+Dialogue: 0,0:14:53.49,0:14:58.08,Main,Yuji,0000,0000,0000,,{\i1}Não precisa ser eu que\Nvai salvar o Gojou-sensei.
+Dialogue: 0,0:14:59.28,0:15:00.96,Main,Choso,0000,0000,0000,,{\i1}Três golpes.
+Dialogue: 0,0:15:00.96,0:15:03.11,Main,Choso,0000,0000,0000,,{\i1}Apenas três golpes,
+Dialogue: 0,0:15:03.11,0:15:05.29,Main,Choso,0000,0000,0000,,{\i1}tirando os que eu defendi...
+Dialogue: 0,0:15:05.76,0:15:09.80,Main,Choso,0000,0000,0000,,{\i1}Os ataques que levei do Itadori me\Ncausaram um estrago desse tamanho!
+Dialogue: 0,0:15:10.66,0:15:12.79,Main,Choso,0000,0000,0000,,{\i1}A vantagem do Meteorito\Nde Sangue é sua dureza.
+Dialogue: 0,0:15:12.79,0:15:15.60,Main,Choso,0000,0000,0000,,{\i1}Ele não é rápido, nem tem tanto\Nimpacto quanto o Sangue Perfurante...
+Dialogue: 0,0:15:15.60,0:15:20.31,Main,Choso,0000,0000,0000,,{\i1}Eu não teria conseguido perfurá-lo\Nse não tivesse sido pego de surpresa.
+Dialogue: 0,0:15:20.92,0:15:23.17,Narration,Narration,0000,0000,0000,,{\i1}Normalmente, os feiticeiros da\NManipulação de Sangue
+Dialogue: 0,0:15:23.17,0:15:26.40,Narration,Narration,0000,0000,0000,,{\i1}nunca coagulam sangue como ele fez\Npara o Meteorito de Sangue.
+Dialogue: 0,0:15:26.40,0:15:29.54,Narration,Narration,0000,0000,0000,,{\i1}Até a Lâmina de Sangue\Nsó é solidificada no exterior,
+Dialogue: 0,0:15:29.54,0:15:33.24,Narration,Narration,0000,0000,0000,,{\i1}circulando sangue em alta velocidade\Npara aumentar sua letalidade.
+Dialogue: 0,0:15:33.24,0:15:36.04,Narration,Narration,0000,0000,0000,,{\i1}Até os feiticeiros com Manipulação\Nde Sangue não conseguem
+Dialogue: 0,0:15:36.04,0:15:39.08,Narration,Narration,0000,0000,0000,,{\i1}estender sua concentração a\Ncada artéria ao mesmo tempo.
+Dialogue: 0,0:15:39.08,0:15:41.88,Narration,Narration,0000,0000,0000,,{\i1}Então, quando eles coagulam\Nseu sangue com força,
+Dialogue: 0,0:15:41.88,0:15:46.09,Narration,Narration,0000,0000,0000,,{\i1}sempre há o risco de isso\Ncausar trombose espontânea...
+Dialogue: 0,0:15:46.49,0:15:47.49,Main,Choso,0000,0000,0000,,Venha.
+Dialogue: 0,0:15:48.48,0:15:55.85,Narration,Narration,0000,0000,0000,,{\i1}Porém, Choso avaliou que o risco apresentado\Npor Yuji Itadori era muito maior.
+Dialogue: 0,0:16:21.80,0:16:22.41,Main,Yuji,0000,0000,0000,,{\i1}Ele é forte!
+Dialogue: 0,0:16:32.36,0:16:33.60,Main,Yuji,0000,0000,0000,,Um dente?!
+Dialogue: 0,0:16:37.23,0:16:39.03,Main,Yuji,0000,0000,0000,,Foi drible?!
+Dialogue: 0,0:16:43.49,0:16:44.56,Main,Yuji,0000,0000,0000,,Hã?!
+Dialogue: 0,0:17:47.59,0:17:48.59,Main,Yuji,0000,0000,0000,,Ainda não!
+Dialogue: 0,0:17:52.09,0:17:55.08,Main,Yuji,0000,0000,0000,,{\i1}Desde o começo, eu não\Nusei meu braço esquerdo.
+Dialogue: 0,0:17:56.54,0:17:59.35,Main,Yuji,0000,0000,0000,,{\i1}Ele deve achar que não consigo usar mais.
+Dialogue: 0,0:17:59.72,0:18:02.81,Main,Yuji,0000,0000,0000,,{\i1}Então, esse meu ataque com o\Npunho direito como distração
+Dialogue: 0,0:18:06.22,0:18:07.39,Main,Yuji,0000,0000,0000,,{\i1}vai acertar!
+Dialogue: 0,0:18:11.45,0:18:12.49,Main,Yuji,0000,0000,0000,,{\i1}O quê?!
+Dialogue: 0,0:18:12.94,0:18:14.44,Main,Yuji,0000,0000,0000,,{\i1}Que resposta foi essa?
+Dialogue: 0,0:18:30.75,0:18:32.21,Main,Choso,0000,0000,0000,,Que pena.
+Dialogue: 0,0:18:47.88,0:18:50.83,Main,Choso,0000,0000,0000,,Ainda está respirando...
+Dialogue: 0,0:19:00.99,0:19:02.75,Main,Choso,0000,0000,0000,,Peça desculpas
+Dialogue: 0,0:19:03.49,0:19:06.01,Main,Choso,0000,0000,0000,,aos meus irmãos no além!
+Dialogue: 0,0:19:10.30,0:19:12.27,Main,Sukuna,0000,0000,0000,,Que vergonhoso.
+Dialogue: 0,0:19:12.27,0:19:15.88,Main,Sukuna,0000,0000,0000,,Perder pra um sujeitinho desses.
+Dialogue: 0,0:19:20.22,0:19:21.46,Main,Sukuna,0000,0000,0000,,Hum?
+Dialogue: 0,0:20:02.33,0:20:04.20,Main,Choso,0000,0000,0000,,Quê?
+Dialogue: 0,0:20:10.06,0:20:11.08,Narration,Narration,0000,0000,0000,,{\i1}Naquele momento,
+Dialogue: 0,0:20:11.08,0:20:13.94,Narration,Narration,0000,0000,0000,,{\i1}memórias inundaram a mente de Choso...
+Dialogue: 0,0:20:13.94,0:20:17.02,Narration,Narration,0000,0000,0000,,{\i1}Memórias que não existem.
+Dialogue: 0,0:21:02.77,0:21:03.76,Flashback,Yuji,0000,0000,0000,,Ei!
+Dialogue: 0,0:21:04.48,0:21:05.99,Flashback,Yuji,0000,0000,0000,,Você também, maninho!
+Dialogue: 0,0:21:06.58,0:21:13.72,Flashback,Yuji,0000,0000,0000,,Ahh!
+Dialogue: 0,0:21:18.00,0:21:21.41,Main,Choso,0000,0000,0000,,O que está acontecendo?! Você...
+Dialogue: 0,0:23:22.42,0:23:23.32,Main,Nanako,0000,0000,0000,,Olha ele.
+Dialogue: 0,0:23:31.24,0:23:33.60,Main,Mimiko,0000,0000,0000,,Está vivo... certo?
+Dialogue: 0,0:23:33.60,0:23:34.48,Main,Nanako,0000,0000,0000,,Sim.
+Dialogue: 0,0:23:35.78,0:23:38.32,Main,Nanako,0000,0000,0000,,Vamos começar, então.
+Dialogue: 0,0:23:40.84,0:23:42.24,Main,Kugisaki,0000,0000,0000,,Moan-day?
+Dialogue: 0,0:23:42.24,0:23:43.25,Main,Fushiguro,0000,0000,0000,,{\i1}Monday{\i0}.
+Dialogue: 0,0:23:43.25,0:23:44.20,Main,Kugisaki,0000,0000,0000,,{\i1}Tuesday{\i0}!
+Dialogue: 0,0:23:44.20,0:23:45.20,Main,Yuji,0000,0000,0000,,Uhum!
+Dialogue: 0,0:23:45.20,0:23:46.64,Main,Kugisaki,0000,0000,0000,,Ué-di-nés-day?
+Dialogue: 0,0:23:46.64,0:23:47.33,Main,Fushiguro,0000,0000,0000,,{\i1}Wednesday{\i0}.
+Dialogue: 0,0:23:47.33,0:23:48.68,Main,Kugisaki,0000,0000,0000,,Ah, se ferrar!
+Dialogue: 0,0:23:48.68,0:23:50.04,Main,Yuji,0000,0000,0000,,Próximo episódio: "Flutuações"!
+Dialogue: 0,0:23:48.78,0:23:52.66,Next_Ep_Title,Screen,0000,0000,0000,,{\c&HFFFFFF&\bord2\blur4}Próximo Episódios\N{\fs30\fscy150}Flutuações
+Dialogue: 0,0:23:50.04,0:23:52.13,Main,Kugisaki,0000,0000,0000,,Quem inventou esse jeito de ler?!
+Dialogue: 0,0:23:52.13,0:23:54.62,Main,Fushiguro,0000,0000,0000,,Alguém mais esperto que você, cabeçuda!
+

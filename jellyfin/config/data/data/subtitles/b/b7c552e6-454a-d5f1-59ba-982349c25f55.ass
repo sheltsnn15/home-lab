@@ -1,0 +1,17 @@
+[Script Info]
+Title: Pluto 01
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: signs,Fontin Sans Rg,75,&H00FFFFFF,&H000000FF,&H000A162D,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:03:34.19,0:03:38.16,signs,,0,0,0,,{\pos(960,883)\fscx48\fscy48\frz0.079\fax-0.05\fnFranklin Gothic Medium\b1\c&HDDE3EA&\blur0.8}S{\fax-0.048}w{\fax-0.047}i{\fax-0.045}t{\fax-0.043}z{\fax-0.041}e{\fax-0.04}r{\fax-0.038}l{\fax-0.036}a{\fax-0.034}n{\fax-0.033}d{\fax-0.031}: {\fax-0.028}F{\fax-0.026}o{\fax-0.024}r{\fax-0.022}e{\fax-0.021}s{\fax-0.019}t {\fax-0.016}F{\fax-0.014}i{\fax-0.012}r{\fax-0.01}e{\fax-0.009}s {\fax-0.005}i{\fax-0.003}n {\fax0}t{\fax0.002}h{\fax0.003}e {\fax0.007}C{\fax0.009}a{\fax0.01}n{\fax0.012}t{\fax0.014}o{\fax0.016}n {\fax0.019}o{\fax0.021}f {\fax0.024}L{\fax0.026}u{\fax0.028}c{\fax0.029}e{\fax0.031}r{\fax0.033}n{\fax0.034}e {\fax0.038}C{\fax0.04}o{\fax0.041}n{\fax0.043}t{\fax0.045}i{\fax0.047}n{\fax0.048}u{\fax0.05}e
+

@@ -1,0 +1,434 @@
+[Script Info]
+Title: [Erai-raws]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: BottomCenter,Trebuchet MS,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:15.83,0:00:19.58,BottomCenter,,0000,0000,0000,,Power to The People
+Dialogue: 0,0:00:19.58,0:00:23.96,BottomCenter,,0000,0000,0000,,Sức mạnh vượt tầm, cú đòn khủng
+Dialogue: 0,0:00:23.96,0:00:25.13,BottomCenter,,0000,0000,0000,,Ta sẽ kết liễu!
+Dialogue: 0,0:00:29.51,0:00:32.18,BottomCenter,,0000,0000,0000,,It’s my Turn!
+Dialogue: 0,0:00:33.22,0:00:35.72,BottomCenter,,0000,0000,0000,,Diễn biến này lại bắt đầu một lần nữa
+Dialogue: 0,0:00:35.72,0:00:37.72,BottomCenter,,0000,0000,0000,,Hiệp hội tụ nhau kéo tới, tấn công ào ạt!
+Dialogue: 0,0:00:37.72,0:00:38.77,BottomCenter,,0000,0000,0000,,Nguy hiểm dồn dập
+Dialogue: 0,0:00:38.77,0:00:40.06,BottomCenter,,0000,0000,0000,,Đã tới giới hạn
+Dialogue: 0,0:00:40.06,0:00:43.40,BottomCenter,,0000,0000,0000,,Chẳng còn đường lui, thế nhưng...
+Dialogue: 0,0:00:44.94,0:00:47.36,BottomCenter,,0000,0000,0000,,Thắng thua đâu phải do số lượng đâu
+Dialogue: 0,0:00:49.40,0:00:50.53,BottomCenter,,0000,0000,0000,,Show Time!
+Dialogue: 0,0:00:50.53,0:00:51.82,BottomCenter,,0000,0000,0000,,Bung hết sức nào!
+Dialogue: 0,0:00:51.82,0:00:55.66,BottomCenter,,0000,0000,0000,,Những thử thách trời ban
+Dialogue: 0,0:00:55.66,0:01:00.04,BottomCenter,,0000,0000,0000,,Ta sẽ vượt qua hết.
+Dialogue: 0,0:01:00.04,0:01:04.33,BottomCenter,,0000,0000,0000,,Hãy giương nắm đấm rực lửa lên!
+Dialogue: 0,0:01:04.33,0:01:07.13,BottomCenter,,0000,0000,0000,,Dám dấn thân đối mặt mới gọi là anh hùng!
+Dialogue: 0,0:01:07.13,0:01:09.01,BottomCenter,,0000,0000,0000,,Dù bất cứ lúc nào.
+Dialogue: 0,0:01:09.01,0:01:11.63,BottomCenter,,0000,0000,0000,,Quái ác ập tới...
+Dialogue: 0,0:01:11.63,0:01:13.51,BottomCenter,,0000,0000,0000,,Đập tan chúng ra!
+Dialogue: 0,0:01:13.51,0:01:18.06,BottomCenter,,0000,0000,0000,,Nào thêm nữa, thêm nữa...\NMang thêm kích thích tới đây!
+Dialogue: 0,0:01:18.06,0:01:19.68,BottomCenter,,0000,0000,0000,,Chưa đủ đâu!
+Dialogue: 0,0:01:19.68,0:01:22.94,BottomCenter,,0000,0000,0000,,No Satisfied, yeah!
+Dialogue: 0,0:01:22.94,0:01:26.65,BottomCenter,,0000,0000,0000,,Hơn bất kỳ ai, hơn bất kỳ ai,\Nchỉ cần mạnh mẽ thôi
+Dialogue: 0,0:01:26.65,0:01:27.23,BottomCenter,,0000,0000,0000,,Hey!
+Dialogue: 0,0:01:27.23,0:01:31.11,BottomCenter,,0000,0000,0000,,Nhảy múa, nhảy múa,\Ndưới bầu trời tàn phá,
+Dialogue: 0,0:01:31.11,0:01:31.99,BottomCenter,,0000,0000,0000,,Hey!
+Dialogue: 0,0:01:31.99,0:01:36.28,BottomCenter,,0000,0000,0000,,Luôn luôn, luôn luôn,\Nkết thúc bằng một đòn!
+Dialogue: 0,0:01:36.99,0:01:40.25,BottomCenter,,0000,0000,0000,,One Punch!
+Dialogue: 0,0:01:42.06,0:01:43.52,BottomCenter,,0000,0000,0000,,(Giới hạn của sinh vật)\NThật bất ngờ đấy.
+Dialogue: 0,0:01:43.97,0:01:48.06,BottomCenter,,0000,0000,0000,,Không ngờ Zombie Man lại là một trong\Nnhững mẫu thí nghiệm của Nhà Tiến Hóa.
+Dialogue: 0,0:01:48.74,0:01:50.44,BottomCenter,,0000,0000,0000,,Nhắc đến mẫu số 66...
+Dialogue: 0,0:01:50.59,0:01:52.40,BottomCenter,,0000,0000,0000,,ta vẫn còn nhiều kỷ niệm.
+Dialogue: 0,0:01:52.85,0:01:56.54,BottomCenter,,0000,0000,0000,,Đó là mẫu duy nhất trong Seri Bất Tử thành công,\Nmột nguyên mẫu xuất sắc.
+Dialogue: 0,0:01:56.97,0:01:59.66,BottomCenter,,0000,0000,0000,,Nhưng rồi hắn đã phá hủy\Ncả phòng thí nghiệm và biến mất.
+Dialogue: 0,0:02:00.23,0:02:01.98,BottomCenter,,0000,0000,0000,,Cũng đã hơn mười năm trôi qua rồi nhỉ.
+Dialogue: 0,0:02:02.61,0:02:04.86,BottomCenter,,0000,0000,0000,,Vậy mà giờ đây ngươi lại\Ntrở thành một anh hùng…
+Dialogue: 0,0:02:04.86,0:02:07.42,BottomCenter,,0000,0000,0000,,Có vẻ như ngươi đã thực sự\Nthay đổi chính mình rồi.
+Dialogue: 0,0:02:09.06,0:02:10.26,BottomCenter,,0000,0000,0000,,Giờ ngươi định giết ta sao?
+Dialogue: 0,0:02:10.80,0:02:12.04,BottomCenter,,0000,0000,0000,,Nếu vậy cũng được thôi.
+Dialogue: 0,0:02:12.04,0:02:13.98,BottomCenter,,0000,0000,0000,,Tại sao Nhà Tiến Hóa lại biến mất?
+Dialogue: 0,0:02:14.44,0:02:15.68,BottomCenter,,0000,0000,0000,,Chỉ cần ngươi còn sống,
+Dialogue: 0,0:02:15.68,0:02:17.60,BottomCenter,,0000,0000,0000,,thì có thể tái tạo lại\Nbao nhiêu lần cũng được mà.
+Dialogue: 0,0:02:17.80,0:02:19.56,BottomCenter,,0000,0000,0000,,Trả lời đi, Tiến sĩ Genus.
+Dialogue: 0,0:02:20.14,0:02:22.28,BottomCenter,,0000,0000,0000,,Nghiên cứu của ta đã thất bại.
+Dialogue: 0,0:02:22.28,0:02:26.74,BottomCenter,,0000,0000,0000,,Ta đã chứng kiến một sức mạnh\Nvượt xa mọi tiến hóa nhân tạo.
+Dialogue: 0,0:02:27.37,0:02:29.52,BottomCenter,,0000,0000,0000,,Hắn ta là người đã phá vỡ\Ngiới hạn của con người.
+Dialogue: 0,0:02:29.97,0:02:30.66,BottomCenter,,0000,0000,0000,,Giới hạn?
+Dialogue: 0,0:02:31.11,0:02:32.88,BottomCenter,,0000,0000,0000,,Dù có cố gắng đến đâu,
+Dialogue: 0,0:02:32.88,0:02:36.00,BottomCenter,,0000,0000,0000,,sinh vật sống luôn có một\Ngiới hạn nhất định trong sự tiến hóa.
+Dialogue: 0,0:02:36.94,0:02:40.30,BottomCenter,,0000,0000,0000,,Sức mạnh quá mức sẽ gây\Náp lực lên chính bản thân chủ thể,
+Dialogue: 0,0:02:40.30,0:02:42.36,BottomCenter,,0000,0000,0000,,dẫn đến rối loạn.
+Dialogue: 0,0:02:42.36,0:02:43.48,BottomCenter,,0000,0000,0000,,Hoặc tệ hơn...
+Dialogue: 0,0:02:43.48,0:02:45.40,BottomCenter,,0000,0000,0000,,trở thành quái vật mất hết nhân tính,
+Dialogue: 0,0:02:45.40,0:02:47.24,BottomCenter,,0000,0000,0000,,điên loạn và phá hoại tất cả.
+Dialogue: 0,0:02:47.92,0:02:49.60,BottomCenter,,0000,0000,0000,,Vì vậy, mọi sinh vật
+Dialogue: 0,0:02:49.60,0:02:52.82,BottomCenter,,0000,0000,0000,,đều được Thượng Đế lập trình\Nđể chỉ có thể tiến hóa
+Dialogue: 0,0:02:53.07,0:02:56.18,BottomCenter,,0000,0000,0000,,trong phạm vi không làm mất\Nlý trí hay mục đích sinh tồn.
+Dialogue: 0,0:03:33.09,0:03:34.80,BottomCenter,,0000,0000,0000,,Đó chính là giới hạn.
+Dialogue: 0,0:03:35.80,0:03:37.38,BottomCenter,,0000,0000,0000,,Nhưng hắn thì khác…
+Dialogue: 0,0:03:37.82,0:03:40.18,BottomCenter,,0000,0000,0000,,Bằng cách liên tục vượt qua\Ncực hạn của bản thân,
+Dialogue: 0,0:03:40.18,0:03:41.28,BottomCenter,,0000,0000,0000,,hắn đã tự tháo bỏ giới hạn,
+Dialogue: 0,0:03:41.28,0:03:43.14,BottomCenter,,0000,0000,0000,,và đạt được một sức mạnh vô tiền khoáng hậu.
+Dialogue: 0,0:03:43.58,0:03:45.96,BottomCenter,,0000,0000,0000,,Việc phá bỏ giới hạn để đạt được sức mạnh,
+Dialogue: 0,0:03:46.16,0:03:48.60,BottomCenter,,0000,0000,0000,,có thể đạt được mà không phải trả giá gì sao?
+Dialogue: 0,0:03:48.60,0:03:51.24,BottomCenter,,0000,0000,0000,,Tất nhiên là có cái giá phải trả.
+Dialogue: 0,0:03:52.10,0:03:53.28,BottomCenter,,0000,0000,0000,,Đổi lại cho sức mạnh,
+Dialogue: 0,0:03:53.28,0:03:54.56,BottomCenter,,0000,0000,0000,,hắn đã bị hói đầu.
+Dialogue: 0,0:03:54.96,0:03:57.36,BottomCenter,,0000,0000,0000,,Và hơn hết là sự cô độc tuyệt đối\Ndo chính sức mạnh đó mang lại.
+Dialogue: 0,0:03:57.78,0:04:01.20,BottomCenter,,0000,0000,0000,,Sau khi hạ gục chiến binh mạnh nhất trong lịch sử\Nnghiên cứu chỉ bằng một cú đấm,
+Dialogue: 0,0:04:01.30,0:04:04.30,BottomCenter,,0000,0000,0000,,nét mặt của hắn đã nói lên tất cả.
+Dialogue: 0,0:04:04.30,0:04:05.86,BottomCenter,,0000,0000,0000,,Nực cười thật.
+Dialogue: 0,0:04:05.91,0:04:08.40,BottomCenter,,0000,0000,0000,,Có vẻ như chính cái chuỗi\Nnghiên cứu điên rồ của ngươi
+Dialogue: 0,0:04:08.45,0:04:10.38,BottomCenter,,0000,0000,0000,,đã khiến đầu óc ngươi phát điên rồi đấy.
+Dialogue: 0,0:04:11.01,0:04:15.72,BottomCenter,,0000,0000,0000,,Ta cũng biết vài kẻ vượt ngoài\Nmọi giới hạn năng lực,
+Dialogue: 0,0:04:16.85,0:04:21.10,BottomCenter,,0000,0000,0000,,Sức mạnh của hắn ở đẳng cấp hoàn toàn khác\Nvới những gì cậu có thể tưởng tượng.
+Dialogue: 0,0:04:21.64,0:04:23.40,BottomCenter,,0000,0000,0000,,Khi một con người biến thành quái nhân,
+Dialogue: 0,0:04:23.40,0:04:27.10,BottomCenter,,0000,0000,0000,,thì thường do biến đổi tâm lý,\Nmong muốn thay đổi, mặc cảm...
+Dialogue: 0,0:04:27.10,0:04:29.98,BottomCenter,,0000,0000,0000,,hoặc do ức chế, bất mãn tích tụ\Nquá lâu mà bùng phát.
+Dialogue: 0,0:04:29.98,0:04:31.60,BottomCenter,,0000,0000,0000,,Có rất nhiều nguyên nhân khác nhau.
+Dialogue: 0,0:04:31.75,0:04:33.74,BottomCenter,,0000,0000,0000,,Nhưng tất cả bọn họ đều có\Nbiến dị trong tế bào,
+Dialogue: 0,0:04:33.84,0:04:35.90,BottomCenter,,0000,0000,0000,,và trải qua quá trình đột biến.
+Dialogue: 0,0:04:36.46,0:04:38.20,BottomCenter,,0000,0000,0000,,Cũng có trường hợp như\Ntrong nghiên cứu của ta,
+Dialogue: 0,0:04:38.20,0:04:41.02,BottomCenter,,0000,0000,0000,,nơi con người được biến đổi\Nnhờ sức mạnh của khoa học.
+Dialogue: 0,0:04:41.40,0:04:44.56,BottomCenter,,0000,0000,0000,,Thậm chí, sinh vật phi nhân loại\Ncũng có thể trở thành quái vật,
+Dialogue: 0,0:04:44.56,0:04:47.24,BottomCenter,,0000,0000,0000,,do các yếu tố như ô nhiễm\Nmôi trường hoặc biến đổi sinh học.
+Dialogue: 0,0:04:47.82,0:04:50.16,BottomCenter,,0000,0000,0000,,Nhưng đó là sự tiến hóa sang một loài khác,
+Dialogue: 0,0:04:50.26,0:04:52.20,BottomCenter,,0000,0000,0000,,chứ không phải phá vỡ giới hạn.
+Dialogue: 0,0:04:52.66,0:04:54.74,BottomCenter,,0000,0000,0000,,Chẳng hạn như Hải Tặc Biển Sâu\Ntừng tấn công Z-City,
+Dialogue: 0,0:04:54.74,0:04:56.46,BottomCenter,,0000,0000,0000,,hay người ngoài hành tinh từng\Ntấn công thành phố A,
+Dialogue: 0,0:04:56.46,0:04:58.44,BottomCenter,,0000,0000,0000,,đều bị gọi chung là quái nhân.
+Dialogue: 0,0:04:58.97,0:05:01.14,BottomCenter,,0000,0000,0000,,Nhưng thật ra, chúng vốn dĩ\Nlà loài sinh vật khác,
+Dialogue: 0,0:05:01.19,0:05:03.92,BottomCenter,,0000,0000,0000,,mang trí tuệ và bản năng\Nđối kháng với loài người.
+Dialogue: 0,0:05:04.63,0:05:09.52,BottomCenter,,0000,0000,0000,,Còn những anh hùng sở hữu sức mạnh\Nphi thường có khả năng đối kháng với chúng,
+Dialogue: 0,0:05:09.52,0:05:12.60,BottomCenter,,0000,0000,0000,,là những người sinh ra đã có tố chất vượt trội,
+Dialogue: 0,0:05:12.60,0:05:16.20,BottomCenter,,0000,0000,0000,,rồi rèn luyện bằng nỗ lực và tài năng\Nđể đạt tới sức mạnh hiện tại.
+Dialogue: 0,0:05:16.28,0:05:21.68,BottomCenter,,0000,0000,0000,,Một số khác, như ngươi, là người trải qua\Nthí nghiệm trên cơ thể để có khả năng đặc biệt.
+Dialogue: 0,0:05:22.18,0:05:25.06,BottomCenter,,0000,0000,0000,,Cũng có những thiên tài bẩm sinh như ta,
+Dialogue: 0,0:05:25.06,0:05:26.66,BottomCenter,,0000,0000,0000,,hoặc siêu năng lực gia từ khi sinh ra.
+Dialogue: 0,0:05:27.16,0:05:29.24,BottomCenter,,0000,0000,0000,,Nhưng hắn, hắn hoàn toàn khác.
+Dialogue: 0,0:05:29.68,0:05:32.02,BottomCenter,,0000,0000,0000,,Một kẻ sinh ra bình thường,\Nsống một cuộc sống tầm thường,
+Dialogue: 0,0:05:32.17,0:05:35.00,BottomCenter,,0000,0000,0000,,không có bất kỳ tố chất đặc biệt nào,\Nchỉ là một kẻ tầm thường.
+Dialogue: 0,0:05:35.00,0:05:37.94,BottomCenter,,0000,0000,0000,,Vậy mà, chỉ bằng nỗ lực của chính mình,\Nhắn đã mở toang cánh cửa giới hạn,
+Dialogue: 0,0:05:37.94,0:05:39.70,BottomCenter,,0000,0000,0000,,và phá vỡ cái giới hạn đó.
+Dialogue: 0,0:05:40.46,0:05:42.60,BottomCenter,,0000,0000,0000,,Khi một sinh vật tự mình\Nphát triển vượt ngoài giới hạn,
+Dialogue: 0,0:05:42.60,0:05:44.96,BottomCenter,,0000,0000,0000,,sức mạnh mà nó đạt được thật sự\Nlà phi lý, vượt ngoài hiểu biết.
+Dialogue: 0,0:05:46.28,0:05:50.96,BottomCenter,,0000,0000,0000,,Giờ nghĩ lại, ta vẫn thấy buồn cười cho\Ntham vọng nhỏ nhoi của mình ngày ấy.
+Dialogue: 0,0:05:51.64,0:05:54.16,BottomCenter,,0000,0000,0000,,Có lẽ một ngày nào đó,\Nngươi cũng sẽ gặp hắn.
+Dialogue: 0,0:05:54.64,0:05:57.00,BottomCenter,,0000,0000,0000,,Vì nghe nói, giờ đây hắn\Ncũng là một anh hùng.
+Dialogue: 0,0:05:57.79,0:05:59.68,BottomCenter,,0000,0000,0000,,Còn gì muốn hỏi thêm không?
+Dialogue: 0,0:05:59.76,0:06:01.60,BottomCenter,,0000,0000,0000,,Vậy tại sao ngươi lại bán takoyaki?
+Dialogue: 0,0:06:02.28,0:06:04.30,BottomCenter,,0000,0000,0000,,Khi ta nghiên cứu tái tạo tế bào,
+Dialogue: 0,0:06:04.30,0:06:07.04,BottomCenter,,0000,0000,0000,,ta tình cờ tạo ra được xúc tu bạch tuộc vô hạn,
+Dialogue: 0,0:06:07.54,0:06:08.20,BottomCenter,,0000,0000,0000,,Vậy à?
+Dialogue: 0,0:06:14.16,0:06:14.96,BottomCenter,,0000,0000,0000,,Có thể được.
+Dialogue: 0,0:06:15.50,0:06:18.78,BottomCenter,,0000,0000,0000,,So với mấy lão già kia thì bọn này chẳng là gì.
+Dialogue: 0,0:06:18.78,0:06:21.28,BottomCenter,,0000,0000,0000,,Không ngờ con người lại\Ncó thể chiến đấu đến mức này…
+Dialogue: 0,0:06:21.28,0:06:23.08,BottomCenter,,0000,0000,0000,,Hai đấu một nhé!
+Dialogue: 0,0:06:23.08,0:06:25.22,BottomCenter,,0000,0000,0000,,Cậu cũng mạnh đấy chứ.
+Dialogue: 0,0:06:26.78,0:06:29.18,BottomCenter,,0000,0000,0000,,Ban đầu ta chỉ định\Nchơi đùa một chút thôi...
+Dialogue: 0,0:06:29.72,0:06:31.90,BottomCenter,,0000,0000,0000,,Nhưng thôi, đủ rồi, bắt đầu thật đây.
+Dialogue: 0,0:06:31.90,0:06:33.74,BottomCenter,,0000,0000,0000,,Từ giờ mới là trận chính thức.
+Dialogue: 0,0:06:33.74,0:06:35.82,BottomCenter,,0000,0000,0000,,Ta đã hiểu rõ chuyển động các ngươi rồi!
+Dialogue: 0,0:06:39.87,0:06:41.87,BottomCenter,,0000,0000,0000,,Giờ đừng hòng đánh trúng.
+Dialogue: 0,0:06:42.73,0:06:43.67,BottomCenter,,0000,0000,0000,,Chú à...
+Dialogue: 0,0:06:49.89,0:06:53.01,BottomCenter,,0000,0000,0000,,Chú à, cháu xin lỗi.
+Dialogue: 0,0:06:53.01,0:06:56.23,BottomCenter,,0000,0000,0000,,Quỷ Bùn Sệt, ngươi làm gì ở đây?
+Dialogue: 0,0:06:56.23,0:06:59.97,BottomCenter,,0000,0000,0000,,À, ta có thù riêng với tên đó.
+Dialogue: 0,0:07:00.07,0:07:01.19,BottomCenter,,0000,0000,0000,,Hắn...
+Dialogue: 0,0:07:02.25,0:07:04.93,BottomCenter,,0000,0000,0000,,Đồ khốn, thằng nhóc đó thì liên quan gì hả?
+Dialogue: 0,0:07:19.11,0:07:22.52,BottomCenter,,0000,0000,0000,,Này, chẳng phải đã dặn\Nlà đừng giết người sao?
+Dialogue: 0,0:07:22.67,0:07:25.50,BottomCenter,,0000,0000,0000,,Xin lỗi nhé, hơi muộn rồi Mushigami-chan.
+Dialogue: 0,0:07:26.32,0:07:30.42,BottomCenter,,0000,0000,0000,,Mà giờ nói cũng vô ích, hắn chết rồi.
+Dialogue: 0,0:07:32.30,0:07:34.88,BottomCenter,,0000,0000,0000,,Thôi thì hòa thuận mà về nào.
+Dialogue: 0,0:07:46.06,0:07:49.28,BottomCenter,,0000,0000,0000,,Không hiểu sao cậu ta lại muốn\Nxem người khác chơi game nữa.
+Dialogue: 0,0:07:49.28,0:07:51.46,BottomCenter,,0000,0000,0000,,Dù sao thì, tôi cũng đã phá đảo hết rồi.
+Dialogue: 0,0:07:51.56,0:07:53.50,BottomCenter,,0000,0000,0000,,Thế nào, hài lòng chưa?
+Dialogue: 0,0:07:53.99,0:07:55.66,BottomCenter,,0000,0000,0000,,Đã xong rồi à?
+Dialogue: 0,0:07:55.66,0:07:57.48,BottomCenter,,0000,0000,0000,,Tôi chẳng hiểu gì cả.
+Dialogue: 0,0:07:58.26,0:08:01.20,BottomCenter,,0000,0000,0000,,Có vẻ như mình vẫn còn quá non nớt\Nđể tham gia trận đấu ảo
+Dialogue: 0,0:08:01.50,0:08:04.00,BottomCenter,,0000,0000,0000,,mà thầy Saitama và King thường chơi.
+Dialogue: 0,0:08:04.40,0:08:06.12,BottomCenter,,0000,0000,0000,,Mình phải nâng trình độ lên mới được.
+Dialogue: 0,0:08:06.17,0:08:07.42,BottomCenter,,0000,0000,0000,,Quá nhiều điều cần làm.
+Dialogue: 0,0:08:07.87,0:08:10.12,BottomCenter,,0000,0000,0000,,Giờ cũng khá muộn rồi nhỉ.
+Dialogue: 0,0:08:10.37,0:08:13.70,BottomCenter,,0000,0000,0000,,Có tìm bừa thế này cũng\Nchẳng thấy Garou đâu đâu.
+Dialogue: 0,0:08:13.80,0:08:16.74,BottomCenter,,0000,0000,0000,,Hắn chắc đang ở cùng\Nlũ quái nhân trong căn cứ.
+Dialogue: 0,0:08:16.84,0:08:18.78,BottomCenter,,0000,0000,0000,,Có vẻ thầy Saitama rất kiên định,
+Dialogue: 0,0:08:19.03,0:08:21.64,BottomCenter,,0000,0000,0000,,cho tới khi tìm được và xóa sổ\NHiệp hội quái nhân,
+Dialogue: 0,0:08:21.94,0:08:23.22,BottomCenter,,0000,0000,0000,,có lẽ thầy sẽ không quay về.
+Dialogue: 0,0:08:23.74,0:08:28.16,BottomCenter,,0000,0000,0000,,Dù anh Saitama rất mạnh nhưng với tính cách đó\Nvẫn khiến người khác lo lắng.
+Dialogue: 0,0:08:28.39,0:08:30.64,BottomCenter,,0000,0000,0000,,Lỡ cậu ta sa vào bẫy của quái nhân thì sao?
+Dialogue: 0,0:08:34.85,0:08:35.69,BottomCenter,,0000,0000,0000,,Tôi về rồi!
+Dialogue: 0,0:08:36.39,0:08:37.15,BottomCenter,,0000,0000,0000,,Là thầy!
+Dialogue: 0,0:08:37.55,0:08:38.71,BottomCenter,,0000,0000,0000,,Cứ thế mà về thôi à?
+Dialogue: 0,0:08:39.01,0:08:40.67,BottomCenter,,0000,0000,0000,,Có tiến triển gì không thế?
+Dialogue: 0,0:08:41.20,0:08:42.43,BottomCenter,,0000,0000,0000,,Thiệt tình...
+Dialogue: 0,0:08:45.25,0:08:46.85,BottomCenter,,0000,0000,0000,,Trời ạ, phiền phức thật luôn!
+Dialogue: 0,0:08:47.62,0:08:49.03,BottomCenter,,0000,0000,0000,,Tôi vừa gặp chuyện mệt mỏi lắm.
+Dialogue: 0,0:08:50.37,0:08:52.77,BottomCenter,,0000,0000,0000,,Không lẽ cậu ta gặp Garou thật?
+Dialogue: 0,0:08:53.22,0:08:55.93,BottomCenter,,0000,0000,0000,,Ủa, mấy người chưa về à?
+Dialogue: 0,0:08:56.42,0:08:57.55,BottomCenter,,0000,0000,0000,,Chật chội quá!
+Dialogue: 0,0:08:57.83,0:09:00.71,BottomCenter,,0000,0000,0000,,Thầy à, vết máu kia chả lẽ do\Nkẻ săn anh hùng?
+Dialogue: 0,0:09:00.81,0:09:02.77,BottomCenter,,0000,0000,0000,,Không, là do trên đường về\Ngặp phải quái nhân thôi.
+Dialogue: 0,0:09:02.77,0:09:04.37,BottomCenter,,0000,0000,0000,,Liên quan tới Hiệp hội quái nhân sao?
+Dialogue: 0,0:09:04.37,0:09:07.35,BottomCenter,,0000,0000,0000,,Không, khu này lúc nào chả có quái nhân.
+Dialogue: 0,0:09:07.87,0:09:08.99,BottomCenter,,0000,0000,0000,,Chẳng hiểu tại sao nữa.
+Dialogue: 0,0:09:09.94,0:09:12.35,BottomCenter,,0000,0000,0000,,Mà chuyện đó chẳng phải vấn đề đâu.
+Dialogue: 0,0:09:12.35,0:09:15.89,BottomCenter,,0000,0000,0000,,Vậy thì chuyện lớn mà thầy nói là gì?
+Dialogue: 0,0:09:15.89,0:09:17.89,BottomCenter,,0000,0000,0000,,Nghe nghiêm trọng như vậy...
+Dialogue: 0,0:09:18.04,0:09:19.77,BottomCenter,,0000,0000,0000,,Ai đã làm gì cậu ta?
+Dialogue: 0,0:09:21.77,0:09:22.41,BottomCenter,,0000,0000,0000,,Thật ra...
+Dialogue: 0,0:09:24.11,0:09:25.89,BottomCenter,,0000,0000,0000,,Tôi làm rơi ví ở đâu đó rồi...
+Dialogue: 0,0:09:26.69,0:09:28.55,BottomCenter,,0000,0000,0000,,Trong đó có khoảng 6000 yên.
+Dialogue: 0,0:09:29.93,0:09:31.65,BottomCenter,,0000,0000,0000,,Gì cơ? Chỉ có thế thôi à?
+Dialogue: 0,0:09:31.70,0:09:33.31,BottomCenter,,0000,0000,0000,,Tưởng cậu gặp Garou...
+Dialogue: 0,0:09:34.53,0:09:35.77,BottomCenter,,0000,0000,0000,,Đúng rồi, lúc đó...
+Dialogue: 0,0:09:35.97,0:09:37.05,BottomCenter,,0000,0000,0000,,Gì hả? Chuyện gì thế?
+Dialogue: 0,0:09:38.69,0:09:40.25,BottomCenter,,0000,0000,0000,,Cái tên ăn quịt đó...
+Dialogue: 0,0:09:40.25,0:09:41.97,BottomCenter,,0000,0000,0000,,Cậu nhớ ra chuyện gì à?
+Dialogue: 0,0:09:41.97,0:09:44.73,BottomCenter,,0000,0000,0000,,Khi tôi đuổi theo hắn,
+Dialogue: 0,0:09:45.03,0:09:48.55,BottomCenter,,0000,0000,0000,,tôi để quên bắp cải vừa mua trong quán ăn.
+Dialogue: 0,0:09:49.51,0:09:50.85,BottomCenter,,0000,0000,0000,,Để con đi lấy lại cho thầy!
+Dialogue: 0,0:09:50.85,0:09:52.01,BottomCenter,,0000,0000,0000,,Không được đâu, Genos-kun,
+Dialogue: 0,0:09:52.01,0:09:53.47,BottomCenter,,0000,0000,0000,,với tình trạng này thì không thể.
+Dialogue: 0,0:09:53.47,0:09:55.43,BottomCenter,,0000,0000,0000,,Chỉ là cây bắp cải thôi mà.
+Dialogue: 0,0:09:56.50,0:09:57.77,BottomCenter,,0000,0000,0000,,Các người vui nhỉ?
+Dialogue: 0,0:09:58.35,0:10:00.37,BottomCenter,,0000,0000,0000,,Lại quay lại nữa sao, Băng Tuyết Địa Ngục?
+Dialogue: 0,0:10:01.15,0:10:02.37,BottomCenter,,0000,0000,0000,,Cô có gì muốn nói à?
+Dialogue: 0,0:10:02.37,0:10:04.79,BottomCenter,,0000,0000,0000,,Saitama, anh được đấy!
+Dialogue: 0,0:10:06.89,0:10:07.87,BottomCenter,,0000,0000,0000,,Đây là bắp cải!
+Dialogue: 0,0:10:08.39,0:10:09.67,BottomCenter,,0000,0000,0000,,Sao Fubuki lại cầm?
+Dialogue: 0,0:10:10.63,0:10:12.15,BottomCenter,,0000,0000,0000,,Anh để quên đồ này.
+Dialogue: 0,0:10:12.30,0:10:13.61,BottomCenter,,0000,0000,0000,,Ồ, cảm ơn nhé!
+Dialogue: 0,0:10:14.06,0:10:16.11,BottomCenter,,0000,0000,0000,,Hôm nay tôi đang định ăn lẩu,
+Dialogue: 0,0:10:16.65,0:10:19.07,BottomCenter,,0000,0000,0000,,mà lẩu thì không thể thiếu bắp cải được!
+Dialogue: 0,0:10:19.17,0:10:22.21,BottomCenter,,0000,0000,0000,,Còn chuyện gì khác\Nanh nên nói với tôi nữa chứ?
+Dialogue: 0,0:10:22.41,0:10:24.41,BottomCenter,,0000,0000,0000,,À... cảm ơn vì bắp cải nha?
+Dialogue: 0,0:10:25.49,0:10:26.41,BottomCenter,,0000,0000,0000,,Sai rồi!
+Dialogue: 0,0:10:26.41,0:10:29.77,BottomCenter,,0000,0000,0000,,Anh bỏ tôi lại quán, để tôi\Nphải trả tiền cả hóa đơn,
+Dialogue: 0,0:10:29.77,0:10:31.39,BottomCenter,,0000,0000,0000,,mau xin lỗi đàng hoàng đi!
+Dialogue: 0,0:10:31.39,0:10:34.69,BottomCenter,,0000,0000,0000,,À, quên mất. Xin lỗi nhé.
+Dialogue: 0,0:10:34.69,0:10:37.03,BottomCenter,,0000,0000,0000,,Còn dám bỏ đi giữa chừng\Nkhi tôi đang nói nữa chứ!
+Dialogue: 0,0:10:38.15,0:10:39.41,BottomCenter,,0000,0000,0000,,Rốt cuộc có chuyện gì vậy?
+Dialogue: 0,0:10:39.41,0:10:41.21,BottomCenter,,0000,0000,0000,,Đó, anh chẳng nghe tôi nói bao giờ!
+Dialogue: 0,0:10:41.57,0:10:45.98,BottomCenter,,0000,0000,0000,,Dù sao thì... vụ lần này tôi coi như\Nanh nợ tôi một món, nhớ lấy đấy!
+Dialogue: 0,0:10:46.57,0:10:49.05,BottomCenter,,0000,0000,0000,,Biết rõ không thể thắng được...
+Dialogue: 0,0:10:49.05,0:10:50.21,BottomCenter,,0000,0000,0000,,tại sao lại cứ bám riết vậy?
+Dialogue: 0,0:10:50.91,0:10:52.99,BottomCenter,,0000,0000,0000,,Cô ta cũng định làm đệ tử của thầy sao?
+Dialogue: 0,0:10:53.43,0:10:55.49,BottomCenter,,0000,0000,0000,,Nếu thế thì sẽ khiến thầy thêm mệt mỏi mất.
+Dialogue: 0,0:10:55.49,0:10:58.55,BottomCenter,,0000,0000,0000,,Mình phải ngăn chuyện này lại bằng mọi giá!
+Dialogue: 0,0:10:59.31,0:11:00.39,BottomCenter,,0000,0000,0000,,Tín hiệu tiếp cận tốc độ cao!
+Dialogue: 0,0:11:00.77,0:11:01.65,BottomCenter,,0000,0000,0000,,Có gì đó đang tới gần!
+Dialogue: 0,0:11:02.83,0:11:05.25,BottomCenter,,0000,0000,0000,,Với mức độ hư hại cơ thể hiện tại,\Nkhông thể chiến đấu tử tế được.
+Dialogue: 0,0:11:05.25,0:11:06.99,BottomCenter,,0000,0000,0000,,Bang và anh trai đều bị thương.
+Dialogue: 0,0:11:06.99,0:11:09.69,BottomCenter,,0000,0000,0000,,Còn Fubuki thì nếu đối thủ cấp Quỷ trở lên,
+Dialogue: 0,0:11:09.69,0:11:11.83,BottomCenter,,0000,0000,0000,,khả năng bị hạ gục rất cao.
+Dialogue: 0,0:11:11.83,0:11:15.13,BottomCenter,,0000,0000,0000,,Thầy thì vừa mất ví, tinh thần tổn thương.
+Dialogue: 0,0:11:15.13,0:11:17.13,BottomCenter,,0000,0000,0000,,Người duy nhất có thể\Nchiến đấu lúc này là...
+Dialogue: 0,0:11:18.19,0:11:20.59,BottomCenter,,0000,0000,0000,,King! Kẻ địch đang đến gần!
+Dialogue: 0,0:11:20.97,0:11:22.21,BottomCenter,,0000,0000,0000,,Ra ngoài nghênh chiến đi!
+Dialogue: 0,0:11:23.25,0:11:25.07,BottomCenter,,0000,0000,0000,,Không thể đánh nhau ở đây được!
+Dialogue: 0,0:11:25.07,0:11:25.83,BottomCenter,,0000,0000,0000,,Tại sao chứ?
+Dialogue: 0,0:11:25.83,0:11:26.67,BottomCenter,,0000,0000,0000,,Mau ra ngoài đi!
+Dialogue: 0,0:11:27.29,0:11:28.77,BottomCenter,,0000,0000,0000,,Đợi đã! Đừng đẩy!
+Dialogue: 0,0:11:28.77,0:11:29.97,BottomCenter,,0000,0000,0000,,Cứ bình tĩnh đã nào...
+Dialogue: 0,0:11:29.97,0:11:32.11,BottomCenter,,0000,0000,0000,,Yên tâm, địch chỉ có một tên thôi.
+Dialogue: 0,0:11:32.11,0:11:33.15,BottomCenter,,0000,0000,0000,,Tại sao chứ?
+Dialogue: 0,0:11:33.44,0:11:34.51,BottomCenter,,0000,0000,0000,,Sao thế, Genos?
+Dialogue: 0,0:11:34.76,0:11:37.43,BottomCenter,,0000,0000,0000,,Có quái nhân xuất hiện,\Nnên tôi đã giao cho King xử lý rồi.
+Dialogue: 0,0:11:40.59,0:11:43.83,BottomCenter,,0000,0000,0000,,Có khách chờ trước cửa đây.
+Dialogue: 0,0:11:44.29,0:11:46.05,BottomCenter,,0000,0000,0000,,King, mời vào làm cái gì vậy?
+Dialogue: 0,0:11:46.05,0:11:49.17,BottomCenter,,0000,0000,0000,,Ấy khoan đã, khoan đã nào,\Ncậu lại bị hỏng nặng nữa rồi.
+Dialogue: 0,0:11:49.57,0:11:52.29,BottomCenter,,0000,0000,0000,,Không nên cố di chuyển nữa.
+Dialogue: 0,0:11:52.29,0:11:54.45,BottomCenter,,0000,0000,0000,,Là ta đây, Genos.
+Dialogue: 0,0:11:55.37,0:11:56.53,BottomCenter,,0000,0000,0000,,Tiến sĩ Kuseno!
+Dialogue: 0,0:11:56.53,0:11:58.76,BottomCenter,,0000,0000,0000,,Người quen à? May quá!
+Dialogue: 0,0:11:58.89,0:11:59.89,BottomCenter,,0000,0000,0000,,Sao tiến sĩ lại ở đây?
+Dialogue: 0,0:12:00.09,0:12:01.57,BottomCenter,,0000,0000,0000,,Ta có chút lo lắng thôi.
+Dialogue: 0,0:12:02.08,0:12:06.43,BottomCenter,,0000,0000,0000,,Vừa mới sửa cho cậu xong\Nmà lại nhận được tín hiệu cầu cứu nữa.
+Dialogue: 0,0:12:06.48,0:12:09.77,BottomCenter,,0000,0000,0000,,Nên ta nghĩ lần này đích thân\Nđến kiểm tra tình hình xem sao.
+Dialogue: 0,0:12:09.77,0:12:11.69,BottomCenter,,0000,0000,0000,,Xin lỗi đã để tiến sĩ lo lắng.
+Dialogue: 0,0:12:12.09,0:12:13.91,BottomCenter,,0000,0000,0000,,Tôi đã nói sẽ không thua nữa mà...
+Dialogue: 0,0:12:13.91,0:12:15.01,BottomCenter,,0000,0000,0000,,Bất ngờ thật.
+Dialogue: 0,0:12:15.53,0:12:19.17,BottomCenter,,0000,0000,0000,,Ta đã tăng sức mạnh và hỏa lực\Ncho cậu đáng kể cơ mà.
+Dialogue: 0,0:12:19.63,0:12:21.21,BottomCenter,,0000,0000,0000,,Thôi, đừng bận tâm.
+Dialogue: 0,0:12:21.29,0:12:24.01,BottomCenter,,0000,0000,0000,,Điều quan trọng hơn là sống sót,\Nkhông phải chiến thắng.
+Dialogue: 0,0:12:24.73,0:12:27.81,BottomCenter,,0000,0000,0000,,Vậy kẻ nào đã phá hủy cậu đến mức này?
+Dialogue: 0,0:12:27.81,0:12:30.33,BottomCenter,,0000,0000,0000,,Như thường lệ, là thầy Saitama.
+Dialogue: 0,0:12:30.33,0:12:32.45,BottomCenter,,0000,0000,0000,,Ra là cậu.
+Dialogue: 0,0:12:32.93,0:12:35.29,BottomCenter,,0000,0000,0000,,Saitama-kun, thầy của Genos.
+Dialogue: 0,0:12:35.29,0:12:36.91,BottomCenter,,0000,0000,0000,,Ta đã muốn gặp cậu một lần...
+Dialogue: 0,0:12:36.91,0:12:38.27,BottomCenter,,0000,0000,0000,,Có thể cởi giày ra không?
+Dialogue: 0,0:12:39.51,0:12:41.26,BottomCenter,,0000,0000,0000,,Ôi trời, thất lễ rồi.
+Dialogue: 0,0:12:44.19,0:12:45.36,BottomCenter,,0000,0000,0000,,Ta là Kuseno.
+Dialogue: 0,0:12:45.46,0:12:48.10,BottomCenter,,0000,0000,0000,,Vốn là một nhà khoa học chuyên về cơ khí,
+Dialogue: 0,0:12:48.20,0:12:51.30,BottomCenter,,0000,0000,0000,,vì vài lý do mà giờ ta hỗ trợ Genos\Ntrong công cuộc thực thi công lý.
+Dialogue: 0,0:12:51.30,0:12:53.03,BottomCenter,,0000,0000,0000,,Tôi là Saitama, rất vui được gặp.
+Dialogue: 0,0:12:53.16,0:12:53.90,BottomCenter,,0000,0000,0000,,Ra là thế…
+Dialogue: 0,0:12:54.10,0:12:57.90,BottomCenter,,0000,0000,0000,,Thật cảm động khi Genos đã có\Nmột người thầy tuyệt vời như cậu.
+Dialogue: 0,0:12:58.53,0:13:00.30,BottomCenter,,0000,0000,0000,,Ngày đầu ta gặp Genos...
+Dialogue: 0,0:13:00.30,0:13:02.34,BottomCenter,,0000,0000,0000,,Tốt rồi, có người đón cậu về, Genos.
+Dialogue: 0,0:13:03.08,0:13:06.70,BottomCenter,,0000,0000,0000,,Phòng thì chật lắm, vậy giải tán ở đây nhé.
+Dialogue: 0,0:13:06.70,0:13:07.54,BottomCenter,,0000,0000,0000,,Tạm biệt, Kuseno.
+Dialogue: 0,0:13:08.04,0:13:10.86,BottomCenter,,0000,0000,0000,,Tiến sĩ, làm ơn nói ngắn gọn thôi,\Ntrong 20 chữ trở lại ạ.
+Dialogue: 0,0:13:10.86,0:13:12.96,BottomCenter,,0000,0000,0000,,Thôi nào, đừng lạnh lùng thế.
+Dialogue: 0,0:13:12.96,0:13:15.44,BottomCenter,,0000,0000,0000,,Dù sao đây cũng là nhà của Saitama-kun mà.
+Dialogue: 0,0:13:15.72,0:13:17.20,BottomCenter,,0000,0000,0000,,Ta có mang chút quà đến đấy.
+Dialogue: 0,0:13:17.20,0:13:19.42,BottomCenter,,0000,0000,0000,,Quà là linh kiện tăng cường\Ncho thầy Saitama sao?
+Dialogue: 0,0:13:19.60,0:13:20.96,BottomCenter,,0000,0000,0000,,Không, tôi là người thường mà…
+Dialogue: 0,0:13:21.11,0:13:24.54,BottomCenter,,0000,0000,0000,,Là bộ quà tặng thịt bò hảo hạng cực cao cấp!
+Dialogue: 0,0:13:24.92,0:13:26.20,BottomCenter,,0000,0000,0000,,Hàng thượng phẩm đấy!
+Dialogue: 0,0:13:26.70,0:13:31.14,BottomCenter,,0000,0000,0000,,Xin hãy nhận lấy như lời cảm ơn\Nvì đã chăm sóc Genos.
+Dialogue: 0,0:13:31.34,0:13:33.38,BottomCenter,,0000,0000,0000,,Ồ, thịt hảo hạng à.
+Dialogue: 0,0:13:33.38,0:13:36.14,BottomCenter,,0000,0000,0000,,Lâu rồi tôi cũng chưa ăn thịt.
+Dialogue: 0,0:13:36.44,0:13:37.20,BottomCenter,,0000,0000,0000,,Kuseno...
+Dialogue: 0,0:13:38.04,0:13:39.68,BottomCenter,,0000,0000,0000,,Không, tiến sĩ Kuseno.
+Dialogue: 0,0:13:39.68,0:13:42.00,BottomCenter,,0000,0000,0000,,Có vẻ như chúng ta,\Nnhững người cùng dõi theo Genos...
+Dialogue: 0,0:13:42.25,0:13:44.08,BottomCenter,,0000,0000,0000,,sẽ có nhiều chuyện để tâm sự lắm đây.
+Dialogue: 0,0:13:44.64,0:13:47.24,BottomCenter,,0000,0000,0000,,Xin hãy đến chơi nhà chúng tôi\Nbất cứ lúc nào nhé.
+Dialogue: 0,0:13:47.29,0:13:49.24,BottomCenter,,0000,0000,0000,,Quá đơn giản rồi.
+Dialogue: 0,0:13:49.39,0:13:52.78,BottomCenter,,0000,0000,0000,,Thật xấu hổ vì mình còn nghĩ\Nmời anh ta rất khó.
+Dialogue: 0,0:13:53.43,0:13:55.20,BottomCenter,,0000,0000,0000,,Vậy chúng ta cho thịt này vào lẩu nhé.
+Dialogue: 0,0:13:55.62,0:13:57.08,BottomCenter,,0000,0000,0000,,Vậy để con đi thái rau.
+Dialogue: 0,0:13:57.68,0:14:00.22,BottomCenter,,0000,0000,0000,,Thịt xịn vậy mà anh định thả lẩu hả?
+Dialogue: 0,0:14:00.66,0:14:02.50,BottomCenter,,0000,0000,0000,,Ăn như vậy lãng phí quá.
+Dialogue: 0,0:14:03.44,0:14:05.66,BottomCenter,,0000,0000,0000,,Trong phòng này không để sẵn\Nrượu vang đỏ gì sao?
+Dialogue: 0,0:14:05.96,0:14:07.84,BottomCenter,,0000,0000,0000,,Hả, không có thứ đó đâu.
+Dialogue: 0,0:14:07.84,0:14:11.20,BottomCenter,,0000,0000,0000,,Mà không lẽ mấy người định ở đây ăn chực à?
+Dialogue: 0,0:14:11.52,0:14:14.08,BottomCenter,,0000,0000,0000,,Những người không liên quan\Nthì giải tán ở đây đi.
+Dialogue: 0,0:14:14.08,0:14:16.58,BottomCenter,,0000,0000,0000,,King với mấy ông chú bên kia mau về đi!
+Dialogue: 0,0:14:17.61,0:14:19.60,BottomCenter,,0000,0000,0000,,Ta vừa đi nói chuyện với Garo rồi.
+Dialogue: 0,0:14:19.70,0:14:21.62,BottomCenter,,0000,0000,0000,,Kết quả thẩm tra là… thất bại đấy.
+Dialogue: 0,0:14:22.24,0:14:24.78,BottomCenter,,0000,0000,0000,,Nói thật là tình huống lúc đó\Nxảy ra luôn, chẳng kịp suy nghĩ.
+Dialogue: 0,0:14:25.28,0:14:30.82,BottomCenter,,0000,0000,0000,,Thằng đó lúc mình định nói chuyện thì\Nđột nhiên lao tới tấn công cơ mà.
+Dialogue: 0,0:14:30.82,0:14:33.68,BottomCenter,,0000,0000,0000,,Xấu thật, Mushigami-chan nhỉ?
+Dialogue: 0,0:14:35.07,0:14:37.40,BottomCenter,,0000,0000,0000,,Chỉ biết nói mấy lời dối trá chán ngắt thôi à.
+Dialogue: 0,0:14:37.96,0:14:40.80,BottomCenter,,0000,0000,0000,,Sự thật như thế nào mau kể đi!
+Dialogue: 0,0:14:40.80,0:14:44.54,BottomCenter,,0000,0000,0000,,Hắn chỉ là tên nửa vời tự\Nxưng là quái nhân thôi.
+Dialogue: 0,0:14:44.84,0:14:48.68,BottomCenter,,0000,0000,0000,,Kiểu người có thể phản bội\Nbất cứ lúc nào tùy tình huống ấy.
+Dialogue: 0,0:14:49.41,0:14:54.12,BottomCenter,,0000,0000,0000,,Vậy giờ bọn ta sẽ tự xử lý hắn,\Ncó ai phàn nàn không?
+Dialogue: 0,0:14:54.27,0:14:56.92,BottomCenter,,0000,0000,0000,,Không phàn nàn đâu, cảm ơn đã báo cáo.
+Dialogue: 0,0:14:57.22,0:15:00.50,BottomCenter,,0000,0000,0000,,Mà hắn cũng mạnh đấy chứ,\Nhai người bị thương nhiều đấy.
+Dialogue: 0,0:15:01.76,0:15:05.30,BottomCenter,,0000,0000,0000,,Sức mạnh cơ thể của hắn cũng\Nnằm ngoài tưởng tượng.
+Dialogue: 0,0:15:05.30,0:15:08.32,BottomCenter,,0000,0000,0000,,Ta cũng hiểu lý do cần hai người đi với nhau rồi.
+Dialogue: 0,0:15:08.42,0:15:10.02,BottomCenter,,0000,0000,0000,,Hắn thật sự chết rồi hả?
+Dialogue: 0,0:15:10.02,0:15:12.72,BottomCenter,,0000,0000,0000,,Chưa xác nhận nhưng chắc chết rồi.
+Dialogue: 0,0:15:12.87,0:15:15.38,BottomCenter,,0000,0000,0000,,Vì Mushigami-chan ngăn chậm nên mới thế.
+Dialogue: 0,0:15:15.73,0:15:18.82,BottomCenter,,0000,0000,0000,,Ngươi ngay từ đầu đã định giết hắn rồi mà.
+Dialogue: 0,0:15:19.96,0:15:20.86,BottomCenter,,0000,0000,0000,,Chú ơi...
+Dialogue: 0,0:15:23.48,0:15:25.52,BottomCenter,,0000,0000,0000,,Thế đứa trẻ đó thì sao?
+Dialogue: 0,0:15:25.87,0:15:28.08,BottomCenter,,0000,0000,0000,,Bị phát hiện nên bọn ta mang nó về.
+Dialogue: 0,0:15:28.56,0:15:31.36,BottomCenter,,0000,0000,0000,,Không được đâu, mau xử lý nó đi!
+Dialogue: 0,0:15:31.36,0:15:36.24,BottomCenter,,0000,0000,0000,,Đừng giận thế chứ,\Nta đem về để sau còn chơi mà
+Dialogue: 0,0:15:36.44,0:15:41.40,BottomCenter,,0000,0000,0000,,Nếu không thỉnh thoảng giải tỏa thì\Nta lại bỗng chốc chém ai đó ở đây mất.
+Dialogue: 0,0:15:41.95,0:15:44.06,BottomCenter,,0000,0000,0000,,Chẳng còn thời gian để chơi đâu.
+Dialogue: 0,0:15:44.72,0:15:48.20,BottomCenter,,0000,0000,0000,,Robot thám sát của Hiệp hội Anh hùng\Nđã tới gần cái căn cứ này rồi.
+Dialogue: 0,0:15:48.50,0:15:52.20,BottomCenter,,0000,0000,0000,,Chỉ một ngày nữa là sẽ lần ra\Nđược chỗ này thôi.
+Dialogue: 0,0:15:52.66,0:15:56.24,BottomCenter,,0000,0000,0000,,Cuối cùng thì mấy anh hùng hạng S mà\Nmọi người mong đợi sẽ được gửi tới.
+Dialogue: 0,0:15:56.24,0:16:01.42,BottomCenter,,0000,0000,0000,,Hạng S rất mạnh đó,\Nmấy người chuẩn bị chiến đấu đi!
+Dialogue: 0,0:16:01.42,0:16:03.68,BottomCenter,,0000,0000,0000,,Mọi chuyện thực sự sẽ dễ dàng sao?
+Dialogue: 0,0:16:03.68,0:16:06.76,BottomCenter,,0000,0000,0000,,Ngài Gyoro Gyoro sẽ chỉ định\Nđối thủ thích hợp cho từng người thôi.
+Dialogue: 0,0:16:06.76,0:16:08.18,BottomCenter,,0000,0000,0000,,Thích hợp cái quái gì chứ?
+Dialogue: 0,0:16:08.18,0:16:10.82,BottomCenter,,0000,0000,0000,,Các ngươi đang sợ con người đấy à?
+Dialogue: 0,0:16:11.23,0:16:16.04,BottomCenter,,0000,0000,0000,,Quái nhân mạnh mẽ như ta\Nthì đập hết, khỏi vòng vo.
+Dialogue: 0,0:16:16.44,0:16:17.78,BottomCenter,,0000,0000,0000,,Thật vớ vẩn!
+Dialogue: 0,0:16:18.32,0:16:21.50,BottomCenter,,0000,0000,0000,,Nếu câu chuyện đó là sự thật thì\Nta cũng có thể làm được.
+Dialogue: 0,0:16:21.50,0:16:24.18,BottomCenter,,0000,0000,0000,,Vua Quái Nhân... Phoenix Man.
+Dialogue: 0,0:16:24.18,0:16:28.64,BottomCenter,,0000,0000,0000,,Nghe đây, mục tiêu là mỗi đứa\Nphải giết được một tên.
+Dialogue: 0,0:16:28.64,0:16:30.00,BottomCenter,,0000,0000,0000,,Chiến đến chết đi nhé.
+Dialogue: 0,0:16:30.82,0:16:33.32,BottomCenter,,0000,0000,0000,,Vì đây sẽ được tính là thành tích của ta đấy!
+Dialogue: 0,0:16:35.92,0:16:38.76,BottomCenter,,0000,0000,0000,,Chẳng phải quái nhân chém giết\Nlẫn nhau bị cấm hay sao?
+Dialogue: 0,0:16:39.12,0:16:42.88,BottomCenter,,0000,0000,0000,,Mấy kẻ nửa mùa như bọn mi\Nmà dám chống lại quái nhân thật sự à?
+Dialogue: 0,0:16:42.88,0:16:44.68,BottomCenter,,0000,0000,0000,,Biết thân biết phận đi.
+Dialogue: 0,0:16:44.68,0:16:47.88,BottomCenter,,0000,0000,0000,,Ngài Ma Tóc Dài mạnh thật đấy,\Nchắc cấp Quỷ rồi nhỉ?
+Dialogue: 0,0:16:47.88,0:16:50.12,BottomCenter,,0000,0000,0000,,Giống như hổ có cánh, ria dài hạt dẻ,
+Dialogue: 0,0:16:50.37,0:16:53.74,BottomCenter,,0000,0000,0000,,tóc dài suôn mượt, quỷ cầm chày sắt,\Nta là Ma Tóc Dài.
+Dialogue: 0,0:16:53.74,0:16:57.10,BottomCenter,,0000,0000,0000,,Ra là chỉ cần chăm sóc tóc kỹ\Nlà thành quái nhân.
+Dialogue: 0,0:16:57.81,0:17:02.54,BottomCenter,,0000,0000,0000,,Ngài Nyan, khi tên Puri-Puri Prisoner\Nđó đến, xin hãy để bọn tôi xử lý nó!
+Dialogue: 0,0:17:02.92,0:17:06.26,BottomCenter,,0000,0000,0000,,Hay đấy, giờ chúng ta có thể trả thù rồi!
+Dialogue: 0,0:17:06.46,0:17:09.04,BottomCenter,,0000,0000,0000,,Không giết được thằng đó bằng\Nchính tay mình thì tôi không cam lòng!
+Dialogue: 0,0:17:09.74,0:17:12.18,BottomCenter,,0000,0000,0000,,Được thôi, thích thì cứ quậy phá cho thỏa đi.
+Dialogue: 0,0:17:12.95,0:17:17.02,BottomCenter,,0000,0000,0000,,Trong Hiệp hội Anh hùng,\Nkẻ mạnh nhất về thực lực là Tia Chớp Flash.
+Dialogue: 0,0:17:17.54,0:17:19.12,BottomCenter,,0000,0000,0000,,Còn lại toàn lũ tép riu.
+Dialogue: 0,0:17:19.12,0:17:21.92,BottomCenter,,0000,0000,0000,,Bên kia cũng có siêu năng lực gia\Nvà robot, nhưng...
+Dialogue: 0,0:17:22.62,0:17:24.62,BottomCenter,,0000,0000,0000,,Robot thì khỏi bàn, vô dụng thôi.
+Dialogue: 0,0:17:24.62,0:17:29.50,BottomCenter,,0000,0000,0000,,Đống máy móc đó làm sao phản ứng\Nkịp với tốc độ của ninja bọn ta chứ.
+Dialogue: 0,0:18:30.33,0:18:32.01,BottomCenter,,0000,0000,0000,,Thế còn siêu năng lực thì sao?
+Dialogue: 0,0:18:34.48,0:18:37.77,BottomCenter,,0000,0000,0000,,Giết trong chớp mắt, chẳng cho kịp kích hoạt đâu.
+Dialogue: 0,0:18:47.04,0:18:49.50,BottomCenter,,0000,0000,0000,,Cậu là G5-kun phải không?
+Dialogue: 0,0:18:50.10,0:18:50.76,BottomCenter,,0000,0000,0000,,Hả?
+Dialogue: 0,0:18:51.03,0:18:53.76,BottomCenter,,0000,0000,0000,,Thứ đó cậu lấy từ đâu ra thế?
+Dialogue: 0,0:18:53.76,0:18:57.48,BottomCenter,,0000,0000,0000,,Tôi chỉ thu thập nó vì sở thích cá nhân thôi.
+Dialogue: 0,0:18:57.96,0:19:00.78,BottomCenter,,0000,0000,0000,,Tôi muốn tháo rời và\Nnghiên cứu cấu trúc chi tiết của nó.
+Dialogue: 0,0:19:00.78,0:19:03.06,BottomCenter,,0000,0000,0000,,Hiệp Sĩ Kim Loại bị tháo rời từng mảnh rồi!
+Dialogue: 0,0:19:03.76,0:19:07.58,BottomCenter,,0000,0000,0000,,Đây là mẫu vật quý hiếm, xin phép.
+Dialogue: 0,0:19:12.71,0:19:15.93,BottomCenter,,0000,0000,0000,,Wagama-kun, ta mang tới bạn cho mi này.
+Dialogue: 0,0:19:18.08,0:19:18.87,BottomCenter,,0000,0000,0000,,Ai vậy?
+Dialogue: 0,0:19:19.17,0:19:22.19,BottomCenter,,0000,0000,0000,,Cậu là ai? Cậu cũng bị quái nhân bắt hả?
+Dialogue: 0,0:19:22.85,0:19:24.91,BottomCenter,,0000,0000,0000,,À... Wagama-kun?
+Dialogue: 0,0:19:25.51,0:19:26.01,BottomCenter,,0000,0000,0000,,Ừ!
+Dialogue: 0,0:19:26.61,0:19:28.55,BottomCenter,,0000,0000,0000,,Nè, bên ngoài bây giờ là ban đêm rồi hả?
+Dialogue: 0,0:19:29.37,0:19:30.18,BottomCenter,,0000,0000,0000,,Ừ!
+Dialogue: 0,0:19:30.78,0:19:32.95,BottomCenter,,0000,0000,0000,,Này, cậu có mang gì ăn không?
+Dialogue: 0,0:19:33.31,0:19:34.91,BottomCenter,,0000,0000,0000,,Tôi chỉ có kẹo thôi.
+Dialogue: 0,0:19:35.06,0:19:37.95,BottomCenter,,0000,0000,0000,,Chỉ có một viên, nếu cậu muốn thì...
+Dialogue: 0,0:19:40.51,0:19:41.43,BottomCenter,,0000,0000,0000,,Còn gì khác không?
+Dialogue: 0,0:19:41.77,0:19:43.99,BottomCenter,,0000,0000,0000,,Xin lỗi, hết rồi.
+Dialogue: 0,0:19:45.30,0:19:46.65,BottomCenter,,0000,0000,0000,,Vô dụng thật.
+Dialogue: 0,0:19:47.69,0:19:50.71,BottomCenter,,0000,0000,0000,,Này, cậu nghĩ bọn mình sẽ ra sao đây?
+Dialogue: 0,0:19:51.09,0:19:53.37,BottomCenter,,0000,0000,0000,,Đám quái nhân đúng là ngu ngốc,
+Dialogue: 0,0:19:54.50,0:19:56.51,BottomCenter,,0000,0000,0000,,Bắt nhầm người như tôi chứ.
+Dialogue: 0,0:19:57.06,0:19:59.71,BottomCenter,,0000,0000,0000,,Bố tôi là người cấp cao trong\NHiệp hội Anh hùng đấy.
+Dialogue: 0,0:20:00.09,0:20:00.79,BottomCenter,,0000,0000,0000,,Thật à?
+Dialogue: 0,0:20:01.13,0:20:03.19,BottomCenter,,0000,0000,0000,,Chắc chắn Hiệp hội sẽ không để yên đâu.
+Dialogue: 0,0:20:03.19,0:20:05.21,BottomCenter,,0000,0000,0000,,Họ sẽ nhanh chóng đến cứu tôi thôi.
+Dialogue: 0,0:20:05.21,0:20:06.38,BottomCenter,,0000,0000,0000,,À đúng rồi.
+Dialogue: 0,0:20:06.38,0:20:08.49,BottomCenter,,0000,0000,0000,,Tôi sẽ nhờ họ cứu cả cậu luôn.
+Dialogue: 0,0:20:09.14,0:20:11.21,BottomCenter,,0000,0000,0000,,Tôi sẽ nói với các anh hùng giúp cho!
+Dialogue: 0,0:20:11.21,0:20:12.64,BottomCenter,,0000,0000,0000,,Ừ, làm ơn nhé!
+Dialogue: 0,0:20:12.64,0:20:16.21,BottomCenter,,0000,0000,0000,,Được rồi, từ hôm nay, cậu là thuộc hạ của tôi!
+Dialogue: 0,0:20:17.01,0:20:19.45,BottomCenter,,0000,0000,0000,,Có ý kiến gì không? Muốn sống sót chứ?
+Dialogue: 0,0:20:19.94,0:20:22.57,BottomCenter,,0000,0000,0000,,Tôi chỉ muốn về nhà thôi.
+Dialogue: 0,0:20:22.57,0:20:24.44,BottomCenter,,0000,0000,0000,,Hai đứa đang nói gì thế?
+Dialogue: 0,0:20:24.73,0:20:26.27,BottomCenter,,0000,0000,0000,,Hắn tới rồi!
+Dialogue: 0,0:20:26.73,0:20:29.57,BottomCenter,,0000,0000,0000,,Tiếc là tụi bây sẽ không bao giờ\Nđược về nhà nữa đâu.
+Dialogue: 0,0:20:29.95,0:20:31.49,BottomCenter,,0000,0000,0000,,Đáng tiếc thật nhỉ.
+Dialogue: 0,0:20:32.31,0:20:35.43,BottomCenter,,0000,0000,0000,,Nếu không thả ta về nhà ngay, anh hùng sẽ đến đấy!
+Dialogue: 0,0:20:36.97,0:20:38.37,BottomCenter,,0000,0000,0000,,Tất cả tụi bây sẽ chết hết!
+Dialogue: 0,0:20:38.37,0:20:43.57,BottomCenter,,0000,0000,0000,,Anh hùng, cả bố mi nữa...\Nvì đến cứu mi, tất cả sẽ chết hết!
+Dialogue: 0,0:20:46.91,0:20:48.67,BottomCenter,,0000,0000,0000,,Cả các anh hùng cấp S cũng sẽ đến đấy!
+Dialogue: 0,0:20:48.67,0:20:51.63,BottomCenter,,0000,0000,0000,,Lũ như các ngươi sẽ bị đánh cho bầm dập,\Ntan xác luôn cho mà xem!
+Dialogue: 0,0:20:51.63,0:20:55.17,BottomCenter,,0000,0000,0000,,À mà đúng rồi, nếu là Chày Kim Loại, chắc một\Nmình anh ta cũng hạ được bọn ngươi đấy.
+Dialogue: 0,0:20:55.17,0:20:58.15,BottomCenter,,0000,0000,0000,,Ta đã thấy rồi nên biết... Quá dễ!
+Dialogue: 0,0:20:58.15,0:21:01.43,BottomCenter,,0000,0000,0000,,À rồi rồi, Chày Kim Loại, sợ quá!
+Dialogue: 0,0:21:03.38,0:21:07.65,BottomCenter,,0000,0000,0000,,Này Wagama-kun, tôi vừa xem tin tức.
+Dialogue: 0,0:21:07.65,0:21:11.67,BottomCenter,,0000,0000,0000,,Genji Sấm Sét, Chày Kim Loại, Heavy Kong...
+Dialogue: 0,0:21:11.67,0:21:13.57,BottomCenter,,0000,0000,0000,,Rồi cả Hiệp Sĩ Kim Loại nữa...
+Dialogue: 0,0:21:14.37,0:21:17.67,BottomCenter,,0000,0000,0000,,Gì hả? Hiệp hội Anh hùng còn có\NTatsumaki và Blast...
+Dialogue: 0,0:21:18.27,0:21:20.05,BottomCenter,,0000,0000,0000,,Đúng rồi, có cả King nữa.
+Dialogue: 0,0:21:20.93,0:21:23.51,BottomCenter,,0000,0000,0000,,Thế nào, nghe tên thôi đã sợ rồi đúng không?
+Dialogue: 0,0:21:23.67,0:21:28.27,BottomCenter,,0000,0000,0000,,Này nhóc, mi có biết Hiệp hội quái nhân\Nđược lập ra để làm gì không?
+Dialogue: 0,0:21:28.57,0:21:32.11,BottomCenter,,0000,0000,0000,,Để giết sạch lũ anh hùng đáng ghét đó!
+Dialogue: 0,0:21:32.11,0:21:36.61,BottomCenter,,0000,0000,0000,,Bọn ta thừa biết lũ anh hùng cấp S mạnh cỡ nào.
+Dialogue: 0,0:21:36.61,0:21:40.55,BottomCenter,,0000,0000,0000,,Biết rõ, nhưng vẫn nói thẳng luôn,\Ntoàn bộ bọn chúng sẽ chết hết.
+Dialogue: 0,0:21:41.03,0:21:44.75,BottomCenter,,0000,0000,0000,,Phía bọn ta có những kẻ còn mạnh hơn cả cấp S!
+Dialogue: 0,0:21:44.75,0:21:49.65,BottomCenter,,0000,0000,0000,,Đặc biệt là các thủ lĩnh cấp Rồng,
+Dialogue: 0,0:21:56.78,0:21:59.78,BottomCenter,,0000,0000,0000,,sức mạnh của họ là kỳ tích,
+Dialogue: 0,0:21:59.91,0:22:04.03,BottomCenter,,0000,0000,0000,,Như thể tác phẩm nghệ thuật\Ncủa thần linh vậy.
+Dialogue: 0,0:22:04.03,0:22:06.71,BottomCenter,,0000,0000,0000,,Con người làm sao có cửa thắng nổi.
+Dialogue: 0,0:22:07.69,0:22:09.67,BottomCenter,,0000,0000,0000,,Kể cả King cũng sẽ chết thôi.
+Dialogue: 0,0:22:46.42,0:22:56.14,BottomCenter,,0000,0000,0000,,Trôi nổi trong cùng một khoảng thời gian,\Nbên bờ của sự đúng đắn,
+Dialogue: 0,0:22:56.14,0:23:05.78,BottomCenter,,0000,0000,0000,,nếu như những cảm xúc của em\Nđang lạc lõng, cô đơn…
+Dialogue: 0,0:23:05.78,0:23:13.07,BottomCenter,,0000,0000,0000,,thì anh sẽ đón em bằng gương mặt\Nquen thuộc thường ngày.
+Dialogue: 0,0:23:14.24,0:23:21.58,BottomCenter,,0000,0000,0000,,Nếu ánh sáng đang hiện hữu nơi đây
+Dialogue: 0,0:23:21.58,0:23:26.67,BottomCenter,,0000,0000,0000,,có thể soi rọi công bằng hiện tại của chúng ta,
+Dialogue: 0,0:23:26.67,0:23:36.35,BottomCenter,,0000,0000,0000,,thì cả nỗi đau lẫn cô độc,\Nhãy cứ đón nhận tất cả như vốn có.
+Dialogue: 0,0:23:36.35,0:23:44.98,BottomCenter,,0000,0000,0000,,Anh sẽ tiếp tục bước đi\Nvới ước nguyện thắp sáng trong tim.
+Dialogue: 0,0:23:56.37,0:24:00.96,BottomCenter,,0000,0000,0000,,(Tiếng súng phản công)
+

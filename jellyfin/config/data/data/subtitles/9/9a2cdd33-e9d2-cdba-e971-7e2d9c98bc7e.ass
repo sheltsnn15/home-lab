@@ -1,0 +1,404 @@
+[Script Info]
+Title: [Erai-raws] Español (España)
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H001F1F1F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,2,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:40.98,0:01:52.20,Cart_C_Verd,CARTEL,0000,0000,0000,,{\c&H453132&\fax-0.1\an2\bord3\blur1\3c&HEEEEED&\fs28\move(341.87,297.6,341.87,-220)\frx10\fry340}¡Complazcamos\Na los monstruos!
+Dialogue: 0,0:01:40.98,0:01:52.20,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H414697&\an2\fax-0.1\bord3\blur1\3c&HEEEEED&\fs22\frz13\move(368,605,368,143)}Rendición absoluta
+Dialogue: 0,0:01:44.02,0:01:47.42,Gen_Italics,líder veneradores monstruos,0000,0000,0000,,Ya veis el estado actual\Nde la Asociación de Héroes.
+Dialogue: 0,0:01:47.62,0:01:49.98,Gen_Italics,líder veneradores monstruos,0000,0000,0000,,La humanidad no puede ganar.
+Dialogue: 0,0:01:50.20,0:01:52.20,Gen_Italics,líder veneradores monstruos,0000,0000,0000,,Debemos rendirnos por completo.
+Dialogue: 0,0:01:52.20,0:02:02.00,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H2D2022&\3c&HFEFEFE&\an2\frz351.2\blur0.4\frx2\fry356\move(466.11,184.84,688.52,-90.78)}¡¡La humanidad\Nno puede ganar!!
+Dialogue: 0,0:01:52.20,0:02:02.00,Cart_C_Verd,CARTEL,0000,0000,0000,,{\c&H68424B&\3c&HFEFEFE&\an2\blur1\frx2\fry356\fax-0.3\fs20\bord3\frz359.9\move(8.45,213.75,230.86,-74.05)}¡Cooperemos con\Nlos monstruos!
+Dialogue: 0,0:01:52.20,0:02:02.00,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H271E1E&\fax-0.3\3c&HCBC2C1&\an2\blur1\frx2\fry356\fs12\bord3\frz8.94\move(-64,584,155,297)}Veneremos a\Nlos monstruos
+Dialogue: 0,0:01:52.48,0:01:56.50,Gen_Italics,líder veneradores monstruos,0000,0000,0000,,Si nos resistimos,\Nnos aniquilarán a todos.
+Dialogue: 0,0:01:56.72,0:01:59.51,Gen_Italics,líder veneradores monstruos,0000,0000,0000,,Por eso, los Veneradores de Monstruos
+Dialogue: 0,0:01:59.64,0:02:02.00,Gen_Italics,líder veneradores monstruos,0000,0000,0000,,hemos pensado\Nen la única solución posible.
+Dialogue: 0,0:02:02.00,0:02:22.00,Cart_A_Tre,CARTEL,0000,0000,0000,,{\3c&H7C7BBB&\an2\fs12\frz4.029\move(582.32,35.79,582.32,-292)}¡Complazcamos a\Nlos monstruos!
+Dialogue: 0,0:02:02.00,0:02:22.00,Cart_A_Tre,CARTEL,0000,0000,0000,,{\3c&H4E53A5&\fax-0.2\an2\fs16\frz13.8\move(386.95,206.32,386.95,-121.47)}Dialoguemos con\Nlos monstruos
+Dialogue: 0,0:02:02.00,0:02:22.00,Cart_A_Verd,CARTEL,0000,0000,0000,,{\3c&H8094A6&\an2\fs12\c&H3F4042&\move(309.47,297.26,309.47,-30.53)\frz24.67}Veneremos a los monstruos
+Dialogue: 0,0:02:02.00,0:02:22.00,Cart_A_Verd,CARTEL,0000,0000,0000,,{\3c&HFEFEFF&\an2\fs10\c&H3F4042&\move(463.97,438.53,463.97,110.74)}¡¡Complazcamos a los monstruos!!
+Dialogue: 0,0:02:02.00,0:02:22.00,Cart_A_Verd,CARTEL,0000,0000,0000,,{\3c&H3F4697&\blur2\bord3\an2\fs18\c&H2E1D22&\frz23.08\move(64.65,545.39,64.65,217.6)}Veneremos a\Nlos monstruos
+Dialogue: 0,0:02:02.46,0:02:06.04,Gen_Italics,líder veneradores monstruos,0000,0000,0000,,Ofrecer sacrificios periódicos\Na los monstruos
+Dialogue: 0,0:02:06.20,0:02:08.76,Gen_Italics,líder veneradores monstruos,0000,0000,0000,,para controlar el ritmo\Nde su depredación
+Dialogue: 0,0:02:08.94,0:02:11.74,Gen_Italics,líder veneradores monstruos,0000,0000,0000,,es nuestra mejor baza para sobrevivir.
+Dialogue: 0,0:02:12.27,0:02:17.04,Gen_Italics,líder veneradores monstruos,0000,0000,0000,,Si os aliáis con los monstruos,\Nvenid con nosotros.
+Dialogue: 0,0:02:17.62,0:02:21.98,Gen_Italics,líder veneradores monstruos,0000,0000,0000,,Sobreviviremos en un mundo\Nen el que cambiará el sentido común.
+Dialogue: 0,0:02:22.22,0:02:23.60,Gen_Main,hombre A,0000,0000,0000,,¡Cierra el pico!
+Dialogue: 0,0:02:23.76,0:02:27.20,Gen_Main,hombre A,0000,0000,0000,,Prefiero morir a aliarme con monstruos.
+Dialogue: 0,0:02:27.63,0:02:33.04,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H473435&\fad(500,0)\fax-0.02\3c&HD7D7D8&\pos(337.26,26.53)}Monstruos
+Dialogue: 0,0:02:28.10,0:02:29.34,Gen_Italics,líder veneradores monstruos,0000,0000,0000,,Perfecto.
+Dialogue: 0,0:02:29.54,0:02:33.06,Gen_Italics,líder veneradores monstruos,0000,0000,0000,,Ahí tenemos\Nal primer candidato a sacrificio.
+Dialogue: 0,0:02:33.30,0:02:34.42,Gen_Italics,líder veneradores monstruos,0000,0000,0000,,¡Atrapadlo!
+Dialogue: 0,0:02:35.98,0:02:37.92,Gen_Main,hombre A,0000,0000,0000,,¡Esperad!
+Dialogue: 0,0:02:40.42,0:02:41.90,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H473435&\fad(500,0)\fax-0.02\3c&HD7D7D8&\pos(366.74,71.16)\frz307.6\frx358\fry332}Monstruos
+Dialogue: 0,0:02:40.42,0:02:41.90,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H473435&\fad(500,0)\fax-0.02\3c&HD7D7D8&\pos(295.16,115.79)\frx12\fry12\frz312.5}Monstruos
+Dialogue: 0,0:02:42.74,0:02:46.32,Gen_Main,garo,0000,0000,0000,,¿Pretendéis salvaros\Nofreciendo sacrificios?
+Dialogue: 0,0:02:46.66,0:02:49.35,Gen_Main,garo,0000,0000,0000,,Subestimáis a los monstruos.
+Dialogue: 0,0:02:49.68,0:02:52.92,Gen_Italics,garo,0000,0000,0000,,Qué fácil es\Ntrastornar la sociedad humana.
+Dialogue: 0,0:02:53.06,0:02:54.61,Gen_Italics,garo,0000,0000,0000,,Qué decepción.
+Dialogue: 0,0:02:55.08,0:02:57.08,Gen_Italics,garo,0000,0000,0000,,Si ya están así,
+Dialogue: 0,0:02:57.26,0:03:02.66,Gen_Italics,garo,0000,0000,0000,,yo no tendré mucho impacto cuando\Naparezca como el monstruo más fuerte.
+Dialogue: 0,0:03:02.84,0:03:04.58,Gen_Italics,garo,0000,0000,0000,,Es preocupante.
+Dialogue: 0,0:03:04.58,0:03:09.25,Cart_A_Tim,CARTEL,0000,0000,0000,,{\fs22\fad(0,500)\pos(467.37,218.53)}Las condiciones de los monstruos
+Dialogue: 0,0:03:04.94,0:03:07.86,Gen_Italics,presentador tv,0000,0000,0000,,Parte de la población está desatada,
+Dialogue: 0,0:03:08.00,0:03:10.26,Gen_Italics,presentador tv,0000,0000,0000,,cometiendo robos de todo tipo.
+Dialogue: 0,0:03:10.44,0:03:15.00,Gen_Italics,presentador tv,0000,0000,0000,,La policía y los superhéroes patrullan\Nllamando la atención si es necesario.
+Dialogue: 0,0:03:15.70,0:03:21.86,Gen_Italics,presentador tv,0000,0000,0000,,En ciudad S están predicando\Nque ha llegado el fin de la historia
+Dialogue: 0,0:03:21.98,0:03:24.09,Gen_Italics,presentador tv,0000,0000,0000,,en una marcha desconcertante.
+Dialogue: 0,0:03:24.48,0:03:29.36,Gen_Italics,garo,0000,0000,0000,,Lo que hagan los monstruos\Nno reducirá vuestros crímenes.
+Dialogue: 0,0:03:30.16,0:03:33.06,Gen_Italics,garo,0000,0000,0000,,Por culpa de la Asociación de Monstruos,
+Dialogue: 0,0:03:33.22,0:03:35.90,Gen_Italics,garo,0000,0000,0000,,esos sinvergüenzas\Nse están multiplicando.
+Dialogue: 0,0:03:36.82,0:03:39.90,Gen_Main,joven,0000,0000,0000,,Has sido tú el que me ha dado, viejo.
+Dialogue: 0,0:03:40.10,0:03:42.04,Gen_Main,joven,0000,0000,0000,,¿Tienes algún problema o qué?
+Dialogue: 0,0:03:42.26,0:03:45.10,Gen_Main,joven,0000,0000,0000,,¡Callaos! Él ha chocado contra mí.
+Dialogue: 0,0:03:45.28,0:03:47.33,Gen_Main,hombre C,0000,0000,0000,,Está borracho. No hay nada que hacer.
+Dialogue: 0,0:03:47.60,0:03:50.66,Gen_Main,joven,0000,0000,0000,,Los monstruos nos van a matar a todos.
+Dialogue: 0,0:03:50.80,0:03:52.41,Gen_Main,joven,0000,0000,0000,,¿Por qué reprimirse?
+Dialogue: 0,0:03:52.82,0:03:56.62,Gen_Main,garo,0000,0000,0000,,Aquí estáis en medio. Largaos.
+Dialogue: 0,0:03:56.84,0:04:00.75,Gen_Main,joven,0000,0000,0000,,¿Perdón? ¿Has dicho algo, mocoso?
+Dialogue: 0,0:04:07.22,0:04:08.64,Gen_Main,garo,0000,0000,0000,,Lárgate.
+Dialogue: 0,0:04:09.70,0:04:11.85,Gen_Italics,garo,0000,0000,0000,,Yo no soy como ellos.
+Dialogue: 0,0:04:12.34,0:04:16.40,Gen_Italics,garo,0000,0000,0000,,Promoveré tal miedo\Nque hasta esta gentuza se comportará.
+Dialogue: 0,0:04:17.36,0:04:20.32,Gen_Italics,garo,0000,0000,0000,,Pero ahora tengo mucha hambre.
+Dialogue: 0,0:04:21.32,0:04:25.96,Gen_Main,camarera A,0000,0000,0000,,Un set de bistec extragrueso\Ncon ración extra de arroz.
+Dialogue: 0,0:04:26.30,0:04:27.72,Gen_Main,camarera A,0000,0000,0000,,Que lo disfrutes.
+Dialogue: 0,0:04:28.82,0:04:30.74,Gen_Main,garo,0000,0000,0000,,Que {\i1}aprobestezuela{\i0}.
+Dialogue: 0,0:04:46.84,0:04:50.62,Gen_Main,garo,0000,0000,0000,,¿Eh? Necesito mucha más comida.
+Dialogue: 0,0:04:52.50,0:04:55.40,Gen_Main,garo,0000,0000,0000,,Un plato de cada de este menú de carne.
+Dialogue: 0,0:04:55.80,0:04:57.88,Gen_Main,garo,0000,0000,0000,,Y todos los tipos de ensalada.
+Dialogue: 0,0:04:58.10,0:04:59.92,Gen_Main,garo,0000,0000,0000,,Ah, y un montón de agua.
+Dialogue: 0,0:05:00.08,0:05:01.23,Gen_Main,camarera A,0000,0000,0000,,Vaya…
+Dialogue: 0,0:05:06.04,0:05:07.57,Gen_Main,garo,0000,0000,0000,,Quiero pedir más.
+Dialogue: 0,0:05:07.57,0:05:11.58,Cart_C_Verd,CARTEL,0000,0000,0000,,{\c&H5545BF&\fscy120\pos(43.37,63.58)}Zampa
+Dialogue: 0,0:05:07.90,0:05:11.58,Cart_A_Verd,CARTEL,0000,0000,0000,,{\c&HF7E3A4&\3c&HBC9A67&\fscx80\pos(594.11,32)}Mastica
+Dialogue: 0,0:05:08.23,0:05:11.58,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H3D3E42&\3c&HDBDCE1&\pos(45.47,256)}Ñam\Nñam
+Dialogue: 0,0:05:08.56,0:05:11.58,Cart_A_Verd,CARTEL,0000,0000,0000,,{\c&HF7E3A4&\3c&HBC9A67&\bord1.5\fscx80\pos(174.32,170.11)}Mastica
+Dialogue: 0,0:05:08.90,0:05:11.58,Cart_C_Verd,CARTEL,0000,0000,0000,,{\c&H5545BF&\fscy120\pos(402.11,98.11)}Zampa
+Dialogue: 0,0:05:08.90,0:05:11.58,Cart_C_Verd,CARTEL,0000,0000,0000,,{\c&H5545BF&\fscy120\fs14\pos(249.68,56.84)}Zampa
+Dialogue: 0,0:05:09.23,0:05:11.58,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H5DECFA&\3c&H3E9CC0&\pos(576.42,276.21)}Engulle
+Dialogue: 0,0:05:09.23,0:05:11.58,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H56CEFB&\3c&H407EC3&\pos(583.16,245.89)}Crunch
+Dialogue: 0,0:05:11.58,0:05:13.54,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H5DECFA&\3c&H3E9CC0&\fs36\pos(313.26,4.63)}Engulle
+Dialogue: 0,0:05:11.58,0:05:13.54,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H5DECFA&\3c&H3E9CC0&\fs36\pos(362.11,99.37)}Engulle
+Dialogue: 0,0:05:11.58,0:05:13.54,Cart_C_Verd,CARTEL,0000,0000,0000,,{\c&H5545BF&\fscy120\fs38\pos(559.16,18.95)}Zampa
+Dialogue: 0,0:05:11.58,0:05:13.54,Cart_C_Verd,CARTEL,0000,0000,0000,,{\c&H5545BF&\fscy120\fs33\pos(485.89,243.37)}Zampa
+Dialogue: 0,0:05:11.58,0:05:13.54,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&HF7E3A4&\3c&HB58045&\bord3\fscx80\fs36\pos(358.74,149.05)}Mastica
+Dialogue: 0,0:05:11.58,0:05:13.54,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&HF7E3A4&\3c&HB58045&\bord3\fscx80\fs30\pos(389.89,220.63)}Mastica
+Dialogue: 0,0:05:13.54,0:05:16.50,Cart_A_Verd,CARTEL,0000,0000,0000,,{\c&H5DECFA&\3c&H3B87C7&\fs36\bord2.5\pos(208.84,46.32)}Engulle
+Dialogue: 0,0:05:13.54,0:05:16.50,Cart_C_Verd,CARTEL,0000,0000,0000,,{\c&H5545BF&\fscy120\bord3\fs33\pos(429.47,16)}Zampa
+Dialogue: 0,0:05:20.40,0:05:22.84,Cart_C_Verd,CARTEL,0000,0000,0000,,{\c&HF1DCA2&\bord3\3c&HAC814D&\fs36\move(103.16,156.21,103.16,400)}Glub
+Dialogue: 0,0:05:20.40,0:05:22.84,Cart_C_Verd,CARTEL,0000,0000,0000,,{\c&HF1DCA2&\bord3\3c&HAC814D&\fs36\move(61.05,77.89,61.05,321.68)}Glub
+Dialogue: 0,0:05:20.40,0:05:22.84,Cart_C_Verd,CARTEL,0000,0000,0000,,{\c&HF1DCA2&\bord3\3c&HAC814D&\fs36\move(494.85,-66.5,494.85,177.29)}Glub
+Dialogue: 0,0:05:20.40,0:05:22.84,Cart_C_Verd,CARTEL,0000,0000,0000,,{\c&HF1DCA2&\bord3\3c&HAC814D&\fs36\move(151.79,-116.84,151.79,126.95)}Glub
+Dialogue: 0,0:05:20.40,0:05:22.84,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H2C2C2C&\bord1.3\fscy150\3c&H9A9A9A&\fs36\move(531.27,42.35,531.27,286.14)}Traga
+Dialogue: 0,0:05:20.40,0:05:22.84,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H2C2C2C&\bord1.3\fscy150\3c&H9A9A9A&\fs30\move(367.8,-66.45,367.8,177.34)}Traga
+Dialogue: 0,0:05:22.99,0:05:24.35,Cart_A_Verd,CARTEL,0000,0000,0000,,{\c&H2F2CC3&\fad(0,1000)\4c&HFFFFFF&\fs58\3c&HFFFFFF&\pos(86.12,10.35)}Pam
+Dialogue: 0,0:05:30.06,0:05:32.86,Gen_Main,saitama,0000,0000,0000,,Qué bien he comido. Estaba {\i1}riquisímio{\i0}.
+Dialogue: 0,0:05:33.34,0:05:34.50,Gen_Main,saitama,0000,0000,0000,,Bueno…
+Dialogue: 0,0:05:36.46,0:05:37.54,Gen_Main,saitama,0000,0000,0000,,Uy.
+Dialogue: 0,0:05:38.92,0:05:40.30,Gen_Italics,saitama,0000,0000,0000,,No tengo la cartera.
+Dialogue: 0,0:05:38.94,0:05:41.32,Cart_A_Verd,CARTEL,0000,0000,0000,,{\c&HA09C9A&\fad(1000,0)\bord0\an1\fs40\move(67.76,96.94,54.11,96.94,23,2359)}No tengo\Nla cartera…
+Dialogue: 0,0:05:41.74,0:05:45.00,Gen_Italics,saitama,0000,0000,0000,,¿Se me ha caído en el súper\Nal comprar la verdura?
+Dialogue: 0,0:05:45.76,0:05:47.32,Gen_Italics,saitama,0000,0000,0000,,Mierda.
+Dialogue: 0,0:05:47.92,0:05:50.94,Gen_Italics,saitama,0000,0000,0000,,No puedo llamar a Genos\Nporque está averiado.
+Dialogue: 0,0:05:53.88,0:05:56.78,Gen_Italics,anuncio tienda,0000,0000,0000,,El menú de mediodía del mes\Nes de fauna abisal frita.
+Dialogue: 0,0:05:57.10,0:05:59.38,Gen_Italics,anuncio tienda,0000,0000,0000,,La seguridad pública ha empeorado,
+Dialogue: 0,0:05:59.58,0:06:03.00,Gen_Italics,anuncio tienda,0000,0000,0000,,pero en este restaurante\Ncastigamos con severidad
+Dialogue: 0,0:06:03.16,0:06:05.59,Gen_Italics,anuncio tienda,0000,0000,0000,,los robos, la violencia y los impagos.
+Dialogue: 0,0:06:07.80,0:06:11.26,Gen_Italics,anuncio tienda,0000,0000,0000,,Hay un exsuperhéroe\Nen la sala de guardia,
+Dialogue: 0,0:06:11.44,0:06:14.94,Gen_Italics,anuncio tienda,0000,0000,0000,,así que disfrutad de la comida\Ntranquilamente.
+Dialogue: 0,0:06:16.30,0:06:18.42,Gen_Italics,saitama,0000,0000,0000,,Si se lo explico ahora,
+Dialogue: 0,0:06:16.92,0:06:20.36,Gen_Italics_top,anuncio tienda,0000,0000,0000,,En este restaurante\Ncastigamos con severidad
+Dialogue: 0,0:06:18.60,0:06:20.90,Gen_Italics,saitama,0000,0000,0000,,creerán que estoy confesando por miedo.
+Dialogue: 0,0:06:20.50,0:06:23.02,Gen_Italics_top,anuncio tienda,0000,0000,0000,,los robos, la violencia y los impagos.
+Dialogue: 0,0:06:21.80,0:06:23.82,Gen_Italics,saitama,0000,0000,0000,,Joder, qué desastre.
+Dialogue: 0,0:06:23.72,0:06:27.08,Gen_Italics_top,anuncio tienda,0000,0000,0000,,Hay un exsuperhéroe\Nen la sala de guardia,
+Dialogue: 0,0:06:24.18,0:06:27.70,Gen_Italics,saitama,0000,0000,0000,,Menudo lío. El mayor del último año.
+Dialogue: 0,0:06:27.34,0:06:31.32,Gen_Italics_top,anuncio tienda,0000,0000,0000,,así que disfrutad de la comida\Ntranquilamente.
+Dialogue: 0,0:06:28.66,0:06:32.22,Gen_Main,fubuki/saitama,0000,0000,0000,,-Oye. ¡Eh!\N-{\i1}Puede que este sea mi fin.{\i0}
+Dialogue: 0,0:06:32.80,0:06:33.90,Gen_Main,fubuki,0000,0000,0000,,¡Saitama!
+Dialogue: 0,0:06:34.68,0:06:36.52,Gen_Main,saitama,0000,0000,0000,,¡No es lo que parece! Solo…
+Dialogue: 0,0:06:36.72,0:06:37.96,Gen_Main,fubuki,0000,0000,0000,,¿Qué dices?
+Dialogue: 0,0:06:38.30,0:06:40.75,Gen_Main,saitama,0000,0000,0000,,¿Qué haces tú aquí?
+Dialogue: 0,0:06:41.04,0:06:43.70,Gen_Main,fubuki,0000,0000,0000,,Me ha costado encontrarte.
+Dialogue: 0,0:06:44.00,0:06:46.90,Gen_Main,fubuki,0000,0000,0000,,Te has ido, pero no había acabado.
+Dialogue: 0,0:06:47.22,0:06:50.16,Gen_Main,fubuki,0000,0000,0000,,Vas a buscar al Cazador de Héroes, ¿no?
+Dialogue: 0,0:06:50.56,0:06:54.01,Gen_Main,fubuki,0000,0000,0000,,Muy bien. Te haré el favor de ayudarte.
+Dialogue: 0,0:06:54.38,0:06:55.76,Gen_Main,saitama,0000,0000,0000,,Quiero pedir otra cosa.
+Dialogue: 0,0:06:55.90,0:07:00.06,Gen_Main,fubuki/saitama,0000,0000,0000,,-Un plato grande de patatas fritas.\N-Pero me quedaré un 70 % de los puntos.
+Dialogue: 0,0:07:00.64,0:07:04.18,Gen_Main,fubuki,0000,0000,0000,,Has llegado\Nhasta el rango 7 de la clase B,
+Dialogue: 0,0:07:04.32,0:07:06.82,Gen_Main,fubuki,0000,0000,0000,,pero ahora te costará más ascender.
+Dialogue: 0,0:07:07.42,0:07:08.94,Gen_Main,fubuki,0000,0000,0000,,Si esto sale bien,
+Dialogue: 0,0:07:09.10,0:07:13.00,Gen_Main,fubuki,0000,0000,0000,,diría que podrías colarte\Nentre los cinco primeros puestos.
+Dialogue: 0,0:07:13.20,0:07:17.56,Gen_Main,fubuki,0000,0000,0000,,Aunque para eso necesitarás mi ayuda.
+Dialogue: 0,0:07:17.86,0:07:19.34,Gen_Main,fubuki,0000,0000,0000,,Conociéndote,
+Dialogue: 0,0:07:19.50,0:07:23.13,Gen_Main,fubuki,0000,0000,0000,,dudo que investigues\Ncómo es tu objetivo.
+Dialogue: 0,0:07:23.38,0:07:27.52,Gen_Main,fubuki,0000,0000,0000,,Qué remedio. Compartiré\Nla información que tengo.
+Dialogue: 0,0:07:27.52,0:07:33.00,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&HF1D797&\an2\fscx80\b0\bord1.4\3c&HBC9A67&\move(224.47,83.29,176.47,77.64,10,5474)}En la parra
+Dialogue: 0,0:07:27.88,0:07:31.02,Gen_Main,fubuki,0000,0000,0000,,Haz lo que yo te diga.
+Dialogue: 0,0:07:31.78,0:07:33.02,Gen_Main,fubuki,0000,0000,0000,,¿Me estás escuchando?
+Dialogue: 0,0:07:33.28,0:07:35.58,Gen_Main,camarero B,0000,0000,0000,,Aquí tenéis las patatas fritas.
+Dialogue: 0,0:07:41.22,0:07:42.40,Gen_Main,fubuki,0000,0000,0000,,¿Son para mí?
+Dialogue: 0,0:07:44.62,0:07:45.70,Gen_Main,fubuki,0000,0000,0000,,Gracias.
+Dialogue: 0,0:07:51.46,0:07:53.68,Gen_Italics,fubuki,0000,0000,0000,,Está sonriendo.
+Dialogue: 0,0:07:53.98,0:07:57.20,Gen_Italics,fubuki,0000,0000,0000,,Sí que se alegra de trabajar conmigo.
+Dialogue: 0,0:07:57.40,0:08:00.36,Gen_Italics,fubuki,0000,0000,0000,,No tardará\Nen unirse a la Familia Fubuki.
+Dialogue: 0,0:08:00.50,0:08:04.02,Gen_Main,camarero B/saitama,0000,0000,0000,,-¡Está huyendo sin pagar!\N-¡Aún no!
+Dialogue: 0,0:08:04.22,0:08:06.68,Gen_Main,camarera A,0000,0000,0000,,¡Que alguien lo atrape!
+Dialogue: 0,0:08:08.96,0:08:12.16,Gen_Main,saitama/fubuki,0000,0000,0000,,-¿Un simpa? Qué malo. Voy a por él.\N-¿Saitama?
+Dialogue: 0,0:08:12.30,0:08:15.12,Gen_Main,saitama,0000,0000,0000,,Has comido patatas, así que paga tú.
+Dialogue: 0,0:08:18.34,0:08:22.60,Gen_Italics,fubuki,0000,0000,0000,,¿Patatas? ¿En serio?
+Dialogue: 0,0:08:22.86,0:08:25.14,Gen_Italics,fubuki,0000,0000,0000,,Tal y como está el mundo y él…
+Dialogue: 0,0:08:25.30,0:08:27.58,Gen_Italics,fubuki,0000,0000,0000,,Qué hombre más miserable.
+Dialogue: 0,0:08:30.12,0:08:32.92,Gen_Main,garo,0000,0000,0000,,Aún no estaba listo para un maratón.
+Dialogue: 0,0:08:34.32,0:08:38.60,Gen_Main,gyoro gyoro,0000,0000,0000,,Deberías sanar tus heridas\Nbajo nuestra protección.
+Dialogue: 0,0:08:38.76,0:08:43.50,Gen_Main,gyoro gyoro,0000,0000,0000,,Pero primero tendrás\Nque cumplir la condición mencionada.
+Dialogue: 0,0:08:44.14,0:08:46.78,Gen_Main,garo,0000,0000,0000,,Que les lleve la cabeza\Nde un superhéroe.
+Dialogue: 0,0:08:47.30,0:08:51.52,Gen_Main,garo,0000,0000,0000,,¿Qué sentido tiene que me vean como\Nun monstruo por matar a un héroe?
+Dialogue: 0,0:08:51.88,0:08:57.02,Gen_Main,garo,0000,0000,0000,,Un monstruo tiene que\Nprovocar miedo solo por existir.
+Dialogue: 0,0:08:58.96,0:09:01.30,Gen_Main,garo,0000,0000,0000,,Me duele la cabeza.
+Dialogue: 0,0:09:06.72,0:09:08.22,Gen_Italics,garo,0000,0000,0000,,Tampoco es que importe.
+Dialogue: 0,0:09:11.68,0:09:15.22,Gen_Main,niño A,0000,0000,0000,,Eh, Tareo, ¿cómo es que tú estás bien?
+Dialogue: 0,0:09:15.40,0:09:17.38,Gen_Main,niño B,0000,0000,0000,,¿También eres un monstruo?
+Dialogue: 0,0:09:17.56,0:09:19.72,Gen_Main,niño C,0000,0000,0000,,¡Eres el monstruo Feote!
+Dialogue: 0,0:09:19.88,0:09:21.88,Gen_Main,tareo,0000,0000,0000,,¡Duele! ¡Duele! ¡Duele!
+Dialogue: 0,0:09:25.34,0:09:26.58,Gen_Main,garo,0000,0000,0000,,¡Parad!
+Dialogue: 0,0:09:27.29,0:09:29.16,Gen_Main,niños,0000,0000,0000,,¡Mamá!
+Dialogue: 0,0:09:31.04,0:09:33.46,Gen_Main,garo,0000,0000,0000,,Menuda cara se te queda al llorar.
+Dialogue: 0,0:09:33.76,0:09:36.59,Gen_Main,garo,0000,0000,0000,,No me extraña\Nque se metan contigo, pobre.
+Dialogue: 0,0:09:38.10,0:09:41.18,Gen_Main,garo,0000,0000,0000,,Hola. Nos vemos dos veces en un día.
+Dialogue: 0,0:09:41.38,0:09:44.52,Gen_Main,tareo/garo,0000,0000,0000,,-¿Señor?\N-No soy un señor. Tengo 18.
+Dialogue: 0,0:09:42.01,0:09:43.23,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H0C0606&\fad(400,500)\3c&HFFFFFF&\fscy156\pos(116.71,10.82)}Flipando
+Dialogue: 0,0:09:46.96,0:09:49.38,Gen_Main,garo,0000,0000,0000,,Vete a casa. Pronto anochecerá.
+Dialogue: 0,0:09:49.76,0:09:52.02,Gen_Main,garo,0000,0000,0000,,Podrían aparecer más monstruos.
+Dialogue: 0,0:09:54.32,0:09:55.46,Gen_Main,tareo,0000,0000,0000,,Señor…
+Dialogue: 0,0:09:56.96,0:09:58.06,Gen_Main,tareo,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:09:59.16,0:10:01.26,Gen_Main,tareo,0000,0000,0000,,Por haber huido.
+Dialogue: 0,0:10:03.74,0:10:04.82,Gen_Main,garo,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:10:05.42,0:10:08.32,Gen_Main,tareo,0000,0000,0000,,Lo vi todo.
+Dialogue: 0,0:10:09.25,0:10:12.36,Gen_Main,tareo,0000,0000,0000,,Los superhéroes querían acabar contigo,
+Dialogue: 0,0:10:12.66,0:10:15.13,Gen_Main,tareo,0000,0000,0000,,pero era un error, ¿no?
+Dialogue: 0,0:10:15.50,0:10:20.89,Gen_Main,tareo,0000,0000,0000,,Porque me habías protegido de las balas.
+Dialogue: 0,0:10:21.18,0:10:24.18,Gen_Main,tareo,0000,0000,0000,,Y ahora también me has salvado.
+Dialogue: 0,0:10:24.78,0:10:26.92,Gen_Main,tareo,0000,0000,0000,,Eres uno de los bue…
+Dialogue: 0,0:10:28.20,0:10:31.16,Gen_Main,garo,0000,0000,0000,,Para.\NSe me ha puesto la piel de gallina.
+Dialogue: 0,0:10:31.36,0:10:33.00,Gen_Main,saitama,0000,0000,0000,,Eh, el del simpa.
+Dialogue: 0,0:10:34.18,0:10:35.69,Gen_Main,saitama,0000,0000,0000,,El del simpa.
+Dialogue: 0,0:10:36.22,0:10:38.36,Gen_Main,saitama,0000,0000,0000,,¿Cómo puedes irte sin pagar?
+Dialogue: 0,0:10:38.56,0:10:42.00,Gen_Main,garo/saitama,0000,0000,0000,,-¿Es un superhéroe?\N-Justo en el mejor momento.
+Dialogue: 0,0:10:42.14,0:10:43.23,Gen_Main,saitama,0000,0000,0000,,Esta vez te perdono.
+Dialogue: 0,0:10:43.54,0:10:46.50,Gen_Main,garo/saitama,0000,0000,0000,,-¿Qué narices dices?\N-Ya te he advertido.
+Dialogue: 0,0:10:46.82,0:10:48.92,Gen_Main,garo,0000,0000,0000,,¿No venías a eliminarme?
+Dialogue: 0,0:10:49.14,0:10:50.36,Gen_Main,garo,0000,0000,0000,,¿Te ha dado miedo?
+Dialogue: 0,0:10:50.58,0:10:52.06,Gen_Main,garo,0000,0000,0000,,¿Cómo te llaman?
+Dialogue: 0,0:10:57.26,0:10:59.68,Gen_Main,saitama,0000,0000,0000,,Calvo con Capa.
+Dialogue: 0,0:11:00.24,0:11:03.78,Gen_Italics,garo,0000,0000,0000,,No lo he oído bien,\Npero parece un superhéroe.
+Dialogue: 0,0:11:04.56,0:11:06.98,Gen_Italics,garo,0000,0000,0000,,Los mataré a todos, por cutres que sean.
+Dialogue: 0,0:11:07.96,0:11:11.54,Gen_Main,tareo,0000,0000,0000,,No sale en la lista,\Nasí que debe ser un novato.
+Dialogue: 0,0:11:11.78,0:11:13.26,Gen_Main,garo,0000,0000,0000,,Tú vete a casa.
+Dialogue: 0,0:11:14.92,0:11:17.76,Gen_Main,tareo,0000,0000,0000,,¿Te has ido sin pagar la comida?
+Dialogue: 0,0:11:18.06,0:11:20.94,Gen_Main,tareo,0000,0000,0000,,Te dejará en paz.\NEs mejor no provocarlo.
+Dialogue: 0,0:11:24.48,0:11:26.12,Gen_Italics,garo,0000,0000,0000,,Ni de coña.
+Dialogue: 0,0:11:27.02,0:11:28.98,Gen_Italics,garo,0000,0000,0000,,Si la Asociación de Monstruos,
+Dialogue: 0,0:11:29.18,0:11:32.24,Gen_Italics,garo,0000,0000,0000,,un héroe de pacotilla y un niño\Nse compadecen de mí,
+Dialogue: 0,0:11:32.40,0:11:33.96,Gen_Italics,garo,0000,0000,0000,,estoy perdido.
+Dialogue: 0,0:11:34.98,0:11:37.44,Gen_Italics,garo,0000,0000,0000,,Cuando oí que el viejo vivía
+Dialogue: 0,0:11:37.60,0:11:40.26,Gen_Italics,garo,0000,0000,0000,,me cabreé por sentirme aliviado.
+Dialogue: 0,0:11:40.84,0:11:42.78,Gen_Italics,garo,0000,0000,0000,,Sea lo que sea un monstruo,
+Dialogue: 0,0:11:42.96,0:11:46.08,Gen_Italics,garo,0000,0000,0000,,es verdad que me falta determinación.
+Dialogue: 0,0:11:46.70,0:11:48.22,Gen_Italics,garo,0000,0000,0000,,Me lo cargaré.
+Dialogue: 0,0:11:48.62,0:11:51.48,Gen_Italics,garo,0000,0000,0000,,Les llevaré la cabeza de un superhéroe.
+Dialogue: 0,0:11:51.86,0:11:53.50,Gen_Italics,garo,0000,0000,0000,,No me subestiméis.
+Dialogue: 0,0:11:53.74,0:11:55.24,Gen_Italics,garo,0000,0000,0000,,Soy un monstruo.
+Dialogue: 0,0:11:57.32,0:12:00.49,Gen_Main,garo,0000,0000,0000,,Mira, te voy a…
+Dialogue: 0,0:12:01.32,0:12:04.69,Gen_Main,saitama,0000,0000,0000,,Ya vale, que yo también soy cómplice.
+Dialogue: 0,0:12:10.26,0:12:11.44,Gen_Main,saitama,0000,0000,0000,,Vaya.
+Dialogue: 0,0:12:12.54,0:12:13.90,Gen_Main,saitama,0000,0000,0000,,Le he dado.
+Dialogue: 0,0:12:14.66,0:12:16.90,Gen_Main,saitama,0000,0000,0000,,No pretendía pegarle.
+Dialogue: 0,0:12:17.20,0:12:17.72,Cart_C_Verd,CARTEL,0000,0000,0000,,{\c&H06072F&\3c&H0C424D&\fs10\fscx70\pos(517.18,276.71)}Guía de superhéroes
+Dialogue: 0,0:12:18.05,0:12:25.22,Cart_C_Verd,CARTEL,0000,0000,0000,,{\c&H06072F&\3c&H0C424D&\fs10\fscx70\pos(542.59,270.12)}Guía de superhéroes
+Dialogue: 0,0:12:18.06,0:12:20.38,Gen_Italics,saitama,0000,0000,0000,,Encima hay un testigo.
+Dialogue: 0,0:12:20.60,0:12:21.88,Gen_Italics,saitama,0000,0000,0000,,¿Qué libro es ese?
+Dialogue: 0,0:12:22.18,0:12:24.84,Gen_Italics,saitama,0000,0000,0000,,Tenían que gustarle\Nlos superhéroes, claro.
+Dialogue: 0,0:12:25.62,0:12:29.14,Gen_Italics,saitama,0000,0000,0000,,Jolín, puede que me haya reconocido.
+Dialogue: 0,0:12:30.10,0:12:32.48,Gen_Main,saitama,0000,0000,0000,,¿Sabes quién soy?
+Dialogue: 0,0:12:35.74,0:12:38.73,Cart_A_Verd,CARTEL,0000,0000,0000,,{\c&H135E74&\an2\fay0.15\fs11\3c&H0D094E&\pos(354.82,70.59)}Versión completa
+Dialogue: 0,0:12:35.74,0:12:38.73,Cart_A_Verd,CARTEL,0000,0000,0000,,{\c&H0D094E&\an2\bord0\fay0.16\fs18\3c&H0D094E&\pos(342.12,98.35)}Guía de superhéroes
+Dialogue: 0,0:12:36.66,0:12:38.26,Gen_Main,saitama,0000,0000,0000,,Déjame ver eso.
+Dialogue: 0,0:12:38.74,0:12:45.36,Cart_A_Verd,CARTEL,0000,0000,0000,,{\c&H2A32B6&\3c&H2ACCE5&\fs6\frz349.7\pos(212.24,208.94)}Guía de superhéroes
+Dialogue: 0,0:12:40.50,0:12:43.54,Gen_Main,saitama,0000,0000,0000,,¿En serio? No salgo.
+Dialogue: 0,0:12:44.16,0:12:45.36,Gen_Main,saitama,0000,0000,0000,,Pues vale.
+Dialogue: 0,0:12:48.50,0:12:49.92,Gen_Italics,tareo,0000,0000,0000,,¿Quién será?
+Dialogue: 0,0:12:50.96,0:12:52.50,Gen_Main,tareo,0000,0000,0000,,¡Ah, sí!
+Dialogue: 0,0:12:52.78,0:12:55.66,Gen_Main,tareo,0000,0000,0000,,¡Señor! ¡Despierta!
+Dialogue: 0,0:12:56.99,0:12:58.14,Gen_Main,garo,0000,0000,0000,,One-Punch Man.
+Dialogue: 0,0:12:56.99,0:13:00.99,Cart_A_Verd,CARTEL,0000,0000,0000,,{\c&H000000&\fs72\fscx150\fax-0.2\an2\shad3\3c&HFFFFFF&\4c&HFFFFFF&\fnImpact\pos(113.88,74)}One
+Dialogue: 0,0:12:57.24,0:13:00.99,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H000000&\fs72\fscx150\fax-0.2\an2\shad3\3c&HFFFFFF&\4c&HFFFFFF&\fnImpact\pos(333.18,74)}Punch
+Dialogue: 0,0:12:57.49,0:13:00.99,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H000000&\fs72\fscx150\fax-0.2\an2\shad3\3c&HFFFFFF&\4c&HFFFFFF&\fnImpact\pos(553.88,74)}Man
+Dialogue: 0,0:13:01.99,0:13:03.36,Gen_Main,tareo,0000,0000,0000,,¡One-Punch Man!
+Dialogue: 0,0:13:01.99,0:13:06.02,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&HFEFEFE&\fs72\bord4\fax-0.2\an2\shad3\3c&H000000&\4c&HFFFFFF&\pos(163.76,65)}One
+Dialogue: 0,0:13:02.24,0:13:06.02,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&HFEFEFE&\fs72\bord4\fax-0.2\an2\shad3\3c&H000000&\4c&HFFFFFF&\pos(333.18,65)}Punch
+Dialogue: 0,0:13:02.50,0:13:06.02,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&HFEFEFE&\fs72\bord4\fax-0.2\an2\shad3\3c&H000000&\4c&HFFFFFF&\pos(506.35,65)}Man
+Dialogue: 0,0:13:18.34,0:13:20.12,Gen_Main,tareo,0000,0000,0000,,¿Estás bien, señor?
+Dialogue: 0,0:13:20.48,0:13:24.62,Gen_Main,tareo,0000,0000,0000,,Un superhéroe calvo ha dicho\Nque te había dado y se ha ido.
+Dialogue: 0,0:13:25.36,0:13:28.40,Gen_Main,garo,0000,0000,0000,,¿He perdido? ¿Cómo era?
+Dialogue: 0,0:13:28.54,0:13:30.58,Gen_Main,tareo,0000,0000,0000,,¿No te acuerdas?
+Dialogue: 0,0:13:30.84,0:13:33.18,Gen_Main,tareo,0000,0000,0000,,Te habrás dado un mal golpe.
+Dialogue: 0,0:13:34.20,0:13:38.12,Gen_Main,rey corte,0000,0000,0000,,¿Qué estás haciendo, Garo?
+Dialogue: 0,0:13:42.16,0:13:44.17,Gen_Main,rey corte,0000,0000,0000,,Te estábamos observando.
+Dialogue: 0,0:13:45.14,0:13:49.14,Gen_Main,rey corte,0000,0000,0000,,No eres como nosotros, Garo.
+Dialogue: 0,0:13:45.16,0:13:49.14,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H070042&\pos(76.71,39.53)\blur2\fs30\bord3\3c&H2406D7&}Graznido
+Dialogue: 0,0:13:45.16,0:13:49.14,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H070042&\blur2\fs30\bord3\3c&H2406D7&\pos(564.24,40.94)}Graznido
+Dialogue: 0,0:13:49.48,0:13:51.18,Gen_Main,dios insecto,0000,0000,0000,,No, no lo es.
+Dialogue: 0,0:13:51.56,0:13:52.97,Gen_Main,dios insecto,0000,0000,0000,,Lamentablemente…
+Dialogue: 0,0:13:53.28,0:13:56.76,Gen_Main,dios insecto,0000,0000,0000,,no percibimos monstruosidad en ti.
+Dialogue: 0,0:13:58.58,0:14:02.72,Gen_Main,garo,0000,0000,0000,,Eh, mocoso,\Nno te quedes ahí. Vete a casa.
+Dialogue: 0,0:14:03.28,0:14:05.98,Gen_Main,garo,0000,0000,0000,,Parece que quieren hablar conmigo.
+Dialogue: 0,0:14:15.34,0:14:17.22,Gen_Main,tareo,0000,0000,0000,,Ese está en la lista.
+Dialogue: 0,0:14:17.52,0:14:19.88,Gen_Main,tareo,0000,0000,0000,,No eran solo historias.
+Dialogue: 0,0:14:21.48,0:14:24.48,Gen_Main,tareo,0000,0000,0000,,¿Qué hace aquí?
+Dialogue: 0,0:14:23.32,0:14:24.88,Cart_A_Tim,CARTEL,0000,0000,0000,,{\c&H261B1A&\3c&HA5D2F6&\b0\fs28\bord3\blur2\fad(300,0)}Leyenda urbana: Rey Corte{\b1}
+Dialogue: 0,0:14:25.94,0:14:27.52,Gen_Main,tareo,0000,0000,0000,,Es el Rey Corte.
+Dialogue: 0,0:14:27.98,0:14:33.58,Gen_Main,tareo,0000,0000,0000,,¡El Rey Corte\Nque ha secuestrado a tantos niños!
+Dialogue: 0,0:14:34.66,0:14:38.28,Gen_Main,garo,0000,0000,0000,,¡Reacciona! Deja de llorar y levántate.
+Dialogue: 0,0:14:38.48,0:14:42.98,Gen_Main,rey corte,0000,0000,0000,,No sabía que tenías\Nun amigo tan pequeñito, Garo.
+Dialogue: 0,0:14:43.24,0:14:45.48,Gen_Main,garo,0000,0000,0000,,Quieto. Te escucharé desde aquí.
+Dialogue: 0,0:14:45.74,0:14:48.26,Gen_Main,rey corte,0000,0000,0000,,Vaya, lo siento.
+Dialogue: 0,0:14:48.52,0:14:51.78,Gen_Main,rey corte,0000,0000,0000,,Aún no pretendía hacerte llorar.
+Dialogue: 0,0:14:52.20,0:14:53.46,Gen_Main,rey corte,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:14:54.00,0:14:59.06,Gen_Main,rey corte,0000,0000,0000,,Mi intención era que gritaras más tarde.
+Dialogue: 0,0:14:59.30,0:15:00.72,Gen_Main,rey corte,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:15:01.24,0:15:03.04,Gen_Main,rey corte,0000,0000,0000,,Pobrecito.
+Dialogue: 0,0:15:03.20,0:15:06.42,Gen_Main,rey corte,0000,0000,0000,,Te haré pedazos, tranquilo.
+Dialogue: 0,0:15:06.58,0:15:08.14,Gen_Main,rey corte,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:15:09.94,0:15:14.51,Gen_Main,rey corte,0000,0000,0000,,Lo siento, chico,\Nporque no te vas a salvar.
+Dialogue: 0,0:15:16.12,0:15:17.36,Gen_Main,garo,0000,0000,0000,,Atrás.
+Dialogue: 0,0:15:21.72,0:15:24.26,Gen_Main,phoenix man,0000,0000,0000,,Con permiso. Tengo una pregunta.
+Dialogue: 0,0:15:24.46,0:15:28.00,Gen_Main,gyoro gyoro,0000,0000,0000,,¿Qué? Preferiría\Nque no interrumpieras mi meditación.
+Dialogue: 0,0:15:28.26,0:15:31.12,Gen_Main,phoenix man,0000,0000,0000,,¿Por qué has enviado\Na Rey Corte y Dios Insecto?
+Dialogue: 0,0:15:31.28,0:15:34.95,Gen_Main,phoenix man,0000,0000,0000,,Para observarlo\Nno hacía falta enviar a guerrilleros.
+Dialogue: 0,0:15:35.20,0:15:37.76,Gen_Main,gyoro gyoro,0000,0000,0000,,¿Por qué? Quizás se lleven bien.
+Dialogue: 0,0:15:37.92,0:15:41.74,Gen_Main,phoenix man,0000,0000,0000,,No digas tonterías.\NEllos nunca siguen órdenes.
+Dialogue: 0,0:15:41.92,0:15:44.26,Gen_Main,phoenix man,0000,0000,0000,,Acabarán matando a Garo.
+Dialogue: 0,0:15:44.58,0:15:46.04,Gen_Main,phoenix man,0000,0000,0000,,Especialmente Rey Corte.
+Dialogue: 0,0:15:46.20,0:15:48.48,Gen_Main,phoenix man,0000,0000,0000,,Él mata por placer.
+Dialogue: 0,0:15:48.70,0:15:52.22,Gen_Main,phoenix man,0000,0000,0000,,Ni siquiera los monstruos\Nse acercan a él.
+Dialogue: 0,0:15:52.48,0:15:56.10,Gen_Main,gyoro gyoro,0000,0000,0000,,Sí. Por eso quiero\Nque se encuentre con Garo.
+Dialogue: 0,0:15:56.26,0:15:59.00,Gen_Main,gyoro gyoro,0000,0000,0000,,Lo estimulará para crecer.
+Dialogue: 0,0:15:59.16,0:16:00.18,Gen_Main,phoenix man,0000,0000,0000,,¿Crecer?
+Dialogue: 0,0:16:00.44,0:16:03.72,Gen_Main,gyoro gyoro,0000,0000,0000,,Como aún está indeciso,\Nesto es una prueba.
+Dialogue: 0,0:16:03.92,0:16:08.92,Gen_Main,gyoro gyoro,0000,0000,0000,,Su cuerpo y su corazón\Ntienen que romperse aún más.
+Dialogue: 0,0:16:09.28,0:16:14.24,Gen_Main,gyoro gyoro,0000,0000,0000,,A ver cómo cambia Garo al sentir \Nen sus carnes qué es un monstruo.
+Dialogue: 0,0:16:14.50,0:16:17.36,Gen_Main,phoenix man,0000,0000,0000,,¿Qué pretendes, Gyoro Gyoro?
+Dialogue: 0,0:16:17.54,0:16:20.14,Gen_Main,phoenix man,0000,0000,0000,,¿Qué quieres hacer con Garo?
+Dialogue: 0,0:16:20.38,0:16:21.66,Gen_Main,gyoro gyoro,0000,0000,0000,,¿Por qué preguntas?
+Dialogue: 0,0:16:21.82,0:16:23.82,Gen_Main,phoenix man,0000,0000,0000,,Por nada. Simple curiosidad.
+Dialogue: 0,0:16:24.02,0:16:28.96,Gen_Main,gyoro gyoro,0000,0000,0000,,Phoenix Man, ¿de dónde crees\Nque proviene el señor Orochi?
+Dialogue: 0,0:16:29.22,0:16:32.42,Gen_Main,phoenix man,0000,0000,0000,,Ni idea. ¿De algún ser vivo vetusto?
+Dialogue: 0,0:16:33.44,0:16:37.21,Gen_Main,gyoro gyoro,0000,0000,0000,,El señor Orochi era humano, como Garo.
+Dialogue: 0,0:16:38.40,0:16:42.98,Gen_Main,gyoro gyoro,0000,0000,0000,,Es el ser vivo definitivo,\Nformado por fracasos y sacrificios.
+Dialogue: 0,0:16:43.16,0:16:46.42,Gen_Main,gyoro gyoro,0000,0000,0000,,Merece llamarse el rey de los monstruos.
+Dialogue: 0,0:16:46.74,0:16:49.23,Gen_Main,gyoro gyoro,0000,0000,0000,,Yo creé al señor Orochi.
+Dialogue: 0,0:16:49.42,0:16:51.58,Gen_Main,phoenix man,0000,0000,0000,,¿Lo crea…? ¿Tú?
+Dialogue: 0,0:16:51.82,0:16:55.94,Gen_Main,gyoro gyoro,0000,0000,0000,,Si lo guío bien,\NGaro podría ser un segundo Orochi.
+Dialogue: 0,0:16:56.12,0:16:58.41,Gen_Main,gyoro gyoro,0000,0000,0000,,Y solo yo sé cómo hacerlo.
+Dialogue: 0,0:16:58.80,0:17:04.16,Gen_Main,gyoro gyoro,0000,0000,0000,,Le he pedido a Dios Insecto\Nque detenga a Rey Corte si se excede,
+Dialogue: 0,0:17:04.36,0:17:07.12,Gen_Main,gyoro gyoro,0000,0000,0000,,pero si acaba muriendo,\Nno merecía más.
+Dialogue: 0,0:17:07.46,0:17:10.74,Gen_Main,gyoro gyoro,0000,0000,0000,,Esperaré a que aparezca\Notro con potencial.
+Dialogue: 0,0:17:15.22,0:17:18.20,Gen_Main,zombieman,0000,0000,0000,,He investigado la zona\Ny he sellado la salida trasera.
+Dialogue: 0,0:17:18.42,0:17:21.14,Gen_Main,zombieman,0000,0000,0000,,En las últimas horas\Nsolo he visto a Gorila.
+Dialogue: 0,0:17:21.54,0:17:23.70,Gen_Main,zombieman,0000,0000,0000,,El resto de miembros no están.
+Dialogue: 0,0:17:23.86,0:17:25.18,Gen_Main,zombieman,0000,0000,0000,,Es mi oportunidad.
+Dialogue: 0,0:17:25.38,0:17:28.73,Gen_Main,zombieman,0000,0000,0000,,El líder estará dentro.\N¿En una sala de reuniones?
+Dialogue: 0,0:17:29.42,0:17:33.08,Gen_Main,zombieman,0000,0000,0000,,Son gente rara\Nque se ha trasladado recientemente.
+Dialogue: 0,0:17:33.36,0:17:36.96,Gen_Main,zombieman,0000,0000,0000,,Transportan equipo misterioso\Ny grandes cantidades de polvos.
+Dialogue: 0,0:17:37.32,0:17:39.72,Gen_Main,zombieman,0000,0000,0000,,Hay cajas que huelen mal.
+Dialogue: 0,0:17:40.14,0:17:44.70,Gen_Main,zombieman,0000,0000,0000,,La información de mis interrogatorios\Ncoincide con mis sospechas.
+Dialogue: 0,0:17:45.20,0:17:47.56,Gen_Main,zombieman,0000,0000,0000,,No hay duda de que son ellos.
+Dialogue: 0,0:17:48.04,0:17:50.36,Gen_Main,zombieman,0000,0000,0000,,Es la hora. Voy a entrar.
+Dialogue: 0,0:17:52.18,0:17:57.20,Gen_Main,rey corte,0000,0000,0000,,Gyoro Gyoro nos ha ordenado\Nque te observemos
+Dialogue: 0,0:17:57.34,0:18:01.75,Gen_Main,rey corte,0000,0000,0000,,para comprobar si te mereces\Nser uno de los nuestros.
+Dialogue: 0,0:18:13.36,0:18:15.00,Gen_Main,rey corte,0000,0000,0000,,El Cazador de Héroes.
+Dialogue: 0,0:18:15.16,0:18:20.92,Gen_Main,rey corte,0000,0000,0000,,¿Eres un humano degenerado\Nal que le pone fingir ser un monstruo?
+Dialogue: 0,0:18:21.12,0:18:22.87,Gen_Main,rey corte,0000,0000,0000,,¿O eres un monstruo de verdad?
+Dialogue: 0,0:18:23.78,0:18:25.64,Gen_Main,garo,0000,0000,0000,,¿Quién te crees que eres?
+Dialogue: 0,0:18:25.82,0:18:29.25,Gen_Main,garo,0000,0000,0000,,A mí me decepciona\Nlo blandos que sois vosotros.
+Dialogue: 0,0:18:29.54,0:18:31.74,Gen_Main,rey corte,0000,0000,0000,,Pues mata a ese niño.
+Dialogue: 0,0:18:31.94,0:18:34.50,Gen_Main,garo,0000,0000,0000,,¿Qué? Eso no tiene ningún sentido.
+Dialogue: 0,0:18:34.82,0:18:38.38,Gen_Main,dios insecto,0000,0000,0000,,Los monstruos\Nse deshacen de su humanidad.
+Dialogue: 0,0:18:38.54,0:18:41.00,Gen_Main,dios insecto,0000,0000,0000,,Se han separado del mundo humano.
+Dialogue: 0,0:18:41.16,0:18:44.72,Gen_Main,dios insecto,0000,0000,0000,,Garo, te hemos visto rescatar al niño.
+Dialogue: 0,0:18:44.93,0:18:47.22,Gen_Main,dios insecto,0000,0000,0000,,Eso no puede ser. Debes matarlo.
+Dialogue: 0,0:18:47.64,0:18:50.04,Gen_Main,dios insecto,0000,0000,0000,,Para unirte a la Asociación
+Dialogue: 0,0:18:50.18,0:18:53.54,Gen_Main,dios insecto,0000,0000,0000,,tienes que esforzarte\Ny ganarte nuestra confianza.
+Dialogue: 0,0:18:53.68,0:18:56.64,Gen_Main,dios insecto,0000,0000,0000,,Aún no te has deshecho de tu humanidad.
+Dialogue: 0,0:18:56.86,0:19:00.32,Gen_Main,rey corte,0000,0000,0000,,No necesitamos\Na alguien de medias tintas.
+Dialogue: 0,0:19:00.46,0:19:03.92,Gen_Main,rey corte,0000,0000,0000,,Destruiremos la sociedad humana\Npara gobernarla.
+Dialogue: 0,0:19:04.06,0:19:06.08,Gen_Main,rey corte,0000,0000,0000,,Mataremos a muchos niños.
+Dialogue: 0,0:19:06.32,0:19:09.42,Gen_Main,rey corte,0000,0000,0000,,Además, has perdido\Ncontra un superhéroe cualquiera.
+Dialogue: 0,0:19:09.58,0:19:12.82,Gen_Main,rey corte,0000,0000,0000,,Aunque bajaras la guardia,\Nno es muy esperanzador.
+Dialogue: 0,0:19:13.34,0:19:17.50,Gen_Main,garo,0000,0000,0000,,Ya te lo he dicho. Vete a casa, mocoso.
+Dialogue: 0,0:19:18.78,0:19:21.30,Gen_Main,tareo,0000,0000,0000,,Me tiemblan las piernas…
+Dialogue: 0,0:19:22.02,0:19:24.89,Gen_Main,tareo/garo,0000,0000,0000,,-y no puedo moverme.\N-¡Idiota!
+Dialogue: 0,0:19:25.14,0:19:28.52,Gen_Main,garo,0000,0000,0000,,No creas que alguien te tenderá la mano.
+Dialogue: 0,0:19:28.78,0:19:30.48,Gen_Main,garo,0000,0000,0000,,¡Nadie vendrá a salvarte!
+Dialogue: 0,0:19:30.68,0:19:32.80,Gen_Main,garo,0000,0000,0000,,Tienes que protegerte a ti mismo.
+Dialogue: 0,0:19:33.14,0:19:36.34,Gen_Main,garo,0000,0000,0000,,En momentos así\Ntienes que hacerte fuerte.
+Dialogue: 0,0:19:38.06,0:19:39.74,Gen_Main,garo,0000,0000,0000,,Te haces fuerte y punto.
+Dialogue: 0,0:19:40.80,0:19:42.66,Gen_Main,garo,0000,0000,0000,,¡Levántate, Tareo!
+Dialogue: 0,0:20:22.53,0:20:23.62,Gen_Main,garo,0000,0000,0000,,¡Corre!
+Dialogue: 0,0:20:25.18,0:20:26.66,Gen_Main,rey corte,0000,0000,0000,,No aguanto más.
+Dialogue: 0,0:20:26.96,0:20:29.73,Gen_Main,rey corte,0000,0000,0000,,Ahora somos enemigos.
+Dialogue: 0,0:20:30.00,0:20:33.48,Gen_Main,dios insecto,0000,0000,0000,,Te llaman Cazador de Héroes,\Npero no has matado a ninguno.
+Dialogue: 0,0:20:33.66,0:20:36.26,Gen_Main,dios insecto,0000,0000,0000,,Eres tan débil como imaginaba.
+Dialogue: 0,0:20:36.86,0:20:39.63,Gen_Main,garo,0000,0000,0000,,No me gusta vuestra actitud.
+Dialogue: 0,0:20:43.62,0:20:44.68,Gen_Main,garo,0000,0000,0000,,Venid.
+Dialogue: 0,0:22:13.88,0:22:18.02,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs18\bord1.5\3c&H4C4C51&\an9\fs16\blur1\pos(608,13.65)}Traducción: Iris de la Fuente
+Dialogue: 0,0:22:19.78,0:22:23.40,Gen_Italics,zombieman,0000,0000,0000,,Por fin. Por fin he llegado hasta aquí.
+Dialogue: 0,0:22:23.72,0:22:28.44,Gen_Italics,zombieman,0000,0000,0000,,El enemigo\Nal que llevo tantos años persiguiendo.
+Dialogue: 0,0:22:29.02,0:22:34.28,Gen_Italics,zombieman,0000,0000,0000,,La organización que quiere erradicar\Na la humanidad para cambiar el mundo.
+Dialogue: 0,0:22:35.18,0:22:39.88,Gen_Italics,zombieman,0000,0000,0000,,Hace poco empecé\Na percibir su presencia,
+Dialogue: 0,0:22:40.38,0:22:43.30,Gen_Italics,zombieman,0000,0000,0000,,pero no lograba localizarla.
+Dialogue: 0,0:22:44.42,0:22:47.42,Gen_Italics,zombieman,0000,0000,0000,,La profecía de Shibabawa.
+Dialogue: 0,0:22:47.80,0:22:51.32,Gen_Italics,zombieman,0000,0000,0000,,Quien mueve los hilos\Nde la Asociación de Monstruos.
+Dialogue: 0,0:22:52.20,0:22:54.39,Gen_Italics,zombieman,0000,0000,0000,,Todo vuelve a ellos.
+Dialogue: 0,0:22:55.18,0:22:56.70,Gen_Italics,zombieman,0000,0000,0000,,Estoy seguro.
+Dialogue: 0,0:23:01.10,0:23:04.61,Gen_Main,zombieman,0000,0000,0000,,¡Hasta aquí llegáis,\NCasa de la Evolución!
+Dialogue: 0,0:23:04.61,0:23:15.36,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H19232F&\3c&H5590B0&\blur2\pos(338.82,22.59)\frx14\fry0}La casa de los takoyakis
+Dialogue: 0,0:23:05.06,0:23:08.74,Gen_Main,gorila blindado,0000,0000,0000,,¿Un cliente? Eres un cliente, ¿no?
+Dialogue: 0,0:23:09.88,0:23:13.38,Gen_Main,zombieman,0000,0000,0000,,Cambiáis mucho de local\Ny ahora vendéis takoyakis, ¿no?
+Dialogue: 0,0:23:13.82,0:23:15.36,Gen_Main,zombieman,0000,0000,0000,,Os creéis muy listos.
+Dialogue: 0,0:23:15.62,0:23:17.96,Gen_Main,zombieman,0000,0000,0000,,¡Pero sé lo que tramáis!
+Dialogue: 0,0:23:18.14,0:23:19.25,Gen_Main,zombieman,0000,0000,0000,,No me engañaréis.
+Dialogue: 0,0:23:19.78,0:23:23.25,Gen_Main,gorila blindado,0000,0000,0000,,Dame un segundo,\Nme estoy preparando.
+Dialogue: 1,0:23:23.25,0:23:35.36,Cart_A_Verd,CARTEL,0000,0000,0000,,{\c&H6A00BB&\fad(300,0)\fs40\fscx80\bord4\pos(521.41,154.35)\3c&H70C77A&}Amenazador
+Dialogue: 2,0:23:23.25,0:23:35.36,Cart_A_Verd,CARTEL,0000,0000,0000,,{\c&H6A00BB&\fad(300,0)\fs40\fscx80\bord1.5\pos(521.41,154.35)}Amenazador
+Dialogue: 0,0:23:24.78,0:23:27.72,Gen_Main,zombieman,0000,0000,0000,,Ahora soy el superhéroe Zombieman.
+Dialogue: 0,0:23:28.00,0:23:30.06,Gen_Main,zombieman,0000,0000,0000,,Mi cuerpo no puede morir.
+Dialogue: 0,0:23:31.06,0:23:35.34,Gen_Main,zombieman,0000,0000,0000,,¿O te suena más\Nel sujeto experimental 66?
+Dialogue: 0,0:23:35.60,0:23:38.94,Gen_Main,gorila blindado,0000,0000,0000,,¿Eres un superhéroe\Nque va a por la Casa de la Evolución?
+Dialogue: 0,0:23:39.10,0:23:42.60,Gen_Main,gorila blindado,0000,0000,0000,,Lo siento, pero ya no existe.
+Dialogue: 0,0:23:46.52,0:23:50.66,Gen_Main,gorila blindado,0000,0000,0000,,Esto… ¿Quieres pasar?
+Dialogue: 0,0:23:50.84,0:23:52.64,Gen_Main,gorila blindado,0000,0000,0000,,Ahora no estoy ocupado.
+Dialogue: 0,0:23:53.28,0:23:55.98,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H19232F&\3c&H43C3F7&\blur2\frx14\fry0\pos(332.24,13.18)\fs14}La casa de los takoyakis
+Dialogue: 0,0:23:53.28,0:23:55.98,Cart_A_Tim,CARTEL,0000,0000,0000,,{\fad(500,0)\fax0.1\bord3\3c&HF0ECEF&\c&H000000&\frz7.924\fs48\pos(429.65,276.71)}Continuará
+Dialogue: 1,0:23:55.98,0:24:02.66,Cart_A_Tre,CARTEL,0000,0000,0000,,{\p1\an7\bord0\pos(0,0)\fscx800\fscy600\c&H000000&}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 2,0:23:55.98,0:24:02.66,Cart_A_Tim,CARTEL,0000,0000,0000,,{\bord0\an5\fs50\fscx80\blur0.4}El límite de un ser vivo
+

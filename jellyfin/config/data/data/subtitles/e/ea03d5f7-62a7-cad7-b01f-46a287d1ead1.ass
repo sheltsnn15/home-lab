@@ -1,0 +1,283 @@
+[Script Info]
+Title: [Erai-raws] VINLAND.SAGA.S01.E12.es-419.[spa]2
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:52.84,0:01:55.84,Default,,0,0,0,,La Tierra En La Orilla Lejana
+Dialogue: 0,0:02:14.28,0:02:16.44,Default,,0,0,0,,¿Están picando los peces?
+Dialogue: 0,0:02:17.74,0:02:20.32,Default,,0,0,0,,Los peces ya están hibernando, ¿no?
+Dialogue: 0,0:02:22.32,0:02:24.54,Default,,0,0,0,,No me importa si no pesco nada.
+Dialogue: 0,0:02:24.87,0:02:27.08,Default,,0,0,0,,Mi trabajo es operar el bote.
+Dialogue: 0,0:02:28.29,0:02:30.42,Default,,0,0,0,,Ustedes son daneses, ¿no?
+Dialogue: 0,0:02:30.75,0:02:33.75,Default,,0,0,0,,Hablan bien el inglés,
+Dialogue: 0,0:02:34.30,0:02:36.46,Default,,0,0,0,,pero tienen un poco de acento.
+Dialogue: 0,0:02:37.01,0:02:39.51,Default,,0,0,0,,Suenan como\Nla gente de mi país.
+Dialogue: 0,0:02:40.97,0:02:43.93,Default,,0,0,0,,¿Cuánto costaría que nos lleve\Na la costa opuesta?
+Dialogue: 0,0:02:44.64,0:02:45.85,Default,,0,0,0,,Dos piezas de plata.
+Dialogue: 0,0:02:46.52,0:02:49.81,Default,,0,0,0,,Si no tienen plata, también acepto alcohol.\NBueno...
+Dialogue: 0,0:02:50.35,0:02:53.77,Default,,0,0,0,,Me pregunto cuántos días me llevaría\Nllevarlos a todos.
+Dialogue: 0,0:02:55.44,0:02:57.99,Default,,0,0,0,,No, solo necesito que lleve esta carta.
+Dialogue: 0,0:03:00.03,0:03:03.07,Default,,0,0,0,,Pensé que eran clientes.\NQué lástima.
+Dialogue: 0,0:03:04.16,0:03:07.24,Default,,0,0,0,,¿A quién quiere que se la entregue?
+Dialogue: 0,0:03:08.00,0:03:10.12,Default,,0,0,0,,A cualquier anciano.\NEs urgente.
+Dialogue: 0,0:03:10.75,0:03:13.96,Default,,0,0,0,,Por favor, dígales que es de Askeladd,\Nhijo de Lydia.
+Dialogue: 0,0:03:22.89,0:03:25.22,Default,,0,0,0,,Entendido.\NMe apuraré.
+Dialogue: 0,0:03:47.41,0:03:48.66,Default,,0,0,0,,¡Askeladd!
+Dialogue: 0,0:03:49.62,0:03:52.79,Default,,0,0,0,,¡Askeladd!\N¿Dónde estás? ¡Oye!
+Dialogue: 0,0:03:53.17,0:03:55.88,Default,,0,0,0,,Ragnar.\NNo hagas tanto ruido.
+Dialogue: 0,0:03:56.13,0:03:57.54,Default,,0,0,0,,¿Por qué nos detuvimos?
+Dialogue: 0,0:03:58.00,0:04:00.13,Default,,0,0,0,,¡Thorkell nos alcanzará!
+Dialogue: 0,0:04:00.80,0:04:04.64,Default,,0,0,0,,Se supone que no debemos hacer ruido\Nmientras La Oreja trabaja.
+Dialogue: 0,0:04:07.30,0:04:08.35,Default,,0,0,0,,¿Oreja?
+Dialogue: 0,0:04:09.10,0:04:10.02,Default,,0,0,0,,Bjorn.
+Dialogue: 0,0:04:10.18,0:04:12.39,Default,,0,0,0,,No dejes que ese tonto respire.
+Dialogue: 0,0:04:13.39,0:04:15.73,Default,,0,0,0,,¡Oreja!\N¿Cuál es la situación?
+Dialogue: 0,0:04:17.02,0:04:19.07,Default,,0,0,0,,Se acercaron desde ayer.
+Dialogue: 0,0:04:19.73,0:04:22.86,Default,,0,0,0,,Puedo escuchar soldados y caballos marchando.
+Dialogue: 0,0:04:23.53,0:04:24.95,Default,,0,0,0,,Son unos 500.
+Dialogue: 0,0:04:25.86,0:04:27.83,Default,,0,0,0,,Nos siguen de cerca.
+Dialogue: 0,0:04:28.20,0:04:29.66,Default,,0,0,0,,Están a un día a pie.
+Dialogue: 0,0:04:30.33,0:04:31.62,Default,,0,0,0,,¿Hablas en serio?
+Dialogue: 0,0:04:32.29,0:04:34.75,Default,,0,0,0,,Ayer dijiste que estaban\Na dos días.
+Dialogue: 0,0:04:35.42,0:04:37.29,Default,,0,0,0,,¿No confías en mis orejas?
+Dialogue: 0,0:04:37.50,0:04:38.63,Default,,0,0,0,,Eso fue rápido.
+Dialogue: 0,0:04:39.29,0:04:41.34,Default,,0,0,0,,Están marchando rápido.
+Dialogue: 0,0:04:42.21,0:04:45.09,Default,,0,0,0,,Nos alcanzarán en pocos días.
+Dialogue: 0,0:04:47.30,0:04:48.64,Default,,0,0,0,,Silencio.
+Dialogue: 0,0:04:54.14,0:04:56.90,Default,,0,0,0,,Caballos.\NEn la colina. Dos.
+Dialogue: 0,0:05:05.57,0:05:07.41,Default,,0,0,0,,Ya nos tienen.
+Dialogue: 0,0:05:07.95,0:05:08.91,Default,,0,0,0,,¿Qué hacemos?
+Dialogue: 0,0:05:09.28,0:05:11.99,Default,,0,0,0,,¡Debemos tomar posiciones\Nsi los vamos a enfrentar!
+Dialogue: 0,0:05:12.24,0:05:15.33,Default,,0,0,0,,No, es imposible.\NNo estamos a la altura.
+Dialogue: 0,0:05:15.54,0:05:17.04,Default,,0,0,0,,Si no hacemos nada...
+Dialogue: 0,0:05:17.83,0:05:19.54,Default,,0,0,0,,Solicité refuerzos.
+Dialogue: 0,0:05:19.88,0:05:22.13,Default,,0,0,0,,Seguiremos huyendo\Nhasta que lleguen.
+Dialogue: 0,0:05:22.80,0:05:24.26,Default,,0,0,0,,- ¿Qué?\N- ¿Refuerzos?
+Dialogue: 0,0:05:36.10,0:05:38.77,Default,,0,0,0,,NOVIEMBRE, 1013. OESTE DE INGLATERRA\NRIVERA IZQUIERDA DEL SEVERN
+Dialogue: 0,0:05:38.85,0:05:39.77,Default,,0,0,0,,¿Refuerzos?
+Dialogue: 0,0:05:40.44,0:05:42.02,Default,,0,0,0,,¡Es territorio enemigo!
+Dialogue: 0,0:05:42.48,0:05:44.23,Default,,0,0,0,,Askeladd dijo eso.
+Dialogue: 0,0:05:44.65,0:05:47.07,Default,,0,0,0,,Nunca nos mintió\Nsobre algo así antes.
+Dialogue: 0,0:05:48.24,0:05:49.70,Default,,0,0,0,,Bueno, tienen razón.
+Dialogue: 0,0:05:50.32,0:05:52.12,Default,,0,0,0,,Pero ¿dónde está el fuerte?
+Dialogue: 0,0:05:52.20,0:05:53.24,Default,,0,0,0,,En Leicester.
+Dialogue: 0,0:05:53.45,0:05:56.04,Default,,0,0,0,,¡Les llevará dos semanas\Nllegar aquí!
+Dialogue: 0,0:05:56.58,0:05:58.71,Default,,0,0,0,,Ojalá los refuerzos lleguen a tiempo.
+Dialogue: 0,0:05:58.92,0:06:02.04,Default,,0,0,0,,Si pedimos refuerzos,\Ndeberemos dividir el botín, ¿no?
+Dialogue: 0,0:06:02.13,0:06:05.80,Default,,0,0,0,,Askeladd dijo que podíamos\Nhacerlo nosotros, solo los cien.
+Dialogue: 0,0:06:05.96,0:06:09.34,Default,,0,0,0,,¡Estoy muy cansado!\N¡Quiero subir a un barco!
+Dialogue: 0,0:06:09.43,0:06:11.05,Default,,0,0,0,,Sí.
+Dialogue: 0,0:06:11.35,0:06:13.14,Default,,0,0,0,,Un barco sería agradable...
+Dialogue: 0,0:06:40.29,0:06:42.71,Default,,0,0,0,,¿Qué?\N¿Necesitas algo?
+Dialogue: 0,0:06:48.51,0:06:50.26,Default,,0,0,0,,Todos están preocupados.
+Dialogue: 0,0:06:50.88,0:06:52.64,Default,,0,0,0,,Deberías explicarles.
+Dialogue: 0,0:06:55.89,0:06:57.43,Default,,0,0,0,,Que se preocupen.
+Dialogue: 0,0:06:57.98,0:07:01.48,Default,,0,0,0,,Estar preocupados\Nlos hace marchar más rápido.
+Dialogue: 0,0:07:04.27,0:07:05.27,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:07:05.82,0:07:07.69,Default,,0,0,0,,Si es todo, vete a dormir.
+Dialogue: 0,0:07:09.11,0:07:13.95,Default,,0,0,0,,Actúas raro desde hace varios días.\N¿Qué tramas?
+Dialogue: 0,0:07:17.95,0:07:20.71,Default,,0,0,0,,Desde que viste la cara del príncipe.\N¿No?
+Dialogue: 0,0:07:26.21,0:07:30.55,Default,,0,0,0,,He vivido junto a criminales\Ndesde hace 40 años.
+Dialogue: 0,0:07:31.68,0:07:33.55,Default,,0,0,0,,Puedo decirte\Ncómo es un hombre,
+Dialogue: 0,0:07:33.64,0:07:36.31,Default,,0,0,0,,si es importante o un don nadie,\Nsi es listo
+Dialogue: 0,0:07:36.39,0:07:39.22,Default,,0,0,0,,o estúpido,\Nsolo con mirarle la cara.
+Dialogue: 0,0:07:44.69,0:07:48.69,Default,,0,0,0,,Cuando vi la cara del príncipe,\Nme di cuenta.
+Dialogue: 0,0:07:50.44,0:07:52.91,Default,,0,0,0,,"Esa no es la cara de un rey".
+Dialogue: 0,0:07:54.87,0:07:57.78,Default,,0,0,0,,Es verdad.\NParece una niña.
+Dialogue: 0,0:07:58.16,0:08:01.00,Default,,0,0,0,,Pero aún es joven, ¿sabes?
+Dialogue: 0,0:08:02.87,0:08:07.54,Default,,0,0,0,,Es verdad. Aún es joven.\NTiene un futuro por delante.
+Dialogue: 0,0:08:07.84,0:08:09.63,Default,,0,0,0,,¿Futuro por delante?
+Dialogue: 0,0:08:09.71,0:08:11.76,Default,,0,0,0,,¡Muy bien!\N¡Despierten, chicos!
+Dialogue: 0,0:08:12.34,0:08:16.22,Default,,0,0,0,,¡Prepárense para marchar!\N¡Si son lentos, Thorkell nos alcanzará!
+Dialogue: 0,0:08:18.39,0:08:19.81,Default,,0,0,0,,¿En serio?
+Dialogue: 0,0:08:20.10,0:08:22.89,Default,,0,0,0,,Aún está oscuro.
+Dialogue: 0,0:09:07.52,0:09:08.86,Default,,0,0,0,,Oye.
+Dialogue: 0,0:09:09.69,0:09:12.15,Default,,0,0,0,,- ¿Sí?\N- ¿Pudiste dormir?
+Dialogue: 0,0:09:12.73,0:09:13.65,Default,,0,0,0,,No.
+Dialogue: 0,0:09:15.74,0:09:16.70,Default,,0,0,0,,¿Oye?
+Dialogue: 0,0:09:16.78,0:09:19.20,Default,,0,0,0,,Cállate.\NHaz silencio.
+Dialogue: 0,0:09:19.62,0:09:21.70,Default,,0,0,0,,Pero si no sigo hablando,
+Dialogue: 0,0:09:21.79,0:09:23.83,Default,,0,0,0,,me quedaré dormido.
+Dialogue: 0,0:09:27.54,0:09:30.92,Default,,0,0,0,,Esto es malo, Askeladd.\NEstán detrás de nosotros.
+Dialogue: 0,0:09:31.00,0:09:32.84,Default,,0,0,0,,Sí.\NLo sé.
+Dialogue: 0,0:09:32.92,0:09:34.67,Default,,0,0,0,,Intentan alcanzarnos.
+Dialogue: 0,0:09:34.76,0:09:36.97,Default,,0,0,0,,Dije que lo sé.
+Dialogue: 0,0:09:37.05,0:09:40.97,Default,,0,0,0,,Ya casi estamos donde llegarán\Nlos refuerzos. Justo allí.
+Dialogue: 0,0:09:55.69,0:09:58.91,Default,,0,0,0,,- ¿Refuerzos?\N- ¿Ellos? ¿Solo esos dos?
+Dialogue: 0,0:09:58.99,0:10:01.12,Default,,0,0,0,,Tal vez es una ilusión\Npor la niebla.
+Dialogue: 0,0:10:18.05,0:10:21.76,Default,,0,0,0,,Me honra que haya venido\Nel propio comandante.
+Dialogue: 0,0:10:23.68,0:10:26.31,Default,,0,0,0,,Pasó mucho tiempo, Askeladd.
+Dialogue: 0,0:11:03.05,0:11:04.01,Default,,0,0,0,,Entonces,
+Dialogue: 0,0:11:04.39,0:11:08.31,Default,,0,0,0,,¿dices que un barco los cruzó\Nal otro lado del río?
+Dialogue: 0,0:11:08.89,0:11:10.64,Default,,0,0,0,,¿Sabes de quién era el barco?
+Dialogue: 0,0:11:10.89,0:11:12.73,Default,,0,0,0,,No, no estoy seguro.
+Dialogue: 0,0:11:13.02,0:11:16.07,Default,,0,0,0,,La niebla era espesa como leche de cabra.
+Dialogue: 0,0:11:16.57,0:11:20.61,Default,,0,0,0,,No era un barco escandinavo.\NNo tenía una cabeza de dragón.
+Dialogue: 0,0:11:20.86,0:11:23.57,Default,,0,0,0,,Era algo rechoncho.
+Dialogue: 0,0:11:23.91,0:11:27.70,Default,,0,0,0,,Tenía dibujado unos ojos.\NEn la proa. Grandes, así.
+Dialogue: 0,0:11:29.12,0:11:31.58,Default,,0,0,0,,No parece uno del rey Sweyn.
+Dialogue: 0,0:11:32.33,0:11:36.80,Default,,0,0,0,,En cualquier caso,\Nno podemos seguir más a Thorfinn.
+Dialogue: 0,0:11:38.46,0:11:41.09,Default,,0,0,0,,Lo subestimé.
+Dialogue: 0,0:11:41.76,0:11:45.76,Default,,0,0,0,,No pensé que los del otro lado\Ndel río Severn fueran sus aliados.
+Dialogue: 0,0:11:46.89,0:11:51.44,Default,,0,0,0,,¿La gente del otro lado del río\Nse pasó de bando de Inglaterra a Dinamarca?
+Dialogue: 0,0:11:51.81,0:11:54.48,Default,,0,0,0,,¡Idiota!\N¡No sabes nada!
+Dialogue: 0,0:11:55.02,0:11:59.48,Default,,0,0,0,,¡La tierra al otro lado del río no es parte\Nde Inglaterra en primer lugar!
+Dialogue: 0,0:12:01.07,0:12:02.45,Default,,0,0,0,,Es Gales.
+Dialogue: 0,0:12:05.99,0:12:10.83,Default,,0,0,0,,Gales es una región montañosa\Nal oeste de Inglaterra.
+Dialogue: 0,0:12:11.83,0:12:14.58,Default,,0,0,0,,Esas montañas tienen\Npocos recursos naturales.
+Dialogue: 0,0:12:14.83,0:12:17.13,Default,,0,0,0,,Las tierras aptas para agricultura\Nson escasas.
+Dialogue: 0,0:12:18.04,0:12:21.34,Default,,0,0,0,,La tierra era pobre\Ncomparada con Inglaterra.
+Dialogue: 0,0:12:22.38,0:12:24.93,Default,,0,0,0,,Después de la caída\Ndel Imperio Romano,
+Dialogue: 0,0:12:25.01,0:12:28.47,Default,,0,0,0,,Gales nunca se unificó como un país.
+Dialogue: 0,0:12:29.22,0:12:34.10,Default,,0,0,0,,La región quedó dividida en reinos\Npequeños y rivales durante siglos.
+Dialogue: 0,0:12:35.40,0:12:37.94,Default,,0,0,0,,La solicitud de Askeladd\Nfue respondida
+Dialogue: 0,0:12:38.02,0:12:40.65,Default,,0,0,0,,por uno de esos pequeños reinos.
+Dialogue: 0,0:12:42.57,0:12:46.16,Default,,0,0,0,,ESTE DEL REINO DE MORGANNWG\NGALES
+Dialogue: 0,0:12:46.57,0:12:48.83,Default,,0,0,0,,Quiero felicitarte por esto, Askeladd.
+Dialogue: 0,0:12:48.91,0:12:53.00,Default,,0,0,0,,Thorkell debe estar hirviendo\Nde furia al otro lado del río.
+Dialogue: 0,0:12:53.58,0:12:55.67,Default,,0,0,0,,Si continuamos por mar,
+Dialogue: 0,0:12:55.87,0:12:58.00,Default,,0,0,0,,podemos regresar a Gainsborough.
+Dialogue: 0,0:12:58.46,0:13:00.84,Default,,0,0,0,,No.\NIremos por tierra.
+Dialogue: 0,0:13:01.59,0:13:04.97,Default,,0,0,0,,¿De qué hablas?\NHay un barco justo allí.
+Dialogue: 0,0:13:05.59,0:13:08.51,Default,,0,0,0,,No lo mires bajo la perspectiva\Nde una gran nación.
+Dialogue: 0,0:13:09.43,0:13:13.98,Default,,0,0,0,,Para este país, hasta tres barcos\Nson un activo valioso.
+Dialogue: 0,0:13:14.64,0:13:18.73,Default,,0,0,0,,Agradece que nos hayan ayudado\Na escapar de Thorkell.
+Dialogue: 0,0:13:19.15,0:13:21.90,Default,,0,0,0,,¿¡Podemos meter a todos\Nen sólo dos barcos!
+Dialogue: 0,0:13:22.07,0:13:25.28,Default,,0,0,0,,No. Si sigues siendo egoísta,\Ntendré que abandonarte.
+Dialogue: 0,0:13:25.95,0:13:29.49,Default,,0,0,0,,¿Quieres que crucemos Gales a pie?\N¡Es ridículo!
+Dialogue: 0,0:13:29.99,0:13:32.37,Default,,0,0,0,,¡La gente en esta tierra nos odia!
+Dialogue: 0,0:13:33.04,0:13:36.67,Default,,0,0,0,,¡No puedo permitir que pongas\Nen más peligro a Su Alteza!
+Dialogue: 0,0:13:40.09,0:13:41.17,Default,,0,0,0,,Un halcón.
+Dialogue: 0,0:13:42.13,0:13:43.26,Default,,0,0,0,,Vuela muy bajo.
+Dialogue: 0,0:13:44.46,0:13:46.22,Default,,0,0,0,,Ragnar.\NAtrápalo.
+Dialogue: 0,0:13:46.88,0:13:49.93,Default,,0,0,0,,Disculpe, estamos en medio\Nde algo importante.
+Dialogue: 0,0:13:51.30,0:13:55.35,Default,,0,0,0,,Es mejor que atravesar el norte de Inglaterra\Ncon Thorkell justo detrás.
+Dialogue: 0,0:13:56.06,0:13:58.73,Default,,0,0,0,,De cualquier modo,\Neste país es mi aliado.
+Dialogue: 0,0:13:59.69,0:14:01.57,Default,,0,0,0,,Si sigues preocupado...
+Dialogue: 0,0:14:02.40,0:14:03.23,Default,,0,0,0,,¡Thorfinn!
+Dialogue: 0,0:14:07.24,0:14:10.03,Default,,0,0,0,,Lo asignaré para que cuide a Canute.
+Dialogue: 0,0:14:10.87,0:14:13.33,Default,,0,0,0,,¡Cielos!\NEres el de allá...
+Dialogue: 0,0:14:14.87,0:14:16.54,Default,,0,0,0,,No tomes la decisión por mí.
+Dialogue: 0,0:14:17.46,0:14:19.79,Default,,0,0,0,,Es pequeño, pero es bueno.
+Dialogue: 0,0:14:19.96,0:14:23.17,Default,,0,0,0,,Tiene la misma edad que Su Alteza.\NSe llevarán bien.
+Dialogue: 0,0:14:23.46,0:14:25.17,Default,,0,0,0,,Salúdalo, Thorfinn.
+Dialogue: 0,0:14:33.89,0:14:37.39,Default,,0,0,0,,¿Eres idiota?\N¿Por qué lo miras con furia?
+Dialogue: 0,0:14:39.02,0:14:41.02,Default,,0,0,0,,Me recompensarás por esto, ¿no?
+Dialogue: 0,0:14:41.23,0:14:45.03,Default,,0,0,0,,Muy bien. Cuando lleguemos\Na Gainsborough, nos batiremos a duelo.
+Dialogue: 0,0:14:45.98,0:14:48.19,Default,,0,0,0,,Askeladd, ¿estás listo?
+Dialogue: 0,0:14:48.28,0:14:51.82,Default,,0,0,0,,Sí. Justo acabamos.\NCielos. Estamos muy ocupados.
+Dialogue: 0,0:14:54.45,0:14:58.79,Default,,0,0,0,,Él es el general\Ndel reino de Morgannwg, Gratianus.
+Dialogue: 0,0:14:58.87,0:15:01.46,Default,,0,0,0,,Nos mostrará el camino.
+Dialogue: 0,0:15:05.21,0:15:08.47,Default,,0,0,0,,Tienes una mirada amenazante,\Npero un buen rostro.
+Dialogue: 0,0:15:09.22,0:15:12.30,Default,,0,0,0,,Comandante,\Nes uno de mis hombres.
+Dialogue: 0,0:15:12.72,0:15:15.31,Default,,0,0,0,,Su Alteza el príncipe Canute está allí.
+Dialogue: 0,0:15:19.52,0:15:20.89,Default,,0,0,0,,Sus ojos lucen débiles.
+Dialogue: 0,0:15:21.19,0:15:24.02,Default,,0,0,0,,¿Será el próximo gobernante\Nde Inglaterra?
+Dialogue: 0,0:15:24.11,0:15:26.57,Default,,0,0,0,,¿Qué? ¡Maldito!\N¡Qué grosero!
+Dialogue: 0,0:15:27.61,0:15:32.57,Default,,0,0,0,,Solo tenemos una razón\Npara ayudar a escapar al rey danés.
+Dialogue: 0,0:15:32.66,0:15:35.87,Default,,0,0,0,,Entrar en un tratado de no agresión.
+Dialogue: 0,0:15:36.87,0:15:40.83,Default,,0,0,0,,Todo depende de usted.\NPríncipe, jure
+Dialogue: 0,0:15:41.29,0:15:43.71,Default,,0,0,0,,que una vez que sea\Nrey de Inglaterra,
+Dialogue: 0,0:15:43.79,0:15:46.80,Default,,0,0,0,,nunca interferirá en\Nlos asuntos de Gales.
+Dialogue: 0,0:15:59.06,0:16:00.48,Default,,0,0,0,,Sí.\NDéjamelo a mí.
+Dialogue: 0,0:16:01.64,0:16:04.27,Default,,0,0,0,,Su Alteza dice:
+Dialogue: 0,0:16:04.35,0:16:06.86,Default,,0,0,0,,"Si nos da tres barcos..."
+Dialogue: 0,0:16:06.98,0:16:09.86,Default,,0,0,0,,Le pregunté al príncipe.
+Dialogue: 0,0:16:09.98,0:16:11.11,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:16:16.87,0:16:19.62,Default,,0,0,0,,No importa.\NSe lo preguntaré después.
+Dialogue: 0,0:16:22.71,0:16:25.67,Default,,0,0,0,,Mientras tanto,\Nprepararé un documento escrito.
+Dialogue: 0,0:16:25.75,0:16:28.13,Default,,0,0,0,,Prepárense para partir.
+Dialogue: 0,0:16:31.76,0:16:34.09,Default,,0,0,0,,¿Qué diablos le pasa\Na este pedante?
+Dialogue: 0,0:16:34.18,0:16:35.93,Default,,0,0,0,,¡Se aprovecha de nosotros!
+Dialogue: 0,0:16:36.51,0:16:39.89,Default,,0,0,0,,¿Crees que eres igual al príncipe?
+Dialogue: 0,0:16:40.18,0:16:41.68,Default,,0,0,0,,¡Ratón de campo!
+Dialogue: 0,0:16:50.28,0:16:54.86,Default,,0,0,0,,¡Marchas, marchas y más marchas!\N¡Ahora marcharemos por las montañas!
+Dialogue: 0,0:16:54.95,0:16:57.78,Default,,0,0,0,,Las montañas son mejor que Thorkell.
+Dialogue: 0,0:16:57.87,0:16:59.91,Default,,0,0,0,,Hablemos de algo divertido.
+Dialogue: 0,0:16:59.99,0:17:01.33,Default,,0,0,0,,¿Como qué?
+Dialogue: 0,0:17:01.70,0:17:04.83,Default,,0,0,0,,Nuestra recompensa del rey Sweyn.
+Dialogue: 0,0:17:04.91,0:17:08.33,Default,,0,0,0,,Salvamos al príncipe de Thorkell.
+Dialogue: 0,0:17:08.46,0:17:11.17,Default,,0,0,0,,¡Quiero una granja!
+Dialogue: 0,0:17:11.25,0:17:12.71,Default,,0,0,0,,Yo una espada genial.
+Dialogue: 0,0:17:13.13,0:17:17.68,Default,,0,0,0,,No. Oro.\NNada es mejor que el oro.
+Dialogue: 0,0:17:17.76,0:17:18.80,Default,,0,0,0,,Sí.
+Dialogue: 0,0:17:18.89,0:17:20.76,Default,,0,0,0,,Escuché que el rey tiene
+Dialogue: 0,0:17:20.85,0:17:24.85,Default,,0,0,0,,cien esclavas hermosas\Nde alrededor del mundo en su dormitorio.
+Dialogue: 0,0:17:27.60,0:17:29.15,Default,,0,0,0,,Ven aquí.
+Dialogue: 0,0:17:29.27,0:17:32.98,Default,,0,0,0,,¡Estoy muy emocionado!\N¿Hay algo más?
+Dialogue: 0,0:17:33.36,0:17:34.90,Default,,0,0,0,,¡Oiga, sacerdote!
+Dialogue: 0,0:17:35.40,0:17:37.74,Default,,0,0,0,,Estuvo en el palacio, ¿no?
+Dialogue: 0,0:17:37.82,0:17:40.12,Default,,0,0,0,,¿Qué tiene el rey en su casa?
+Dialogue: 0,0:17:43.08,0:17:47.87,Default,,0,0,0,,Bueno,\Nnada particularmente de valor.
+Dialogue: 0,0:17:48.00,0:17:49.96,Default,,0,0,0,,¡No puede ser!\N¿Ni siquiera mujeres hermosas?
+Dialogue: 0,0:17:50.04,0:17:53.34,Default,,0,0,0,,Bueno, tenía muchas esclavas.
+Dialogue: 0,0:17:54.09,0:17:56.67,Default,,0,0,0,,¿Qué?\N¿No está interesado?
+Dialogue: 0,0:17:56.76,0:17:59.14,Default,,0,0,0,,¿No le gustan las mujeres?
+Dialogue: 0,0:17:59.55,0:18:03.18,Default,,0,0,0,,No.\NOro, plata y mujeres hermosas no son nada
+Dialogue: 0,0:18:03.26,0:18:06.85,Default,,0,0,0,,comparado con lo que busco.
+Dialogue: 0,0:18:10.48,0:18:13.65,Default,,0,0,0,,¡Por favor, díganos!\N¿Qué busca?
+Dialogue: 0,0:18:17.70,0:18:19.03,Default,,0,0,0,,Amor.
+Dialogue: 0,0:18:19.16,0:18:21.78,Default,,0,0,0,,- ¿Qué? ¿Amor?\N- Sí.
+Dialogue: 0,0:18:21.91,0:18:24.66,Default,,0,0,0,,¿Qué es eso?\NNunca escuché hablar de eso.
+Dialogue: 0,0:18:24.74,0:18:28.79,Default,,0,0,0,,Yo sé. Es como un hechizo\Nque los cristianos siempre están cantando.
+Dialogue: 0,0:18:28.92,0:18:30.33,Default,,0,0,0,,¿No es una comida?
+Dialogue: 0,0:18:30.42,0:18:32.54,Default,,0,0,0,,¿Cuántos kilos de plata?
+Dialogue: 0,0:18:33.25,0:18:35.38,Default,,0,0,0,,No se puede medir en plata
+Dialogue: 0,0:18:35.46,0:18:38.30,Default,,0,0,0,,porque el amor\Nle da valor a la plata.
+Dialogue: 0,0:18:39.34,0:18:44.06,Default,,0,0,0,,Sin amor, el oro, la plata\Ny las mujeres hermosas no valen nada.
+Dialogue: 0,0:18:44.51,0:18:45.89,Default,,0,0,0,,¿"Da valor"?
+Dialogue: 0,0:18:45.97,0:18:48.18,Default,,0,0,0,,Eso no tiene sentido.
+Dialogue: 0,0:18:48.27,0:18:50.52,Default,,0,0,0,,La plata vale lo que vale.
+Dialogue: 0,0:18:50.60,0:18:52.86,Default,,0,0,0,,No lo hagas tan difícil.
+Dialogue: 0,0:18:52.98,0:18:54.52,Default,,0,0,0,,Está mintiendo.
+Dialogue: 0,0:18:54.61,0:18:56.11,Default,,0,0,0,,Sólo ignórenlo.
+Dialogue: 0,0:19:00.07,0:19:01.91,Default,,0,0,0,,Oye, sacerdote.
+Dialogue: 0,0:19:03.32,0:19:07.25,Default,,0,0,0,,Sigue hablando.\NQuiero oír más.
+Dialogue: 0,0:19:10.21,0:19:13.08,Default,,0,0,0,,Estamos por entrar\Nen el reino de Brycheiniog.
+Dialogue: 0,0:19:14.50,0:19:17.21,Default,,0,0,0,,No se preocupen.\NYa hablé con ellos.
+Dialogue: 0,0:19:17.63,0:19:20.01,Default,,0,0,0,,Gracias por su ayuda.
+Dialogue: 0,0:19:20.09,0:19:23.64,Default,,0,0,0,,No hacemos esto por ti.\NNuestros intereses están alineados.
+Dialogue: 0,0:19:24.35,0:19:26.72,Default,,0,0,0,,Los reinos galeses siempre estuvieron
+Dialogue: 0,0:19:26.81,0:19:29.98,Default,,0,0,0,,amenazados por invasiones\Ndesde Inglaterra.
+Dialogue: 0,0:19:30.06,0:19:33.40,Default,,0,0,0,,Si los daneses pueden hacerlas parar,
+Dialogue: 0,0:19:33.48,0:19:35.02,Default,,0,0,0,,sería bueno para nosotros.
+Dialogue: 0,0:19:35.90,0:19:39.49,Default,,0,0,0,,Estoy seguro que Su Alteza\Nel príncipe se lo prometerá.
+Dialogue: 0,0:19:42.86,0:19:44.87,Default,,0,0,0,,¿Ese es tu rey, Askeladd?
+Dialogue: 0,0:19:46.28,0:19:48.37,Default,,0,0,0,,Viene de buen linaje.
+Dialogue: 0,0:19:48.45,0:19:51.71,Default,,0,0,0,,Tengo muchas esperanzas en él,\Nes joven.
+Dialogue: 0,0:19:55.63,0:19:59.55,Default,,0,0,0,,Cuanto más crees en un hombre,\Nmenos las cosas salen como quieres.
+Dialogue: 0,0:20:00.59,0:20:05.18,Default,,0,0,0,,Tal vez alguien como él\Nsea lo que necesitamos.
+Dialogue: 0,0:20:07.18,0:20:10.64,Default,,0,0,0,,Somos descendientes de Bretaña.
+Dialogue: 0,0:20:11.10,0:20:13.23,Default,,0,0,0,,No seguiremos al rey de los daneses.
+Dialogue: 0,0:20:14.48,0:20:16.06,Default,,0,0,0,,Gratianus.
+Dialogue: 0,0:20:16.61,0:20:19.53,Default,,0,0,0,,¿Aún crees en la leyenda?
+Dialogue: 0,0:20:20.32,0:20:24.03,Default,,0,0,0,,La leyenda de que Artorius regresará\Nde Avalon desde el oeste
+Dialogue: 0,0:20:24.11,0:20:28.33,Default,,0,0,0,,y restaurará la Bretaña antigua.
+Dialogue: 0,0:20:35.38,0:20:36.21,Default,,0,0,0,,¡Askeladd!
+Dialogue: 0,0:20:39.30,0:20:40.59,Default,,0,0,0,,¿Estás seguro?
+Dialogue: 0,0:20:40.67,0:20:42.38,Default,,0,0,0,,Eso dice La Oreja.
+Dialogue: 0,0:20:44.55,0:20:47.68,Default,,0,0,0,,¡Gracias por venir,\Npríncipe de los daneses!
+Dialogue: 0,0:20:53.43,0:20:55.73,Default,,0,0,0,,Son mensajeros de Brycheiniog.
+Dialogue: 0,0:20:56.31,0:20:57.44,Default,,0,0,0,,¡Gracias por venir!
+Dialogue: 0,0:20:57.90,0:21:00.19,Default,,0,0,0,,¡Espera!\NGratianus.
+Dialogue: 0,0:21:03.70,0:21:05.20,Default,,0,0,0,,¿Se dieron cuenta?
+Dialogue: 0,0:21:05.32,0:21:06.86,Default,,0,0,0,,¿Cómo te das cuenta?
+Dialogue: 0,0:21:06.95,0:21:09.33,Default,,0,0,0,,Uno de mis hombres\Ntiene muy buen oído.
+Dialogue: 0,0:21:10.03,0:21:12.20,Default,,0,0,0,,Pero es demasiado tarde.
+Dialogue: 0,0:21:16.00,0:21:17.21,Default,,0,0,0,,¿Qué pasa, Thorfinn?
+Dialogue: 0,0:22:18.64,0:22:21.02,Default,,0,0,0,,¡Levántate!\N¡Rápido!
+Dialogue: 0,0:22:23.86,0:22:24.69,Default,,0,0,0,,Vamos.
+
+

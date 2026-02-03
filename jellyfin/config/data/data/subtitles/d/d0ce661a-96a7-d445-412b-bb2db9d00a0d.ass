@@ -1,0 +1,238 @@
+[Script Info]
+Title: [Erai-raws] Español (América Latina)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_EpiTitle,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H3278070E,&H00494949,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Serieslogo,Times New Roman,40,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0005,0005,0000,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Box,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,0,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:02.98,Cart_A_Tim,,0000,0000,0000,,{\pos(320,130.25)}Pregunta:          Para ti, ¿qué significa Satoru Gojo?
+Dialogue: 0,0:00:04.15,0:00:05.44,Gen_Main,Yuji,0000,0000,0000,,¡Es mi maestro!
+Dialogue: 0,0:00:05.82,0:00:10.07,Gen_Main,Yuji,0000,0000,0000,,Sin su ayuda, al parecer\Nya me habrían ejecutado. Además…
+Dialogue: 0,0:00:10.28,0:00:13.33,Gen_Main,Megumi,0000,0000,0000,,Se podría decir que es mi benefactor.\NSe podría decir.
+Dialogue: 0,0:00:13.53,0:00:16.54,Gen_Main,Megumi,0000,0000,0000,,Y lo que voy a decir ahora\Nno solo me concierne a mí, pero…
+Dialogue: 0,0:00:16.75,0:00:20.46,Gen_Main,Nobara,0000,0000,0000,,Francamente,\Nno lo conozco tan bien, ¿sabes?
+Dialogue: 0,0:00:20.83,0:00:22.92,Gen_Main,Nobara,0000,0000,0000,,Pero lo único que puedo decir de él es…
+Dialogue: 0,0:00:23.21,0:00:24.84,Gen_Main,Maki/Panda,0000,0000,0000,,-Que es un idiota.\N-Un tonto.
+Dialogue: 0,0:00:25.05,0:00:26.13,Gen_Main,Inumaki,0000,0000,0000,,Salmón.
+Dialogue: 0,0:00:26.38,0:00:27.55,Gen_Main,Maki,0000,0000,0000,,Pero…
+Dialogue: 0,0:00:27.76,0:00:29.97,Gen_Main,Nanami,0000,0000,0000,,Es un frívolo, individualista…
+Dialogue: 0,0:00:30.18,0:00:31.84,Gen_Main,Todo,0000,0000,0000,,Pero está de más decir que…
+Dialogue: 0,0:00:32.51,0:00:34.10,Gen_Main,Yuji,0000,0000,0000,,Es el más fuerte de todos.
+Dialogue: 0,0:01:06.59,0:01:11.09,Cart_Serieslogo,,0000,0000,0000,,{\fad(0,800)\fs28\3c&H9EF2FA&\move(320,47.64,320,48.85,20,4983)}{\t(0,5050,\fs-0.3)}JUJUTSU KAISEN{\fscy100}\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N{\bord0\c&HFFFFFF&}Shibuya Incident
+Dialogue: 0,0:02:26.00,0:02:29.00,Cart_A_Tim,,0000,0000,0000,,{\pos(320,111.15)\bord0}Episodio 33\N\N\N\N\N\N\N\N\N\N\N{\fs30}El incidente de Shibuya - Apertura del portal
+Dialogue: 0,0:02:35.09,0:02:38.93,Gen_Main,Gojo,0000,0000,0000,,Tú, esa hierba de ahí, esta es\Nla tercera vez que nos vemos, ¿verdad?
+Dialogue: 0,0:02:40.64,0:02:42.93,Gen_Main,Gojo,0000,0000,0000,,Ya te has burlado demasiado de mí.
+Dialogue: 0,0:02:43.43,0:02:45.31,Gen_Main,Gojo,0000,0000,0000,,Voy a empezar por aniquilarte a ti.
+Dialogue: 0,0:02:48.40,0:02:49.94,Gen_Main,Gojo,0000,0000,0000,,Adelante, ven aquí.
+Dialogue: 0,0:02:50.27,0:02:51.48,Gen_Main,Gojo,0000,0000,0000,,¿Qué te detiene?
+Dialogue: 0,0:02:51.90,0:02:53.57,Gen_Main,Gojo,0000,0000,0000,,Ustedes fueron los que me dijeron
+Dialogue: 0,0:02:54.86,0:02:56.82,Gen_Main,Gojo,0000,0000,0000,,que no huyera, ¿recuerdan?
+Dialogue: 0,0:03:07.58,0:03:08.96,Gen_Main,Jogo,0000,0000,0000,,Ahora lo pude tocar…
+Dialogue: 0,0:03:27.14,0:03:28.48,Gen_Main,Gojo,0000,0000,0000,,¡Aquí vamos! A la una…
+Dialogue: 0,0:03:35.15,0:03:37.11,Gen_Italics,Hanami,0000,0000,0000,,Está yendo tras de Jogo.
+Dialogue: 0,0:03:45.54,0:03:48.50,Gen_Italics,Hanami,0000,0000,0000,,¿Su declaración de hace rato\Nfue solo para sugestionarnos?
+Dialogue: 0,0:03:48.71,0:03:50.33,Gen_Italics,Hanami,0000,0000,0000,,Además, este hechicero
+Dialogue: 0,0:03:54.42,0:03:57.55,Gen_Italics,Hanami,0000,0000,0000,,ha desactivado su técnica ritual\Nde la Brujería del Infinito.
+Dialogue: 0,0:04:01.00,0:04:03.43,Gen_Italics,Hanami,0000,0000,0000,,Desistió de ajustar su ritual\Na la situación.
+Dialogue: 0,0:04:03.64,0:04:06.10,Gen_Italics,Hanami,0000,0000,0000,,Y ahora que se ha despejado\Nun poco de humanos,
+Dialogue: 0,0:04:06.27,0:04:10.02,Gen_Italics,Hanami,0000,0000,0000,,su táctica es atacar cuerpo a cuerpo\Nreforzado con poder maldito.
+Dialogue: 0,0:04:15.32,0:04:19.78,Gen_Italics,Hanami,0000,0000,0000,,En ese caso, no es necesario\Nescondernos entre la muchedumbre.
+Dialogue: 0,0:04:20.70,0:04:23.91,Gen_Italics,Hanami,0000,0000,0000,,Es mejor usar nuestras técnicas rituales\Npara contraatacar.
+Dialogue: 0,0:04:29.50,0:04:32.33,Gen_Main,Jogo,0000,0000,0000,,¡No desactives\Nel Despliegue de Dominio, Hanami!
+Dialogue: 0,0:04:38.67,0:04:41.64,Gen_Main,Gojo,0000,0000,0000,,Me dijeron que este era\Ntu punto débil, ¿no?
+Dialogue: 0,0:04:45.81,0:04:50.35,Gen_Main,Gojo,0000,0000,0000,,Lo sabía. No pueden usar el Despliegue de\NDominio y sus rituales al mismo tiempo.
+Dialogue: 0,0:04:50.64,0:04:54.40,Gen_Italics,Jogo,0000,0000,0000,,No recibí tanto daño porque me protegía\Ncon el Despliegue de Dominio.
+Dialogue: 0,0:04:54.68,0:04:58.49,Gen_Italics,Jogo,0000,0000,0000,,Su nivel de pelea con manipulación\Nbásica de poder maldito es increíble.
+Dialogue: 0,0:05:00.82,0:05:02.87,Gen_Italics,Jogo,0000,0000,0000,,Satoru Gojo,
+Dialogue: 0,0:05:03.03,0:05:06.24,Gen_Italics,Jogo,0000,0000,0000,,¿acaso hay algo que no tengas,\Ndesgraciado?
+Dialogue: 0,0:05:10.16,0:05:12.04,Gen_Italics,Gojo,0000,0000,0000,,Ese tipo no es un espíritu maldito.
+Dialogue: 0,0:05:12.25,0:05:14.67,Gen_Italics,Gojo,0000,0000,0000,,Será una de las Nueve Putrefacciones\Nencarnada.
+Dialogue: 0,0:05:14.84,0:05:16.75,Gen_Italics,Gojo,0000,0000,0000,,Es molesto, pero lo dejaré para luego.
+Dialogue: 0,0:05:20.09,0:05:21.59,Gen_Main,Gojo,0000,0000,0000,,¿Crees que van bien así?
+Dialogue: 0,0:05:22.76,0:05:26.14,Gen_Main,Gojo,0000,0000,0000,,Yo mantendré mi técnica ritual activa\Ncon mucha más potencia
+Dialogue: 0,0:05:26.32,0:05:29.68,Gen_Main,Gojo,0000,0000,0000,,que lo que intentan neutralizarla\Ncon el Despliegue de Dominio.
+Dialogue: 0,0:05:29.93,0:05:34.10,Gen_Main,Gojo,0000,0000,0000,,Y esta hierba mala de acá no se ve\Nni siquiera con energías para resistir.
+Dialogue: 0,0:05:51.91,0:05:54.71,Gen_Main,Jogo,0000,0000,0000,,¡Satoru Gojo, mira hacia acá!
+Dialogue: 0,0:06:09.89,0:06:11.23,Gen_Main,Jogo,0000,0000,0000,,Hanami…
+Dialogue: 0,0:06:21.44,0:06:22.53,Gen_Main,Gojo,0000,0000,0000,,El que sigue.
+Dialogue: 0,0:06:23.49,0:06:27.32,Gen_Main,Geto,0000,0000,0000,,Gokumonkyo es una barrera viva hecha\Ncon los restos del monje Genshin.
+Dialogue: 0,0:06:27.53,0:06:30.49,Gen_Main,Geto,0000,0000,0000,,No hay nada que esta prisión\Nno pueda sellar.
+Dialogue: 0,0:06:32.41,0:06:35.96,Gen_Main,Jogo,0000,0000,0000,,Pero debo suponer que existe\Nalguna condición para aprisionarlo, ¿no?
+Dialogue: 0,0:06:36.83,0:06:38.25,Gen_Main,Geto,0000,0000,0000,,Un minuto.
+Dialogue: 0,0:06:45.26,0:06:46.71,Gen_Main,Geto,0000,0000,0000,,Luego de abrir el portal,
+Dialogue: 0,0:06:46.98,0:06:51.22,Gen_Main,Geto,0000,0000,0000,,Satoru Gojo debe quedarse un minuto\Ndentro del rango efectivo del sello,
+Dialogue: 0,0:06:51.77,0:06:54.44,Gen_Main,Geto,0000,0000,0000,,un radio de unos cuatro metros.
+Dialogue: 0,0:07:26.34,0:07:27.80,Gen_Main,Jogo,0000,0000,0000,,Oye…
+Dialogue: 0,0:07:28.89,0:07:30.89,Gen_Main,Jogo,0000,0000,0000,,¿Quieres que te queme vivo?
+Dialogue: 0,0:07:31.10,0:07:34.59,Gen_Main,Jogo,0000,0000,0000,,Desde el fondo de mi ser espero\Nque no te hayas aliado con nosotros
+Dialogue: 0,0:07:34.78,0:07:37.14,Gen_Main,Jogo,0000,0000,0000,,para forzarnos\Na hacer esa tarea imposible.
+Dialogue: 0,0:07:37.35,0:07:40.31,Gen_Main,Jogo,0000,0000,0000,,¿Ese tipo tiene que estar un minuto\Nbajo esas condiciones?
+Dialogue: 0,0:07:40.52,0:07:46.74,Gen_Main,Jogo,0000,0000,0000,,Vidas enteras de miles de los bárbaros\Nhumanos pesan lo mismo que ese minuto.
+Dialogue: 0,0:07:49.11,0:07:51.37,Gen_Main,Geto,0000,0000,0000,,Ya me dio calor, Jogo.
+Dialogue: 0,0:07:51.99,0:07:55.12,Gen_Main,Geto,0000,0000,0000,,No hay problema.\NEse minuto se refiere en realidad a…
+Dialogue: 0,0:08:08.72,0:08:09.93,Gen_Main,Hombre A,0000,0000,0000,,¡Salió volando!
+Dialogue: 0,0:08:24.82,0:08:27.57,Gen_Italics,Jogo,0000,0000,0000,,No dejaré que la muerte de Hanami\Nsea en vano.
+Dialogue: 0,0:08:27.78,0:08:32.41,Gen_Italics,Jogo,0000,0000,0000,,Me esconderé entre los humanos y me\Ndedicaré a la táctica de pega y corre.
+Dialogue: 0,0:08:39.54,0:08:41.29,Gen_Main,Jogo,0000,0000,0000,,¡Choso!
+Dialogue: 0,0:08:41.54,0:08:45.17,Gen_Main,Jogo,0000,0000,0000,,¡Si no vas a ayudar,\Nte mataré a ti primero!
+Dialogue: 0,0:08:48.80,0:08:50.26,Gen_Main,Choso,0000,0000,0000,,Sí, ya voy.
+Dialogue: 0,0:08:54.89,0:08:58.73,Gen_Italics,Gojo,0000,0000,0000,,Mantienen una distancia razonable,\Npero eso también tiene un límite.
+Dialogue: 0,0:08:58.93,0:09:02.17,Gen_Italics,Gojo,0000,0000,0000,,Los que no pueden ver las maldiciones\Nhan empezado a evadirme.
+Dialogue: 0,0:09:02.35,0:09:06.98,Gen_Italics,Gojo,0000,0000,0000,,Si sigue así, podré atrapar al cabeza de\Nvolcán en cuanto se forme un espacio.
+Dialogue: 0,0:09:07.36,0:09:10.99,Gen_Italics,Gojo,0000,0000,0000,,No es buena idea desactivar mi ritual\Npara atraerlos como hace rato.
+Dialogue: 0,0:09:11.15,0:09:14.66,Gen_Italics,Gojo,0000,0000,0000,,Ya saben que busco molerlos a golpes\Ncon combate cuerpo a cuerpo.
+Dialogue: 0,0:09:14.83,0:09:19.66,Gen_Italics,Gojo,0000,0000,0000,,Sería un fastidio si los dos lanzaran un\Ngran ataque a través de la muchedumbre.
+Dialogue: 0,0:09:22.12,0:09:25.13,Gen_Italics,Gojo,0000,0000,0000,,Lo siento.\NNo voy a poder salvarlos a todos.
+Dialogue: 0,0:09:26.17,0:09:27.75,Gen_Italics,Gojo,0000,0000,0000,,Pero, a cambio,
+Dialogue: 0,0:09:29.92,0:09:32.13,Gen_Italics,Gojo,0000,0000,0000,,los exorcizaré a como dé lugar.
+Dialogue: 0,0:09:32.80,0:09:37.22,Gen_Italics,Jogo,0000,0000,0000,,¿Por qué no llega?\N¡Ya debieron pasar los 20 minutos!
+Dialogue: 0,0:09:40.18,0:09:41.85,Gen_Main,Geto,0000,0000,0000,,No, todavía falta.
+Dialogue: 0,0:09:42.94,0:09:45.56,Gen_Main,Geto,0000,0000,0000,,Satoru Gojo sigue muy fresco.
+Dialogue: 0,0:09:47.61,0:09:50.49,Gen_Main,Geto,0000,0000,0000,,Deben hacerlo sudar frío un poco más.
+Dialogue: 0,0:10:04.37,0:10:08.80,Gen_Main,Yuji/Mujer A,0000,0000,0000,,-Oye, ¿estás bien?\N-Todos se hicieron monstruos.
+Dialogue: 0,0:10:09.18,0:10:12.22,Gen_Main,Mujer A,0000,0000,0000,,Todos se subieron al tren, y yo…
+Dialogue: 0,0:10:12.67,0:10:17.89,Gen_Main,Mujer A,0000,0000,0000,,¡No me subí porque iba lleno\Ny me dijeron que ya no me necesitaban!
+Dialogue: 0,0:10:20.81,0:10:22.85,Gen_Main,Yuji,0000,0000,0000,,¡Ese desgraciado estuvo aquí!
+Dialogue: 0,0:10:23.19,0:10:24.39,Gen_Main,Yuji,0000,0000,0000,,¡Mierda!
+Dialogue: 0,0:10:27.48,0:10:28.61,Gen_Main,Yuji,0000,0000,0000,,Todos
+Dialogue: 0,0:10:29.44,0:10:30.86,Gen_Main,Yuji,0000,0000,0000,,se subieron al tren.
+Dialogue: 0,0:10:31.07,0:10:35.02,Gen_Italics,Anuncio Hombre,0000,0000,0000,,Aquí viene un tren de ocho vagones.\NPermanezcan detrás de la línea amarilla.
+Dialogue: 0,0:10:35.22,0:10:36.32,Gen_Main,Yuji,0000,0000,0000,,¡Profe Gojo!
+Dialogue: 0,0:10:36.53,0:10:40.49,Gen_Italics,Anuncio Hombre,0000,0000,0000,,Eviten sacar brazos o cabeza de puertas\Ny ventanas, y recargarse en la puerta.
+Dialogue: 0,0:10:48.84,0:10:51.00,Gen_Main,Hombre B/Hombre C,0000,0000,0000,,-¡Ya llegó!\N-¡Por fin, el tren!
+Dialogue: 0,0:11:04.39,0:11:06.19,Gen_Main,Jogo,0000,0000,0000,,¡Al fin ha venido!
+Dialogue: 0,0:11:10.69,0:11:12.65,Gen_Main,Mujer B/Hombre D,0000,0000,0000,,-¡No empujen!\N-¡A un lado! ¡Quítense!
+Dialogue: 0,0:11:12.94,0:11:14.61,Gen_Main,Hombre E,0000,0000,0000,,¡El tren!
+Dialogue: 0,0:11:14.86,0:11:16.57,Gen_Main,Hombre E,0000,0000,0000,,¡A un lado! ¡Yo primero!
+Dialogue: 0,0:11:16.78,0:11:18.66,Gen_Main,Hombre F/Mujer C,0000,0000,0000,,-¡¿Qué te pasa?!\N-¡Qué grosero!
+Dialogue: 0,0:11:18.87,0:11:20.62,Gen_Main,Mujer D,0000,0000,0000,,¡Háganse a un lado!
+Dialogue: 0,0:11:49.35,0:11:51.31,Gen_Main,Gojo,0000,0000,0000,,¿En qué demonios están pensando?
+Dialogue: 0,0:11:53.28,0:11:55.49,Gen_Main,Mahito,0000,0000,0000,,¡Jogo!
+Dialogue: 0,0:11:59.32,0:12:03.16,Gen_Main,Mahito,0000,0000,0000,,Pero qué bien huele aquí, ¿verdad?\NEl aire está lleno de terror.
+Dialogue: 0,0:12:03.41,0:12:05.81,Gen_Main,Mahito,0000,0000,0000,,¿Qué te parece si dejamos vivos\Na unos cuantos
+Dialogue: 0,0:12:06.04,0:12:08.92,Gen_Main,Mahito,0000,0000,0000,,para soltarlos el fin de semana\Nen un bosque y cazarlos?
+Dialogue: 0,0:12:09.29,0:12:11.25,Gen_Main,Jogo,0000,0000,0000,,¿Puedo quemarlos con todo y bosque?
+Dialogue: 0,0:12:11.46,0:12:13.30,Gen_Main,Mahito,0000,0000,0000,,Hanami se enojaría contigo.
+Dialogue: 0,0:12:14.05,0:12:15.88,Gen_Main,Jogo,0000,0000,0000,,Hanami ha muerto.
+Dialogue: 0,0:12:17.67,0:12:18.97,Gen_Main,Mahito,0000,0000,0000,,¿En serio?
+Dialogue: 0,0:12:18.01,0:12:18.97,Cart_C_Tim,,0000,0000,0000,,{\fnComic Sans MS\fad(200,0)\fs26\move(411.5,48.75,411.5,84.25,18,506)}¿Eh?
+Dialogue: 0,0:12:21.64,0:12:23.97,Cart_Serieslogo,,0000,0000,0000,,{\fad(550,0)\3c&H75EFED&}JUJUTSU KAISEN
+Dialogue: 0,0:12:26.18,0:12:28.98,Cart_Serieslogo,,0000,0000,0000,,{\fad(550,0)\3c&H75EFED&}JUJUTSU KAISEN
+Dialogue: 0,0:12:44.45,0:12:46.16,Gen_Main,Mahito,0000,0000,0000,,¡En serio no le puedo dar!
+Dialogue: 0,0:12:47.04,0:12:50.42,Gen_Italics,Gojo,0000,0000,0000,,¡El de la cara cosida!\N¡Es la maldición que decían Nanami y Yuji!
+Dialogue: 0,0:12:57.84,0:13:01.55,Gen_Main,Mahito,0000,0000,0000,,Te diré una de las cosas\Nque dan asco de los humanos.
+Dialogue: 0,0:13:03.80,0:13:06.10,Gen_Main,Mahito,0000,0000,0000,,Hay montones de ellos.
+Dialogue: 0,0:13:15.57,0:13:18.90,Gen_Italics,Gojo,0000,0000,0000,,Lo sabía. Arriba también hay\Nmaldiciones o hechiceros maléficos.
+Dialogue: 0,0:13:19.11,0:13:22.74,Gen_Main,Mahito/Choso,0000,0000,0000,,-Espíritus Múltiples, Repulsión.\N-Manipulación Sanguínea, Supernova.
+Dialogue: 0,0:13:41.59,0:13:44.51,Gen_Italics,Mahito,0000,0000,0000,,Sabemos que Satoru Gojo,\Na diferencia de Yuji Itadori,
+Dialogue: 0,0:13:44.89,0:13:47.85,Gen_Italics,Mahito,0000,0000,0000,,cuenta con un corazón frío.
+Dialogue: 0,0:13:48.39,0:13:50.85,Gen_Italics,Mahito,0000,0000,0000,,Está dispuesto a sacrificar
+Dialogue: 0,0:13:51.06,0:13:54.27,Gen_Italics,Mahito,0000,0000,0000,,a cierto número de humanos\Ncon tal de exorcizarnos totalmente.
+Dialogue: 0,0:13:55.02,0:13:58.98,Gen_Italics,Mahito,0000,0000,0000,,Pero en esta situación donde los vivos\Ny los muertos siguen aumentando,
+Dialogue: 0,0:13:59.19,0:14:03.28,Gen_Italics,Mahito,0000,0000,0000,,ese cierto número de humanos ya\Nno tiene ningún sentido en la balanza.
+Dialogue: 0,0:14:04.24,0:14:07.41,Gen_Italics,Jogo,0000,0000,0000,,Lo que debería hacer ahora mismo es
+Dialogue: 0,0:14:07.62,0:14:11.25,Gen_Italics,Jogo,0000,0000,0000,,expandir su dominio para acabar\Ncon nosotros y los humanos presentes
+Dialogue: 0,0:14:11.51,0:14:14.50,Gen_Italics,Jogo,0000,0000,0000,,con tal de salvar a toda la gente\Nfuera del dominio.
+Dialogue: 0,0:14:14.88,0:14:17.17,Gen_Italics,Jogo,0000,0000,0000,,Pero ya no lo creo capaz de hacerlo.
+Dialogue: 0,0:14:17.38,0:14:22.34,Gen_Italics,Jogo,0000,0000,0000,,Los sacrificios que tenía en mente eran\Nlos que las maldiciones fueran a matar,
+Dialogue: 0,0:14:22.55,0:14:26.68,Gen_Italics,Jogo,0000,0000,0000,,no los humanos que el mismo Satoru Gojo\Ntuviera que llegar a cargarse.
+Dialogue: 0,0:14:28.05,0:14:31.35,Gen_Italics,Jogo,0000,0000,0000,,Piensa. Llénate de dudas.
+Dialogue: 0,0:14:31.64,0:14:33.77,Gen_Italics,Jogo,0000,0000,0000,,Concéntrate.
+Dialogue: 0,0:14:38.40,0:14:40.07,Gen_Main,Mahito,0000,0000,0000,,¿En serio lo va a hacer?
+Dialogue: 0,0:14:40.40,0:14:42.24,Gen_Main,Gojo,0000,0000,0000,,Expansión de Dominio,
+Dialogue: 0,0:14:43.19,0:14:45.07,Gen_Main,Gojo,0000,0000,0000,,Vacío Inconmensurable.
+Dialogue: 0,0:15:16.31,0:15:20.48,Gen_Italics,Narradora,0000,0000,0000,,Se juega el todo por el todo\Nal expandir su dominio por 0.2 segundos.
+Dialogue: 0,0:15:25.40,0:15:29.53,Gen_Italics,Narradora,0000,0000,0000,,Satoru Gojo estableció el intervalo\Nen 0.2 segundos por intuición
+Dialogue: 0,0:15:29.70,0:15:33.79,Gen_Italics,Narradora,0000,0000,0000,,para que los no hechiceros no quedaran\Ninválidos o con efectos secundarios
+Dialogue: 0,0:15:34.07,0:15:37.46,Gen_Italics,Narradora,0000,0000,0000,,al estar expuestos por demasiado tiempo\Nal Vacío Inconmensurable.
+Dialogue: 0,0:15:47.13,0:15:51.93,Gen_Italics,Narradora,0000,0000,0000,,En esos 0.2 segundos hizo que fluyera\Nuna cantidad de información de 6 meses
+Dialogue: 0,0:15:52.14,0:15:56.14,Gen_Italics,Narradora,0000,0000,0000,,a través de los cerebros de\Nlos no hechiceros y humanos modificados.
+Dialogue: 0,0:15:56.35,0:15:59.65,Gen_Italics,Narradora,0000,0000,0000,,Todos perdieron el conocimiento\Nestando todavía de pie.
+Dialogue: 0,0:16:16.12,0:16:19.07,Gen_Italics,Narradora,0000,0000,0000,,Sin embargo, los sobrevivientes de S5
+Dialogue: 0,0:16:19.29,0:16:22.50,Gen_Italics,Narradora,0000,0000,0000,,pudieron reincorporarse\Na la sociedad en dos meses.
+Dialogue: 0,0:16:22.71,0:16:25.46,Gen_Italics,Narradora,0000,0000,0000,,Se trató de un Vacío Inconmensurable\Nde bajo nivel.
+Dialogue: 0,0:16:36.60,0:16:40.98,Gen_Italics,Gojo,0000,0000,0000,,Las maldiciones de grado especial\Npodían despertar en cualquier momento,
+Dialogue: 0,0:16:41.19,0:16:43.85,Gen_Italics,Gojo,0000,0000,0000,,por lo que Gojo estaba atento\Na un contraataque
+Dialogue: 0,0:16:44.04,0:16:47.28,Gen_Italics,Gojo,0000,0000,0000,,mientras concentraba su ataque\Nen los humanos modificados.
+Dialogue: 0,0:17:10.30,0:17:12.80,Gen_Italics,Gojo,0000,0000,0000,,El hechicero más poderoso\Nen la actualidad
+Dialogue: 0,0:17:13.01,0:17:17.81,Gen_Italics,Gojo,0000,0000,0000,,acabó con aproximadamente 1000 de los\Nhumanos modificados que soltaron en S5.
+Dialogue: 0,0:17:18.01,0:17:24.11,Gen_Italics,Gojo,0000,0000,0000,,Los exterminó en 299 segundos después\Nde desactivar su expansión de dominio.
+Dialogue: 0,0:17:58.18,0:18:00.68,Gen_Main,Geto,0000,0000,0000,,Gokumonkyo, abre el portal.
+Dialogue: 0,0:18:06.61,0:18:08.23,Gen_Main,Geto,0000,0000,0000,,No hay problema.
+Dialogue: 0,0:18:08.86,0:18:11.03,Gen_Main,Geto,0000,0000,0000,,Ese minuto se refiere en realidad a…
+Dialogue: 0,0:18:24.62,0:18:25.79,Gen_Main,Geto,0000,0000,0000,,Hola,
+Dialogue: 0,0:18:28.50,0:18:29.67,Gen_Main,Geto,0000,0000,0000,,Satoru.
+Dialogue: 0,0:18:32.67,0:18:34.18,Gen_Main,Geto,0000,0000,0000,,Cuánto tiempo de no vernos.
+Dialogue: 0,0:18:39.76,0:18:41.43,Gen_Italics,Gojo,0000,0000,0000,,¿Un impostor?
+Dialogue: 0,0:18:42.52,0:18:44.56,Gen_Italics,Gojo,0000,0000,0000,,¿Una técnica ritual de metamorfosis?
+Dialogue: 0,0:18:47.02,0:18:49.32,Gen_Italics,Gojo,0000,0000,0000,,¡No, es el verdadero!
+Dialogue: 0,0:19:01.20,0:19:04.75,Gen_Main,Geto,0000,0000,0000,,Se refiere a un minuto\Ndentro de la mente de Satoru Gojo.
+Dialogue: 0,0:19:12.55,0:19:17.34,Gen_Main,Geto,0000,0000,0000,,Muy mal, Satoru. ¿Cómo vas a\Nensimismarte en medio de un combate?
+Dialogue: 0,0:19:17.64,0:19:19.55,Gen_Italics,Gojo,0000,0000,0000,,No puedo sentir nada de poder maldito.
+Dialogue: 0,0:19:19.76,0:19:21.76,Gen_Italics,Gojo,0000,0000,0000,,Tampoco puedo reunir fuerzas físicas.
+Dialogue: 0,0:19:22.39,0:19:23.77,Gen_Italics,Gojo,0000,0000,0000,,¿Jaque mate?
+Dialogue: 0,0:19:25.06,0:19:27.60,Gen_Main,Gojo,0000,0000,0000,,Entonces, ¿quién diablos eres tú?
+Dialogue: 0,0:19:28.81,0:19:30.40,Gen_Main,Geto,0000,0000,0000,,Pues Suguru Geto.
+Dialogue: 0,0:19:31.23,0:19:34.11,Gen_Main,Geto,0000,0000,0000,,¿Ya te olvidaste de mí?\NMe rompes el corazón.
+Dialogue: 0,0:19:34.57,0:19:40.95,Gen_Main,Gojo,0000,0000,0000,,Mis ojos me dicen que el cuerpo\Ny el poder maldito son de Suguru Geto.
+Dialogue: 0,0:19:44.95,0:19:46.29,Gen_Main,Gojo,0000,0000,0000,,Pero
+Dialogue: 0,0:19:48.46,0:19:51.29,Gen_Main,Gojo,0000,0000,0000,,¡mi espíritu lo niega todo!
+Dialogue: 0,0:19:51.50,0:19:54.96,Gen_Main,Gojo,0000,0000,0000,,¡Responde de una vez!\N¡¿Quién diablos eres tú?!
+Dialogue: 0,0:19:59.34,0:20:00.89,Gen_Main,Geto,0000,0000,0000,,Qué asco me das.
+Dialogue: 0,0:20:09.73,0:20:11.40,Gen_Main,Geto,0000,0000,0000,,¿Cómo lo supiste?
+Dialogue: 0,0:20:13.90,0:20:15.90,Gen_Main,Geto,0000,0000,0000,,Esta es mi técnica ritual.
+Dialogue: 0,0:20:16.32,0:20:19.82,Gen_Main,Geto,0000,0000,0000,,Puedo trasplantarme el cerebro\Npara ir de cuerpo en cuerpo.
+Dialogue: 0,0:20:20.03,0:20:23.41,Gen_Main,Geto,0000,0000,0000,,Claro que puedo usar la técnica ritual\Ngrabada en cada huésped.
+Dialogue: 0,0:20:23.76,0:20:27.69,Gen_Main,Geto,0000,0000,0000,,Quería la Manipulación de Maldiciones\Nde Geto para llegar a esta situación.
+Dialogue: 0,0:20:27.91,0:20:33.25,Gen_Main,Geto,0000,0000,0000,,Recuerda. No le pediste a Shoko Ieiri\Nque se deshiciera del cadáver de Geto.
+Dialogue: 0,0:20:37.38,0:20:39.80,Gen_Main,Geto,0000,0000,0000,,Muestras respeto de formas muy extrañas.
+Dialogue: 0,0:20:40.01,0:20:43.05,Gen_Main,Geto,0000,0000,0000,,Gracias a eso pude hacerme\Ncon este cuerpo muy fácilmente.
+Dialogue: 0,0:20:44.01,0:20:47.18,Gen_Main,Geto,0000,0000,0000,,Tranquilo. El sello se romperá\Npor sí solo con el tiempo.
+Dialogue: 0,0:20:48.39,0:20:51.60,Gen_Main,Geto,0000,0000,0000,,En 100 años, ¿o más bien 1000?
+Dialogue: 0,0:20:51.94,0:20:54.07,Gen_Main,Geto,0000,0000,0000,,Eres demasiado poderoso
+Dialogue: 0,0:20:54.77,0:20:56.99,Gen_Main,Geto,0000,0000,0000,,y un estorbo para mi objetivo.
+Dialogue: 0,0:20:57.78,0:20:59.53,Gen_Main,Gojo,0000,0000,0000,,¿Ya se te olvidó?
+Dialogue: 0,0:20:59.74,0:21:03.95,Gen_Main,Gojo,0000,0000,0000,,¿Quién le dio una paliza a ese cuerpo\Nantes de que yo lo matara?
+Dialogue: 0,0:21:04.49,0:21:06.45,Gen_Main,Geto,0000,0000,0000,,¿Te refieres a Yuta Okkotsu?
+Dialogue: 0,0:21:06.62,0:21:10.83,Gen_Main,Geto,0000,0000,0000,,Verás, no siento mucha atracción\Nhacia ese chico.
+Dialogue: 0,0:21:13.33,0:21:17.92,Gen_Main,Geto,0000,0000,0000,,Copiar técnicas rituales sin condiciones\Ny una reserva sin fondo de poder maldito…
+Dialogue: 0,0:21:18.26,0:21:24.22,Gen_Main,Geto,0000,0000,0000,,Ambas se lograban gracias a la atadura\Nque retenía al espíritu de su ser amado.
+Dialogue: 0,0:21:25.89,0:21:30.77,Gen_Main,Geto,0000,0000,0000,,Es una gran lástima, pero Yuta Okkotsu\Nno se convertirá en alguien como tú.
+Dialogue: 0,0:21:36.07,0:21:38.28,Gen_Main,Geto,0000,0000,0000,,Buenas noches, Satoru Gojo.
+Dialogue: 0,0:21:39.69,0:21:42.78,Gen_Main,Geto,0000,0000,0000,,Nos veremos otra vez en el nuevo mundo.
+Dialogue: 0,0:21:48.58,0:21:50.04,Gen_Main,Uiui,0000,0000,0000,,¿Qué sucede?
+Dialogue: 0,0:21:50.41,0:21:52.54,Gen_Main,Yuji,0000,0000,0000,,Algo se me pegó a la oreja.
+Dialogue: 0,0:21:53.21,0:21:55.71,Gen_Italics,Mechamaru,0000,0000,0000,,¿Puedes escucharme, Yuji Itadori?
+Dialogue: 0,0:21:57.13,0:22:00.67,Gen_Italics,Mechamaru,0000,0000,0000,,No hay tiempo.\NApréndete todo lo que diga a la primera.
+Dialogue: 0,0:22:02.93,0:22:04.68,Gen_Italics,Mechamaru,0000,0000,0000,,Satoru Gojo
+Dialogue: 0,0:22:06.55,0:22:08.22,Gen_Italics,Mechamaru,0000,0000,0000,,ha sido sellado.
+Dialogue: 0,0:23:37.10,0:23:39.02,Cart_A_Tre,,0000,0000,0000,,{\b0\fs20\bord1.5\be1\3c&H161622&}Traducción: Abraham Gayuvas y Antonio Valdez\NEdición: Abraham Gayuvas\NControl de calidad: Nicolás Sepúlveda
+Dialogue: 0,0:23:40.40,0:23:44.19,Gen_Main,Yuji/Nobara,0000,0000,0000,,-¿Cómo te cuidas la piel?\N-¿Me preguntas eso? Bueno, está bien.
+Dialogue: 0,0:23:44.36,0:23:46.52,Gen_Main,Nobara,0000,0000,0000,,Hago de todo,\Npero siempre me sale algo.
+Dialogue: 0,0:23:46.68,0:23:50.78,Gen_Main,Nobara,0000,0000,0000,,Los de piel perfecta como el profe Gojo\Ndirán que no hacen nada para cuidársela.
+Dialogue: 0,0:23:50.78,0:23:55.00,Cart_A_Tim,,0000,0000,0000,,{\pos(320,111.15)\bord2.5\blur3}Próximo episodio\N\N\N\N\N\N\N\N\N\N\N{\q2\fs30}Confusión
+Dialogue: 0,0:23:50.91,0:23:51.99,Gen_Main,Gojo/Nobara,0000,0000,0000,,Próximo: "Confusión".
+Dialogue: 0,0:23:52.14,0:23:54.56,Gen_Main,Gojo/Nobara,0000,0000,0000,,-¿Qué hace? ¡Rayos!\N-Nada en realidad.
+

@@ -1,0 +1,306 @@
+﻿[Script Info]
+Title: [Erai-raws] Italiano
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial Unicode MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Show_Title,Times New Roman,36,&H00000000,&H000000FF,&H0090D3CB,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Eyecatch_Title,Times New Roman,44,&H00070300,&H000000FF,&H009CE4E2,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Ep_Title,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0040,1
+Style: Ep_Title_Shadow,Times New Roman,24,&HFEFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,3,0010,0028,0050,1
+Style: Next_Ep_Title,Times New Roman,24,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0060,1
+Style: sign_4777_40_Miyashiro_Prefec,Times New Roman,20,&H00716763,&H000000FF,&H0020180B,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0087,0087,0018,1
+Style: sign_6477_66_Sea_Angel,Comic Sans MS,12,&H00848CD2,&H000000FF,&H00F9FDFC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0493,0093,0000,1
+Style: sign_6477_67_A_type_of_plankt,Comic Sans MS,9,&H00585955,&H000000FF,&H00F4F5E2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0539,0021,0000,1
+Style: sign_6948_80_Mysterious_Event,Times New Roman,24,&H002D4431,&H000000FF,&H0066995C,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,5,0152,0273,0000,1
+Style: sign_7411_88_B_i_n_g,Arial Unicode MS,24,&H00151815,&H000000FF,&H00DEE0E2,&H00000000,-1,0,0,0,100,100,0,346,1,4,0,5,0328,0292,0000,1
+Style: sign_7581_92_35_Year_Old_Form,Arial Unicode MS,20,&H00C1C7CF,&H000000FF,&H004F555D,&H00000000,-1,0,0,0,80,100,0,0,1,2,0,2,0014,0014,0018,1
+Style: sign_7608_94_Former_Employee_,Times New Roman,14,&H00464C54,&H000000FF,&H00B9C1C4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,6,0404,0030,0000,1
+Style: sign_7836_100_Laid_Off_From_Wo,Times New Roman,24,&H002B3C3C,&H000000FF,&H00FAFFFE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0137,0137,0018,1
+Style: sign_8270_111_Hard_Ticks,Comic Sans MS,24,&H004735AD,&H000000FF,&H00ECECEC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0040,0484,0000,1
+Style: sign_8270_112_A_large__parasit,Comic Sans MS,16,&H0042444D,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,3,2,4,0327,0152,0000,1
+Style: sign_8270_115_Hmm_,Comic Sans MS,16,&H00656565,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,0,0,8,0101,0497,0148,1
+Style: sign_8270_116_They_leap_onto_t,Comic Sans MS,12,&H005F5F5F,&H000000FF,&H00E9E9E9,&H00838488,-1,0,0,0,100,100,0,0,1,2,0,4,0157,0359,0000,1
+Style: sign_9617_151_Track_and_Field_,Times New Roman,24,&H00000000,&H000000FF,&H00DCE4E0,&H00DCE4E0,-1,0,0,0,100,100,0,0,1,0,0,8,0000,0405,0010,1
+Style: sign_11038_173__Japan_s_Nationa,Trebuchet MS,30,&H00F1F2F3,&H000000FF,&H00686767,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0184,0170,0140,1
+Style: sign_16448_266_Matsumoto,Times New Roman,24,&H008C9896,&H000000FF,&H00E0EBEC,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,0518,0000,0000,1
+Style: sign_18893_302_4th_grade_Girl_C,Trebuchet MS,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,337.5,1,0,0,4,0236,0089,0000,1
+Style: sign_23361_367_Occult_Phenomeno,Trebuchet MS,14,&H001C1C1C,&H000000FF,&H00817211,&H00000000,-1,0,0,0,100,100,0,52.52,1,3,0,8,0130,0367,0246,1
+Style: sign_32727_342_Juju_Stroll,Times New Roman,30,&H00000101,&H000000FF,&H00E7EFF0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0242,0242,0010,1
+Style: sign_26840_306_One_Month_Later,Arial Unicode MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0205,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:08.21,0:00:09.22,Main,Ui Ui,0000,0000,0000,,Sorella mia!
+Dialogue: 0,0:00:13.55,0:00:17.65,Main,Vaiolo,0000,0000,0000,,{\i1}Three{\i0}, {\i1}two{\i0}, {\i1}one{\i0}...
+Dialogue: 0,0:00:26.05,0:00:27.29,Main,Mei Mei,0000,0000,0000,,Si sta stretti.
+Dialogue: 0,0:00:30.10,0:00:31.49,Main,Mei Mei,0000,0000,0000,,Certo, capisco.
+Dialogue: 0,0:00:40.34,0:00:43.07,Main,Mei Mei,0000,0000,0000,,Uno, mi chiude in una bara.
+Dialogue: 0,0:00:43.48,0:00:45.98,sign_26840_306_One_Month_Later,Sign,0000,0000,0000,,{\fad(0,352)\fs30\c&H060B04&\pos(521,81)}Tomba
+Dialogue: 0,0:00:43.58,0:00:45.99,Main,Mei Mei,0000,0000,0000,,Due, mi seppellisce sotto a una pietra tombale.
+Dialogue: 0,0:00:46.82,0:00:49.52,Main,Mei Mei,0000,0000,0000,,Tre, inizia il conto alla rovescia.
+Dialogue: 0,0:00:50.10,0:00:53.10,Main,Mei Mei,0000,0000,0000,,Gli effetti garantiti all'interno\Ndel suo dominio sono solo questi.
+Dialogue: 0,0:00:53.10,0:00:55.30,Main,Mei Mei,0000,0000,0000,,È una malattia maledetta di livello speciale.
+Dialogue: 0,0:00:55.85,0:00:59.86,Main,Mei Mei,0000,0000,0000,,Se non riuscissi a uscire dalla bara \Nprima della fine del conto alla rovescia,
+Dialogue: 0,0:00:59.86,0:01:03.46,Main,Mei Mei,0000,0000,0000,,contrarrei la malattia e morirei.
+Dialogue: 0,0:01:16.90,0:01:19.10,Italics,Mei Mei,0000,0000,0000,,La cosa più fastidiosa è la pietra tombale.
+Dialogue: 0,0:01:19.66,0:01:23.67,Italics,Mei Mei,0000,0000,0000,,Se ci finissi sotto un altro paio di volte,\Nnon riuscirei più a muovermi come al solito.
+Dialogue: 0,0:01:23.67,0:01:27.17,Italics,Mei Mei,0000,0000,0000,,Non ho voglia di affrontare Geto\N in quello stato.
+Dialogue: 0,0:01:28.18,0:01:29.80,Main,Mei Mei,0000,0000,0000,,Ui Ui, stai bene?
+Dialogue: 0,0:01:30.46,0:01:32.21,Main,Ui Ui,0000,0000,0000,,Sì, sorella mia.
+Dialogue: 0,0:01:35.48,0:01:36.94,Main,Mei Mei,0000,0000,0000,,Probabilmente,
+Dialogue: 0,0:01:36.94,0:01:40.88,Main,Mei Mei,0000,0000,0000,,bersaglia di riflesso chi ha l'energia malefica \Npiù forte all'interno del dominio.
+Dialogue: 0,0:01:42.68,0:01:46.33,Main,Mei Mei,0000,0000,0000,,Solo due corvi \Nsono stati chiusi qua dentro con me.
+Dialogue: 0,0:02:03.10,0:02:04.36,Main,Mei Mei,0000,0000,0000,,Come pensavo.
+Dialogue: 0,0:02:06.05,0:02:07.59,Italics,Mei Mei,0000,0000,0000,,Per vincere,
+Dialogue: 0,0:02:07.81,0:02:10.84,Italics,Mei Mei,0000,0000,0000,,devo far sì che prenda di mira Ui Ui
+Dialogue: 0,0:02:10.84,0:02:14.23,Italics,Mei Mei,0000,0000,0000,,così che io abbia tempo per agire liberamente.
+Dialogue: 0,0:02:14.98,0:02:19.73,Italics,Mei Mei,0000,0000,0000,,Tuttavia, lui morirebbe dopo essere stato colpito \Nuna sola volta da quella pietra tombale.
+Dialogue: 0,0:02:22.41,0:02:23.46,Main,Mei Mei,0000,0000,0000,,Ui Ui...
+Dialogue: 0,0:02:25.64,0:02:27.86,Main,Mei Mei,0000,0000,0000,,Saresti disposto a morire per me?
+Dialogue: 0,0:02:31.70,0:02:33.11,Main,Ui Ui,0000,0000,0000,,Davvero posso?
+Dialogue: 0,0:02:33.11,0:02:35.17,Main,Ui Ui,0000,0000,0000,,Posso morire per te?
+Dialogue: 0,0:02:54.62,0:02:57.34,Italics,Ui Ui,0000,0000,0000,,Nello stesso istante in cui\N ho rilasciato la mia energia malefica,
+Dialogue: 0,0:02:57.34,0:02:59.44,Italics,Ui Ui,0000,0000,0000,,mia sorella ha soppresso la sua.
+Dialogue: 0,0:02:59.83,0:03:02.06,Italics,Ui Ui,0000,0000,0000,,Ho capito tutto,
+Dialogue: 0,0:03:02.06,0:03:03.29,Italics,Ui Ui,0000,0000,0000,,sorella mia!
+Dialogue: 0,0:03:24.11,0:03:28.08,Main,Mei Mei,0000,0000,0000,,Pensavi che mi fossi portata dietro quel bambino \Nsolo per farmi da portaborse?
+Dialogue: 0,0:03:30.58,0:03:32.84,Italics,Ui Ui,0000,0000,0000,,Quando mia sorella \Nmi chiede di rischiare la vita,
+Dialogue: 0,0:03:32.84,0:03:36.11,Italics,Ui Ui,0000,0000,0000,,{\an8}significa che ho il permesso\N di usare la stregoneria!
+Dialogue: 0,0:03:35.65,0:03:36.86,sign_26840_306_One_Month_Later,Sign,0000,0000,0000,,{\pos(320,279)}Stile della Nuova Ombra: Quasi Dominio
+Dialogue: 0,0:03:37.20,0:03:40.24,Main,Mei Mei,0000,0000,0000,,Il compito di Ui Ui \Nè di prendere contromisure anti-domini.
+Dialogue: 0,0:03:40.73,0:03:44.31,Main,Mei Mei,0000,0000,0000,,Contrarre debiti verso qualcuno \Nnon è nella mia natura.
+Dialogue: 0,0:03:44.31,0:03:47.09,Main,Mei Mei,0000,0000,0000,,Quindi lascio che sia lui a occuparsene.
+Dialogue: 0,0:04:25.29,0:04:26.73,Main,Mei Mei,0000,0000,0000,,Quale credi che sia
+Dialogue: 0,0:04:27.08,0:04:32.66,Main,Mei Mei,0000,0000,0000,,il modo più rapido di incrementare \Nle proprie capacità, per uno stregone?
+Dialogue: 0,0:04:33.36,0:04:36.11,Main,Ui Ui,0000,0000,0000,,Usare un vincolo in cui si mette in gioco la vita.
+Dialogue: 0,0:04:36.52,0:04:38.69,Main,Ui Ui,0000,0000,0000,,Dico bene, sorella mia?!
+Dialogue: 0,0:04:38.69,0:04:39.62,Main,Ui Ui,0000,0000,0000,,Proprio così!
+Dialogue: 0,0:04:39.62,0:04:42.58,Main,Ui Ui,0000,0000,0000,,La punta di diamante della tecnica di mia sorella,
+Dialogue: 0,0:04:42.58,0:04:45.48,Main,Ui Ui,0000,0000,0000,,"Manipolazione del Cigno Nero", \Nè l'attacco suicida "Bird Strike"!
+Dialogue: 0,0:04:46.50,0:04:49.60,Main,Ui Ui,0000,0000,0000,,Costringe un corvo a suicidarsi e, in cambio,
+Dialogue: 0,0:04:49.60,0:04:52.95,Main,Ui Ui,0000,0000,0000,,viene rimosso il limite alla normalmente scarsa \Nenergia malefica di quest'ultimo,
+Dialogue: 0,0:04:52.95,0:04:54.00,Main,Ui Ui,0000,0000,0000,,e lo scaglia contro al nemico.
+Dialogue: 0,0:04:54.48,0:04:57.73,Main,Ui Ui,0000,0000,0000,,Nessun essere umano \Nè mai riuscito a fermare il Bird Strike,
+Dialogue: 0,0:04:57.73,0:05:00.70,Main,Ui Ui,0000,0000,0000,,con la sola eccezione di Satoru Gojo.
+Dialogue: 0,0:05:09.02,0:05:10.43,Main,Mei Mei,0000,0000,0000,,Bene, piccoli miei...
+Dialogue: 0,0:05:10.43,0:05:11.85,Main,Mei Mei,0000,0000,0000,,siamo all'epicentro.
+Dialogue: 0,0:05:13.90,0:05:17.09,Main,Mei Mei,0000,0000,0000,,Siete disposti a morire per me?
+Dialogue: 0,0:05:17.97,0:05:19.70,Main,Geto,0000,0000,0000,,Niente male...
+Dialogue: 0,0:05:20.21,0:05:22.95,Main,Geto,0000,0000,0000,,per uno stregone dell'era moderna.
+Dialogue: 0,0:05:22.95,0:05:25.97,Ep_Title,Sign,0000,0000,0000,,Episodio 38\N{\fs30\fscy150}Ondeggiamento
+Dialogue: 0,0:05:36.52,0:05:41.02,Show_Title,Sign,0000,0000,0000,,{\fad(0,825)\pos(320,10)\3c&H8ECEDD&}JUJUTSU KAISEN\N{\fs16\bord0\fscy100\c&HDEDCE0&}L'Incidente di Shibuya
+Dialogue: 0,0:06:56.29,0:06:59.50,Main,Naobito,0000,0000,0000,,Satoru Gojo è stato sigillato?
+Dialogue: 0,0:06:59.50,0:07:01.72,Main,Naobito,0000,0000,0000,,Stento quasi a crederci.
+Dialogue: 0,0:07:01.97,0:07:03.42,Main,Nanami,0000,0000,0000,,Vale anche per me.
+Dialogue: 0,0:07:03.42,0:07:07.49,Main,Nanami,0000,0000,0000,,Però c'è Geto di mezzo,\N per quanto sia un impostore.
+Dialogue: 0,0:07:07.49,0:07:10.31,Main,Nanami,0000,0000,0000,,Immagino che il motivo sia questo.
+Dialogue: 0,0:07:10.90,0:07:12.77,Main,Naobito,0000,0000,0000,,Per quanto mi riguarda, se le cose restassero così,
+Dialogue: 0,0:07:12.77,0:07:16.72,Main,Naobito,0000,0000,0000,,mi farei un bell'aperitivo \Nmente osservo la caduta del clan Gojo.
+Dialogue: 0,0:07:18.59,0:07:21.12,Main,Maki,0000,0000,0000,,Tornatene a casa,\Nse non hai voglia di aiutare.
+Dialogue: 0,0:07:21.35,0:07:23.62,Main,Naobito,0000,0000,0000,,Tornare a casa?
+Dialogue: 0,0:07:23.62,0:07:26.78,Main,Naobito,0000,0000,0000,,Dovresti essere tu a farlo, Maki.
+Dialogue: 0,0:07:27.33,0:07:30.13,Main,Naobito,0000,0000,0000,,Dico bene, Nanami, \Nsignor stregone di primo livello?
+Dialogue: 0,0:07:30.45,0:07:31.50,Main,Nanami,0000,0000,0000,,Maki.
+Dialogue: 0,0:07:32.22,0:07:35.46,Main,Nanami,0000,0000,0000,,In questo caso dovresti fare \Ncome dice il signor Naobito.
+Dialogue: 0,0:07:35.46,0:07:37.89,Main,Maki,0000,0000,0000,,Sono più utile io di un vecchio ubriacone.
+Dialogue: 0,0:07:37.89,0:07:44.64,Sign_Basic,Sign,0000,0000,0000,,{\an1\fnArial\bord0\shad0\b1\pos(153,268)}22:20\h\h\hLinea Inokashira, stazione di Shibuya\N\h\h\h\h\h\h\h\h\h\h\h\hUscita Avenue
+Dialogue: 0,0:07:38.76,0:07:40.29,Main,Nanami,0000,0000,0000,,{\an8}Ha bevuto?
+Dialogue: 0,0:07:40.74,0:07:42.42,Main,Naobito,0000,0000,0000,,{\an8}Assholutamente no.
+Dialogue: 0,0:07:45.47,0:07:48.98,Italics,Nanami,0000,0000,0000,,Immagino che il meglio soli che \Nmale accompagnati fosse fuori discussione.
+Dialogue: 0,0:08:00.50,0:08:01.53,Main,Maki,0000,0000,0000,,Signor Nanami...
+Dialogue: 0,0:08:02.01,0:08:02.78,Main,Nanami,0000,0000,0000,,Lo so.
+Dialogue: 0,0:08:10.46,0:08:11.80,Main,Nanami,0000,0000,0000,,Me ne occupo io.
+Dialogue: 0,0:08:20.94,0:08:22.79,Main,Naobito,0000,0000,0000,,Voi due...
+Dialogue: 0,0:08:24.58,0:08:27.10,Main,Naobito,0000,0000,0000,,siete un po' troppo lenti.
+Dialogue: 0,0:08:36.10,0:08:37.39,Main,Maki,0000,0000,0000,,È riuscito a vederlo?
+Dialogue: 0,0:08:37.80,0:08:38.70,Main,Nanami,0000,0000,0000,,No.
+Dialogue: 0,0:08:39.27,0:08:41.70,Italics,Nanami,0000,0000,0000,,Immagino abbia usato la sua tecnica.
+Dialogue: 0,0:08:57.82,0:08:59.16,Main,Naobito,0000,0000,0000,,Bastardo...
+Dialogue: 0,0:09:00.10,0:09:02.85,Main,Naobito,0000,0000,0000,,Quante persone ti sei mangiato?
+Dialogue: 0,0:09:08.40,0:09:10.49,Main,Dagon,0000,0000,0000,,Jogo...
+Dialogue: 0,0:09:14.86,0:09:17.05,Main,Dagon,0000,0000,0000,,Mahito...
+Dialogue: 0,0:09:18.26,0:09:20.19,Main,Dagon,0000,0000,0000,,Hanami...
+Dialogue: 0,0:09:21.99,0:09:23.95,Main,Dagon,0000,0000,0000,,Hana...
+Dialogue: 0,0:09:25.67,0:09:26.96,Main,Dagon,0000,0000,0000,,...miiiiii!
+Dialogue: 0,0:09:28.88,0:09:30.67,Main,Dagon,0000,0000,0000,,Come avete osato...
+Dialogue: 0,0:09:30.67,0:09:33.66,Main,Dagon,0000,0000,0000,,Come avete osato uccidere Hanami?!
+Dialogue: 0,0:09:33.66,0:09:36.07,Main,Dagon,0000,0000,0000,,Come avete osato?!
+Dialogue: 0,0:09:37.22,0:09:40.00,Main,Naobito,0000,0000,0000,,Ora capisco perché eri così debole.
+Dialogue: 0,0:09:42.11,0:09:45.84,Main,Naobito,0000,0000,0000,,Eri ancora un utero maledetto, eh?
+Dialogue: 0,0:09:53.19,0:09:54.44,Main,Maki,0000,0000,0000,,Acqua?!
+Dialogue: 0,0:10:04.84,0:10:06.90,Main,Maki,0000,0000,0000,,Ma quanta cavolo ce n'è?!
+Dialogue: 0,0:10:12.02,0:10:13.75,Main,Naobito,0000,0000,0000,,Ehi, spirito maledetto.
+Dialogue: 0,0:10:14.50,0:10:20.17,Main,Naobito,0000,0000,0000,,Sai quanti frame ci sono\Nin un secondo di sequenza animata?
+Dialogue: 0,0:10:20.17,0:10:21.93,Main,Dagon,0000,0000,0000,,Non chiamarmi spirito maledetto.
+Dialogue: 0,0:10:21.93,0:10:23.01,Main,Dagon,0000,0000,0000,,Io sono Dagon.
+Dialogue: 0,0:10:23.01,0:10:27.60,Main,Naobito,0000,0000,0000,,Ultimamente, va molto di moda\N aumentare la risoluzione e il framerate.
+Dialogue: 0,0:10:27.60,0:10:31.59,Main,Dagon,0000,0000,0000,,E poi ci sono Hanami, Jogo e Mahito.
+Dialogue: 0,0:10:31.59,0:10:37.08,Main,Naobito,0000,0000,0000,,Upconversion a 4k, interpolazione a 60 fps...
+Dialogue: 0,0:10:37.08,0:10:38.61,Main,Dagon,0000,0000,0000,,Tutti quanti noi...
+Dialogue: 0,0:10:38.61,0:10:43.30,Main,Naobito,0000,0000,0000,,Se usati a scopi personali\N non creano problemi a nessuno, liberissimo di farlo.
+Dialogue: 0,0:10:43.30,0:10:49.24,Main,Naobito,0000,0000,0000,,Ma nei televisori moderni \Nl'interpolazione è attiva di default.
+Dialogue: 0,0:10:49.24,0:10:54.27,Main,Naobito,0000,0000,0000,,Non mi sembra che l'espressione \N"Ma chi te l'ha chiesto?!" sia ormai morta e sepolta!
+Dialogue: 0,0:10:54.27,0:10:56.89,Main,Naobito,0000,0000,0000,,Non c'è nulla di più fastidioso di questa cosa!
+Dialogue: 0,0:10:56.89,0:10:58.37,Main,Naobito,0000,0000,0000,,L'effetto soap opera!
+Dialogue: 0,0:10:58.37,0:11:01.01,Main,Dagon,0000,0000,0000,,Tutti quanti noi abbiamo dei nomi!
+Dialogue: 0,0:11:01.01,0:11:02.92,Main,Naobito,0000,0000,0000,,Non trovi che questo...
+Dialogue: 0,0:11:02.92,0:11:04.59,Main,Naobito,0000,0000,0000,,sia privo di gusto?!
+Dialogue: 0,0:11:19.84,0:11:20.96,Main,Naobito,0000,0000,0000,,Oops!
+Dialogue: 0,0:11:40.55,0:11:42.39,Italics,Nanami,0000,0000,0000,,Nessun danno.
+Dialogue: 0,0:11:42.39,0:11:46.44,Italics,Nanami,0000,0000,0000,,Anzi, sembra più possedere \Nuna quantità illimitata di punti vita.
+Dialogue: 0,0:11:58.88,0:12:02.27,Main,Naobito,0000,0000,0000,,Nemmeno due stregoni di primo livello\Nsono in grado di esorcizzarlo...
+Dialogue: 0,0:12:02.27,0:12:04.54,Main,Naobito,0000,0000,0000,,Una vera e propria situazione critica.
+Dialogue: 0,0:12:04.86,0:12:05.98,Italics,Maki,0000,0000,0000,,Merda!
+Dialogue: 0,0:12:05.98,0:12:08.50,Italics,Maki,0000,0000,0000,,Se il vecchiaccio non avesse usato la sua tecnica,
+Dialogue: 0,0:12:08.50,0:12:10.79,Italics,Maki,0000,0000,0000,,sarei morta in quell'istante.
+Dialogue: 0,0:12:11.78,0:12:13.12,Italics,Maki,0000,0000,0000,,Che umiliazione...
+Dialogue: 0,0:12:13.12,0:12:15.62,Main,Naobito,0000,0000,0000,,Una barriera difensiva d'acqua?
+Dialogue: 0,0:12:15.62,0:12:18.63,Main,Naobito,0000,0000,0000,,Riesci a usare \Npiù mosse potenti allo stesso tempo?
+Dialogue: 0,0:12:18.63,0:12:20.11,Main,Naobito,0000,0000,0000,,Hai troppa energia malefica.
+Dialogue: 0,0:12:20.11,0:12:22.89,Main,Naobito,0000,0000,0000,,E scommetto che possiedi ancora \Nun sacco di altre tecniche.
+Dialogue: 0,0:12:22.89,0:12:24.89,Main,Naobito,0000,0000,0000,,Che fare, allora?
+Dialogue: 0,0:12:25.96,0:12:27.71,Main,Naobito,0000,0000,0000,,Semplice.
+Dialogue: 0,0:12:27.71,0:12:30.22,Main,Naobito,0000,0000,0000,,Farti fuori prima che tu...
+Dialogue: 0,0:12:31.98,0:12:33.73,Main,Naobito,0000,0000,0000,,possa usarle!
+Dialogue: 0,0:12:37.49,0:12:38.82,Italics,Dagon,0000,0000,0000,,Assurdo...
+Dialogue: 0,0:12:47.02,0:12:49.96,Main,Naobito,0000,0000,0000,,Puoi anche fluttuare a mezz'aria, eh?
+Dialogue: 0,0:12:49.96,0:12:52.55,Main,Naobito,0000,0000,0000,,Allora anch'io scapperò verso l'alto!
+Dialogue: 0,0:12:56.54,0:12:58.79,Italics,Dagon,0000,0000,0000,,Non riesco ad attivare la mia tecnica.
+Dialogue: 0,0:13:06.35,0:13:08.17,Italics,Dagon,0000,0000,0000,,È a causa sua...
+Dialogue: 0,0:13:08.79,0:13:11.19,Italics,Dagon,0000,0000,0000,,È per via di quest'uomo!
+Dialogue: 0,0:13:20.45,0:13:21.96,Italics,Dagon,0000,0000,0000,,È veloce!
+Dialogue: 0,0:13:21.96,0:13:24.40,Italics,Dagon,0000,0000,0000,,Probabilmente anche più di Jogo!
+Dialogue: 0,0:13:31.41,0:13:33.08,Narration,Narratore,0000,0000,0000,,Incantesimo di Proiezione,
+Dialogue: 0,0:13:33.08,0:13:35.85,Narration,Narratore,0000,0000,0000,,la tecnica di Naobito Zen'in.
+Dialogue: 0,0:13:35.85,0:13:40.54,Narration,Narratore,0000,0000,0000,,Divide 1 secondo in 24 parti e usa il campo visivo \Ndell'utilizzatore come angolazione
+Dialogue: 0,0:13:40.54,0:13:45.24,Narration,Narratore,0000,0000,0000,,per tracciare un'azione di movimento \Nda compiere all'interno di quel frangente.
+Dialogue: 0,0:13:45.24,0:13:47.03,Narration,Narratore,0000,0000,0000,,Mentre la tecnica è attiva,
+Dialogue: 0,0:13:47.03,0:13:49.54,Narration,Narratore,0000,0000,0000,,anche chiunque venga toccato da Naobito
+Dialogue: 0,0:13:49.54,0:13:53.84,Narration,Narratore,0000,0000,0000,,è costretto a muoversi \Ncon una sequenza di 24 frame al secondo.
+Dialogue: 0,0:13:53.84,0:13:56.50,Narration,Narratore,0000,0000,0000,,Qualora non riesca a farlo, \Nperderà fluidità nelle azioni
+Dialogue: 0,0:13:56.50,0:13:59.16,Narration,Narratore,0000,0000,0000,,e resterà congelato per un secondo.
+Dialogue: 0,0:14:01.96,0:14:03.68,Narration,Narratore,0000,0000,0000,,Ci sono dei rischi.
+Dialogue: 0,0:14:04.41,0:14:08.13,Narration,Narratore,0000,0000,0000,,L'azione pianificata \Nnon può essere modificata in corso d'opera.
+Dialogue: 0,0:14:08.13,0:14:12.11,Narration,Narratore,0000,0000,0000,,Inoltre, azioni che ignorano eccessivamente\N la fisica o la traiettoria di spostamento
+Dialogue: 0,0:14:12.11,0:14:15.24,Narration,Narratore,0000,0000,0000,,causano il congelamento anche dell'utilizzatore.
+Dialogue: 0,0:14:25.71,0:14:30.82,Narration,Narratore,0000,0000,0000,,Ciononostante, grazie al suo innato istinto \Nper il frame-by-frame e la sua percezione del tempo,
+Dialogue: 0,0:14:30.82,0:14:36.70,Narration,Narratore,0000,0000,0000,,è arrivato a essere considerato \Nlo stregone più veloce, se si esclude Satoru Gojo.
+Dialogue: 0,0:14:41.04,0:14:42.63,Main,Naobito,0000,0000,0000,,Non te lo permetterò.
+Dialogue: 0,0:15:05.33,0:15:07.95,Show_Title,Sign,0000,0000,0000,,{\fad(1350,0)\1c&H75EFED&\3c&H75EFED&\blur20\1a&HE0&\3a&HC0&\pos(320,18)}JUJUTSU KAISEN
+Dialogue: 0,0:15:05.33,0:15:07.95,Show_Title,Sign,0000,0000,0000,,{\fad(1350,0)\1a&HFF&\3c&HC5E3EC&\pos(320,18)}JUJUTSU KAISEN
+Dialogue: 0,0:15:11.22,0:15:12.97,Show_Title,Sign,0000,0000,0000,,{\fad(675,0)\3c&H1EDDF0&\pos(320,18)\c&H292619&}JUJUTSU KAISEN
+Dialogue: 0,0:15:19.27,0:15:21.35,Main,Dagon,0000,0000,0000,,Espansione del dominio.
+Dialogue: 0,0:15:26.36,0:15:28.61,Main,Dagon,0000,0000,0000,,Orizzonte dell'Ammaliante Skandha.
+Dialogue: 0,0:15:32.52,0:15:33.66,Italics,Maki,0000,0000,0000,,Uno shikigami!
+Dialogue: 0,0:15:33.66,0:15:35.56,Italics,Maki,0000,0000,0000,,È questo il colpo garantito dal dominio?
+Dialogue: 0,0:15:35.56,0:15:37.12,Italics,Maki,0000,0000,0000,,Non l'ho notato finché non mi ha azzannato.
+Dialogue: 0,0:15:37.60,0:15:40.81,Italics,Maki,0000,0000,0000,,Anzi, prima di mordermi non esisteva nemmeno!
+Dialogue: 0,0:15:42.53,0:15:44.78,Main,Naobito,0000,0000,0000,,Arte segreta: Emozione dei Petali Caduti.
+Dialogue: 0,0:15:45.25,0:15:48.65,Narration,Narratore,0000,0000,0000,,Un rimedio anti-dominio tramandato\N all'interno delle tre famiglie.
+Dialogue: 0,0:15:48.65,0:15:52.80,Narration,Narratore,0000,0000,0000,,Come nel Quasi-Dominio, \Nnon comporta l'espansione del proprio dominio,
+Dialogue: 0,0:15:52.80,0:15:56.13,Narration,Narratore,0000,0000,0000,,ma rilascia energia malefica \Nper contrastare e proteggersi dall'attacco,
+Dialogue: 0,0:15:56.13,0:15:59.76,Narration,Narratore,0000,0000,0000,,nell'istante in cui si viene toccati \Ndal colpo garantito dal dominio avversario.
+Dialogue: 0,0:16:00.35,0:16:02.82,Italics,Dagon,0000,0000,0000,,Come pensavo quell'uomo è diverso.
+Dialogue: 0,0:16:02.82,0:16:04.68,Italics,Dagon,0000,0000,0000,,Ho terminato l'analisi.
+Dialogue: 0,0:16:04.68,0:16:09.56,Italics,Dagon,0000,0000,0000,,Direzionerò la mia forza per il 70% sull'uomo baffuto\N e per il 30% sull'uomo col completo.
+Dialogue: 0,0:16:09.56,0:16:11.37,Main,Dagon,0000,0000,0000,,Attivazione della tecnica.
+Dialogue: 0,0:16:11.37,0:16:13.86,Main,Dagon,0000,0000,0000,,Banco Mietitore!
+Dialogue: 0,0:16:18.57,0:16:19.68,Main,Nanami,0000,0000,0000,,Maki!
+Dialogue: 0,0:16:19.68,0:16:23.33,Main,Nanami,0000,0000,0000,,Gli shikigami non ci colpiranno direttamente!
+Dialogue: 0,0:16:23.33,0:16:27.33,Main,Nanami,0000,0000,0000,,Ci strapperanno la carne dopo un istante!
+Dialogue: 0,0:16:27.33,0:16:28.81,Main,Nanami,0000,0000,0000,,Non ci devi pensare!
+Dialogue: 0,0:16:28.81,0:16:32.59,Main,Nanami,0000,0000,0000,,Falli a pezzi uno dopo l'altro \Nnon appena te li senti addosso!
+Dialogue: 0,0:16:32.59,0:16:35.55,Main,Nanami,0000,0000,0000,,Con la tua scarsa energia malefica,\N questo è il massimo che puoi fa—
+Dialogue: 0,0:16:38.97,0:16:40.16,Main,Maki,0000,0000,0000,,Signor Nanami!
+Dialogue: 0,0:16:48.90,0:16:52.20,Italics,Naobito,0000,0000,0000,,Il vigore degli shikigami \Nnon accenna a diminuire.
+Dialogue: 0,0:16:52.20,0:16:55.57,Italics,Naobito,0000,0000,0000,,Possibile che la tecnica \Nconcessa a questo dominio...
+Dialogue: 0,0:17:05.12,0:17:05.67,Main,Naobito,0000,0000,0000,,Emoz—
+Dialogue: 0,0:17:05.67,0:17:06.92,Main,Dagon,0000,0000,0000,,Il mare...
+Dialogue: 0,0:17:07.51,0:17:10.92,Main,Dagon,0000,0000,0000,,è l'origine di ogni forma di vita.
+Dialogue: 0,0:17:14.51,0:17:15.72,Main,Dagon,0000,0000,0000,,Sei debole.
+Dialogue: 0,0:17:15.72,0:17:17.72,Main,Dagon,0000,0000,0000,,Tu sarai la prima!
+Dialogue: 0,0:17:20.88,0:17:26.15,Main,Dagon,0000,0000,0000,,Banco Mietitore \Nè una fonte infinita di shikigami.
+Dialogue: 0,0:17:34.53,0:17:36.86,Main,Maki,0000,0000,0000,,Se vuoi darmi della debole...
+Dialogue: 0,0:17:37.42,0:17:39.33,Main,Maki,0000,0000,0000,,vedi di uccidermi con un colpo solo...
+Dialogue: 0,0:17:40.72,0:17:42.04,Main,Maki,0000,0000,0000,,polipetto.
+Dialogue: 0,0:17:43.31,0:17:46.37,Main,Dagon,0000,0000,0000,,Vorrà dire che ti tratterò come gli altri due...
+Dialogue: 0,0:17:46.95,0:17:47.94,Main,Maki,0000,0000,0000,,Merda!
+Dialogue: 0,0:17:49.00,0:17:51.63,Main,Dagon,0000,0000,0000,,Ti divorerò.
+Dialogue: 0,0:17:57.34,0:17:58.50,Main,Fushiguro,0000,0000,0000,,Maki!
+Dialogue: 0,0:17:59.13,0:18:00.31,Main,Maki,0000,0000,0000,,Megumi!
+Dialogue: 0,0:18:05.44,0:18:08.44,Italics,Maki,0000,0000,0000,,Certo che sei proprio
+Dialogue: 0,0:18:10.66,0:18:13.19,Italics,Maki,0000,0000,0000,,un fottuto kohai insolente!
+Dialogue: 0,0:18:13.97,0:18:15.10,Main,Fushiguro,0000,0000,0000,,È lui!
+Dialogue: 0,0:18:15.83,0:18:17.28,Italics,Fushiguro,0000,0000,0000,,Quel polpo...
+Dialogue: 0,0:18:17.28,0:18:19.12,Italics,Fushiguro,0000,0000,0000,,è il padrone di questo dominio!
+Dialogue: 0,0:18:19.74,0:18:23.87,Italics,Dagon,0000,0000,0000,,È entrato di propria iniziativa nel mio dominio...
+Dialogue: 0,0:18:25.72,0:18:27.12,Main,Dagon,0000,0000,0000,,Sei uno sciocco!
+Dialogue: 0,0:18:28.96,0:18:30.29,Main,Dagon,0000,0000,0000,,Cosa?!
+Dialogue: 0,0:18:45.51,0:18:49.88,Italics,Dagon,0000,0000,0000,,Il colpo garantito che\N il dominio mi concede è scomparso!
+Dialogue: 0,0:18:50.58,0:18:54.48,Italics,Dagon,0000,0000,0000,,Quel ragazzo sta espandendo il suo dominio.
+Dialogue: 0,0:18:54.48,0:18:58.83,Italics,Dagon,0000,0000,0000,,In questo momento stiamo giocando \Na una sorta di tiro alla fune.
+Dialogue: 0,0:18:58.83,0:19:01.43,Italics,Dagon,0000,0000,0000,,Per riguadagnare il mio colpo garantito,
+Dialogue: 0,0:19:01.43,0:19:05.08,Italics,Dagon,0000,0000,0000,,devo prima fare a pezzi il suo dominio.
+Dialogue: 0,0:19:05.43,0:19:07.67,Main,Dagon,0000,0000,0000,,Una passeggiata!
+Dialogue: 0,0:19:28.80,0:19:29.84,Main,Nanami,0000,0000,0000,,Dove sono gli altri due?
+Dialogue: 0,0:19:30.20,0:19:33.48,Main,Fushiguro,0000,0000,0000,,Ino è fuori dai giochi, \Nmentre Itadori sta agendo per conto suo.
+Dialogue: 0,0:19:33.76,0:19:36.12,Main,Nanami,0000,0000,0000,,Ti proteggerò io.
+Dialogue: 0,0:19:36.12,0:19:38.61,Main,Nanami,0000,0000,0000,,Tu concentrati sul tuo dominio.
+Dialogue: 0,0:19:41.61,0:19:43.02,Italics,Dagon,0000,0000,0000,,Quell'uomo...
+Dialogue: 0,0:19:43.02,0:19:47.10,Italics,Dagon,0000,0000,0000,,ha resistito per quasi un minuto\N a Banco Mietitore?!
+Dialogue: 0,0:19:48.12,0:19:50.10,Italics,Dagon,0000,0000,0000,,E anche l'uomo baffuto!
+Dialogue: 0,0:20:03.60,0:20:06.82,Main,Naobito,0000,0000,0000,,Ti sei preso un solo misero braccio destro.
+Dialogue: 0,0:20:07.74,0:20:11.07,Main,Naobito,0000,0000,0000,,Ce l'ho avuto per 71 anni.
+Dialogue: 0,0:20:11.07,0:20:13.11,Main,Naobito,0000,0000,0000,,Ti costerà caro!
+Dialogue: 0,0:20:20.96,0:20:24.00,Italics,Nanami,0000,0000,0000,,Se continua così, potremmo avere \Nqualche possibilità di vincere.
+Dialogue: 0,0:20:24.85,0:20:26.42,Italics,Nanami,0000,0000,0000,,Se continua così.
+Dialogue: 0,0:20:31.90,0:20:33.33,Main,Fushiguro,0000,0000,0000,,Signor Nanami...
+Dialogue: 0,0:20:35.00,0:20:40.39,Main,Fushiguro,0000,0000,0000,,Quel polpo è convinto che al momento \Nio e lui siamo nel mezzo di uno scontro tra domini.
+Dialogue: 0,0:20:40.39,0:20:42.55,Main,Fushiguro,0000,0000,0000,,Ma il mio obiettivo è un altro.
+Dialogue: 0,0:20:43.98,0:20:47.08,Main,Fushiguro,0000,0000,0000,,Voglio aprire un buco, per quanto piccolo,
+Dialogue: 0,0:20:47.08,0:20:49.24,Main,Fushiguro,0000,0000,0000,,nella barriera del suo dominio!
+Dialogue: 0,0:20:50.11,0:20:52.96,Main,Fushiguro,0000,0000,0000,,Quello da cui sono entrato si è già richiuso.
+Dialogue: 0,0:20:52.96,0:20:54.96,Main,Fushiguro,0000,0000,0000,,Dall'interno è più difficile che dall'esterno,
+Dialogue: 0,0:20:54.96,0:20:59.61,Main,Fushiguro,0000,0000,0000,,ma dovrei riuscire ad aprire per qualche secondo \Nun buco abbastanza grande per una persona.
+Dialogue: 0,0:20:59.97,0:21:01.80,Main,Fushiguro,0000,0000,0000,,Quello non è il professor Gojo.
+Dialogue: 0,0:21:01.80,0:21:05.55,Main,Fushiguro,0000,0000,0000,,Dubito possa usare l'espansione del dominio \Npiù volte in un solo giorno.
+Dialogue: 0,0:21:05.55,0:21:08.62,Main,Fushiguro,0000,0000,0000,,Se riusciamo a uscire tutti da qui, \Npossiamo vincere.
+Dialogue: 0,0:21:08.62,0:21:10.68,Main,Fushiguro,0000,0000,0000,,Il bordo della barriera è sotto ai miei piedi.
+Dialogue: 0,0:21:10.68,0:21:13.06,Main,Fushiguro,0000,0000,0000,,Lo so perché l'ho toccato quando sono entrato.
+Dialogue: 0,0:21:13.06,0:21:14.44,Main,Fushiguro,0000,0000,0000,,Quando volete sono pronto.
+Dialogue: 0,0:21:14.44,0:21:16.56,Main,Fushiguro,0000,0000,0000,,Basta che saltiate tutti e tre in contemporanea.
+Dialogue: 0,0:21:17.91,0:21:21.02,Main,Nanami,0000,0000,0000,,Non starai pensando di restare qui da solo, vero?
+Dialogue: 0,0:21:21.46,0:21:23.33,Main,Fushiguro,0000,0000,0000,,Anche se metterò in gioco la mia vita...
+Dialogue: 0,0:21:24.29,0:21:26.30,Main,Fushiguro,0000,0000,0000,,non intendo gettarla via!
+Dialogue: 0,0:21:27.91,0:21:30.36,Main,Nanami,0000,0000,0000,,Ehi, voi due!
+Dialogue: 0,0:21:30.36,0:21:32.97,Main,Nanami,0000,0000,0000,,Adunata!
+Dialogue: 0,0:21:38.98,0:21:42.28,Italics,Dagon,0000,0000,0000,,Si stringono attorno al ragazzo per proteggerlo?
+Dialogue: 0,0:21:42.28,0:21:44.32,Italics,Dagon,0000,0000,0000,,Raggruppati a quel modo mi rendono le cose—
+Dialogue: 0,0:21:46.22,0:21:47.32,Italics,Dagon,0000,0000,0000,,No!
+Dialogue: 0,0:21:47.32,0:21:48.12,Italics,Nanami,0000,0000,0000,,Se n'è accorto?!
+Dialogue: 0,0:21:48.12,0:21:49.37,Italics,Nanami,0000,0000,0000,,Ma ormai è tardi!
+Dialogue: 0,0:21:49.68,0:21:51.95,Main,Nanami,0000,0000,0000,,Ai piedi di Fushiguro!
+Dialogue: 0,0:23:40.26,0:23:43.73,Main,Mei Mei,0000,0000,0000,,Non pensi che i rapporti tra fratelli\N rispecchino in qualche modo il proprio carattere?
+Dialogue: 0,0:23:43.73,0:23:47.36,Main,Ui Ui,0000,0000,0000,,Sorella mia, così potresti incoraggiare\N il pregiudizio che i figli unici siano egoisti!
+Dialogue: 0,0:23:47.36,0:23:48.42,Main,Yuji,0000,0000,0000,,In effetti non va bene!
+Dialogue: 0,0:23:48.42,0:23:50.11,Main,Ui Ui,0000,0000,0000,,Stai contraddicendo mia sorella?
+Dialogue: 0,0:23:50.11,0:23:51.70,Main,Mei Mei,0000,0000,0000,,Prossimo episodio: "Ondeggiamento 2".
+Dialogue: 0,0:23:50.11,0:24:29.95,Next_Ep_Title,Sign,0000,0000,0000,,{\c&HFFFFFF&\bord2\blur4}Prossimamente\N{\fs30\fscy150}Ondeggiamento 2
+Dialogue: 0,0:23:51.70,0:23:53.09,Main,Ui Ui,0000,0000,0000,,Che mi dite di Satoru Gojo?
+Dialogue: 0,0:23:53.09,0:23:54.74,Main,Mei Mei; Yuji,0000,0000,0000,,È figlio unico, ovviamente!
+

@@ -1,0 +1,54 @@
+- id: '1743205575294'
+  alias: Electric Blanket Schedule (Winter Only) – Group
+  description: Control all bedroom electric blankets via a switch group.
+  triggers:
+    - trigger: time
+      id: turn_on_night
+      at: '21:30:00'
+    - trigger: time
+      id: turn_off_night
+      at: '22:30:00'
+    - trigger: time
+      id: turn_on_morning
+      at: '06:30:00'
+    - trigger: time
+      id: turn_off_morning
+      at: '07:00:00'
+  conditions:
+    - condition: template
+      value_template: '{{ now().month in [11, 12, 1, 2, 3] }}'
+    - condition: template
+      value_template: >
+        {% set members = state_attr('switch.electric_blankets','entity_id') or [] %}
+        {{ (expand(members) | selectattr('state','in',['on','off']) | list | length) == (members | length) }}
+  actions:
+    - choose:
+        - conditions:
+            - condition: trigger
+              id: turn_on_night
+          sequence:
+            - action: switch.turn_on
+              target:
+                entity_id: switch.electric_blankets
+        - conditions:
+            - condition: trigger
+              id: turn_off_night
+          sequence:
+            - action: switch.turn_off
+              target:
+                entity_id: switch.electric_blankets
+        - conditions:
+            - condition: trigger
+              id: turn_on_morning
+          sequence:
+            - action: switch.turn_on
+              target:
+                entity_id: switch.electric_blankets
+        - conditions:
+            - condition: trigger
+              id: turn_off_morning
+          sequence:
+            - action: switch.turn_off
+              target:
+                entity_id: switch.electric_blankets
+  mode: single

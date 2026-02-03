@@ -1,0 +1,516 @@
+﻿[Script Info]
+Title: [Erai-raws] Bahasa Melayu
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+WrapStyle: 1
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Unicode MS,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:15.98,0:00:19.48,Default,,0000,0000,0000,,♪ Kuasa pada Rakyat! ♪
+Dialogue: 0,0:00:19.48,0:00:23.73,Default,,0000,0000,0000,,♪ Dengan kuasa luar biasa ♪
+Dialogue: 0,0:00:23.73,0:00:24.73,Default,,0000,0000,0000,,♪ Selesaikan ♪
+Dialogue: 0,0:00:29.49,0:00:33.28,Default,,0000,0000,0000,,♪ Kini giliranku! ♪
+Dialogue: 0,0:00:33.28,0:00:35.41,Default,,0000,0000,0000,,♪ Perkembangan bermula lagi ♪
+Dialogue: 0,0:00:35.41,0:00:37.58,Default,,0000,0000,0000,,♪ Persatuan yang datang\Nberamai-ramai macam kawanan! ♪
+Dialogue: 0,0:00:37.58,0:00:38.70,Default,,0000,0000,0000,,♪ Penuh bahaya ♪
+Dialogue: 0,0:00:38.70,0:00:40.25,Default,,0000,0000,0000,,♪ Tiba di hadnya ♪
+Dialogue: 0,0:00:40.25,0:00:42.21,Default,,0000,0000,0000,,♪ Tiada apa boleh aku lakukan ♪
+Dialogue: 0,0:00:42.21,0:00:44.67,Default,,0000,0000,0000,,♪ Tapi, Oh oh oh oh oh ♪
+Dialogue: 0,0:00:44.67,0:00:46.92,Default,,0000,0000,0000,,♪ Kalah menang bukan soal nombor ♪
+Dialogue: 0,0:00:46.92,0:00:49.21,Default,,0000,0000,0000,,♪ Hi hi hi hi hi ♪
+Dialogue: 0,0:00:49.21,0:00:51.55,Default,,0000,0000,0000,,♪ Tiba masa, mari kita naik semangat! ♪
+Dialogue: 0,0:00:51.55,0:00:59.81,Default,,0000,0000,0000,,♪ Tempuhi semua cabaran dari langit ♪
+Dialogue: 0,0:00:59.81,0:01:03.89,Default,,0000,0000,0000,,♪ Angkatlah penumbuk membara! ♪
+Dialogue: 0,0:01:04.19,0:01:06.69,Default,,0000,0000,0000,,♪ Berdiri dan hadapinya\NItulah Hero! ♪
+Dialogue: 0,0:01:06.98,0:01:08.44,Default,,0000,0000,0000,,♪ Tak kira masa ♪
+Dialogue: 0,0:01:08.44,0:01:13.24,Default,,0000,0000,0000,,♪ Belasah Raksasa jahat yang menyerang! ♪
+Dialogue: 0,0:01:13.24,0:01:18.03,Default,,0000,0000,0000,,♪ Mari, lagi! Lagi banyak cabaran! ♪
+Dialogue: 0,0:01:18.03,0:01:22.45,Default,,0000,0000,0000,,♪ Tak cukup\NTak puas, Ya! ♪
+Dialogue: 0,0:01:22.83,0:01:26.88,Default,,0000,0000,0000,,♪ Jadi lebih kuat daripada\Nsiapapun, dari siapapun, Hei! ♪
+Dialogue: 0,0:01:27.29,0:01:31.34,Default,,0000,0000,0000,,♪ Menari, menari, menari, menari\Ndi bawah langit kemusnahan (Hei!) ♪
+Dialogue: 0,0:01:31.71,0:01:36.01,Default,,0000,0000,0000,,♪ Sentiasa, sentiasa, bereskan\Ndengan sekali pukulan! ♪
+Dialogue: 0,0:01:36.89,0:01:40.39,Default,,0000,0000,0000,,♪ One Punch! ♪
+Dialogue: 0,0:01:41.02,0:01:41.81,Default,,0000,0000,0000,,(Mesyuarat Strategi)
+Dialogue: 0,0:01:41.81,0:01:44.68,Default,,0000,0000,0000,,Apabila kemusnahan bandar\Ndijangka tak boleh dielakkan,
+Dialogue: 0,0:01:44.68,0:01:48.26,Default,,0000,0000,0000,,gergasi itu dihancurkan\Noleh serangan yang kuat.
+Dialogue: 0,0:01:48.26,0:01:52.89,Default,,0000,0000,0000,,Penghulu Lipan hilang tanpa\Nmeninggalkan sebarang jejak.
+Dialogue: 0,0:01:52.89,0:01:54.97,Default,,0000,0000,0000,,Sukar untuk dipercayai,
+Dialogue: 0,0:01:54.97,0:01:57.33,Default,,0000,0000,0000,,tapi cuma King saja yang boleh lakukannya.
+Dialogue: 0,0:01:57.33,0:02:00.39,Default,,0000,0000,0000,,Mujurlah King berpihak di sisi kita.
+Dialogue: 0,0:02:00.39,0:02:02.78,Default,,0000,0000,0000,,Tetapi berkenaan Pemburu Hero,
+Dialogue: 0,0:02:02.78,0:02:05.54,Default,,0000,0000,0000,,nampaknya Silver Fang telah gagal.
+Dialogue: 0,0:02:05.54,0:02:07.97,Default,,0000,0000,0000,,Encik Sitch, apa yang kau akan lakukan?
+Dialogue: 0,0:02:07.97,0:02:09.84,Default,,0000,0000,0000,,Jika mereka terus memburu Hero begini,
+Dialogue: 0,0:02:09.84,0:02:12.55,Default,,0000,0000,0000,,Persatuan Hero bakal berhenti berfungsi.
+Dialogue: 0,0:02:13.38,0:02:15.62,Default,,0000,0000,0000,,Garou bukan lagi seorang manusia,
+Dialogue: 0,0:02:15.62,0:02:18.47,Default,,0000,0000,0000,,dan saya ingin dia\Ndigolongkan sebagai Raksasa.
+Dialogue: 0,0:02:18.47,0:02:20.50,Default,,0000,0000,0000,,Seandainya dia muncul semula,
+Dialogue: 0,0:02:20.50,0:02:22.43,Default,,0000,0000,0000,,kita patut keluarkan amaran kecemasan
+Dialogue: 0,0:02:22.43,0:02:25.01,Default,,0000,0000,0000,,dan lakukan kerahan\Npada tahap bencana Naga.
+Dialogue: 0,0:02:25.02,0:02:27.51,Default,,0000,0000,0000,,Tapi dia sebenarnya manusia, bukan?
+Dialogue: 0,0:02:27.99,0:02:32.12,Default,,0000,0000,0000,,Adakah sesiapa yang boleh melawan\NHero Kelas S kita dengan tangan kosong?
+Dialogue: 0,0:02:32.12,0:02:33.87,Default,,0000,0000,0000,,Fikirkannya secara logik.
+Dialogue: 0,0:02:33.87,0:02:35.88,Default,,0000,0000,0000,,Strategi ini sia-sialah.
+Dialogue: 0,0:02:35.89,0:02:37.39,Default,,0000,0000,0000,,Waktu begini pun,
+Dialogue: 0,0:02:37.39,0:02:40.14,Default,,0000,0000,0000,,mereka masih fikir\Ntentang cara buat duitkah?
+Dialogue: 0,0:02:40.80,0:02:45.06,Default,,0000,0000,0000,,Kegagalan Silver Fang membunuh\NGarou sesuatu yang tak dijangka.
+Dialogue: 0,0:02:45.07,0:02:48.12,Default,,0000,0000,0000,,Tapi dia berjaya\Nmencederakannya dengan teruk.
+Dialogue: 0,0:02:48.12,0:02:50.94,Default,,0000,0000,0000,,Dengan ini, Garou takkan menghalang kita
+Dialogue: 0,0:02:50.94,0:02:52.93,Default,,0000,0000,0000,,sebagai jentera berlawan Persatuan Raksasa.
+Dialogue: 0,0:02:52.93,0:02:55.50,Default,,0000,0000,0000,,Sekiranya kita boleh melihat\Nitu sebagai kesan positif...
+Dialogue: 0,0:02:55.51,0:02:57.78,Default,,0000,0000,0000,,Blast! Panggil Blast!
+Dialogue: 0,0:02:57.79,0:03:00.78,Default,,0000,0000,0000,,Dia Hero berpangkat tinggi tapi\Ndia tak buat apa-apapun, kan?
+Dialogue: 0,0:03:00.78,0:03:04.02,Default,,0000,0000,0000,,Mustahil untuk mengerahkan\NBlast melalui arahan.
+Dialogue: 0,0:03:04.03,0:03:08.64,Default,,0000,0000,0000,,Dia bertindak sebagai Hero\Natas kehendaknya sendiri.
+Dialogue: 0,0:03:08.64,0:03:10.65,Default,,0000,0000,0000,,Dia menolak sebarang bentuk sekatan,
+Dialogue: 0,0:03:10.66,0:03:12.44,Default,,0000,0000,0000,,dan benci menonjolkan diri,
+Dialogue: 0,0:03:12.44,0:03:15.55,Default,,0000,0000,0000,,jadi maklumat peribadinya pun\Ndisimpan rahsia dalam pendaftaran.
+Dialogue: 0,0:03:15.55,0:03:18.56,Default,,0000,0000,0000,,Semestinya, kami tetap menganggap dia
+Dialogue: 0,0:03:18.56,0:03:20.74,Default,,0000,0000,0000,,layak mendapat layanan istimewa itu.
+Dialogue: 0,0:03:20.74,0:03:24.37,Default,,0000,0000,0000,,Tetapi, apabila umat manusia\Nbenar-benar perlukan pertolongan,
+Dialogue: 0,0:03:24.37,0:03:26.23,Default,,0000,0000,0000,,saya pasti dia akan bertindak.
+Dialogue: 0,0:03:26.23,0:03:28.21,Default,,0000,0000,0000,,Apa kau merepek?!
+Dialogue: 0,0:03:28.21,0:03:29.80,Default,,0000,0000,0000,,Inilah waktunya, kan?
+Dialogue: 0,0:03:29.80,0:03:32.60,Default,,0000,0000,0000,,Anak aku telah diculik oleh raksasa, tau!
+Dialogue: 0,0:03:33.01,0:03:35.41,Default,,0000,0000,0000,,Sudah hampir 24 jam,
+Dialogue: 0,0:03:35.41,0:03:37.94,Default,,0000,0000,0000,,tapi kenapa masih tiada campur tangan?!
+Dialogue: 0,0:03:37.94,0:03:40.68,Default,,0000,0000,0000,,Anak Tuan pasti... akan diselamatkan.
+Dialogue: 0,0:03:41.18,0:03:42.51,Default,,0000,0000,0000,,Kau siapa?
+Dialogue: 0,0:03:42.51,0:03:45.62,Default,,0000,0000,0000,,Saya bakal mengetuai misi menyelamat ini.
+Dialogue: 0,0:03:45.62,0:03:47.51,Default,,0000,0000,0000,,Nama saya ialah Sekingal.
+Dialogue: 0,0:03:47.94,0:03:49.84,Default,,0000,0000,0000,,Harap ambil maklum tentang ini.
+Dialogue: 0,0:03:50.44,0:03:51.44,Default,,0000,0000,0000,,Apa?
+Dialogue: 0,0:03:51.89,0:03:54.15,Default,,0000,0000,0000,,Tak ada rancangan apa-apa lagi, kan?
+Dialogue: 0,0:03:54.15,0:03:55.93,Default,,0000,0000,0000,,Aku terbang ke sana sekelip mata
+Dialogue: 0,0:03:55.93,0:03:58.59,Default,,0000,0000,0000,,tiga dua langkah dah beres semua.
+Dialogue: 0,0:03:58.59,0:04:00.67,Default,,0000,0000,0000,,Mereka belum kenal\Npasti lubuk persembunyian?
+Dialogue: 0,0:04:00.67,0:04:03.92,Default,,0000,0000,0000,,Buat masa sekarang, Maharaja Budak\Nsedang berusaha secepat mungkin.
+Dialogue: 0,0:04:04.49,0:04:06.87,Default,,0000,0000,0000,,Saya dah hantar robot peneroka
+Dialogue: 0,0:04:06.87,0:04:09.75,Default,,0000,0000,0000,,untuk gali ikut laluan bawah tanah\Nyang Penghulu Lipan tembusi, tapi…
+Dialogue: 0,0:04:09.75,0:04:11.07,Default,,0000,0000,0000,,Kawasannya luas betul...
+Dialogue: 0,0:04:11.57,0:04:13.04,Default,,0000,0000,0000,,Tinggal tiga hari lagikah?
+Dialogue: 0,0:04:13.04,0:04:14.36,Default,,0000,0000,0000,,Dua hari lagi.
+Dialogue: 0,0:04:14.36,0:04:16.74,Default,,0000,0000,0000,,Hisy... tak boleh tidurlah.
+Dialogue: 0,0:04:16.74,0:04:20.67,Default,,0000,0000,0000,,Persembunyian itu ada sekitar\Nbandar hantu Bandar Z, kan?
+Dialogue: 0,0:04:20.67,0:04:23.00,Default,,0000,0000,0000,,(Ranapkan)\NApa kata aku ranapkan terus saja?
+Dialogue: 0,0:04:23.01,0:04:24.29,Default,,0000,0000,0000,,Musuh pegang tawanan,
+Dialogue: 0,0:04:24.29,0:04:26.31,Default,,0000,0000,0000,,jadi bertindaklah dengan berhati-hati.
+Dialogue: 0,0:04:26.31,0:04:28.88,Default,,0000,0000,0000,,Mereka pilih cara yang susah nak ditangani.
+Dialogue: 0,0:04:28.88,0:04:30.10,Default,,0000,0000,0000,,Kalau tak boleh buat begitu,
+Dialogue: 0,0:04:30.10,0:04:32.04,Default,,0000,0000,0000,,mustahil nak lawan secara seimbang.
+Dialogue: 0,0:04:32.04,0:04:34.70,Default,,0000,0000,0000,,Raksasa pun begitu takut dengan aku, kan?
+Dialogue: 0,0:04:34.70,0:04:36.64,Default,,0000,0000,0000,,Mereka musuh yang cukup hebat.
+Dialogue: 0,0:04:36.64,0:04:38.33,Default,,0000,0000,0000,,Yalah, yalah.
+Dialogue: 0,0:04:38.33,0:04:42.30,Default,,0000,0000,0000,,Kau jumpa kami cuma\Nnak ingatkan benda ini saja?
+Dialogue: 0,0:04:44.58,0:04:45.77,Default,,0000,0000,0000,,Sebenarnya, semalam
+Dialogue: 0,0:04:45.78,0:04:48.66,Default,,0000,0000,0000,,Kesatria Pacu terus pergi dan menyiasat.
+Dialogue: 0,0:04:48.67,0:04:50.58,Default,,0000,0000,0000,,Dia mengabaikan amaran kami
+Dialogue: 0,0:04:50.58,0:04:53.38,Default,,0000,0000,0000,,dan ke bandar hantu awal-awal.
+Dialogue: 0,0:04:54.02,0:04:55.54,Default,,0000,0000,0000,,Kenapa dia pergi sendiri?
+Dialogue: 0,0:04:55.54,0:04:58.79,Default,,0000,0000,0000,,Dia juga tak pernah tewas dalam perlawanan.
+Dialogue: 0,0:04:58.79,0:05:00.67,Default,,0000,0000,0000,,Jadi dia pasti berasa yakin.
+Dialogue: 0,0:05:00.68,0:05:01.88,Default,,0000,0000,0000,,Tapi sejak malam semalam,
+Dialogue: 0,0:05:01.88,0:05:05.18,Default,,0000,0000,0000,,isyarat dari pemancarnya\Ntidak dapat dikesan.
+Dialogue: 0,0:05:05.81,0:05:08.03,Default,,0000,0000,0000,,Satria Pandu telah tewas...
+Dialogue: 0,0:05:08.04,0:05:09.75,Default,,0000,0000,0000,,itu yang anggapan kita sebaiknya.
+Dialogue: 0,0:05:11.44,0:05:12.81,Default,,0000,0000,0000,,Tak kisahlah.
+Dialogue: 0,0:05:12.82,0:05:15.90,Default,,0000,0000,0000,,Tapi kalau macam tu, kita perlu\Nkumpulkan ahli pasukan segera.
+Dialogue: 0,0:05:15.90,0:05:17.34,Default,,0000,0000,0000,,Siapa yang belum datang?
+Dialogue: 0,0:05:17.82,0:05:22.05,Default,,0000,0000,0000,,Persatuan Raksasa\Nberikan kita masa tiga hari.
+Dialogue: 0,0:05:22.05,0:05:23.43,Default,,0000,0000,0000,,Kita masih ada masa.
+Dialogue: 0,0:05:24.37,0:05:28.85,Default,,0000,0000,0000,,Hero lain pun patut tiba\Nsejurus mereka bersedia.
+Dialogue: 0,0:05:30.04,0:05:32.61,Default,,0000,0000,0000,,Masih menunggu? Kenapa?
+Dialogue: 0,0:05:33.08,0:05:35.58,Default,,0000,0000,0000,,Seorang budak dijadi tawanan?
+Dialogue: 0,0:05:35.59,0:05:38.47,Default,,0000,0000,0000,,Encik Atomic Samurai tak tahu apa-apakah?
+Dialogue: 0,0:05:38.47,0:05:40.88,Default,,0000,0000,0000,,Dan awak ada berbau darah sikitlah.
+Dialogue: 0,0:05:41.32,0:05:44.50,Default,,0000,0000,0000,,Sejak semalam, kami seharian\Nmenjejak gunung dan gua,
+Dialogue: 0,0:05:44.50,0:05:49.25,Default,,0000,0000,0000,,mencari dan memburu\Nraksasa tersembunyi, tau.
+Dialogue: 0,0:05:49.96,0:05:54.03,Default,,0000,0000,0000,,Malangnya persembunyian\NPersatuan Raksasa tak dijumpai.
+Dialogue: 0,0:05:54.35,0:05:55.67,Default,,0000,0000,0000,,Oh, patutlah.
+Dialogue: 0,0:05:55.67,0:05:59.36,Default,,0000,0000,0000,,Kami dengar persembunyian\NPersatuan Raksasa ada di bandar hantu itu.
+Dialogue: 0,0:05:59.36,0:06:01.90,Default,,0000,0000,0000,,Apa, kau boleh tahu sejauh itu?
+Dialogue: 0,0:06:02.26,0:06:05.89,Default,,0000,0000,0000,,Apapun, perlawanan bersemuka\Ndi persembunyian masuk akal juga.
+Dialogue: 0,0:06:06.32,0:06:08.64,Default,,0000,0000,0000,,Semua pergi berehat dahulu.
+Dialogue: 0,0:06:08.64,0:06:09.42,Default,,0000,0000,0000,,Baik.
+Dialogue: 0,0:06:09.42,0:06:11.41,Default,,0000,0000,0000,,Aku nak pergi mandi dulu.
+Dialogue: 0,0:06:13.15,0:06:14.15,Default,,0000,0000,0000,,Amboi.
+Dialogue: 0,0:06:14.52,0:06:17.99,Default,,0000,0000,0000,,Dengar cerita, pasukan gempur\Nialah pasukan kecil tapi elit....
+Dialogue: 0,0:06:18.54,0:06:19.90,Default,,0000,0000,0000,,Tapi kenapa, ya?
+Dialogue: 0,0:06:19.90,0:06:21.98,Default,,0000,0000,0000,,Ada juga orang yang tak layak.
+Dialogue: 0,0:06:21.98,0:06:23.86,Default,,0000,0000,0000,,Ini bukannya pergi berkelah.
+Dialogue: 0,0:06:23.86,0:06:25.91,Default,,0000,0000,0000,,Boleh tolong jangan bawa kawan-kawan
+Dialogue: 0,0:06:25.91,0:06:28.49,Default,,0000,0000,0000,,meriah kau sekali, Atomic Samurai?
+Dialogue: 0,0:06:29.38,0:06:32.31,Default,,0000,0000,0000,,Yang sampah perlu bereskan\Nmusuh sampah sahaja.
+Dialogue: 0,0:06:32.31,0:06:33.60,Default,,0000,0000,0000,,Faham, kan?
+Dialogue: 0,0:06:33.60,0:06:36.07,Default,,0000,0000,0000,,Kalau mereka cepat mati pun elok juga.
+Dialogue: 0,0:06:36.07,0:06:38.77,Default,,0000,0000,0000,,Tapi susahlah kalau dijadikan\Ntawanan atau perisai manusia.
+Dialogue: 0,0:06:38.77,0:06:40.49,Default,,0000,0000,0000,,Timbul masalah yang tak diperlukan, tau?
+Dialogue: 0,0:06:41.09,0:06:42.56,Default,,0000,0000,0000,,Kalau itu berlaku,
+Dialogue: 0,0:06:42.56,0:06:45.43,Default,,0000,0000,0000,,bolehkah kau arahkan\Nuntuk kelar diri sendiri?
+Dialogue: 0,0:06:45.43,0:06:47.46,Default,,0000,0000,0000,,Hei, hei, si kacak...
+Dialogue: 0,0:06:47.46,0:06:50.48,Default,,0000,0000,0000,,Amai Mask, kau pun akan pergi juga?
+Dialogue: 0,0:06:50.48,0:06:52.00,Default,,0000,0000,0000,,Mestilah.
+Dialogue: 0,0:06:52.00,0:06:53.46,Default,,0000,0000,0000,,Kami sedang berada di konsert,
+Dialogue: 0,0:06:53.46,0:06:56.04,Default,,0000,0000,0000,,dan raksasa itu mengganggu pula.
+Dialogue: 0,0:06:56.04,0:06:57.95,Default,,0000,0000,0000,,Faham, faham...
+Dialogue: 0,0:06:57.95,0:07:00.84,Default,,0000,0000,0000,,Anak didik aku kuat-kuat, tau.
+Dialogue: 0,0:07:00.84,0:07:04.55,Default,,0000,0000,0000,,Budak idola, aku pastikan\Nmereka melindungi kau
+Dialogue: 0,0:07:04.55,0:07:06.70,Default,,0000,0000,0000,,jika kau dalam masalah.
+Dialogue: 0,0:07:07.08,0:07:08.74,Default,,0000,0000,0000,,Jangan risaulah.
+Dialogue: 0,0:07:08.98,0:07:10.29,Default,,0000,0000,0000,,Dalam masalah?
+Dialogue: 0,0:07:10.76,0:07:14.88,Default,,0000,0000,0000,,Tak sangka ada orang yang masih\Nmeragui kebolehan berlawan aku.
+Dialogue: 0,0:07:15.37,0:07:17.19,Default,,0000,0000,0000,,Menjadi ahli kelas A memudahkan seseorang
+Dialogue: 0,0:07:17.19,0:07:20.87,Default,,0000,0000,0000,,untuk memantau kumpulan,\Ndan aku boleh saja naik ke kelas S.
+Dialogue: 0,0:07:21.60,0:07:23.89,Default,,0000,0000,0000,,Betul juga.
+Dialogue: 0,0:07:23.89,0:07:26.72,Default,,0000,0000,0000,,Aku jelaskan dalam cara\Norang bebal pun boleh faham.
+Dialogue: 0,0:07:26.72,0:07:28.82,Default,,0000,0000,0000,,Aku lebih kuat daripada kau.
+Dialogue: 0,0:07:29.95,0:07:31.67,Default,,0000,0000,0000,,Faham, faham...
+Dialogue: 0,0:07:31.67,0:07:34.44,Default,,0000,0000,0000,,Tuan Guru! Bawalah bertenang.
+Dialogue: 0,0:07:36.11,0:07:38.18,Default,,0000,0000,0000,,Warden, tak mengapakah?
+Dialogue: 0,0:07:38.19,0:07:41.21,Default,,0000,0000,0000,,Aku dibenarkan keluar dari pintu\Nbesar dengan begitu megah?
+Dialogue: 0,0:07:41.21,0:07:44.30,Default,,0000,0000,0000,,Ini dipanggil langkah\Ntambahan undang-undang.
+Dialogue: 0,0:07:44.30,0:07:45.48,Default,,0000,0000,0000,,Aku ingatkan,
+Dialogue: 0,0:07:45.48,0:07:49.11,Default,,0000,0000,0000,,aktiviti Hero dan lepaskan diri kamu
+Dialogue: 0,0:07:49.11,0:07:51.12,Default,,0000,0000,0000,,semuanya menyalahi undang-undang.
+Dialogue: 0,0:07:51.86,0:07:54.23,Default,,0000,0000,0000,,Aku benci cara Persatuan Hero
+Dialogue: 0,0:07:54.24,0:07:56.57,Default,,0000,0000,0000,,menyukai orang macam kamu.
+Dialogue: 0,0:07:56.57,0:07:58.59,Default,,0000,0000,0000,,Tapi kali ini, aku tak boleh kata begitu.
+Dialogue: 0,0:07:59.69,0:08:03.22,Default,,0000,0000,0000,,Beberapa orang banduan\Nberubah jadi raksasa,
+Dialogue: 0,0:08:03.66,0:08:06.65,Default,,0000,0000,0000,,dan dibawa lari oleh\Nraksasa seperti kucing jadian.
+Dialogue: 0,0:08:06.95,0:08:10.66,Default,,0000,0000,0000,,Banyak pegawai yang\Nmelawan balik telah terkorban!
+Dialogue: 0,0:08:10.66,0:08:12.99,Default,,0000,0000,0000,,Kau seorang Hero di luar, kan?
+Dialogue: 0,0:08:12.99,0:08:14.73,Default,,0000,0000,0000,,Betul tak, wahai bos banduan!
+Dialogue: 0,0:08:15.39,0:08:18.25,Default,,0000,0000,0000,,Tolong balas dendam!
+Dialogue: 0,0:08:18.87,0:08:20.23,Default,,0000,0000,0000,,Serahkan padaku.
+Dialogue: 0,0:08:20.70,0:08:24.02,Default,,0000,0000,0000,,Aku akan pastikan mereka cukup\Nmerasakan tanda penghargaanku
+Dialogue: 0,0:08:24.02,0:08:26.22,Default,,0000,0000,0000,,kerana memusnahkan\Ntempat ini semasa aku tiada.
+Dialogue: 0,0:08:27.05,0:08:28.83,Default,,0000,0000,0000,,Bos, tunggu dulu!
+Dialogue: 0,0:08:29.20,0:08:31.24,Default,,0000,0000,0000,,Aku mengait baju panas baharu.
+Dialogue: 0,0:08:31.68,0:08:33.37,Default,,0000,0000,0000,,Kalau boleh, pakailah.
+Dialogue: 0,0:08:37.04,0:08:38.31,Default,,0000,0000,0000,,Terima kasih.
+Dialogue: 0,0:08:38.31,0:08:40.39,Default,,0000,0000,0000,,Dengan ini, aku akan berani lagi.
+Dialogue: 0,0:08:42.78,0:08:43.99,Default,,0000,0000,0000,,Hei.
+Dialogue: 0,0:08:43.99,0:08:46.01,Default,,0000,0000,0000,,Boleh tinggalkan tempat duduk sekejap?
+Dialogue: 0,0:08:46.01,0:08:48.04,Default,,0000,0000,0000,,Tak boleh beri tumpuan\Ndepan perhatian ramai.
+Dialogue: 0,0:08:50.70,0:08:53.56,Default,,0000,0000,0000,,Metal Knight, saya tahu\Nawak buat-buat bodoh saja.
+Dialogue: 0,0:08:53.57,0:08:54.97,Default,,0000,0000,0000,,Tolonglah balas.
+Dialogue: 0,0:08:55.83,0:08:57.10,Default,,0000,0000,0000,,Ada apa?
+Dialogue: 0,0:08:57.10,0:09:00.40,Default,,0000,0000,0000,,Sekarang saya rasa macam\Nmembazir tenaga saja.
+Dialogue: 0,0:09:02.03,0:09:05.10,Default,,0000,0000,0000,,Awak dah tahu lokasi persembunyian, kan?
+Dialogue: 0,0:09:05.10,0:09:06.37,Default,,0000,0000,0000,,Tolonglah beritahu.
+Dialogue: 0,0:09:06.37,0:09:07.84,Default,,0000,0000,0000,,Kita takkan sempat, tau.
+Dialogue: 0,0:09:07.84,0:09:09.94,Default,,0000,0000,0000,,Awak nak biarkan tawanan matikah?
+Dialogue: 0,0:09:10.70,0:09:14.21,Default,,0000,0000,0000,,Sama ada tawanan akan\Ndibiarkan mati jika tak diberitahu,
+Dialogue: 0,0:09:14.21,0:09:18.88,Default,,0000,0000,0000,,atau kalian akan menempah maut\Nbersama tawanan jika diberitahu.
+Dialogue: 0,0:09:19.39,0:09:23.49,Default,,0000,0000,0000,,Aku akan buat keputusan\Nrasional berdasarkan keadilan.
+Dialogue: 0,0:09:23.50,0:09:25.97,Default,,0000,0000,0000,,Ada satu lagi pilihan!
+Dialogue: 0,0:09:25.97,0:09:27.88,Default,,0000,0000,0000,,Awak pun boleh sertai operasi!
+Dialogue: 0,0:09:28.36,0:09:30.86,Default,,0000,0000,0000,,Apa yang awak takutkan sangat?
+Dialogue: 0,0:09:30.86,0:09:33.75,Default,,0000,0000,0000,,Bagaimana keadaan semasa\Nunit mesin Metal Knight?
+Dialogue: 0,0:09:34.07,0:09:35.49,Default,,0000,0000,0000,,Kalau ia dimusnahkan,
+Dialogue: 0,0:09:35.49,0:09:36.50,Default,,0000,0000,0000,,raksasa jenis apa yang buat?
+Dialogue: 0,0:09:36.50,0:09:37.73,Default,,0000,0000,0000,,Dan bagaimana caranya?
+Dialogue: 0,0:09:39.00,0:09:41.05,Default,,0000,0000,0000,,Ia "Raja Raksasa" Orochi.
+Dialogue: 0,0:09:41.81,0:09:43.36,Default,,0000,0000,0000,,Hanya dengan sekali pukulan.
+Dialogue: 0,0:09:43.36,0:09:45.05,Default,,0000,0000,0000,,Mekanisme binasa sendiri telah dimatikan,
+Dialogue: 0,0:09:45.06,0:09:47.61,Default,,0000,0000,0000,,termasuk tangan yang menghadang.
+Dialogue: 0,0:09:48.63,0:09:51.74,Default,,0000,0000,0000,,Bukan Persatuan Raksasa\Nsendiri yang aku takutkan,
+Dialogue: 0,0:09:52.38,0:09:56.03,Default,,0000,0000,0000,,tapi kuasa jahat lain yang masih\Npeka menyasarkan dunia.
+Dialogue: 0,0:09:56.04,0:10:00.73,Default,,0000,0000,0000,,Mereka bakal merampas saat\Npertahanan manusia menjadi lemah.
+Dialogue: 0,0:10:00.73,0:10:02.65,Default,,0000,0000,0000,,Kau pun perlu berhati-hati.
+Dialogue: 0,0:10:02.65,0:10:05.50,Default,,0000,0000,0000,,Jangan percayakan orang di sisi kau.
+Dialogue: 0,0:10:05.50,0:10:08.66,Default,,0000,0000,0000,,Kau sendiri cukup untuk\Nlaksanakan keadilan.
+Dialogue: 0,0:10:08.66,0:10:12.26,Default,,0000,0000,0000,,Bina kekuatan diri\Nsehingga itu, dan simpan,
+Dialogue: 0,0:10:12.27,0:10:13.61,Default,,0000,0000,0000,,Maharaja Budak.
+Dialogue: 0,0:10:18.75,0:10:21.48,Default,,0000,0000,0000,,Persatuan Hero betul-betul tak berguna.
+Dialogue: 0,0:10:21.48,0:10:22.81,Default,,0000,0000,0000,,Dengar, semua!
+Dialogue: 0,0:10:22.81,0:10:26.87,Default,,0000,0000,0000,,Tatkala kita bercakap, anak aku\Nsedang menggigil menantikan bantuan!
+Dialogue: 0,0:10:26.88,0:10:29.37,Default,,0000,0000,0000,,Pergi ke runtuhan Bandar Z secepat mungkin,
+Dialogue: 0,0:10:29.38,0:10:31.15,Default,,0000,0000,0000,,dan cari persembunyian raksasa!
+Dialogue: 0,0:10:31.15,0:10:33.16,Default,,0000,0000,0000,,Selamatkan anak aku!
+Dialogue: 0,0:10:33.17,0:10:34.98,Default,,0000,0000,0000,,Sut tempur kalian pakai\Nialah senjata rahsia,
+Dialogue: 0,0:10:34.98,0:10:37.47,Default,,0000,0000,0000,,yang diperoleh melalui saluran istimewa!
+Dialogue: 0,0:10:37.48,0:10:41.91,Default,,0000,0000,0000,,Prestasi sut itu jauh melangkaui\Nmana-mana Hero profesional!
+Dialogue: 0,0:10:42.04,0:10:44.26,Default,,0000,0000,0000,,(Tentera Rahsia Narinki)\NManfaatkan sut tempur kamu
+Dialogue: 0,0:10:44.26,0:10:46.49,Default,,0000,0000,0000,,(Tentera Rahsia Narinki)\Ndan hapuskan semua raksasa kalian jumpa!
+Dialogue: 0,0:10:46.82,0:10:49.21,Default,,0000,0000,0000,,Kalau berjaya, aku bayar sebesar\Nmana ganjaran kalian sebut!
+Dialogue: 0,0:10:49.21,0:10:51.06,Default,,0000,0000,0000,,Bawa Waganma pulang hidup-hidup,
+Dialogue: 0,0:10:51.07,0:10:53.14,Default,,0000,0000,0000,,dan nikmatilah hidup\Nsenang sampai ke anak cucu!
+Dialogue: 0,0:10:53.14,0:10:54.27,Default,,0000,0000,0000,,Pergi!
+Dialogue: 0,0:10:59.98,0:11:03.82,Default,,0000,0000,0000,,Nampaknya, memang itulah\Nbangunan kecil yang kita perkatakan.
+Dialogue: 0,0:11:04.67,0:11:06.54,Default,,0000,0000,0000,,Akhirnya berjaya dijejaki.
+Dialogue: 0,0:11:07.77,0:11:10.28,Default,,0000,0000,0000,,Kumpulan Fubuki telah disingkirkan.
+Dialogue: 0,0:11:10.52,0:11:12.91,Default,,0000,0000,0000,,Apapun, sebahagian itu angkara adikku.
+Dialogue: 0,0:11:13.55,0:11:15.17,Default,,0000,0000,0000,,Ini ialah kecemasan.
+Dialogue: 0,0:11:15.44,0:11:19.57,Default,,0000,0000,0000,,Dan kita perlu adakan mesyuarat di sini\Nseperti pejabat cawangan Kumpulan Fubuki.
+Dialogue: 0,0:11:20.43,0:11:21.47,Default,,0000,0000,0000,,Oi!
+Dialogue: 0,0:11:21.48,0:11:23.00,Default,,0000,0000,0000,,Saita— Ini siapa?
+Dialogue: 0,0:11:23.44,0:11:25.64,Default,,0000,0000,0000,,Oh, kamu kawan merekakah?
+Dialogue: 0,0:11:26.01,0:11:28.61,Default,,0000,0000,0000,,Ada tetamu datanglah, Saitama!
+Dialogue: 0,0:11:30.55,0:11:33.18,Default,,0000,0000,0000,,Nampaknya Cik Fubuki\Ndatang lagi untuk melepak.
+Dialogue: 0,0:11:33.18,0:11:36.03,Default,,0000,0000,0000,,Hei, kenapa roh yang aku bela
+Dialogue: 0,0:11:36.03,0:11:38.55,Default,,0000,0000,0000,,terus mati selepas satu serangan kau?
+Dialogue: 0,0:11:38.55,0:11:40.72,Default,,0000,0000,0000,,- Apa kau nak, Fubuki Neraka?\N- Atribut lah, atribut.
+Dialogue: 0,0:11:40.72,0:11:42.70,Default,,0000,0000,0000,,- Aku ingatkan, kami tak ambil anak murid.\N- Pakcik Golem awak ialah atribut tanah.
+Dialogue: 0,0:11:42.70,0:11:44.35,Default,,0000,0000,0000,,- Maaf sempit sedikit.\N- Golem besar awak ialah atribut tanah
+Dialogue: 0,0:11:44.35,0:11:47.07,Default,,0000,0000,0000,,- Oh, boleh tolong ambilkan koyok di situ?\N- Serangan si miau angin tu lemah dia.
+Dialogue: 0,0:11:47.08,0:11:49.47,Default,,0000,0000,0000,,Kenapa tanah lemah pada angin?
+Dialogue: 0,0:11:49.47,0:11:52.27,Default,,0000,0000,0000,,Aku tahap 27 tapi kau baru 15, tau.
+Dialogue: 0,0:11:52.28,0:11:53.85,Default,,0000,0000,0000,,Kalau tahap maksimum pun,
+Dialogue: 0,0:11:53.85,0:11:56.41,Default,,0000,0000,0000,,Pakcik Golem takkan boleh\Nkalahkan kelas miau-miau.
+Dialogue: 0,0:11:56.74,0:11:58.39,Default,,0000,0000,0000,,Sejak awal lagi, itu karakter sampah.
+Dialogue: 0,0:11:58.39,0:12:00.52,Default,,0000,0000,0000,,Apa? Kenapa tak cakap awal-awal?
+Dialogue: 0,0:12:00.52,0:12:01.86,Default,,0000,0000,0000,,Syaitan Bulu Ketiak ni pula—
+Dialogue: 0,0:12:01.86,0:12:02.86,Default,,0000,0000,0000,,Itu pun lemah.
+Dialogue: 0,0:12:02.87,0:12:05.43,Default,,0000,0000,0000,,Sebenarnya, karakter comel saja yang kuat.
+Dialogue: 0,0:12:05.43,0:12:07.87,Default,,0000,0000,0000,,Tak bolehlah. Semangat aku dah hancur.
+Dialogue: 0,0:12:07.87,0:12:09.84,Default,,0000,0000,0000,,Apakah keadaan ini...
+Dialogue: 0,0:12:10.24,0:12:11.97,Default,,0000,0000,0000,,Eh, kenapa kau di sini?
+Dialogue: 0,0:12:11.97,0:12:13.46,Default,,0000,0000,0000,,Ada kecemasanlah!
+Dialogue: 0,0:12:13.46,0:12:15.67,Default,,0000,0000,0000,,Semua ahli Kumpulan Fubuki dah ditewaskan!
+Dialogue: 0,0:12:15.68,0:12:18.15,Default,,0000,0000,0000,,Organisasi raksasa kali\Nini memang berbahaya!
+Dialogue: 0,0:12:18.15,0:12:19.89,Default,,0000,0000,0000,,Ini bukan masa untuk main game.
+Dialogue: 0,0:12:19.89,0:12:22.75,Default,,0000,0000,0000,,Kau tahu tak apa yang sedang berlaku?!
+Dialogue: 0,0:12:23.20,0:12:24.77,Default,,0000,0000,0000,,Tak perlulah menengking...
+Dialogue: 0,0:12:25.04,0:12:28.15,Default,,0000,0000,0000,,Aku baru saja pulang untuk bersantai kejap.
+Dialogue: 0,0:12:28.16,0:12:29.56,Default,,0000,0000,0000,,Berbaring pula dia!
+Dialogue: 0,0:12:29.57,0:12:31.26,Default,,0000,0000,0000,,Seperti Mahaguru katakan,
+Dialogue: 0,0:12:31.27,0:12:33.79,Default,,0000,0000,0000,,kami pun menempuh\Nbanyak musuh mencabar juga.
+Dialogue: 0,0:12:33.79,0:12:35.73,Default,,0000,0000,0000,,Jangan fikir diri sendiri saja.
+Dialogue: 0,0:12:35.73,0:12:39.26,Default,,0000,0000,0000,,Yalah, kalau lihat dari\Ngaya kau pun, sudah jelas.
+Dialogue: 0,0:12:39.76,0:12:41.70,Default,,0000,0000,0000,,King pun ada di sini sebelum ini,
+Dialogue: 0,0:12:41.70,0:12:45.25,Default,,0000,0000,0000,,tapi kenapa kali ini Silver\NFang pun di rumah Saitama?
+Dialogue: 0,0:12:45.25,0:12:47.67,Default,,0000,0000,0000,,Aku pun berlawan bersama,
+Dialogue: 0,0:12:47.67,0:12:50.59,Default,,0000,0000,0000,,tapi Saitama benarkan aku\Ntumpang berehat di biliknya.
+Dialogue: 0,0:12:50.60,0:12:52.33,Default,,0000,0000,0000,,Aku terbawa-bawa sampai sakit belakang,
+Dialogue: 0,0:12:52.34,0:12:54.69,Default,,0000,0000,0000,,jadi tak boleh bergerak sekarang.
+Dialogue: 0,0:12:54.69,0:12:56.38,Default,,0000,0000,0000,,Lutut aku pula sakit.
+Dialogue: 0,0:12:56.38,0:12:59.82,Default,,0000,0000,0000,,Tumbukan Ki Mengaum Pengoyak\NUdara akhirnya memakan diri.
+Dialogue: 0,0:12:59.82,0:13:01.07,Default,,0000,0000,0000,,Ya.
+Dialogue: 0,0:13:01.07,0:13:03.02,Default,,0000,0000,0000,,Nampaknya pertempuran kalian dahsyat.
+Dialogue: 0,0:13:03.40,0:13:04.81,Default,,0000,0000,0000,,Tapi kenapa?
+Dialogue: 0,0:13:04.81,0:13:07.49,Default,,0000,0000,0000,,Kenapa dia ini berlagak macam biasa saja?
+Dialogue: 0,0:13:07.50,0:13:08.79,Default,,0000,0000,0000,,Hei, Saitama!
+Dialogue: 0,0:13:08.80,0:13:11.48,Default,,0000,0000,0000,,Kau berlagak tenang tapi\Nkau sedikit gemuruh, kan?
+Dialogue: 0,0:13:11.48,0:13:13.55,Default,,0000,0000,0000,,Tak, aku biasa-biasa saja.
+Dialogue: 0,0:13:13.56,0:13:17.34,Default,,0000,0000,0000,,Apa?! Situasi sekarang\Nbukan macam biasalah!
+Dialogue: 0,0:13:17.34,0:13:19.42,Default,,0000,0000,0000,,Kenapa dia marah-marah?
+Dialogue: 0,0:13:19.43,0:13:21.22,Default,,0000,0000,0000,,Aku tak layak untuk katakan,
+Dialogue: 0,0:13:21.22,0:13:23.12,Default,,0000,0000,0000,,tapi ini bukan hal biasa rasanya.
+Dialogue: 0,0:13:23.13,0:13:25.17,Default,,0000,0000,0000,,Duduk di sini!
+Dialogue: 0,0:13:25.18,0:13:27.63,Default,,0000,0000,0000,,Sekarang kita akan\Nadakan mesyuarat strategi!
+Dialogue: 0,0:13:27.63,0:13:29.00,Default,,0000,0000,0000,,Maksud aku, kenapa kau ke sini?
+Dialogue: 0,0:13:29.00,0:13:31.84,Default,,0000,0000,0000,,Genos! Kau seorang ahli kelas S, kan?
+Dialogue: 0,0:13:31.85,0:13:35.30,Default,,0000,0000,0000,,Kau tak dimaklumkan tentang strategi masa\Nhadapan oleh eksekutif Persatuan Hero?
+Dialogue: 0,0:13:36.98,0:13:38.92,Default,,0000,0000,0000,,Semalam, aku sibuk\Nmenyokong Mahaguru Saitama
+Dialogue: 0,0:13:38.92,0:13:42.53,Default,,0000,0000,0000,,dalam pertandingan dan melawan raksasa.
+Dialogue: 0,0:13:42.53,0:13:46.42,Default,,0000,0000,0000,,Malahan, penghubung Persatuan\NWira aku telah habis mencair.
+Dialogue: 0,0:13:46.42,0:13:49.69,Default,,0000,0000,0000,,Aku punya pula jatuh dalam gaung.
+Dialogue: 0,0:13:49.69,0:13:51.94,Default,,0000,0000,0000,,Aku punya pun rosak semasa aku tak perasan.
+Dialogue: 0,0:13:51.94,0:13:54.67,Default,,0000,0000,0000,,Mungkin disebabkan gelombang\Nkejut dari tumbukan Saitama?
+Dialogue: 0,0:13:54.67,0:13:56.34,Default,,0000,0000,0000,,Jadi apa rancangan kalian seterusnya?
+Dialogue: 0,0:13:56.34,0:13:59.03,Default,,0000,0000,0000,,Peperangan menentang raksasa baru bermula!
+Dialogue: 0,0:13:59.03,0:14:01.25,Default,,0000,0000,0000,,Aku tak boleh buat apa-apa\Nselagi belum aku dibaiki.
+Dialogue: 0,0:14:01.25,0:14:03.30,Default,,0000,0000,0000,,Ya, betul juga.
+Dialogue: 0,0:14:03.30,0:14:06.01,Default,,0000,0000,0000,,Kami pun perlukan sedikit masa untuk pulih.
+Dialogue: 0,0:14:06.01,0:14:07.38,Default,,0000,0000,0000,,Mungkin belum boleh bergerak.
+Dialogue: 0,0:14:07.38,0:14:08.98,Default,,0000,0000,0000,,Takkan boleh menang melawan usia.
+Dialogue: 0,0:14:09.35,0:14:10.35,Default,,0000,0000,0000,,King pula?
+Dialogue: 0,0:14:10.36,0:14:13.59,Default,,0000,0000,0000,,Rasanya aku pun ada urusan lain.
+Dialogue: 0,0:14:13.59,0:14:16.77,Default,,0000,0000,0000,,Jadi yang boleh bertindak\Ncuma aku dan Saitama.
+Dialogue: 0,0:14:17.28,0:14:18.81,Default,,0000,0000,0000,,Jadi apa kau nak buat?
+Dialogue: 0,0:14:18.81,0:14:23.30,Default,,0000,0000,0000,,Aku rasa Pasukan Operasi Khas\Nsedang merangka rancangan di ibu pejabat.
+Dialogue: 0,0:14:23.30,0:14:26.81,Default,,0000,0000,0000,,Tapi tindakan Hero kelas B\Ndan ke bawah pada waktu begini
+Dialogue: 0,0:14:26.81,0:14:29.21,Default,,0000,0000,0000,,boleh mempengaruhi\Nreputasi mereka akan datang.
+Dialogue: 0,0:14:29.22,0:14:31.40,Default,,0000,0000,0000,,Aku harap kita boleh buat\Nsesuatu untuk menolong.
+Dialogue: 0,0:14:31.75,0:14:32.91,Default,,0000,0000,0000,,(Melopong...)\NDengar tak?
+Dialogue: 0,0:14:33.54,0:14:36.40,Default,,0000,0000,0000,,Musuh kita kali ini ialah\Nsekumpulan besar raksasa
+Dialogue: 0,0:14:36.40,0:14:39.83,Default,,0000,0000,0000,,yang biasanya pentingkan diri,\Ntapi kini bersatu bersama.
+Dialogue: 0,0:14:40.51,0:14:43.56,Default,,0000,0000,0000,,Tapi kemungkinan besar,\Nstruktur organisasi mereka
+Dialogue: 0,0:14:43.57,0:14:48.47,Default,,0000,0000,0000,,kemungkinan besar lebih seperti bos\Nyang mengawal berbanding satu kumpulan.
+Dialogue: 0,0:14:48.47,0:14:51.58,Default,,0000,0000,0000,,Yalah, kumpulan raksasa.
+Dialogue: 0,0:14:51.58,0:14:55.24,Default,,0000,0000,0000,,Kalau Garou sertai mereka, itu\Njadi lebih menyusahkan, betul?
+Dialogue: 0,0:14:55.24,0:14:56.44,Default,,0000,0000,0000,,Ya.
+Dialogue: 0,0:14:56.45,0:15:00.29,Default,,0000,0000,0000,,Kita takkan dapat lagi peluang\Ntewaskan Garou yang sendirian.
+Dialogue: 0,0:15:00.29,0:15:04.61,Default,,0000,0000,0000,,Kalau pihak raksasa ada lagi\Nyang sekuat macam lipan itu,
+Dialogue: 0,0:15:04.62,0:15:05.65,Default,,0000,0000,0000,,dah tak ada harapan, kan?
+Dialogue: 0,0:15:05.66,0:15:08.22,Default,,0000,0000,0000,,Baik berhenti jadi Hero\Nsajalah, Silver Fang.
+Dialogue: 0,0:15:08.23,0:15:09.49,Default,,0000,0000,0000,,Encik Saitama,
+Dialogue: 0,0:15:09.49,0:15:13.00,Default,,0000,0000,0000,,rasanya pemburu wira yang kau\Nnak jumpa ada di tempat kejadian.
+Dialogue: 0,0:15:13.01,0:15:15.11,Default,,0000,0000,0000,,Seperti kalian pernah berselisih.
+Dialogue: 0,0:15:15.11,0:15:16.95,Default,,0000,0000,0000,,Aku diberitahu semasa jalan pulang.
+Dialogue: 0,0:15:16.95,0:15:19.13,Default,,0000,0000,0000,,Ramai lagi hero yang dah diburunya.
+Dialogue: 0,0:15:21.45,0:15:22.67,Default,,0000,0000,0000,,Tak boleh dimaafkan.
+Dialogue: 0,0:15:22.68,0:15:24.63,Default,,0000,0000,0000,,Lagi pula dia langsung tak datang buru aku,
+Dialogue: 0,0:15:24.63,0:15:25.77,Default,,0000,0000,0000,,memang tak boleh dimaafkan…
+Dialogue: 0,0:15:25.77,0:15:27.31,Default,,0000,0000,0000,,Adakah sebab aku cuma Mantel Botak?
+Dialogue: 0,0:15:28.08,0:15:29.14,Default,,0000,0000,0000,,Encik Saitama?
+Dialogue: 0,0:15:29.15,0:15:30.03,Default,,0000,0000,0000,,Mahaguru!
+Dialogue: 0,0:15:30.03,0:15:31.14,Default,,0000,0000,0000,,Aku nak keluar sekejap.
+Dialogue: 0,0:15:31.93,0:15:34.08,Default,,0000,0000,0000,,Awak tahukah di mana Garou berada?
+Dialogue: 0,0:15:34.08,0:15:35.54,Default,,0000,0000,0000,,Aku nak pergi carilah.
+Dialogue: 0,0:15:36.03,0:15:38.81,Default,,0000,0000,0000,,Selepas jumpa Garou, aku\Nakan belasah cukup-cukup.
+Dialogue: 0,0:15:40.20,0:15:42.05,Default,,0000,0000,0000,,Lepas tu, aku nak beli kubis Cina.
+Dialogue: 0,0:15:45.77,0:15:49.12,Default,,0000,0000,0000,,Aku yang mengetuai tapi dipinggirkan lagi.
+Dialogue: 0,0:15:49.49,0:15:53.37,Default,,0000,0000,0000,,Payah betul untuk menarik Saitama dan\Nyang lain ke dalam Kumpulan Fubuki.
+Dialogue: 0,0:16:06.51,0:16:08.11,Default,,0000,0000,0000,,Di manakah aku?
+Dialogue: 0,0:16:08.11,0:16:09.80,Default,,0000,0000,0000,,Aku masih terselamatkah?
+Dialogue: 0,0:16:09.80,0:16:11.50,Default,,0000,0000,0000,,Ingatan aku samar-samar.
+Dialogue: 0,0:16:12.42,0:16:14.90,Default,,0000,0000,0000,,Selamat datang ke Persatuan Raksasa.
+Dialogue: 0,0:16:14.90,0:16:16.87,Default,,0000,0000,0000,,Jika anda membaca ini,
+Dialogue: 0,0:16:16.87,0:16:19.44,Default,,0000,0000,0000,,maksudnya anda telah terselamat.
+Dialogue: 0,0:16:19.44,0:16:23.51,Default,,0000,0000,0000,,Sila sedar bahawa kami\Nyang menyelamatkan nyawa anda.
+Dialogue: 0,0:16:23.51,0:16:27.63,Default,,0000,0000,0000,,Sila duduk di dalam bilik diam-diam\Ntanpa timbulkan sebarang masalah.
+Dialogue: 0,0:16:27.63,0:16:29.18,Default,,0000,0000,0000,,Jika anda keluar sekarang,
+Dialogue: 0,0:16:29.18,0:16:31.14,Default,,0000,0000,0000,,anda bakal menjadi sasaran hero.
+Dialogue: 0,0:16:31.14,0:16:33.15,Default,,0000,0000,0000,,Lagipun, anda juga perlukan tempat tinggal.
+Dialogue: 0,0:16:33.15,0:16:35.18,Default,,0000,0000,0000,,Kami sediakan pakaian untuk anda.
+Dialogue: 0,0:16:35.18,0:16:36.41,Default,,0000,0000,0000,,Sila gunakan.
+Dialogue: 0,0:16:38.31,0:16:40.92,Default,,0000,0000,0000,,Pedih. Pedih sungguh!
+Dialogue: 0,0:16:40.92,0:16:42.33,Default,,0000,0000,0000,,Seluruh tubuhku!
+Dialogue: 0,0:16:42.67,0:16:44.30,Default,,0000,0000,0000,,Aku kehausan
+Dialogue: 0,0:16:44.30,0:16:45.75,Default,,0000,0000,0000,,dan kelaparan...
+Dialogue: 0,0:16:45.75,0:16:47.97,Default,,0000,0000,0000,,Aku perlukan sesuatu untuk dijadikan darah.
+Dialogue: 0,0:16:50.70,0:16:53.14,Default,,0000,0000,0000,,Aku melawan orang tua itu,
+Dialogue: 0,0:16:53.14,0:16:55.81,Default,,0000,0000,0000,,kemudian si burung itu pula muncul.
+Dialogue: 0,0:16:55.81,0:16:58.52,Default,,0000,0000,0000,,Persatuan Raksasa, menyakitkan mata saja.
+Dialogue: 0,0:16:59.02,0:17:00.79,Default,,0000,0000,0000,,Apa jadi pada orang tua tu?
+Dialogue: 0,0:17:00.79,0:17:02.34,Default,,0000,0000,0000,,Dia melawan lipan tu...
+Dialogue: 0,0:17:03.26,0:17:04.52,Default,,0000,0000,0000,,Tak kisahlah.
+Dialogue: 0,0:17:05.08,0:17:08.40,Default,,0000,0000,0000,,Udara yang keruh\Nbercampur dengan bau darah.
+Dialogue: 0,0:17:08.41,0:17:09.83,Default,,0000,0000,0000,,Rasa nak muntah.
+Dialogue: 0,0:17:09.83,0:17:12.66,Default,,0000,0000,0000,,Terlalu sunyi sampai telinga berdegung.
+Dialogue: 0,0:17:12.66,0:17:14.07,Default,,0000,0000,0000,,Ini jauh di bawah tanahkah?
+Dialogue: 0,0:17:14.55,0:17:15.85,Default,,0000,0000,0000,,Siapa kisah...
+Dialogue: 0,0:17:18.80,0:17:20.02,Default,,0000,0000,0000,,Lepaskan kami!
+Dialogue: 0,0:17:20.02,0:17:21.62,Default,,0000,0000,0000,,Kami minta maaf.
+Dialogue: 0,0:17:21.62,0:17:23.96,Default,,0000,0000,0000,,Kami takkan melawan kalian lagi!
+Dialogue: 0,0:17:24.48,0:17:26.21,Default,,0000,0000,0000,,Aku tak mahu mati!
+Dialogue: 0,0:17:26.21,0:17:27.73,Default,,0000,0000,0000,,Akan tetapi,
+Dialogue: 0,0:17:27.73,0:17:30.73,Default,,0000,0000,0000,,kalian telah membunuh dua askar kami,
+Dialogue: 0,0:17:30.73,0:17:33.66,Default,,0000,0000,0000,,jadi kami tak boleh lepaskan kalian saja.
+Dialogue: 0,0:17:33.66,0:17:37.42,Default,,0000,0000,0000,,Klien kalian bersusah-payah\Nbekalkan peralatan canggih,
+Dialogue: 0,0:17:37.42,0:17:39.54,Default,,0000,0000,0000,,jadi kalian perlu berlawan\Nhabis-habisan, tau.
+Dialogue: 0,0:17:39.54,0:17:44.69,Default,,0000,0000,0000,,Semua di sini suka mengejek\Nsesiapa yang melawan.
+Dialogue: 0,0:17:45.95,0:17:47.85,Default,,0000,0000,0000,,Ini salah dia.
+Dialogue: 0,0:17:47.85,0:17:49.20,Default,,0000,0000,0000,,Tak guna.
+Dialogue: 0,0:17:49.20,0:17:50.78,Default,,0000,0000,0000,,Kalau robot pelik tu tak muncul,
+Dialogue: 0,0:17:50.78,0:17:52.56,Default,,0000,0000,0000,,kita mungkin boleh lepas ke permukaan.
+Dialogue: 0,0:17:52.56,0:17:54.86,Default,,0000,0000,0000,,Nampaknya propaganda itu berkesan.
+Dialogue: 0,0:17:54.86,0:17:56.57,Default,,0000,0000,0000,,Terima kasih atas buah tangan.
+Dialogue: 0,0:17:56.57,0:17:59.61,Default,,0000,0000,0000,,Kami berbesar hati menerima\Nkemasukan calon yang cemerlang.
+Dialogue: 0,0:17:59.61,0:18:01.49,Default,,0000,0000,0000,,Kamu lulus tanpa masalah.
+Dialogue: 0,0:18:01.50,0:18:03.94,Default,,0000,0000,0000,,Orang baharu, siapa nama awak?
+Dialogue: 0,0:18:04.42,0:18:06.47,Default,,0000,0000,0000,,(Tahap Bencana: Iblis) (Dewa Mesin G5)\NSaya Dewa Mesin G5.
+Dialogue: 0,0:18:06.67,0:18:08.76,Default,,0000,0000,0000,,Saya dihantar oleh sebuah organisasi
+Dialogue: 0,0:18:08.76,0:18:10.91,Default,,0000,0000,0000,,untuk membantu Persatuan Raksasa.
+Dialogue: 0,0:18:10.91,0:18:12.27,Default,,0000,0000,0000,,Organisasi?
+Dialogue: 0,0:18:12.28,0:18:15.08,Default,,0000,0000,0000,,Bagaimana kamu tahu jalan\Ntepat ke persembunyian ni?
+Dialogue: 0,0:18:15.08,0:18:16.91,Default,,0000,0000,0000,,Boleh aku bercakap dengan pencipta kamu?
+Dialogue: 0,0:18:17.99,0:18:19.92,Default,,0000,0000,0000,,Tak apalah, kamu dialu-alukan.
+Dialogue: 0,0:18:19.92,0:18:21.41,Default,,0000,0000,0000,,Masih ada orang tunggu di belakang.
+Dialogue: 0,0:18:21.82,0:18:22.98,Default,,0000,0000,0000,,Kalau kau nak bersembunyi pu tak apa.
+Dialogue: 0,0:18:22.98,0:18:25.06,Default,,0000,0000,0000,,Tunggu sekejap lagi ya, Garou.
+Dialogue: 0,0:18:25.83,0:18:27.63,Default,,0000,0000,0000,,Suara itu betul-betul dalam kepalaku.
+Dialogue: 0,0:18:27.94,0:18:29.15,Default,,0000,0000,0000,,Telepatikah?
+Dialogue: 0,0:18:29.16,0:18:32.78,Default,,0000,0000,0000,,Selepas melawan mereka sendiri,\Nsaya boleh katakan,
+Dialogue: 0,0:18:32.78,0:18:36.34,Default,,0000,0000,0000,,sut tempur mereka memiliki\Nkebolehan berlawan yang tinggi
+Dialogue: 0,0:18:36.34,0:18:37.77,Default,,0000,0000,0000,,dan amat berguna.
+Dialogue: 0,0:18:38.33,0:18:41.58,Default,,0000,0000,0000,,Tapi, kerana itu dibuat khas untuk mereka,
+Dialogue: 0,0:18:41.58,0:18:45.80,Default,,0000,0000,0000,,fungsinya tak boleh digunakan\Nuntuk orang lain, termasuk raksasa.
+Dialogue: 0,0:18:45.80,0:18:49.84,Default,,0000,0000,0000,,Jadi lebih jaga mereka\Nhidup-hidup sebagai bidak.
+Dialogue: 0,0:18:51.16,0:18:53.19,Default,,0000,0000,0000,,Kalau begitu ini milik aku, kan?
+Dialogue: 0,0:18:53.19,0:18:55.16,Default,,0000,0000,0000,,Aku akan latih mereka betul-betul.
+Dialogue: 0,0:18:56.37,0:18:58.04,Default,,0000,0000,0000,,Latih? Apa benda tu?!
+Dialogue: 0,0:18:58.04,0:18:59.67,Default,,0000,0000,0000,,Tolonglah lepaskan kami pergi!
+Dialogue: 0,0:19:00.15,0:19:01.70,Default,,0000,0000,0000,,Diamlah!
+Dialogue: 0,0:19:07.50,0:19:09.11,Default,,0000,0000,0000,,Boleh tahan.
+Dialogue: 0,0:19:09.11,0:19:13.49,Default,,0000,0000,0000,,Bernasib betul dapat hamba yang berguna.
+Dialogue: 0,0:19:23.35,0:19:26.23,Default,,0000,0000,0000,,Hei, Garou. Awalnya kau terjaga.
+Dialogue: 0,0:19:26.23,0:19:27.92,Default,,0000,0000,0000,,Itu Pemburu Herokah?
+Dialogue: 0,0:19:27.92,0:19:29.24,Default,,0000,0000,0000,,Mantaplah! Aku sokong kau.
+Dialogue: 0,0:19:29.24,0:19:31.72,Default,,0000,0000,0000,,- Dia dikutip dan terima rawatan istimewa!\N- Kenapa Tuan Gyoro Gyoro bagi muka
+Dialogue: 0,0:19:31.72,0:19:33.18,Default,,0000,0000,0000,,- Kenapa?\N- pada manusia hina ni?
+Dialogue: 0,0:19:33.77,0:19:35.48,Default,,0000,0000,0000,,- Diam semua.\N- Dia manusia atau raksasa?
+Dialogue: 0,0:19:35.48,0:19:38.17,Default,,0000,0000,0000,,Kini aku ada perbincangan\Npenting dengannya.
+Dialogue: 0,0:19:38.18,0:19:40.56,Default,,0000,0000,0000,,Apa benda besar di belakang?
+Dialogue: 0,0:19:41.29,0:19:43.07,Default,,0000,0000,0000,,Kau nak aku buat apa?
+Dialogue: 0,0:19:43.07,0:19:45.89,Default,,0000,0000,0000,,Semua tahap ancaman Iblis dan ke atas,
+Dialogue: 0,0:19:45.90,0:19:48.06,Default,,0000,0000,0000,,telah terhapus dalam\Nperlawanan baru-baru ini,
+Dialogue: 0,0:19:48.06,0:19:50.19,Default,,0000,0000,0000,,dan tinggal kurang dari 30 saja.
+Dialogue: 0,0:19:50.20,0:19:53.35,Default,,0000,0000,0000,,Akan tetapi, kami masih\Ncukup kuat untuk menang.
+Dialogue: 0,0:19:53.35,0:19:56.30,Default,,0000,0000,0000,,Tapi apa yang kami kurang ialah penyatuan
+Dialogue: 0,0:19:56.30,0:19:58.47,Default,,0000,0000,0000,,serta perintis.
+Dialogue: 0,0:19:58.47,0:20:00.53,Default,,0000,0000,0000,,Garou aku mahu kau jadi ahli eksekutif
+Dialogue: 0,0:20:00.53,0:20:02.74,Default,,0000,0000,0000,,dan membantu aku.
+Dialogue: 0,0:20:02.75,0:20:04.32,Default,,0000,0000,0000,,Tiba-tiba jadi eksekutif?
+Dialogue: 0,0:20:04.32,0:20:06.05,Default,,0000,0000,0000,,Kedudukan yang menguntungkan.
+Dialogue: 0,0:20:06.06,0:20:12.47,Default,,0000,0000,0000,,Orang yang miliki sentimen anti-Hero\Nyang kuat macam dialah yang aku cari.
+Dialogue: 0,0:20:12.47,0:20:14.57,Default,,0000,0000,0000,,Dia bekerja sendirian,
+Dialogue: 0,0:20:14.58,0:20:15.88,Default,,0000,0000,0000,,dan walaupun dia habis dibelasah,
+Dialogue: 0,0:20:15.88,0:20:18.79,Default,,0000,0000,0000,,dia tetap mengejar Hero kelas S.
+Dialogue: 0,0:20:18.79,0:20:20.26,Default,,0000,0000,0000,,Mantap betul.
+Dialogue: 0,0:20:21.46,0:20:24.89,Default,,0000,0000,0000,,Tetapi, bos kami,\NTuan Orochi ada satu syarat.
+Dialogue: 0,0:20:25.29,0:20:29.25,Default,,0000,0000,0000,,Buktikan bahawa kau raksasa sebenar.
+Dialogue: 0,0:20:29.25,0:20:30.88,Default,,0000,0000,0000,,Kau nak aku tumbuh tandukkah?
+Dialogue: 0,0:20:30.88,0:20:32.66,Default,,0000,0000,0000,,Aku berikan satu hari.
+Dialogue: 0,0:20:32.66,0:20:33.85,Default,,0000,0000,0000,,Tak kisahlah siapapun.
+Dialogue: 0,0:20:33.85,0:20:36.09,Default,,0000,0000,0000,,Penggal dan bawa pulang kepala hero.
+Dialogue: 0,0:20:36.40,0:20:38.15,Default,,0000,0000,0000,,Kalau soal nyawa hero,
+Dialogue: 0,0:20:38.15,0:20:42.28,Default,,0000,0000,0000,,malangnya, Silver Fang\Ndan yang lain masih hidup!
+Dialogue: 0,0:20:42.28,0:20:44.45,Default,,0000,0000,0000,,Penghulu Lipan telah ditewaskan!
+Dialogue: 0,0:20:48.63,0:20:51.02,Default,,0000,0000,0000,,Hei, maaf mengganggu.
+Dialogue: 0,0:20:51.02,0:20:52.55,Default,,0000,0000,0000,,Aku ada permintaan.
+Dialogue: 0,0:20:53.04,0:20:54.76,Default,,0000,0000,0000,,(Dewa Kumbang) (Tahap bencana: Iblis)\NPermintaan apa?
+Dialogue: 0,0:20:54.77,0:20:56.90,Default,,0000,0000,0000,,(Raja Pembunuh) (Tahap bencana: Iblis)\NAku nak dengar orang menjerit.
+Dialogue: 0,0:20:56.90,0:21:00.76,Default,,0000,0000,0000,,Sampai kepala aku jadi gila. Cepatlah.
+Dialogue: 0,0:21:00.76,0:21:02.66,Default,,0000,0000,0000,,Garou sudah keluar.
+Dialogue: 0,0:21:03.47,0:21:04.83,Default,,0000,0000,0000,,Ekori dia.
+Dialogue: 0,0:21:26.35,0:21:30.53,Default,,0000,0000,0000,,♪ Andainya pada masa sama ♪
+Dialogue: 0,0:21:31.26,0:21:35.78,Default,,0000,0000,0000,,♪ Terapung di pinggir kewajaran ♪
+Dialogue: 0,0:21:36.15,0:21:45.48,Default,,0000,0000,0000,,♪ Perasaanmu sedang merayau sendirian ♪
+Dialogue: 0,0:21:45.96,0:21:52.80,Default,,0000,0000,0000,,♪ Aku akan menyapamu dengan wajah biasaku ♪
+Dialogue: 0,0:21:54.02,0:21:59.06,Default,,0000,0000,0000,,♪ Andainya ada cahaya di situ ♪
+Dialogue: 0,0:21:59.06,0:22:06.16,Default,,0000,0000,0000,,♪ Sama menerangi masa kini kita ♪
+Dialogue: 0,0:22:06.16,0:22:11.33,Default,,0000,0000,0000,,♪ Walau pedih, walau kesunyian ♪
+Dialogue: 0,0:22:11.33,0:22:16.23,Default,,0000,0000,0000,,♪ Aku akan menerimanya seadanya ♪
+Dialogue: 0,0:22:16.23,0:22:24.72,Default,,0000,0000,0000,,♪ Dengan harapan membakar\Ndi dalam hati, aku terus mara ♪
+Dialogue: 0,0:22:36.97,0:22:38.67,Default,,0000,0000,0000,,Semalam Goketsu.
+Dialogue: 0,0:22:38.67,0:22:41.37,Default,,0000,0000,0000,,Hari ini Penghulu Lipan pula tewas.
+Dialogue: 0,0:22:41.37,0:22:43.46,Default,,0000,0000,0000,,Gyoro Gyoro pun tak sangka
+Dialogue: 0,0:22:43.46,0:22:46.69,Default,,0000,0000,0000,,dua ahli eksekutif terbunuh\Nsebelum perlawanan akhir.
+Dialogue: 0,0:22:46.69,0:22:48.48,Default,,0000,0000,0000,,Jadi dia nak rekrut Pemburu Hero
+Dialogue: 0,0:22:48.48,0:22:50.87,Default,,0000,0000,0000,,sebahagian daripada pasukan tempur utama?
+Dialogue: 0,0:22:50.87,0:22:53.19,Default,,0000,0000,0000,,Aku tak boleh baca minda Gyoro Gyoro.
+Dialogue: 0,0:22:53.19,0:22:55.60,Default,,0000,0000,0000,,Tapi aku pun tak berminat.
+Dialogue: 0,0:22:55.60,0:22:58.71,Default,,0000,0000,0000,,Asalkan kita boleh hancurkan\NPersatuan Hero dan Flash.
+Dialogue: 0,0:22:59.21,0:23:02.67,Default,,0000,0000,0000,,Oh,ya apa jadi pada Sonic\NSelaju Bunyi yang direkrut?
+Dialogue: 0,0:23:02.67,0:23:04.26,Default,,0000,0000,0000,,Dia tak datanglah.
+Dialogue: 0,0:23:04.26,0:23:06.62,Default,,0000,0000,0000,,Agaknya dia tak boleh\Nsesuaikan diri dengan sel invasif.
+Dialogue: 0,0:23:10.65,0:23:12.35,Default,,0000,0000,0000,,Aku merana sepanjang malam,
+Dialogue: 0,0:23:12.35,0:23:14.97,Default,,0000,0000,0000,,tapi ampaknya akhirnya\Nberjaya bertahan juga.
+Dialogue: 0,0:23:14.97,0:23:17.19,Default,,0000,0000,0000,,Ahli Persatuan Raksasa itu\Nbetul-betul buat aku menyampah.
+Dialogue: 0,0:23:17.19,0:23:19.74,Default,,0000,0000,0000,,Langsung tak bagitahu aku\Nakan cirit-birit teruk begini.
+Dialogue: 0,0:23:19.74,0:23:21.35,Default,,0000,0000,0000,,Aku pasti akan balas balik.
+Dialogue: 0,0:23:23.36,0:23:24.58,Default,,0000,0000,0000,,Apapun...
+Dialogue: 0,0:23:24.59,0:23:27.43,Default,,0000,0000,0000,,Aku tak berniat pun bersekongkol\Ndengan raksasa sejak awal.
+Dialogue: 0,0:23:27.43,0:23:30.21,Default,,0000,0000,0000,,Aku cuma gunakan mereka\Nuntuk manfaat sendiri.
+Dialogue: 0,0:23:30.22,0:23:33.15,Default,,0000,0000,0000,,Sasaran aku cuma Saitama.
+Dialogue: 0,0:23:33.16,0:23:35.43,Default,,0000,0000,0000,,Akan tetapi, aku boleh rasakan
+Dialogue: 0,0:23:35.44,0:23:37.05,Default,,0000,0000,0000,,kuasa baharu...
+Dialogue: 0,0:23:37.52,0:23:40.58,Default,,0000,0000,0000,,Pasti ada perubahan dalam tubuhku.
+Dialogue: 0,0:23:40.58,0:23:42.61,Default,,0000,0000,0000,,Perasaan yang ringan ini,
+Dialogue: 0,0:23:42.62,0:23:45.51,Default,,0000,0000,0000,,mungkin ambil masa untuk biasakan diri.
+Dialogue: 0,0:23:45.51,0:23:47.37,Default,,0000,0000,0000,,Jadi inikah perubahan raksasa?
+Dialogue: 0,0:23:47.37,0:23:50.05,Default,,0000,0000,0000,,Sekali sudah berubah, tiada hal.
+Dialogue: 0,0:23:50.93,0:23:55.94,Default,,0000,0000,0000,,(Sonic hilang 2 kilo berat badan)
+Dialogue: 0,0:23:55.94,0:24:00.90,Default,,0000,0000,0000,,(Syarat Raksasa)
+

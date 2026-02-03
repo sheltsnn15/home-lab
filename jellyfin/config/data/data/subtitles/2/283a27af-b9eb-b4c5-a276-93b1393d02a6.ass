@@ -1,0 +1,226 @@
+[Script Info]
+Title: [Erai-raws] Español (España)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_EpiTitle,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H3278070E,&H00494949,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Serieslogo,Times New Roman,40,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0005,0005,0000,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Box,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,0,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:34.84,0:00:36.85,Gen_Main,Yuji,0000,0000,0000,,Son muchísimos.
+Dialogue: 0,0:00:37.35,0:00:39.12,Gen_Main,Yuji,0000,0000,0000,,No puedo pasar de ellos.
+Dialogue: 0,0:00:39.26,0:00:41.46,Gen_Main,Yuji,0000,0000,0000,,Pero no hay tiempo\Npara salvarlos a todos.
+Dialogue: 0,0:00:41.64,0:00:43.40,Gen_Main,Yuji,0000,0000,0000,,¿Qué hago?
+Dialogue: 0,0:00:43.56,0:00:46.86,Gen_Main,Yuji,0000,0000,0000,,La estación y el profe Gojo\Nestán ahí delante.
+Dialogue: 0,0:00:47.02,0:00:49.36,Gen_Main,Toge,0000,0000,0000,,-¡Huevas de abadejo!\N-Esa forma de hablar…
+Dialogue: 0,0:00:50.98,0:00:52.94,Gen_Main,Yuji,0000,0000,0000,,-¡Inumaki!\N-Salmón.
+Dialogue: 0,0:00:53.11,0:00:55.00,Gen_Main,Yuji,0000,0000,0000,,-¡Encárgate tú!\N-Salmón.
+Dialogue: 0,0:01:03.95,0:01:06.96,Cart_A_Tim,,0000,0000,0000,,{\pos(320,111.15)\bord0}Episodio 37\N\N\N\N\N\N\N\N\N\N\N{\fs30}Escamas carmesíes
+Dialogue: 0,0:01:04.12,0:01:05.43,Gen_Main,Toge,0000,0000,0000,,No os mováis.
+Dialogue: 0,0:01:17.51,0:01:22.01,Cart_Serieslogo,,0000,0000,0000,,{\fad(0,800)\fs28\3c&H9EF2FA&\move(320,47.64,320,48.85,20,4983)}{\t(0,5050,\fs-0.3)}JUJUTSU KAISEN{\fscy100}\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N{\bord0\c&HFFFFFF&}Shibuya Incident
+Dialogue: 0,0:02:40.01,0:02:42.51,Cart_A_Tim,,0000,0000,0000,,{\an1\fs24\bord0\shad0\3c&H919196&\pos(300.467,302.3)}Interior de la estación de Shibuya
+Dialogue: 0,0:02:49.52,0:02:53.02,Cart_C_Verd,,0000,0000,0000,,{\fs18\3c&H6C797A&\fscx80\pos(320,176.8)}Por favor.\NNo corran dentro de la estación\Nporque es peligroso.
+Dialogue: 0,0:03:08.54,0:03:11.42,Cart_A_Verd,,0000,0000,0000,,{\c&H28508F&\fscx80\pos(320,145.867)}Automática
+Dialogue: 0,0:03:30.85,0:03:32.32,Gen_Main,Choso,0000,0000,0000,,¡Yuji Itadori!
+Dialogue: 0,0:03:32.73,0:03:34.32,Gen_Main,Choso,0000,0000,0000,,¡Tú mataste a mis hermanos!
+Dialogue: 0,0:03:37.82,0:03:38.82,Cart_A_Tim,,0000,0000,0000,,{\fs30\pos(320,101.6)}Endurecimiento Total
+Dialogue: 0,0:03:37.98,0:03:39.32,Gen_Main,Choso,0000,0000,0000,,¡Endurecimiento Total!
+Dialogue: 0,0:03:40.44,0:03:43.20,Gen_Italics,Narration,0000,0000,0000,,Manipulación de Sangre:\NEndurecimiento Total.
+Dialogue: 0,0:03:44.11,0:03:48.45,Gen_Italics,Narration,0000,0000,0000,,Se le aplica presión a la sangre\Npara comprimirla hasta su límite.
+Dialogue: 0,0:03:50.62,0:03:54.58,Gen_Italics,Narration,0000,0000,0000,,La sangre comprimida con Endurecimiento\NTotal luego se libera en un punto.
+Dialogue: 0,0:03:55.09,0:03:59.60,Gen_Italics,Narration,0000,0000,0000,,La velocidad inicial de la sangre\Npotenciada con energía maldita
+Dialogue: 0,0:03:59.76,0:04:01.56,Gen_Italics,Narration,0000,0000,0000,,supera a la del sonido.
+Dialogue: 0,0:04:02.51,0:04:06.43,Gen_Italics,Narration,0000,0000,0000,,Esta técnica secreta\Nde Manipulación de Sangre se llama…
+Dialogue: 0,0:04:08.18,0:04:09.43,Cart_A_Tim,,0000,0000,0000,,{\fs30\pos(320,103.2)}Sangre Perforante
+Dialogue: 0,0:04:08.35,0:04:09.44,Gen_Main,Choso,0000,0000,0000,,Sangre Perforante.
+Dialogue: 0,0:04:23.40,0:04:25.09,Gen_Italics,Choso,0000,0000,0000,,¿Un impacto doble?
+Dialogue: 0,0:04:25.24,0:04:27.03,Gen_Italics,Choso,0000,0000,0000,,Qué técnica tan extraña.
+Dialogue: 0,0:04:42.66,0:04:43.76,Gen_Main,Choso,0000,0000,0000,,Me gustaría
+Dialogue: 0,0:04:44.70,0:04:46.78,Gen_Main,Choso,0000,0000,0000,,preguntarte una cosa.
+Dialogue: 0,0:04:47.76,0:04:51.40,Gen_Main,Choso,0000,0000,0000,,¿Mis hermanos dijeron algo al final?
+Dialogue: 0,0:04:51.76,0:04:52.89,Gen_Main,Yuji,0000,0000,0000,,¿Tus hermanos?
+Dialogue: 0,0:04:54.12,0:04:57.15,Gen_Main,Choso,0000,0000,0000,,Hablo de los dos a los que matasteis.
+Dialogue: 0,0:04:59.74,0:05:01.81,Gen_Main,Yuji,0000,0000,0000,,No, la verdad es que no.
+Dialogue: 0,0:05:03.17,0:05:04.32,Gen_Main,Yuji,0000,0000,0000,,Aunque…
+Dialogue: 0,0:05:06.54,0:05:07.74,Gen_Main,Yuji,0000,0000,0000,,sí que lloraron.
+Dialogue: 0,0:05:11.74,0:05:14.17,Gen_Main,Choso,0000,0000,0000,,¡Eso! ¡Kechizu!
+Dialogue: 0,0:05:17.77,0:05:19.09,Gen_Main,Choso,0000,0000,0000,,¡Miradme!
+Dialogue: 0,0:05:19.63,0:05:25.01,Gen_Main,Choso,0000,0000,0000,,¡Soy vuestro hermano mayor!
+Dialogue: 0,0:06:42.96,0:06:44.56,Gen_Italics,Yuji,0000,0000,0000,,Mierda.
+Dialogue: 0,0:06:45.63,0:06:48.14,Gen_Italics,Yuji,0000,0000,0000,,Se me ha vuelto a distanciar.
+Dialogue: 0,0:06:48.80,0:06:50.86,Gen_Italics,Yuji,0000,0000,0000,,Ese rayo de sangre es muy rápido.
+Dialogue: 0,0:06:51.01,0:06:52.64,Gen_Italics,Yuji,0000,0000,0000,,Puedo esquivarlo al 50 %.
+Dialogue: 0,0:06:52.80,0:06:55.64,Gen_Italics,Yuji,0000,0000,0000,,Si me falla la intuición\Ny me da en la cabeza,
+Dialogue: 0,0:06:56.06,0:06:57.89,Gen_Italics,Yuji,0000,0000,0000,,soy hombre muerto.
+Dialogue: 0,0:07:00.14,0:07:01.89,Gen_Italics,Yuji,0000,0000,0000,,Entonces, al menos…
+Dialogue: 0,0:07:07.90,0:07:11.91,Gen_Main,Yuji,0000,0000,0000,,determinaré yo en qué momento me ataca.
+Dialogue: 0,0:07:12.22,0:07:14.10,Gen_Italics,Choso,0000,0000,0000,,Me quiere provocar.
+Dialogue: 0,0:07:14.24,0:07:15.91,Gen_Italics,Choso,0000,0000,0000,,Muy bien.
+Dialogue: 0,0:07:35.60,0:07:36.92,Gen_Italics,Yuji,0000,0000,0000,,¡Lo sabía!
+Dialogue: 0,0:07:37.10,0:07:39.43,Gen_Italics,Yuji,0000,0000,0000,,Ese ataque solo es rápido al comienzo.
+Dialogue: 0,0:07:39.68,0:07:41.69,Gen_Italics,Yuji,0000,0000,0000,,Una vez lo esquivo, hay menos presión.
+Dialogue: 0,0:07:43.69,0:07:45.19,Gen_Main,Choso,0000,0000,0000,,Supernova.
+Dialogue: 0,0:07:44.69,0:07:45.19,Cart_A_Tim,,0000,0000,0000,,{\fs30\pos(320,102.133)}Supernova
+Dialogue: 0,0:08:18.72,0:08:20.09,Gen_Main,Choso,0000,0000,0000,,Me he precipitado.
+Dialogue: 0,0:08:21.68,0:08:23.87,Gen_Italics,Choso,0000,0000,0000,,No estaba lo bastante comprimida.
+Dialogue: 0,0:08:26.31,0:08:28.64,Gen_Italics,Yuji,0000,0000,0000,,Joder. Este cabrón…
+Dialogue: 0,0:08:31.65,0:08:33.96,Gen_Italics,Yuji,0000,0000,0000,,-es muy fuerte.\N-Eh.
+Dialogue: 0,0:08:35.03,0:08:37.65,Gen_Italics,Mechamaru,0000,0000,0000,,¡Eh! ¿Cuál es la situación?
+Dialogue: 0,0:08:37.82,0:08:39.80,Gen_Main,Yuji,0000,0000,0000,,¡Mechamaru! ¿Qué estabas haciendo?
+Dialogue: 0,0:08:39.95,0:08:42.78,Gen_Italics,Mechamaru,0000,0000,0000,,Descansar.\NAún tengo una cosa más que hacer.
+Dialogue: 0,0:08:42.96,0:08:45.38,Gen_Italics,Mechamaru,0000,0000,0000,,Choso manipula la sangre.
+Dialogue: 0,0:08:45.54,0:08:48.05,Gen_Main,Yuji,0000,0000,0000,,-¿Lo sabías?\N{\i1}-Usa la misma técnica que Kamo.{\i0}
+Dialogue: 0,0:08:49.92,0:08:52.90,Gen_Main,Yuji,0000,0000,0000,,¿El de los ojos entreabiertos\Nde tercero? Entonces…
+Dialogue: 0,0:08:53.05,0:08:54.60,Gen_Italics,Mechamaru,0000,0000,0000,,No conozco su punto débil.
+Dialogue: 0,0:08:55.47,0:09:00.84,Gen_Italics,Mechamaru,0000,0000,0000,,La Manipulación de Sangre es una de\Nlas técnicas hereditarias del clan Kamo.
+Dialogue: 0,0:08:55.76,0:09:11.32,Cart_A_Verd,,0000,0000,0000,,{\an1\fs14\fscx90\q2\3c&HD4EB56&\move(592.133,220,-195,220,25,15821)}Manipulación Sanguínea       {\3c&HE39EBC&}Endurecimiento Total           {\3c&H8F5EE8&}Sangre Perforante        {\3c&H60D4F4&}Cuchillas de Sangre                {\3c&H76FF79&}Supernova
+Dialogue: 0,0:09:01.01,0:09:04.25,Gen_Italics,Mechamaru,0000,0000,0000,,Endurecimiento Total\Ncomprime la sangre a gran presión
+Dialogue: 0,0:09:04.39,0:09:08.04,Gen_Italics,Mechamaru,0000,0000,0000,,y Sangre Perforante y Cuchillas\Nde Sangre, que derivan de él,
+Dialogue: 0,0:09:08.19,0:09:11.32,Gen_Italics,Mechamaru,0000,0000,0000,,están muy equilibradas\Na todas las distancias.
+Dialogue: 0,0:09:11.74,0:09:14.22,Gen_Italics,Mechamaru,0000,0000,0000,,Como Choso no se desangra,\Nno deja huecos.
+Dialogue: 0,0:09:14.36,0:09:15.82,Gen_Main,Yuji,0000,0000,0000,,Gracias por la información.
+Dialogue: 0,0:09:17.49,0:09:20.66,Gen_Italics,Mechamaru,0000,0000,0000,,No conozco su punto débil,\Npero tengo una idea.
+Dialogue: 0,0:09:20.83,0:09:22.12,Gen_Main,Yuji,0000,0000,0000,,Dime.
+Dialogue: 0,0:09:22.29,0:09:25.64,Gen_Italics,Mechamaru,0000,0000,0000,,-Primero huye al baño.\N{\i0}-¿Al baño? ¿Para qué?{\i1}
+Dialogue: 0,0:09:25.79,0:09:27.67,Gen_Italics,Mechamaru,0000,0000,0000,,Luego te lo explico.
+Dialogue: 0,0:09:27.83,0:09:30.21,Gen_Italics,Mechamaru,0000,0000,0000,,Hay un 10 % de probabilidades\Nde que funcione.
+Dialogue: 0,0:09:30.38,0:09:32.68,Gen_Italics,Mechamaru,0000,0000,0000,,Si esto sale mal, prepárate para morir.
+Dialogue: 0,0:09:32.84,0:09:36.54,Gen_Main,Yuji,0000,0000,0000,,-Qué cruel.\N{\i1}-A este paso, te irá matando lentamente.{\i0}
+Dialogue: 0,0:09:45.73,0:09:47.31,Gen_Main,Choso,0000,0000,0000,,Eres idiota.
+Dialogue: 0,0:09:47.48,0:09:50.48,Gen_Italics,Choso,0000,0000,0000,,Por ahí solo se va\Na los baños y el ascensor.
+Dialogue: 0,0:09:50.65,0:09:53.49,Gen_Italics,Choso,0000,0000,0000,,Vayas donde vayas,\Nno tienes escapatoria.
+Dialogue: 0,0:09:57.74,0:09:59.02,Gen_Italics,Choso,0000,0000,0000,,¿Y ese sonido?
+Dialogue: 0,0:09:59.95,0:10:02.38,Gen_Italics,Choso,0000,0000,0000,,Este tipo consiguió\Nmatar a mis hermanos,
+Dialogue: 0,0:10:02.53,0:10:04.55,Gen_Italics,Choso,0000,0000,0000,,así que no es ningún incompetente.
+Dialogue: 0,0:10:05.12,0:10:08.30,Gen_Italics,Choso,0000,0000,0000,,Y de pronto he empezado\Na oír una segunda voz.
+Dialogue: 0,0:10:09.67,0:10:13.16,Gen_Italics,Choso,0000,0000,0000,,Algo me dice que trama algo.\NNo bajes la guardia.
+Dialogue: 0,0:10:13.42,0:10:16.04,Gen_Italics,Mechamaru,0000,0000,0000,,¿Qué pasa? ¿No vienes?
+Dialogue: 0,0:10:17.09,0:10:19.01,Gen_Italics,Mechamaru,0000,0000,0000,,Eres un cobarde, ¿eh?
+Dialogue: 0,0:10:19.18,0:10:21.24,Gen_Italics,Mechamaru,0000,0000,0000,,Como tus hermanitos.
+Dialogue: 0,0:10:22.47,0:10:23.77,Gen_Main,Choso,0000,0000,0000,,¡Os voy a matar!
+Dialogue: 0,0:10:27.27,0:10:29.02,Cart_Serieslogo,,0000,0000,0000,,{\fad(550,0)\3c&H75EFED&}JUJUTSU KAISEN
+Dialogue: 0,0:10:30.44,0:10:32.40,Gen_Italics,Mechamaru,0000,0000,0000,,Sois igualitos.
+Dialogue: 0,0:10:36.65,0:10:39.49,Gen_Italics,Mechamaru,0000,0000,0000,,Los tres os queréis mucho.
+Dialogue: 0,0:10:39.66,0:10:41.61,Gen_Italics,Mechamaru,0000,0000,0000,,Eso os vuelve manipulables.
+Dialogue: 0,0:10:48.75,0:10:50.83,Gen_Italics,Mechamaru,0000,0000,0000,,Todo está saliendo bien.
+Dialogue: 0,0:10:51.00,0:10:53.54,Gen_Italics,Mechamaru,0000,0000,0000,,¡Ahora todo depende de la suerte,\NYuji Itadori!
+Dialogue: 0,0:11:05.97,0:11:07.66,Gen_Main,Choso,0000,0000,0000,,Qué pena.
+Dialogue: 0,0:11:08.89,0:11:11.19,Gen_Italics,Choso,0000,0000,0000,,Esa ha sido tu última ocasión.
+Dialogue: 0,0:11:11.35,0:11:14.27,Gen_Italics,Choso,0000,0000,0000,,¡Te has quedado sin escapatoria!
+Dialogue: 0,0:11:20.45,0:11:22.60,Gen_Italics,Choso,0000,0000,0000,,¿He perdido el Endurecimiento Total?
+Dialogue: 0,0:11:23.87,0:11:27.33,Gen_Italics,Narration,0000,0000,0000,,Para mejorar el rendimiento\Nde su Manipulación de Sangre,
+Dialogue: 0,0:11:27.49,0:11:31.28,Gen_Italics,Narration,0000,0000,0000,,sus usuarios anulan las propiedades\Nde coagulación de su sangre.
+Dialogue: 0,0:11:32.12,0:11:37.29,Gen_Italics,Narration,0000,0000,0000,,Como resultado, la sangre de Choso se\Ndisuelve en el agua más que la de otros.
+Dialogue: 0,0:11:37.71,0:11:40.96,Gen_Italics,Narration,0000,0000,0000,,Además, una vez expuesta al agua,
+Dialogue: 0,0:11:41.13,0:11:43.90,Gen_Italics,Narration,0000,0000,0000,,la presión osmótica\Nhace que los eritrocitos crezcan
+Dialogue: 0,0:11:44.13,0:11:46.41,Gen_Italics,Narration,0000,0000,0000,,y rompan sus membranas.
+Dialogue: 0,0:11:47.51,0:11:51.57,Gen_Italics,Narration,0000,0000,0000,,Ese hecho le impide\Ncontrolar las células sanguíneas
+Dialogue: 0,0:11:51.80,0:11:53.84,Gen_Italics,Narration,0000,0000,0000,,que componen el 45 % de su sangre,
+Dialogue: 0,0:11:54.02,0:11:56.31,Gen_Italics,Narration,0000,0000,0000,,anulando su Endurecimiento Total.
+Dialogue: 0,0:11:57.17,0:11:59.76,Gen_Italics,Narration,0000,0000,0000,,Mechamaru había dado en el blanco.
+Dialogue: 0,0:12:00.36,0:12:02.16,Gen_Italics,Narration,0000,0000,0000,,En esta situación
+Dialogue: 0,0:12:02.32,0:12:06.78,Gen_Italics,Narration,0000,0000,0000,,Choso no podía usar la Manipulación\Nde Sangre de fuera de su cuerpo.
+Dialogue: 0,0:12:12.96,0:12:16.77,Gen_Italics,Choso,0000,0000,0000,,Flujo de Escamas Carmesíes duplicado.
+Dialogue: 0,0:12:16.92,0:12:19.58,Gen_Italics,Narration,0000,0000,0000,,Choso carecía de experiencia de combate,
+Dialogue: 0,0:12:19.76,0:12:22.84,Gen_Italics,Narration,0000,0000,0000,,así que no entendía\Nlo que le estaba pasando.
+Dialogue: 0,0:12:23.24,0:12:25.46,Gen_Italics,Narration,0000,0000,0000,,Solo podía aceptar la dura realidad
+Dialogue: 0,0:12:25.64,0:12:28.88,Gen_Italics,Narration,0000,0000,0000,,y manipuló\Nla sangre de su propio cuerpo.
+Dialogue: 0,0:12:30.39,0:12:32.28,Gen_Italics,Yuji,0000,0000,0000,,No entiendo la lógica.
+Dialogue: 0,0:12:32.43,0:12:35.04,Gen_Italics,Yuji,0000,0000,0000,,No he podido preguntárselo.
+Dialogue: 0,0:12:35.19,0:12:37.86,Gen_Italics,Yuji,0000,0000,0000,,Aunque sí sé una cosa.
+Dialogue: 0,0:12:38.57,0:12:40.62,Gen_Italics,Yuji,0000,0000,0000,,¡Ya es mío!
+Dialogue: 0,0:13:49.47,0:13:50.52,Gen_Italics,Yuji,0000,0000,0000,,¡Puedo ganar!
+Dialogue: 0,0:13:52.56,0:13:57.09,Gen_Italics,Narration,0000,0000,0000,,Choso evitó exponer\Nun poco de su sangre
+Dialogue: 0,0:13:57.27,0:14:00.81,Gen_Italics,Narration,0000,0000,0000,,y, sin disolverla en el agua, se formó\Nun coágulo con energía maldita
+Dialogue: 0,0:14:00.98,0:14:03.96,Gen_Italics,Narration,0000,0000,0000,,que fue comprimiendo\Nhasta llegar al límite.
+Dialogue: 0,0:14:05.99,0:14:08.62,Gen_Italics,Narration,0000,0000,0000,,Y entonces, cuando Yuji Itadori\Nse veía ganador,
+Dialogue: 0,0:14:08.78,0:14:10.37,Gen_Italics,Narration,0000,0000,0000,,le perforó el hígado.
+Dialogue: 0,0:14:11.49,0:14:15.32,Gen_Italics,Choso,0000,0000,0000,,Manipulación de Sangre:\NMeteorito de Sangre.
+Dialogue: 0,0:14:15.50,0:14:18.08,Gen_Italics,Yuji,0000,0000,0000,,¡Qué cagada!\NCreía que no usaría más proyectiles.
+Dialogue: 0,0:14:19.00,0:14:21.04,Gen_Italics,Yuji,0000,0000,0000,,¿Qué? ¿Dónde me ha dado?
+Dialogue: 0,0:14:21.33,0:14:24.32,Gen_Italics,Yuji,0000,0000,0000,,No es como cuando me ha hecho\Nun agujero en el vientre.
+Dialogue: 0,0:14:24.58,0:14:26.92,Gen_Italics,Yuji,0000,0000,0000,,Se ha cargado algún punto vital.
+Dialogue: 0,0:14:27.34,0:14:28.48,Gen_Italics,Yuji,0000,0000,0000,,Voy a perder…
+Dialogue: 0,0:14:29.05,0:14:30.34,Gen_Italics,Yuji,0000,0000,0000,,y a morir.
+Dialogue: 0,0:14:36.35,0:14:39.85,Gen_Italics,Yuji,0000,0000,0000,,Ya sé cuál es mi papel.
+Dialogue: 0,0:14:40.26,0:14:46.20,Gen_Italics,Yuji,0000,0000,0000,,Hacer que Fushiguro, Kugisaki\Ny los de segundo y el resto
+Dialogue: 0,0:14:46.36,0:14:49.62,Gen_Italics,Yuji,0000,0000,0000,,pasen de aquí\Ny lleguen hasta el profe Gojo.
+Dialogue: 0,0:14:49.90,0:14:53.12,Gen_Italics,Yuji,0000,0000,0000,,Así que voy a cargarme a este tío\Naunque me cueste la vida.
+Dialogue: 0,0:14:53.66,0:14:58.08,Gen_Italics,Yuji,0000,0000,0000,,No soy yo el que tiene\Nque rescatar al profe Gojo.
+Dialogue: 0,0:14:59.29,0:15:00.96,Gen_Italics,Choso,0000,0000,0000,,Tres golpes.
+Dialogue: 0,0:15:01.12,0:15:03.11,Gen_Italics,Choso,0000,0000,0000,,Con solo tres golpes,
+Dialogue: 0,0:15:03.25,0:15:05.29,Gen_Italics,Choso,0000,0000,0000,,sin contar de los que me he protegido.
+Dialogue: 0,0:15:05.92,0:15:09.80,Gen_Italics,Choso,0000,0000,0000,,Los golpes que me ha asestado Itadori\Nme han hecho mucho daño.
+Dialogue: 0,0:15:10.62,0:15:12.79,Gen_Italics,Choso,0000,0000,0000,,El Meteorito de Sangre\Nsolo tiene dureza.
+Dialogue: 0,0:15:12.97,0:15:15.60,Gen_Italics,Choso,0000,0000,0000,,No es rápido ni impacta\Ncomo Sangre Perforante.
+Dialogue: 0,0:15:15.76,0:15:20.31,Gen_Italics,Choso,0000,0000,0000,,Si no lo hubiera pillado desprevenido,\Nno le habría perforado nada.
+Dialogue: 0,0:15:21.06,0:15:23.09,Gen_Italics,Narration,0000,0000,0000,,Normalmente, estos hechiceros
+Dialogue: 0,0:15:23.27,0:15:26.40,Gen_Italics,Narration,0000,0000,0000,,coagulan su sangre como ha hecho\Npara el Meteorito de Sangre.
+Dialogue: 0,0:15:26.57,0:15:29.65,Gen_Italics,Narration,0000,0000,0000,,Incluso las Cuchillas de Sangre\Nsolo solidifican el contorno
+Dialogue: 0,0:15:29.82,0:15:33.24,Gen_Italics,Narration,0000,0000,0000,,y circulan a gran velocidad\Npara aumentar su letalidad.
+Dialogue: 0,0:15:33.41,0:15:35.77,Gen_Italics,Narration,0000,0000,0000,,Pero incluso a ellos\Nles resulta imposible
+Dialogue: 0,0:15:35.97,0:15:39.08,Gen_Italics,Narration,0000,0000,0000,,extender su concentración\Na todos los vasos sanguíneos.
+Dialogue: 0,0:15:39.25,0:15:41.88,Gen_Italics,Narration,0000,0000,0000,,Así que cuando coagulan\Ntanto su sangre,
+Dialogue: 0,0:15:42.04,0:15:46.09,Gen_Italics,Narration,0000,0000,0000,,existe el riesgo de que se produzca\Nuna trombosis espontánea.
+Dialogue: 0,0:15:46.40,0:15:47.49,Gen_Main,Choso,0000,0000,0000,,Ven.
+Dialogue: 0,0:15:48.54,0:15:53.22,Gen_Italics,Narration,0000,0000,0000,,Pero Choso determinó que el riesgo\Nque suponía Yuji Itadori
+Dialogue: 0,0:15:53.50,0:15:55.85,Gen_Italics,Narration,0000,0000,0000,,era mucho mayor.
+Dialogue: 0,0:16:21.79,0:16:22.96,Gen_Italics,Yuji,0000,0000,0000,,¡Qué fuerte es!
+Dialogue: 0,0:16:32.51,0:16:33.60,Gen_Italics,Yuji,0000,0000,0000,,¿Un diente?
+Dialogue: 0,0:16:37.39,0:16:39.03,Gen_Italics,Yuji,0000,0000,0000,,¿Era un amago?
+Dialogue: 0,0:17:47.58,0:17:48.59,Gen_Italics,Yuji,0000,0000,0000,,¡No he acabado!
+Dialogue: 0,0:17:52.09,0:17:55.08,Gen_Italics,Yuji,0000,0000,0000,,No he usado el puño izquierdo\Ndesde el comienzo.
+Dialogue: 0,0:17:56.72,0:17:59.35,Gen_Italics,Yuji,0000,0000,0000,,Seguro que se cree\Nque ya no puedo usarlo más.
+Dialogue: 0,0:17:59.89,0:18:02.81,Gen_Italics,Yuji,0000,0000,0000,,Así que usaré el puño derecho\Ncomo distracción
+Dialogue: 0,0:18:06.14,0:18:07.69,Gen_Italics,Yuji,0000,0000,0000,,¡para darle!
+Dialogue: 0,0:18:11.12,0:18:14.44,Gen_Italics,Yuji,0000,0000,0000,,¿Qué? ¿Qué ha sido esa sensación?
+Dialogue: 0,0:18:30.68,0:18:32.21,Gen_Main,Choso,0000,0000,0000,,Qué lástima.
+Dialogue: 0,0:18:48.06,0:18:50.83,Gen_Main,Choso,0000,0000,0000,,Aún respira.
+Dialogue: 0,0:19:01.37,0:19:02.75,Gen_Main,Choso,0000,0000,0000,,Vete al más allá
+Dialogue: 0,0:19:03.49,0:19:06.01,Gen_Main,Choso,0000,0000,0000,,y pídeles disculpas a mis hermanos.
+Dialogue: 0,0:19:10.46,0:19:12.27,Gen_Main,Sukuna,0000,0000,0000,,Qué patético.
+Dialogue: 0,0:19:12.42,0:19:15.38,Gen_Main,Sukuna,0000,0000,0000,,Mira que perder contra un mindundi…
+Dialogue: 0,0:20:02.51,0:20:04.20,Gen_Main,Choso,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:20:09.94,0:20:11.08,Gen_Italics,Narration,0000,0000,0000,,En ese instante,
+Dialogue: 0,0:20:11.23,0:20:13.94,Gen_Italics,Narration,0000,0000,0000,,los recuerdos fluyeron\Nen la mente de Choso.
+Dialogue: 0,0:20:13.94,0:20:18.19,Cart_C_Verd,,0000,0000,0000,,{\bord0\blur0.8\fs18}Recuerdos que no existían en realidad
+Dialogue: 0,0:20:14.10,0:20:16.94,Gen_Italics,Narration,0000,0000,0000,,Recuerdos que no existían en realidad.
+Dialogue: 0,0:21:02.62,0:21:03.76,Gen_Main,Yuji,0000,0000,0000,,Vamos.
+Dialogue: 0,0:21:04.65,0:21:05.99,Gen_Main,Yuji,0000,0000,0000,,Come tú también, Choso.
+Dialogue: 0,0:21:17.89,0:21:21.63,Gen_Main,Choso,0000,0000,0000,,¿Qué me estás…?
+Dialogue: 0,0:23:11.16,0:23:13.07,Cart_A_Tre,,0000,0000,0000,,{\b0\fs20\bord1.5\be1\3c&H161622&}Traducción: Abraham Gayuvas y Antonio Valdez\NEdición: Abraham Gayuvas\NControl de calidad: Nicolás Sepúlveda
+Dialogue: 0,0:23:22.36,0:23:23.63,Gen_Main,Nanako,0000,0000,0000,,Ahí está.
+Dialogue: 0,0:23:31.38,0:23:34.48,Gen_Main,Mimiko,0000,0000,0000,,-Está vivo, ¿no?\N-Sí.
+Dialogue: 0,0:23:35.93,0:23:38.32,Gen_Main,Nanako,0000,0000,0000,,Pues empecemos ya.
+Dialogue: 0,0:23:41.02,0:23:43.25,Gen_Main,Kugisaki,0000,0000,0000,,-¿{\i1}Mondei{\i0}?\N-Monday.
+Dialogue: 0,0:23:43.40,0:23:45.20,Gen_Main,Kugisaki,0000,0000,0000,,-{\i1}¡Tuesday!{\i0}\N-Sí, muy bien.
+Dialogue: 0,0:23:45.36,0:23:47.33,Gen_Main,Kugisaki,0000,0000,0000,,-¿{\i1}Wedenesdei{\i0}?\N-{\i1}Wednesday{\i0}.
+Dialogue: 0,0:23:47.48,0:23:48.68,Gen_Main,Kugisaki,0000,0000,0000,,¡Vaya mierda!
+Dialogue: 0,0:23:48.86,0:23:52.13,Gen_Main,Yuji,0000,0000,0000,,-Próximo: "Temblores".\N-¿Quién impuso esa pronunciación?
+Dialogue: 0,0:23:48.86,0:23:55.03,Cart_A_Tim,,0000,0000,0000,,{\pos(320,111.15)\bord2.5\blur3}Próximo episodio\N\N\N\N\N\N\N\N\N\N\N{\q2\fs30}Temblores
+Dialogue: 0,0:23:52.28,0:23:54.62,Gen_Main,Fushiguro,0000,0000,0000,,Alguien más listo que tú, lela.
+

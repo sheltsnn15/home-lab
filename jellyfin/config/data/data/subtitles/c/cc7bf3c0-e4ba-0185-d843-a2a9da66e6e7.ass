@@ -1,0 +1,359 @@
+﻿[Script Info]
+Title: [Erai-raws] Italiano
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial Unicode MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Show_Title,Times New Roman,36,&H00000000,&H000000FF,&H0090D3CB,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Eyecatch_Title,Times New Roman,44,&H00070300,&H000000FF,&H009CE4E2,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Ep_Title,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0040,1
+Style: Ep_Title_Shadow,Times New Roman,24,&HFEFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,3,0010,0028,0050,1
+Style: Next_Ep_Title,Times New Roman,24,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0060,1
+Style: sign_4777_40_Miyashiro_Prefec,Times New Roman,20,&H00716763,&H000000FF,&H0020180B,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0087,0087,0018,1
+Style: sign_6477_66_Sea_Angel,Comic Sans MS,12,&H00848CD2,&H000000FF,&H00F9FDFC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0493,0093,0000,1
+Style: sign_6477_67_A_type_of_plankt,Comic Sans MS,9,&H00585955,&H000000FF,&H00F4F5E2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0539,0021,0000,1
+Style: sign_6948_80_Mysterious_Event,Times New Roman,24,&H002D4431,&H000000FF,&H0066995C,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,5,0152,0273,0000,1
+Style: sign_7411_88_B_i_n_g,Arial Unicode MS,24,&H00151815,&H000000FF,&H00DEE0E2,&H00000000,-1,0,0,0,100,100,0,346,1,4,0,5,0328,0292,0000,1
+Style: sign_7581_92_35_Year_Old_Form,Arial Unicode MS,20,&H00C1C7CF,&H000000FF,&H004F555D,&H00000000,-1,0,0,0,80,100,0,0,1,2,0,2,0014,0014,0018,1
+Style: sign_7608_94_Former_Employee_,Times New Roman,14,&H00464C54,&H000000FF,&H00B9C1C4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,6,0404,0030,0000,1
+Style: sign_7836_100_Laid_Off_From_Wo,Times New Roman,24,&H002B3C3C,&H000000FF,&H00FAFFFE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0137,0137,0018,1
+Style: sign_8270_111_Hard_Ticks,Comic Sans MS,24,&H004735AD,&H000000FF,&H00ECECEC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0040,0484,0000,1
+Style: sign_8270_112_A_large__parasit,Comic Sans MS,16,&H0042444D,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,3,2,4,0327,0152,0000,1
+Style: sign_8270_115_Hmm_,Comic Sans MS,16,&H00656565,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,0,0,8,0101,0497,0148,1
+Style: sign_8270_116_They_leap_onto_t,Comic Sans MS,12,&H005F5F5F,&H000000FF,&H00E9E9E9,&H00838488,-1,0,0,0,100,100,0,0,1,2,0,4,0157,0359,0000,1
+Style: sign_9617_151_Track_and_Field_,Times New Roman,24,&H00000000,&H000000FF,&H00DCE4E0,&H00DCE4E0,-1,0,0,0,100,100,0,0,1,0,0,8,0000,0405,0010,1
+Style: sign_11038_173__Japan_s_Nationa,Trebuchet MS,30,&H00F1F2F3,&H000000FF,&H00686767,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0184,0170,0140,1
+Style: sign_16448_266_Matsumoto,Times New Roman,24,&H008C9896,&H000000FF,&H00E0EBEC,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,0518,0000,0000,1
+Style: sign_18893_302_4th_grade_Girl_C,Trebuchet MS,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,337.5,1,0,0,4,0236,0089,0000,1
+Style: sign_23361_367_Occult_Phenomeno,Trebuchet MS,14,&H001C1C1C,&H000000FF,&H00817211,&H00000000,-1,0,0,0,100,100,0,52.52,1,3,0,8,0130,0367,0246,1
+Style: sign_32727_342_Juju_Stroll,Times New Roman,30,&H00000101,&H000000FF,&H00E7EFF0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0242,0242,0010,1
+Style: sign_26840_306_One_Month_Later,Arial Unicode MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0205,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Overlap,Trebuchet MS,24,&H00B5B5B5,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:03.66,0:00:08.00,Italics,Nanami,0000,0000,0000,,{\an8}Cedere alla rabbia di fronte alla mia inutilità
+Dialogue: 0,0:00:05.81,0:00:08.56,Sign_Basic,Sign,0000,0000,0000,,{\an3\pos(607,260)\fnArial\fs22\bord0\shad0\b1}21:44\h\h\h\h\hMetropolitana di Tokyo, Stazione di Shibuya\NLato dell'uscita 13 (fuori dal "velo")\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+Dialogue: 0,0:00:08.56,0:00:10.06,Italics,Nanami,0000,0000,0000,,non è mai stato
+Dialogue: 0,0:00:10.34,0:00:12.06,Italics,Nanami,0000,0000,0000,,e non sarà mai
+Dialogue: 0,0:00:12.88,0:00:15.48,Italics,Nanami,0000,0000,0000,,parte della mia natura.
+Dialogue: 0,0:00:22.02,0:00:23.99,Italics,Nanami,0000,0000,0000,,Devo semplicemente
+Dialogue: 0,0:00:25.28,0:00:29.10,Italics,Nanami,0000,0000,0000,,affrontare i mali che ci sbattono\Ndi fronte a questa realtà.
+Dialogue: 0,0:00:29.10,0:00:30.83,Italics,Nanami,0000,0000,0000,,Devo semplicemente...
+Dialogue: 0,0:00:42.16,0:00:44.01,Main,Nanami,0000,0000,0000,,Non montatevi la testa.
+Dialogue: 0,0:00:44.01,0:00:47.01,Ep_Title,Sign,0000,0000,0000,,Episodio 36\N{\fs30\fscy150}Lama smussata
+Dialogue: 0,0:00:57.57,0:01:02.08,Show_Title,Sign,0000,0000,0000,,{\fad(0,825)\pos(320,10)\3c&H8ECEDD&}JUJUTSU KAISEN\N{\fs16\bord0\fscy100\c&HDEDCE0&}L'Incidente di Shibuya
+Dialogue: 0,0:02:19.43,0:02:23.16,Main,Mei Mei,0000,0000,0000,,Lo sai che cosa fa la mia tecnica, vero?
+Dialogue: 0,0:02:23.54,0:02:25.27,Main,Mei Mei,0000,0000,0000,,Manovra i corvi.
+Dialogue: 0,0:02:25.27,0:02:26.63,Main,Mei Mei,0000,0000,0000,,Tutto qui.
+Dialogue: 0,0:02:26.62,0:02:35.88,Sign_Basic,Sign,0000,0000,0000,,{\an1\fnArial\fs22\bord0\shad0\b1\pos(137,264)}22:02\h\h\h\h\hMetropolitana di Tokyo\N\h\h\h\h\h\h\h\h\h\h\h\h\h\hTra le stazioni Meiji-jingumae e di Shibuya
+Dialogue: 0,0:02:27.52,0:02:29.14,Main,Mei Mei,0000,0000,0000,,{\an8}Deboluccia, non trovi?
+Dialogue: 0,0:02:29.60,0:02:32.50,Main,Mei Mei,0000,0000,0000,,{\an8}Per questo mi sono allenata \Nincessantemente sin da piccola.
+Dialogue: 0,0:02:32.90,0:02:35.88,Main,Mei Mei,0000,0000,0000,,{\an8}Così da poter combattere \Nanche senza usare la mia tecnica.
+Dialogue: 0,0:02:36.45,0:02:38.55,Main,Mei Mei,0000,0000,0000,,Direi che ne è valsa la pena.
+Dialogue: 0,0:02:38.55,0:02:42.35,Main,Mei Mei,0000,0000,0000,,Il fatto che possa farti a pezzi \Nne è la prova lampante.
+Dialogue: 0,0:02:42.35,0:02:43.46,Main,Stregone nero,0000,0000,0000,,Fermati!
+Dialogue: 0,0:02:43.46,0:02:45.54,Main,Stregone nero,0000,0000,0000,,Abbandonerò questa operazione!
+Dialogue: 0,0:02:45.54,0:02:47.12,Main,Stregone nero,0000,0000,0000,,Quindi risparmiami, ti prego!
+Dialogue: 0,0:02:46.37,0:02:47.10,Overlap,Ui Ui,0000,0000,0000,,Taci.
+Dialogue: 0,0:02:48.10,0:02:51.25,Main,Ui Ui,0000,0000,0000,,Mia sorella sta ancora parlando.
+Dialogue: 0,0:02:52.47,0:02:54.86,Main,Mei Mei,0000,0000,0000,,Ho continuato a ripetermi
+Dialogue: 0,0:02:54.86,0:02:58.02,Main,Mei Mei,0000,0000,0000,,che il vero valore di uno stregone \Nnon risiede nella sua tecnica.
+Dialogue: 0,0:02:58.03,0:02:59.02,Main,Mei Mei,0000,0000,0000,,Ma poi,
+Dialogue: 0,0:02:59.02,0:03:00.99,Main,Mei Mei,0000,0000,0000,,ho raggiunto il mio limite.
+Dialogue: 0,0:03:00.99,0:03:02.56,Main,Mei Mei,0000,0000,0000,,È impossibile aumentare all'infinito
+Dialogue: 0,0:03:02.56,0:03:06.53,Main,Mei Mei,0000,0000,0000,,le proprie capacità fisiche \Ne la robustezza del corpo con l'energia malefica.
+Dialogue: 0,0:03:06.53,0:03:08.04,Main,Mei Mei,0000,0000,0000,,Ero distrutta.
+Dialogue: 0,0:03:08.69,0:03:10.41,Main,Mei Mei,0000,0000,0000,,Ma è stato proprio questo
+Dialogue: 0,0:03:10.41,0:03:13.82,Main,Mei Mei,0000,0000,0000,,a costringermi a confrontarmi \Ndi nuovo con la mia tecnica,
+Dialogue: 0,0:03:13.82,0:03:18.46,Main,Mei Mei,0000,0000,0000,,e a far sì che potessi sbocciare \Ncome stregone di primo livello.
+Dialogue: 0,0:03:26.19,0:03:27.29,Main,Ui Ui,0000,0000,0000,,Applausi.
+Dialogue: 0,0:03:32.93,0:03:35.11,Main,Mei Mei,0000,0000,0000,,E ora ti ucciderò.
+Dialogue: 0,0:03:35.57,0:03:38.25,Main,Mei Mei,0000,0000,0000,,Volevo solo ammazzare il tempo \Nfacendo conversazione.
+Dialogue: 0,0:03:38.25,0:03:39.94,Main,Stregone nero,0000,0000,0000,,Sono davvero dispiaciuto!
+Dialogue: 0,0:03:39.94,0:03:42.46,Main,Stregone nero,0000,0000,0000,,Non farò mai più nulla di male!\NQuindi risparmiami!
+Dialogue: 0,0:03:42.46,0:03:44.41,Main,Stregone nero,0000,0000,0000,,Risparmiami la vita!
+Dialogue: 0,0:03:44.41,0:03:45.70,Main,Mei Mei,0000,0000,0000,,Ui Ui.
+Dialogue: 0,0:03:46.78,0:03:48.30,Main,Mei Mei,0000,0000,0000,,Parliamo del valore di una vita.
+Dialogue: 0,0:03:48.30,0:03:51.87,Main,Mei Mei,0000,0000,0000,,Sai a cosa è direttamente proporzionale\N il peso di una vita?
+Dialogue: 0,0:03:52.21,0:03:53.35,Main,Ui Ui,0000,0000,0000,,Lo so!
+Dialogue: 0,0:03:53.35,0:03:56.83,Main,Ui Ui,0000,0000,0000,,È direttamente proporzionale \Nal valore che ha per te, sorella mia!
+Dialogue: 0,0:03:58.42,0:03:59.55,Main,Mei Mei,0000,0000,0000,,Grazie.
+Dialogue: 0,0:03:59.90,0:04:00.96,Main,Mei Mei,0000,0000,0000,,E tu che mi dici?
+Dialogue: 0,0:04:02.11,0:04:05.30,Main,Stregone nero,0000,0000,0000,,I-Io... e-ecco...
+Dialogue: 0,0:04:07.11,0:04:12.22,Main,Mei Mei,0000,0000,0000,,Non sei in grado di dirmi su due piedi\Nche peso dai alle vite che cacci.
+Dialogue: 0,0:04:12.22,0:04:14.80,Main,Mei Mei,0000,0000,0000,,È proprio per questo che hai perso.
+Dialogue: 0,0:04:16.02,0:04:22.08,Main,Mei Mei,0000,0000,0000,,Comunque, per la cronaca, \Nio valuto le vite in base al loro beneficio potenziale.
+Dialogue: 0,0:04:36.67,0:04:37.67,Main,Yuji,0000,0000,0000,,Eh?!
+Dialogue: 0,0:04:38.06,0:04:41.87,Main,Yuji,0000,0000,0000,,È appena sparito solo il velo \Nche tagliava fuori gli stregoni, giusto?
+Dialogue: 0,0:04:41.87,0:04:45.09,Main,Yuji,0000,0000,0000,,Anche se abbiamo distrutto tre di questi affari, \Ncontando quello di Ino?
+Dialogue: 0,0:04:45.51,0:04:52.64,Sign_Basic,Sign,0000,0000,0000,,{\an7\fnArial\fs22\bord1\blur2\shad0\b1\fscx90\3c&H9FA6AA&\pos(30,220)}22:04\h\h\h\hShuto Express n°3, Linea di Shibuya\N\h\h\h\h\h\h\h\h\h\h\h\h\hDi fronte alla Cerulean Tower
+Dialogue: 0,0:04:45.99,0:04:49.07,Main,Fushiguro,0000,0000,0000,,{\an8}O hanno usato tutti e tre \Nper calare un singolo velo,
+Dialogue: 0,0:04:49.07,0:04:51.42,Main,Fushiguro,0000,0000,0000,,{\an8}oppure due erano dei falsi.
+Dialogue: 0,0:04:51.42,0:04:52.64,Main,Fushiguro,0000,0000,0000,,{\an8}A ogni modo,
+Dialogue: 0,0:04:52.64,0:04:55.30,Main,Fushiguro,0000,0000,0000,,ora possiamo muoverci liberamente\N all'interno di Shibuya.
+Dialogue: 0,0:04:56.03,0:04:58.85,Main,Fushiguro,0000,0000,0000,,Restano solo il velo che intrappola il professor Gojo
+Dialogue: 0,0:04:58.85,0:05:01.57,Main,Fushiguro,0000,0000,0000,,e quello che intrappola i civili.
+Dialogue: 0,0:05:02.15,0:05:05.35,Main,Fushiguro,0000,0000,0000,,Avrei voluto torchiare il vecchio, \Nma non si riprenderà tanto presto.
+Dialogue: 0,0:05:05.35,0:05:06.90,Main,Fushiguro,0000,0000,0000,,Raggiungiamo Ino e—
+Dialogue: 0,0:05:08.27,0:05:09.39,Main,Fushiguro,0000,0000,0000,,Ino!
+Dialogue: 0,0:05:36.32,0:05:38.14,Main,Nipote/Toji,0000,0000,0000,,Il velo è scomparso.
+Dialogue: 0,0:05:38.72,0:05:41.13,Main,Nipote/Toji,0000,0000,0000,,Che facciamo, nonnina?
+Dialogue: 0,0:05:41.13,0:05:43.43,Main,Nipote/Toji,0000,0000,0000,,Che... Che... Che...
+Dialogue: 0,0:05:43.91,0:05:45.25,Main,Nipote/Toji,0000,0000,0000,,C-C-Che...
+Dialogue: 0,0:05:45.25,0:05:47.21,Main,Nipote/Toji,0000,0000,0000,,C-Che facciamo?
+Dialogue: 0,0:05:48.04,0:05:51.98,Main,Ogami,0000,0000,0000,,È meglio continuare \Na tenere Satoru Gojo fuori dai giochi.
+Dialogue: 0,0:05:51.98,0:05:55.19,Main,Ogami,0000,0000,0000,,Va' di sotto e ammazza quegli stregoni.
+Dialogue: 0,0:05:59.07,0:06:00.41,Main,Ogami,0000,0000,0000,,Nipote?
+Dialogue: 0,0:06:05.51,0:06:07.79,Main,Toji,0000,0000,0000,,A chi credi di poter dare ordini...
+Dialogue: 0,0:06:08.52,0:06:09.80,Main,Toji,0000,0000,0000,,vecchiaccia?
+Dialogue: 0,0:06:13.61,0:06:15.40,Main,Ogami,0000,0000,0000,,Ma che significa?!
+Dialogue: 0,0:06:15.40,0:06:19.27,Main,Ogami,0000,0000,0000,,Ho solo richiamato le informazioni del corpo!
+Dialogue: 0,0:06:20.06,0:06:21.33,Main,Toji,0000,0000,0000,,Richiamato?
+Dialogue: 0,0:06:21.33,0:06:23.46,Main,Toji,0000,0000,0000,,Ah, ecco perché.
+Dialogue: 0,0:06:24.27,0:06:25.46,Italics,Ogami,0000,0000,0000,,Giusto...
+Dialogue: 0,0:06:25.46,0:06:28.15,Italics,Ogami,0000,0000,0000,,È proprio per evitare incidenti simili
+Dialogue: 0,0:06:28.15,0:06:31.54,Italics,Ogami,0000,0000,0000,,che non richiamo mai le informazioni dell'anima.
+Dialogue: 0,0:06:32.28,0:06:34.63,Main,Toji,0000,0000,0000,,Non ci capisco granché,
+Dialogue: 0,0:06:34.63,0:06:37.11,Main,Toji,0000,0000,0000,,ma il mio corpo è speciale.
+Dialogue: 0,0:06:37.11,0:06:40.88,Main,Toji,0000,0000,0000,,Probabilmente l'anima di questo ragazzo \Nnon è riuscita a battere il mio corpo.
+Dialogue: 0,0:06:40.88,0:06:43.95,Main,Ogami,0000,0000,0000,,Un'anima che si arrende a un corpo?!
+Dialogue: 0,0:06:43.95,0:06:45.21,Main,Ogami,0000,0000,0000,,Inconcepibile!
+Dialogue: 0,0:06:45.50,0:06:47.21,Main,Ogami,0000,0000,0000,,Non esiste!
+Dialogue: 0,0:06:47.98,0:06:49.72,Main,Toji,0000,0000,0000,,Uccidere degli stregoni?
+Dialogue: 0,0:06:54.19,0:06:56.29,Main,Toji,0000,0000,0000,,Sei uno stregone anche tu, giusto?
+Dialogue: 0,0:07:00.47,0:07:02.01,Main,Maki,0000,0000,0000,,Il signor Ijichi è irraggiungibile?
+Dialogue: 0,0:07:07.58,0:07:10.20,Main,Nobara,0000,0000,0000,,Pare sia stato attaccato \Nmentre era al telefono con Nitta.
+Dialogue: 0,0:07:10.50,0:07:13.19,Main,Nobara,0000,0000,0000,,Dev'essere successo dopo che \Nsi è separato dal gruppo di Fushiguro.
+Dialogue: 0,0:07:13.19,0:07:15.10,Main,Nobara,0000,0000,0000,,Probabilmente si trova nei guai.
+Dialogue: 0,0:07:15.92,0:07:18.95,Main,Maki,0000,0000,0000,,Nobara, tu e Akari andate da lui.
+Dialogue: 0,0:07:19.22,0:07:21.06,Main,Maki,0000,0000,0000,,Qui dentro non possiamo usare i cellulari.
+Dialogue: 0,0:07:21.63,0:07:24.12,Main,Maki,0000,0000,0000,,Senza assistenti supervisori \Nnon andiamo da nessuna parte.
+Dialogue: 0,0:07:24.84,0:07:27.43,Italics,Maki,0000,0000,0000,,Mi pare impossibile che \Nquell'idiota si faccia battere,
+Dialogue: 0,0:07:27.43,0:07:30.13,Italics,Maki,0000,0000,0000,,ma questa situazione peggiora sempre di più.
+Dialogue: 0,0:07:30.81,0:07:32.94,Main,Maki,0000,0000,0000,,Intanto io cercherò di far pulizia qui.
+Dialogue: 0,0:07:34.62,0:07:37.39,Main,Maki,0000,0000,0000,,Quel dannato vecchiaccio\N batte troppo la fiacca.
+Dialogue: 0,0:07:37.98,0:07:39.39,Main,Naobito,0000,0000,0000,,Un'altra birra!
+Dialogue: 0,0:07:39.39,0:07:40.21,Main,Maki,0000,0000,0000,,Ignoratelo.
+Dialogue: 0,0:07:40.80,0:07:41.93,Main,Maki,0000,0000,0000,,Andate!
+Dialogue: 0,0:07:41.93,0:07:43.05,Main,Nitta; Nobara,0000,0000,0000,,Ricevuto!
+Dialogue: 0,0:07:45.33,0:07:47.19,Italics,Maki,0000,0000,0000,,Una volta uscite dal velo,
+Dialogue: 0,0:07:47.60,0:07:49.97,Italics,Maki,0000,0000,0000,,potranno filarsela in caso accada il peggio.
+Dialogue: 0,0:07:52.86,0:07:54.02,Main,Yuji,0000,0000,0000,,Come sta Ino?
+Dialogue: 0,0:07:54.32,0:07:56.87,Main,Fushiguro,0000,0000,0000,,Non bene, questo è certo.
+Dialogue: 0,0:07:56.87,0:07:58.31,Main,Fushiguro,0000,0000,0000,,Però è ancora vivo.
+Dialogue: 0,0:07:58.65,0:08:00.37,Main,Yuji,0000,0000,0000,,Faccio un salto a stenderli.
+Dialogue: 0,0:08:00.37,0:08:01.60,Main,Fushiguro,0000,0000,0000,,Itadori!
+Dialogue: 0,0:08:01.60,0:08:03.80,Main,Fushiguro,0000,0000,0000,,Capisco cosa provi, ma trattieniti.
+Dialogue: 0,0:08:03.80,0:08:05.62,Main,Fushiguro,0000,0000,0000,,Qual è la nostra massima priorità?!
+Dialogue: 0,0:08:06.83,0:08:08.41,Main,Yuji,0000,0000,0000,,Il prof Gojo.
+Dialogue: 0,0:08:08.41,0:08:10.02,Main,Fushiguro,0000,0000,0000,,Il velo è scomparso.
+Dialogue: 0,0:08:10.02,0:08:12.83,Main,Fushiguro,0000,0000,0000,,I tizi che stavano là sopra \Npotrebbero già essere fuggiti.
+Dialogue: 0,0:08:12.83,0:08:15.07,Main,Fushiguro,0000,0000,0000,,Prenderò Ino e lo porterò fuori dal velo.
+Dialogue: 0,0:08:20.23,0:08:21.91,Main,Yuji,0000,0000,0000,,Lo affido alle tue cure.
+Dialogue: 0,0:08:21.91,0:08:23.64,Main,Yuji,0000,0000,0000,,Io mi avvio verso la stazione.
+Dialogue: 0,0:08:23.64,0:08:26.03,Italics,Fushiguro,0000,0000,0000,,Sì, è la cosa migliore da fare.
+Dialogue: 0,0:08:26.03,0:08:28.86,Italics,Fushiguro,0000,0000,0000,,Anche se agire da solo a Shibuya, ora come ora...
+Dialogue: 0,0:08:29.88,0:08:31.00,Main,Fushiguro,0000,0000,0000,,D'accordo.
+Dialogue: 0,0:08:31.00,0:08:32.03,Main,Fushiguro,0000,0000,0000,,Però...
+Dialogue: 0,0:08:32.03,0:08:34.99,Main,Yuji,0000,0000,0000,,"Se muori ti ammazzo"... dico bene?
+Dialogue: 0,0:08:37.93,0:08:39.73,Main,Yuji,0000,0000,0000,,Non ti preoccupare!
+Dialogue: 0,0:08:39.73,0:08:41.62,Main,Yuji,0000,0000,0000,,Con me c'è anche Mechamaru!
+Dialogue: 0,0:08:41.62,0:08:44.93,Italics,Yuji,0000,0000,0000,,Anche se al momento non sta dando segni di vita...
+Dialogue: 0,0:08:46.20,0:08:47.71,Main,Fushiguro,0000,0000,0000,,L'importante è che tu abbia capito.
+Dialogue: 0,0:08:49.59,0:08:50.82,Main,Fushiguro,0000,0000,0000,,A dopo.
+Dialogue: 0,0:08:51.83,0:08:52.87,Main,Yuji,0000,0000,0000,,Ok.
+Dialogue: 0,0:08:56.15,0:08:56.96,Main,Ui Ui,0000,0000,0000,,Sorella mia.
+Dialogue: 0,0:08:56.96,0:08:59.19,Main,Mei Mei,0000,0000,0000,,A quanto pare il velo è scomparso.
+Dialogue: 0,0:08:59.19,0:09:04.80,Main,Mei Mei,0000,0000,0000,,Il solo pensiero di quanto Satoru Gojo\N dovrà scucire per ripagarmi il favore...
+Dialogue: 0,0:09:05.72,0:09:08.02,Main,Mei Mei,0000,0000,0000,,mi eccita un sacco.
+Dialogue: 0,0:09:08.38,0:09:11.00,Main,Geto,0000,0000,0000,,Ci hanno messo meno del previsto.
+Dialogue: 0,0:09:17.74,0:09:19.14,Main,Nobara,0000,0000,0000,,Nitta, fermati!
+Dialogue: 0,0:09:19.53,0:09:25.12,Sign_Basic,Sign,0000,0000,0000,,{\an1\fnArial\fs22\bord0\shad0\b1\pos(33,302)}21:40\h\h\h\h\h\h\h\h\h\h\h\hShoto Bunkamura Street (fuori dal "velo")
+Dialogue: 0,0:09:19.77,0:09:25.11,Main,Haruta,0000,0000,0000,,{\an8}Ma guarda! Una donna con il completo!
+Dialogue: 0,0:09:25.11,0:09:27.30,Main,Haruta,0000,0000,0000,,Che gioia!
+Dialogue: 0,0:09:27.30,0:09:30.67,Main,Haruta,0000,0000,0000,,Mi stavo stufando di beccare solo uomini.
+Dialogue: 0,0:09:31.83,0:09:33.69,Main,Nobara,0000,0000,0000,,Nitta, nasconditi.
+Dialogue: 0,0:09:34.20,0:09:35.61,Main,Nobara,0000,0000,0000,,Lo finirò in un istante.
+Dialogue: 0,0:09:45.68,0:09:48.07,Main,Nobara,0000,0000,0000,,Fingi di nasconderti dentro al Bunkamura,
+Dialogue: 0,0:09:48.07,0:09:49.98,Main,Nobara,0000,0000,0000,,poi però prosegui attraversando Tokyu.
+Dialogue: 0,0:09:51.23,0:09:54.55,Main,Nobara,0000,0000,0000,,A giudicare dalle sue parole,\N ha già eliminato Ijichi.
+Dialogue: 0,0:09:54.55,0:09:56.43,Main,Nobara,0000,0000,0000,,In tal caso dobbiamo sbrigarci.
+Dialogue: 0,0:09:56.43,0:09:57.23,Main,Nitta,0000,0000,0000,,Okappa.
+Dialogue: 0,0:09:57.95,0:10:00.27,Main,Nitta,0000,0000,0000,,Kugisaki, vedi di non strafare, mi raccomando.
+Dialogue: 0,0:10:00.74,0:10:02.73,Main,Haruta,0000,0000,0000,,Che fate, bisbigliate?
+Dialogue: 0,0:10:02.73,0:10:04.45,Main,Haruta,0000,0000,0000,,Mi avete incuriosito!
+Dialogue: 0,0:10:08.21,0:10:09.55,Main,Haruta,0000,0000,0000,,Uffa...
+Dialogue: 0,0:10:10.28,0:10:11.77,Main,Haruta,0000,0000,0000,,S'è imboscata.
+Dialogue: 0,0:10:17.69,0:10:18.42,Main,Haruta,0000,0000,0000,,Ehi, attenta!
+Dialogue: 0,0:10:19.63,0:10:22.18,Main,Nobara,0000,0000,0000,,Attacchi disarmato?!\NCos'è, ci tieni tanto a perdere?!
+Dialogue: 0,0:10:24.19,0:10:26.03,Main,Haruta,0000,0000,0000,,Ti ho già incontrata, vero?
+Dialogue: 0,0:10:30.49,0:10:33.58,Italics,Nobara,0000,0000,0000,,Molti di quelli che usano strumenti maledetti\N combattono a medio o a lungo raggio.
+Dialogue: 0,0:10:33.58,0:10:35.33,Italics,Nobara,0000,0000,0000,,Devo continuare a incalzarlo!
+Dialogue: 0,0:10:36.22,0:10:38.20,Main,Nobara,0000,0000,0000,,Scusa, chi è che saresti?!
+Dialogue: 0,0:10:52.11,0:10:54.80,Main,Haruta,0000,0000,0000,,Guarda che lanciare chiodi è pericoloso!
+Dialogue: 0,0:10:54.80,0:10:56.96,Main,Nobara,0000,0000,0000,,Se vuoi, aumento il livello di pericolosità!
+Dialogue: 0,0:11:02.13,0:11:03.60,Main,Nitta,0000,0000,0000,,Ahi!
+Dialogue: 0,0:11:05.88,0:11:09.39,Main,Haruta,0000,0000,0000,,Ma dai, allora non è andata a imboscarsi?!
+Dialogue: 0,0:11:15.47,0:11:16.35,Main,Nobara,0000,0000,0000,,Nitta!
+Dialogue: 0,0:11:18.87,0:11:20.99,Main,Haruta,0000,0000,0000,,{\i1}Shoot{\i0}!
+Dialogue: 0,0:11:23.11,0:11:25.31,Main,Nobara,0000,0000,0000,,Bastardo!
+Dialogue: 0,0:11:32.00,0:11:33.75,Italics,Nobara,0000,0000,0000,,La spada che prima ha lasciato a terra?!
+Dialogue: 0,0:11:34.62,0:11:36.00,Italics,Nobara,0000,0000,0000,,Perché è arrivata dall'alto?!
+Dialogue: 0,0:11:42.76,0:11:44.22,Main,Haruta,0000,0000,0000,,Che peccato!
+Dialogue: 0,0:11:44.86,0:11:45.97,Main,Nobara,0000,0000,0000,,Fermacapelli!
+Dialogue: 0,0:12:02.13,0:12:03.19,Main,Nobara,0000,0000,0000,,Nitta!
+Dialogue: 0,0:12:22.72,0:12:27.22,Main,Haruta,0000,0000,0000,,Accidenti, fai delle cose davvero pericolose!
+Dialogue: 0,0:12:28.98,0:12:30.18,Main,Haruta,0000,0000,0000,,TI ha colpito sul mento?
+Dialogue: 0,0:12:30.18,0:12:31.72,Main,Haruta,0000,0000,0000,,Non riesci ad alzarti?
+Dialogue: 0,0:12:31.72,0:12:33.43,Main,Haruta,0000,0000,0000,,Allora? Non riesci ad alzarti?
+Dialogue: 0,0:12:33.98,0:12:37.03,Main,Haruta,0000,0000,0000,,Eddai, su!
+Dialogue: 0,0:12:38.49,0:12:39.98,Main,Haruta,0000,0000,0000,,Lo sai?
+Dialogue: 0,0:12:39.98,0:12:43.54,Main,Haruta,0000,0000,0000,,Sei diventata un sacco più forte\N rispetto al nostro primo incontro.
+Dialogue: 0,0:12:43.54,0:12:45.95,Main,Haruta,0000,0000,0000,,All'inizio non ti ho nemmeno riconosciuta.
+Dialogue: 0,0:12:46.74,0:12:48.29,Main,Haruta,0000,0000,0000,,Però, sai,
+Dialogue: 0,0:12:48.29,0:12:52.08,Main,Haruta,0000,0000,0000,,a questo mondo \Nnon basta essere forti per vincere.
+Dialogue: 0,0:12:52.08,0:12:54.97,Main,Haruta,0000,0000,0000,,Soprattutto se c'è di mezzo la mia tecnica.
+Dialogue: 0,0:12:55.31,0:12:56.75,Main,Haruta,0000,0000,0000,,Anche se...
+Dialogue: 0,0:12:56.75,0:13:01.07,Main,Haruta,0000,0000,0000,,nemmeno io ho ben chiaro\N il funzionamento della mia tecnica.
+Dialogue: 0,0:13:05.86,0:13:06.76,Main,Haruta,0000,0000,0000,,Dunque...
+Dialogue: 0,0:13:07.45,0:13:09.97,Main,Haruta,0000,0000,0000,,Chi di voi due uccido per prima?
+Dialogue: 0,0:13:10.79,0:13:13.58,Main,Nobara,0000,0000,0000,,V-Voi bastardi...
+Dialogue: 0,0:13:15.06,0:13:16.99,Italics,Nobara,0000,0000,0000,,Muoviti, bocca!
+Dialogue: 0,0:13:17.62,0:13:20.15,Main,Nobara,0000,0000,0000,,Si può sapere a cosa mirate?!
+Dialogue: 0,0:13:20.15,0:13:22.52,Italics,Nobara,0000,0000,0000,,Cerca di guadagnare un briciolo di tempo!
+Dialogue: 0,0:13:22.52,0:13:27.02,Main,Haruta,0000,0000,0000,,Uhm, hanno parlato \Ndi voler tipo sigillare Satoru Gojo.
+Dialogue: 0,0:13:27.39,0:13:30.07,Main,Nobara,0000,0000,0000,,L'ho chiesto a te!
+Dialogue: 0,0:13:32.20,0:13:33.16,Main,Haruta,0000,0000,0000,,A me?!
+Dialogue: 0,0:13:35.63,0:13:38.95,Main,Haruta,0000,0000,0000,,Cosa pensi farebbe una persona \Ncon grande talento e passione per il calcio
+Dialogue: 0,0:13:38.95,0:13:42.54,Main,Haruta,0000,0000,0000,,se fosse nata in un mondo \Nin cui questo sport non esiste?
+Dialogue: 0,0:13:43.87,0:13:44.71,Main,Haruta,0000,0000,0000,,Niente da fare...
+Dialogue: 0,0:13:44.71,0:13:47.16,Main,Haruta,0000,0000,0000,,Non riesco a spiegarmi bene.
+Dialogue: 0,0:13:47.16,0:13:51.01,Main,Haruta,0000,0000,0000,,A ogni modo, è davvero così importante il motivo?
+Dialogue: 0,0:13:52.12,0:13:53.81,Main,Haruta,0000,0000,0000,,Ma chi se ne frega!
+Dialogue: 0,0:13:53.81,0:13:55.90,Main,Haruta,0000,0000,0000,,L'importante è che sia divertente!
+Dialogue: 0,0:13:55.90,0:13:59.87,Main,Haruta,0000,0000,0000,,Fintanto che io mi diverto,\Ntutto il resto non conta!
+Dialogue: 0,0:14:01.14,0:14:03.11,Main,Haruta,0000,0000,0000,,Non lo pensi anche tu?
+Dialogue: 0,0:14:03.11,0:14:05.34,Main,Nobara,0000,0000,0000,,Smettila!
+Dialogue: 0,0:14:13.74,0:14:16.49,Main,Haruta,0000,0000,0000,,Prova a fermarmi tu!
+Dialogue: 0,0:14:17.02,0:14:19.96,Main,Haruta,0000,0000,0000,,Impediscimi di commettere altri crim—
+Dialogue: 0,0:14:20.75,0:14:22.75,Main,Haruta,0000,0000,0000,,Mi sono impappinato!
+Dialogue: 0,0:14:24.92,0:14:25.92,Main,Haruta,0000,0000,0000,,Ho un po' di catarro...
+Dialogue: 0,0:14:27.88,0:14:28.90,Main,Haruta,0000,0000,0000,,Ehi!
+Dialogue: 0,0:14:35.85,0:14:37.68,Main,Haruta,0000,0000,0000,,Barcolli parecchio!
+Dialogue: 0,0:14:46.56,0:14:47.82,Main,Haruta,0000,0000,0000,,Ok, ok!
+Dialogue: 0,0:15:12.55,0:15:14.27,Main,Haruta,0000,0000,0000,,Potevo farlo, giusto?
+Dialogue: 0,0:15:15.31,0:15:17.97,Main,Haruta,0000,0000,0000,,Posso uccidere anche \Nchi non ha un completo nero.
+Dialogue: 0,0:15:20.26,0:15:22.97,Show_Title,Sign,0000,0000,0000,,{\fad(1350,0)\1c&H75EFED&\3c&H75EFED&\blur20\1a&HE0&\3a&HC0&\pos(320,18)}JUJUTSU KAISEN
+Dialogue: 0,0:15:20.26,0:15:22.97,Show_Title,Sign,0000,0000,0000,,{\fad(1350,0)\1a&HFF&\3c&HC5E3EC&\pos(320,18)}JUJUTSU KAISEN
+Dialogue: 0,0:15:26.22,0:15:27.98,Show_Title,Sign,0000,0000,0000,,{\fad(675,0)\3c&H1EDDF0&\pos(320,18)\c&H292619&}JUJUTSU KAISEN
+Dialogue: 0,0:15:32.26,0:15:34.90,Italics,Nobara,0000,0000,0000,,Se non sbaglio, \Nè venuto a Shibuya insieme a Fushiguro.
+Dialogue: 0,0:15:36.40,0:15:37.90,Main,Nobara,0000,0000,0000,,Signor Nanami?
+Dialogue: 0,0:15:45.94,0:15:48.58,Main,Haruta,0000,0000,0000,,Suvvia, datti un'occhiata attorno.
+Dialogue: 0,0:15:48.58,0:15:50.62,Main,Haruta,0000,0000,0000,,Perché vieni da questa parte?
+Dialogue: 0,0:15:50.62,0:15:53.79,Main,Haruta,0000,0000,0000,,Non lo vedi che ho una donna in ostaggio?!
+Dialogue: 0,0:15:59.16,0:16:00.42,Main,Haruta,0000,0000,0000,,Se l'è filata...
+Dialogue: 0,0:16:04.12,0:16:07.93,Main,Nanami,0000,0000,0000,,Quanti sono e dove si trovano i tuoi compagni?
+Dialogue: 0,0:16:10.68,0:16:12.53,Main,Haruta,0000,0000,0000,,Non lo so!
+Dialogue: 0,0:16:16.03,0:16:17.64,Italics,Haruta,0000,0000,0000,,Eh?! Un muro?!
+Dialogue: 0,0:16:19.66,0:16:20.84,Italics,Haruta,0000,0000,0000,,Un attimo...
+Dialogue: 0,0:16:21.94,0:16:23.23,Italics,Haruta,0000,0000,0000,,Non l'ho scalfito?
+Dialogue: 0,0:16:23.50,0:16:27.50,Main,Nanami,0000,0000,0000,,Quanti sono e dove si trovano i tuoi compagni?
+Dialogue: 0,0:16:32.03,0:16:33.04,Main,Haruta,0000,0000,0000,,Non lo s—
+Dialogue: 0,0:16:47.21,0:16:49.35,Italics,Haruta,0000,0000,0000,,Eh?! Sarei morto?!
+Dialogue: 0,0:16:49.35,0:16:51.79,Italics,Haruta,0000,0000,0000,,Se non fosse per la mia tecnica, sarei morto?!
+Dialogue: 0,0:16:53.15,0:16:55.14,Italics,Haruta,0000,0000,0000,,D-Devo filarmela!
+Dialogue: 0,0:17:06.78,0:17:08.70,Main,Nanami,0000,0000,0000,,Quanti sono...
+Dialogue: 0,0:17:09.52,0:17:11.73,Main,Nanami,0000,0000,0000,,e dove si trovano i tuoi compagni?
+Dialogue: 0,0:17:12.56,0:17:13.96,Main,Haruta,0000,0000,0000,,Ti ho detto che non lo so!
+Dialogue: 0,0:17:38.07,0:17:39.58,Main,Nobara,0000,0000,0000,,Non te lo permetterò!
+Dialogue: 0,0:17:39.58,0:17:42.00,Main,Haruta,0000,0000,0000,,Non ti impicciare!
+Dialogue: 0,0:17:49.08,0:17:51.09,Main,Nanami,0000,0000,0000,,Mentre venivo qui,
+Dialogue: 0,0:17:51.09,0:17:54.50,Main,Nanami,0000,0000,0000,,mi sono imbattuto in numerosi \Nassistenti supervisori uccisi.
+Dialogue: 0,0:17:56.26,0:17:57.74,Main,Nanami,0000,0000,0000,,È opera tua, vero?
+Dialogue: 0,0:18:02.29,0:18:04.22,Main,Haruta,0000,0000,0000,,M-Mi dispiace!
+Dialogue: 0,0:18:25.55,0:18:27.20,Italics,Nobara,0000,0000,0000,,Non c'è assolutamente paragone.
+Dialogue: 0,0:18:27.56,0:18:28.50,Italics,Nobara,0000,0000,0000,,Così è questo...
+Dialogue: 0,0:18:28.97,0:18:30.63,Italics,Nobara,0000,0000,0000,,uno stregone di primo livello!
+Dialogue: 0,0:18:32.57,0:18:35.12,Main,Nanami,0000,0000,0000,,Raggiungiamo Nitta.
+Dialogue: 0,0:18:37.25,0:18:39.97,Main,Mei Mei,0000,0000,0000,,Ma guarda, sei tu?
+Dialogue: 0,0:18:41.46,0:18:44.70,Main,Geto,0000,0000,0000,,Ne è passato di tempo dall'ultima volta, Mei.
+Dialogue: 0,0:18:45.45,0:18:49.93,Main,Mei Mei,0000,0000,0000,,Ne hai di fegato a dire così, \Ndopo aver mandato qualcuno a uccidermi, Geto.
+Dialogue: 0,0:18:50.71,0:18:52.53,Italics,Mei Mei,0000,0000,0000,,Come può essere vivo?
+Dialogue: 0,0:18:52.53,0:18:54.85,Italics,Mei Mei,0000,0000,0000,,L'anno scorso Gojo non è riuscito a ucciderlo?
+Dialogue: 0,0:18:55.60,0:19:00.37,Italics,Mei Mei,0000,0000,0000,,Oppure lui e Geto erano in combutta\N sin dall'inizio di questo casino?
+Dialogue: 0,0:19:00.96,0:19:02.53,Italics,Mei Mei,0000,0000,0000,,No, è impossibile.
+Dialogue: 0,0:19:02.53,0:19:07.21,Italics,Mei Mei,0000,0000,0000,,Gojo potrebbe facilmente \Nuccidere da solo tutti gli abitanti di questo Paese.
+Dialogue: 0,0:19:07.21,0:19:11.70,Italics,Mei Mei,0000,0000,0000,,Non avrebbe bisogno di allearsi con qualcuno,\Nné di ricorrere a simili trucchetti.
+Dialogue: 0,0:19:12.93,0:19:16.69,Main,Mei Mei,0000,0000,0000,,Mi piacevi più tu di Gojo, sappilo.
+Dialogue: 0,0:19:16.69,0:19:19.55,Main,Mei Mei,0000,0000,0000,,E trovavo affascinante \Nquel tuo sorrisetto nichilista.
+Dialogue: 0,0:19:20.43,0:19:23.80,Main,Mei Mei,0000,0000,0000,,È davvero un tremendo peccato...
+Dialogue: 0,0:19:24.27,0:19:26.10,Main,Mei Mei,0000,0000,0000,,dover uccidere uno come te.
+Dialogue: 0,0:19:26.44,0:19:28.83,Main,Mei Mei,0000,0000,0000,,Veramente un gran peccato.
+Dialogue: 0,0:19:29.26,0:19:32.52,Italics,Mei Mei,0000,0000,0000,,Probabilmente questo Geto è un falso.
+Dialogue: 0,0:19:32.52,0:19:35.70,Main,Geto,0000,0000,0000,,Anche a me dispiace un sacco, Mei...
+Dialogue: 0,0:19:36.60,0:19:39.61,Main,Geto,0000,0000,0000,,dovermi sbarazzare di una mia vecchia senpai.
+Dialogue: 0,0:19:39.61,0:19:43.12,Sign_Basic,Sign,0000,0000,0000,,{\an8\fnTimes New Roman\b1\bord0\shad0\pos(320,38)}Malattia maledetta di livello speciale
+Dialogue: 0,0:19:39.61,0:19:43.12,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\bord0\shad0\fs36}Divinità del vaiolo
+Dialogue: 0,0:19:43.36,0:19:45.20,Italics,Mei Mei,0000,0000,0000,,Manipolazione degli spiriti maledetti?!
+Dialogue: 0,0:19:45.58,0:19:47.34,Italics,Mei Mei,0000,0000,0000,,Che mi sia sbagliata?
+Dialogue: 0,0:19:47.96,0:19:51.74,Main,Geto,0000,0000,0000,,Malattia maledetta di livello speciale: \NDivinità del vaiolo.
+Dialogue: 0,0:19:51.74,0:19:55.22,Main,Geto,0000,0000,0000,,Purtroppo l'anno scorso \Nho usato tutti i miei spiriti maledetti,
+Dialogue: 0,0:19:55.22,0:19:57.12,Main,Geto,0000,0000,0000,,ma la qualità non è calata.
+Dialogue: 0,0:19:58.24,0:20:02.37,Main,Geto,0000,0000,0000,,Vorrei tenere gli umani intrappolati al piano -5, \Ngiusto per sicurezza.
+Dialogue: 0,0:20:02.64,0:20:04.34,Main,Geto,0000,0000,0000,,Ti attenderò lungo i binari.
+Dialogue: 0,0:20:04.34,0:20:06.88,Main,Geto,0000,0000,0000,,Ti affronterò \Nse riuscirai a esorcizzare quello spirito.
+Dialogue: 0,0:20:12.67,0:20:14.26,Italics,Mei Mei,0000,0000,0000,,Un'espansione del dominio?!
+Dialogue: 0,0:20:14.80,0:20:17.64,Italics,Mei Mei,0000,0000,0000,,Non sarà molto facile...
+Dialogue: 0,0:20:23.28,0:20:24.86,Italics,Mei Mei,0000,0000,0000,,Mi ha intrappolata?
+Dialogue: 0,0:20:25.45,0:20:27.42,Main,Mei Mei,0000,0000,0000,,È una specie di bara?
+Dialogue: 0,0:20:27.87,0:20:29.00,Main,Ui Ui,0000,0000,0000,,Sorella mia!
+Dialogue: 0,0:20:32.99,0:20:35.30,Main,Vaiolo,0000,0000,0000,,{\i1}Three{\i0}, {\i1}two{\i0}...
+Dialogue: 0,0:20:39.88,0:20:42.20,Main,Mei Mei,0000,0000,0000,,Non so più quanti anni sono passati...
+Dialogue: 0,0:20:42.20,0:20:45.31,Main,Mei Mei,0000,0000,0000,,dall'ultima volta che qualcuno \Nha messo a rischio la mia vita.
+Dialogue: 0,0:20:45.31,0:20:47.28,Main,Ui Ui,0000,0000,0000,,Sorella mia!
+Dialogue: 0,0:20:49.97,0:20:52.48,Sign_Basic,Sign,0000,0000,0000,,{\an2\fnArial\bord0\shad0\b1\pos(320,304)}22:10\h\h\hDentro la stazione di Shibuya
+Dialogue: 0,0:20:52.80,0:20:54.66,Italics,Yuji,0000,0000,0000,,Non c'è anima viva!
+Dialogue: 0,0:20:54.66,0:20:58.23,Italics,Yuji,0000,0000,0000,,Ma non doveva esserci un sacco di gente \Nintrappolata nella stazione?
+Dialogue: 0,0:20:59.98,0:21:03.19,Main,Nitta,0000,0000,0000,,Quindi il signor Ijichi \Nha salvato la pellaccia, eh?
+Dialogue: 0,0:21:03.74,0:21:06.67,Main,Nanami,0000,0000,0000,,Ho fatto tutto ciò che ho potuto.
+Dialogue: 0,0:21:06.67,0:21:10.58,Main,Nanami,0000,0000,0000,,Inoltre, anche lui un tempo \Nambiva a diventare stregone.
+Dialogue: 0,0:21:12.08,0:21:17.10,Main,Nanami,0000,0000,0000,,A quanto pare, però,\Nnon avete ricevuto notizia di cos'è accaduto a Gojo.
+Dialogue: 0,0:21:17.10,0:21:21.96,Main,Nitta,0000,0000,0000,,Probabilmente perché \Nci siamo infilati subito al chiuso.
+Dialogue: 0,0:21:21.96,0:21:26.00,Main,Nobara,0000,0000,0000,,Il fatto che dia del filo da torcere anche\N dopo essere stato sigillato è proprio da lui.
+Dialogue: 0,0:21:26.00,0:21:28.92,Main,Nanami,0000,0000,0000,,Voi due restate qui in attesa dei soccorsi.
+Dialogue: 0,0:21:28.92,0:21:32.42,Main,Nanami,0000,0000,0000,,Io, Zen'in e gli altri \Nci dirigeremo verso il piano -5.
+Dialogue: 0,0:21:33.21,0:21:34.08,Main,Nobara,0000,0000,0000,,Vengo anch'io.
+Dialogue: 0,0:21:34.08,0:21:34.96,Main,Nanami,0000,0000,0000,,Scordatelo.
+Dialogue: 0,0:21:37.30,0:21:41.02,Main,Nanami,0000,0000,0000,,È necessario essere almeno al mio livello \Nper gli scontri che avverranno da qui in poi.
+Dialogue: 0,0:21:41.64,0:21:44.53,Main,Nanami,0000,0000,0000,,Saresti una palla al piede, un peso morto.
+Dialogue: 0,0:21:44.53,0:21:46.07,Main,Nanami,0000,0000,0000,,Resta qui.
+Dialogue: 0,0:21:58.82,0:22:00.87,Main,Choso,0000,0000,0000,,Yuji Itadori!
+Dialogue: 0,0:22:03.35,0:22:05.43,Main,Choso,0000,0000,0000,,Vendicherò...
+Dialogue: 0,0:22:06.51,0:22:07.61,Main,Choso,0000,0000,0000,,i miei fratellini!
+Dialogue: 0,0:23:40.56,0:23:42.24,Main,Yuji,0000,0000,0000,,Signor Ijichi, le do una mano!
+Dialogue: 0,0:23:42.25,0:23:43.63,Main,Ijichi,0000,0000,0000,,Tranquillo, non serve.
+Dialogue: 0,0:23:43.63,0:23:44.75,Main,Nobara,0000,0000,0000,,Non faccia complimenti!
+Dialogue: 0,0:23:44.75,0:23:46.55,Main,Nobara,0000,0000,0000,,Noi siamo dei nativi digitali!
+Dialogue: 0,0:23:46.55,0:23:47.98,Main,Nobara,0000,0000,0000,,Excel, Power Point... non temiamo nulla!
+Dialogue: 0,0:23:47.98,0:23:49.98,Main,Ijichi,0000,0000,0000,,Non serve, dico davvero.
+Dialogue: 0,0:23:49.98,0:23:51.06,Main,Fushiguro,0000,0000,0000,,Prossimo episodio: "Fosforo Rosso".
+Dialogue: 0,0:23:49.99,0:23:55.03,Next_Ep_Title,Sign,0000,0000,0000,,{\c&HFFFFFF&\bord2\blur4}Prossimamente\N{\fs30\fscy150}Fosforo Rosso
+Dialogue: 0,0:23:51.06,0:23:52.34,Main,Yuji,0000,0000,0000,,Cos'è 'sto "Unisci celle"?
+Dialogue: 0,0:23:52.34,0:23:53.24,Main,Nobara,0000,0000,0000,,Prova a usarlo.
+Dialogue: 0,0:23:53.24,0:23:54.69,Main,Ijichi,0000,0000,0000,,Andatevene, dico sul serio!
+

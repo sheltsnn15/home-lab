@@ -1,0 +1,250 @@
+﻿[Script Info]
+Title: [Erai-raws] Italiano
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial Unicode MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Show_Title,Times New Roman,36,&H00000000,&H000000FF,&H0090D3CB,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Eyecatch_Title,Times New Roman,44,&H00070300,&H000000FF,&H009CE4E2,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Ep_Title,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0040,1
+Style: Ep_Title_Shadow,Times New Roman,24,&HFEFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,1,3,0010,0028,0050,1
+Style: Next_Ep_Title,Times New Roman,24,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0060,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: sign_4777_40_Miyashiro_Prefec,Times New Roman,20,&H00716763,&H000000FF,&H0020180B,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0087,0087,0018,1
+Style: sign_6477_66_Sea_Angel,Comic Sans MS,12,&H00848CD2,&H000000FF,&H00F9FDFC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0493,0093,0000,1
+Style: sign_6477_67_A_type_of_plankt,Comic Sans MS,9,&H00585955,&H000000FF,&H00F4F5E2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0539,0021,0000,1
+Style: sign_6948_80_Mysterious_Event,Times New Roman,24,&H002D4431,&H000000FF,&H0066995C,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,5,0152,0273,0000,1
+Style: sign_7411_88_B_i_n_g,Arial Unicode MS,24,&H00151815,&H000000FF,&H00DEE0E2,&H00000000,-1,0,0,0,100,100,0,346,1,4,0,5,0328,0292,0000,1
+Style: sign_7581_92_35_Year_Old_Form,Arial Unicode MS,20,&H00C1C7CF,&H000000FF,&H004F555D,&H00000000,-1,0,0,0,80,100,0,0,1,2,0,2,0014,0014,0018,1
+Style: sign_7608_94_Former_Employee_,Times New Roman,14,&H00464C54,&H000000FF,&H00B9C1C4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,6,0404,0030,0000,1
+Style: sign_7836_100_Laid_Off_From_Wo,Times New Roman,24,&H002B3C3C,&H000000FF,&H00FAFFFE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0137,0137,0018,1
+Style: sign_8270_111_Hard_Ticks,Comic Sans MS,24,&H004735AD,&H000000FF,&H00ECECEC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0040,0484,0000,1
+Style: sign_8270_112_A_large__parasit,Comic Sans MS,16,&H0042444D,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,3,2,4,0327,0152,0000,1
+Style: sign_8270_115_Hmm_,Comic Sans MS,16,&H00656565,&H000000FF,&H00DDDEE9,&H00838488,-1,0,0,0,100,100,0,0,1,0,0,8,0101,0497,0148,1
+Style: sign_8270_116_They_leap_onto_t,Comic Sans MS,12,&H005F5F5F,&H000000FF,&H00E9E9E9,&H00838488,-1,0,0,0,100,100,0,0,1,2,0,4,0157,0359,0000,1
+Style: sign_9617_151_Track_and_Field_,Times New Roman,24,&H00000000,&H000000FF,&H00DCE4E0,&H00DCE4E0,-1,0,0,0,100,100,0,0,1,0,0,8,0000,0405,0010,1
+Style: sign_11038_173__Japan_s_Nationa,Trebuchet MS,30,&H00F1F2F3,&H000000FF,&H00686767,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0184,0170,0140,1
+Style: sign_16448_266_Matsumoto,Times New Roman,24,&H008C9896,&H000000FF,&H00E0EBEC,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,0518,0000,0000,1
+Style: sign_18893_302_4th_grade_Girl_C,Trebuchet MS,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,337.5,1,0,0,4,0236,0089,0000,1
+Style: sign_23361_367_Occult_Phenomeno,Trebuchet MS,14,&H001C1C1C,&H000000FF,&H00817211,&H00000000,-1,0,0,0,100,100,0,52.52,1,3,0,8,0130,0367,0246,1
+Style: sign_32727_342_Juju_Stroll,Times New Roman,30,&H00000101,&H000000FF,&H00E7EFF0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0242,0242,0010,1
+Style: sign_26840_306_One_Month_Later,Arial Unicode MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0205,1
+Style: sign_1198_4_I_said_don_t_,Times New Roman,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0008,0008,0083,1
+Style: sign_2171_30_Tokyo_Metropolit,Times New Roman,24,&H00000000,&H000000FF,&HC8FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0142,0142,0018,1
+Style: sign_1408_21__If_Conventional,Trebuchet MS,16,&H005B5C5C,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0084,0066,0120,1
+Style: sign_1408_23_A_Wooden_Bat_is_,Trebuchet MS,16,&H005B5C5C,&H000000FF,&H00FEFEFE,&H00000000,0,0,0,0,100,100,0,0,3,3,0,7,0100,0353,0193,1
+Style: sign_1408_22_Grade_4,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00EBD96B,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,4,0114,0446,0000,1
+Style: Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Overlap,Trebuchet MS,24,&H00B5B5B5,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.57,0:00:04.26,Flashback_Italics,Yuji,0000,0000,0000,,Continuo a chiedermi\Nperché devo essere giustiziato.
+Dialogue: 0,0:00:04.26,0:00:06.49,Flashback_Italics,Sukuna,0000,0000,0000,,La colpa è tutta tua!
+Dialogue: 0,0:00:06.49,0:00:08.66,Flashback_Italics,Yuji,0000,0000,0000,,Non voglio rimpiangere\Nil modo in cui avrò vissuto!
+Dialogue: 0,0:00:08.66,0:00:13.74,Flashback_Italics,Fushiguro,0000,0000,0000,,Ma... se in futuro una persona che\Nhai salvato uccidesse qualcuno, tu cosa faresti?
+Dialogue: 0,0:00:14.10,0:00:17.37,Flashback_Italics,Wasuke,0000,0000,0000,,Vedi di morire circondato da tante persone.
+Dialogue: 0,0:00:17.37,0:00:21.10,Flashback_Italics,Gojo,0000,0000,0000,,Abbiamo deciso di giustiziarti in segreto.
+Dialogue: 0,0:00:21.10,0:00:24.52,Flashback_Italics,Yuji,0000,0000,0000,,Ho già deciso il modo in cui intendo morire.
+Dialogue: 0,0:00:25.37,0:00:27.59,Flashback_Italics,Junpei,0000,0000,0000,,Vorrebbe dire che sia mia madre che io...
+Dialogue: 0,0:00:27.59,0:00:30.92,Flashback_Italics,Junpei,0000,0000,0000,,siamo stati maledetti \Ndallo spirito delle persone!
+Dialogue: 0,0:00:30.92,0:00:32.76,Flashback_Italics,Yuji,0000,0000,0000,,Cos'è una morte degna?
+Dialogue: 0,0:00:33.94,0:00:36.65,Flashback_Italics,Yuji,0000,0000,0000,,Il valore di una vita diventerebbe ambiguo,
+Dialogue: 0,0:00:37.01,0:00:39.72,Flashback_Italics,Yuji,0000,0000,0000,,e non riuscirei più a comprendere\Nl'importanza delle persone a me care.
+Dialogue: 0,0:00:40.78,0:00:42.27,Flashback_Italics,Yuji,0000,0000,0000,,E questo mi spaventa.
+Dialogue: 0,0:00:43.01,0:00:45.26,Flashback_Italics,Sukuna,0000,0000,0000,,La colpa è tutta tua!
+Dialogue: 0,0:00:45.26,0:00:48.70,Flashback_Italics,Wasuke,0000,0000,0000,,Vedi di morire circondato da tante persone.
+Dialogue: 0,0:00:48.70,0:00:50.71,Flashback_Italics,Wasuke,0000,0000,0000,,Aiuta il prossimo.
+Dialogue: 0,0:00:50.71,0:00:53.03,Flashback_Italics,Yuji,0000,0000,0000,,Mi sa che allora non posso proprio morire.
+Dialogue: 0,0:00:53.81,0:00:56.74,Flashback_Italics,Fushiguro,0000,0000,0000,,Quindi sappi che\Nnon mi sono mai pentito di averti salvato...
+Dialogue: 0,0:00:56.74,0:00:58.86,Flashback_Italics,Fushiguro,0000,0000,0000,,nemmeno una volta.
+Dialogue: 0,0:00:58.86,0:01:01.16,Flashback_Italics,Nobara,0000,0000,0000,,Io e te siamo complici.
+Dialogue: 0,0:01:01.16,0:01:03.10,Flashback_Italics,Yuji,0000,0000,0000,,Non perderò...
+Dialogue: 0,0:01:03.10,0:01:04.26,Flashback_Italics,Yuji,0000,0000,0000,,... mai più.
+Dialogue: 0,0:01:04.85,0:01:07.04,Flashback_Italics,Yuji,0000,0000,0000,,... allora intendo vincere.
+Dialogue: 0,0:01:07.04,0:01:10.81,Flashback_Italics,Choso,0000,0000,0000,,Quando arrivi all'altro mondo... \Nvedi di chiedere scusa ai miei fratellini!
+Dialogue: 0,0:01:10.81,0:01:13.06,Flashback_Italics,Wasuke,0000,0000,0000,,Tu sei una persona forte,\Nquindi devi aiutare il prossimo.
+Dialogue: 0,0:01:13.06,0:01:16.03,Flashback_Italics,Nanami,0000,0000,0000,,Ti senti pronto, Itadori?
+Dialogue: 0,0:01:16.03,0:01:18.64,Flashback_Italics,Yuji,0000,0000,0000,,La gente muore, è inevitabile.
+Dialogue: 0,0:01:18.64,0:01:21.24,Flashback_Italics,Yuji,0000,0000,0000,,Almeno però vorrei che morissero in modo degno.
+Dialogue: 0,0:01:21.24,0:01:26.00,Flashback_Italics,Yaga,0000,0000,0000,,Quando anche tu sarai ucciso da una maledizione... \Nintendi dare la colpa a tuo nonno?
+Dialogue: 0,0:01:26.00,0:01:29.91,Flashback_Italics,Yuji,0000,0000,0000,,... e morire circondato da tante persone.
+Dialogue: 0,0:01:30.25,0:01:33.76,Flashback_Italics,Yuji,0000,0000,0000,,Sono state versate delle lacrime\Nper una vita che io ho sottratto.
+Dialogue: 0,0:01:33.76,0:01:36.74,Flashback_Italics,Sukuna,0000,0000,0000,,La tua esistenza\Ncauserà la morte di innumerevoli persone!
+Dialogue: 0,0:01:40.99,0:01:43.99,Ep_Title,Sign,0000,0000,0000,,{\c&H050506&}Episodio 42\N{\fs30\fscy150}Giusto e sbagliato
+Dialogue: 0,0:01:54.55,0:01:59.07,Show_Title,Sign,0000,0000,0000,,{\fad(0,825)\pos(320,10)\3c&H8ECEDD&}JUJUTSU KAISEN\N{\fs16\bord0\fscy100\c&HDEDCE0&}L'incidente di Shibuya
+Dialogue: 0,0:04:54.08,0:04:56.03,Main,Nanami,0000,0000,0000,,In Malesia...
+Dialogue: 0,0:04:57.56,0:04:59.24,Main,Nanami,0000,0000,0000,,Sì...
+Dialogue: 0,0:04:59.24,0:05:01.07,Main,Nanami,0000,0000,0000,,In Malesia...
+Dialogue: 0,0:05:01.57,0:05:03.32,Main,Nanami,0000,0000,0000,,Kuantan non sarebbe male...
+Dialogue: 0,0:05:03.91,0:05:07.17,Italics,Nanami,0000,0000,0000,,Costruirò una casa su una spiaggia isolata.
+Dialogue: 0,0:05:07.66,0:05:11.30,Italics,Nanami,0000,0000,0000,,Ho una montagna di libri che ho comprato \Nma che non ho ancora aperto...
+Dialogue: 0,0:05:12.02,0:05:14.00,Italics,Nanami,0000,0000,0000,,Li sfoglierei, pagina per pagina,
+Dialogue: 0,0:05:14.47,0:05:17.99,Italics,Nanami,0000,0000,0000,,quasi come se volessi recuperare \Nil tempo che ho perduto finora.
+Dialogue: 0,0:05:18.83,0:05:20.39,Italics,Nanami,0000,0000,0000,,No...
+Dialogue: 0,0:05:20.39,0:05:24.38,Italics,Nanami,0000,0000,0000,,Ora devo andare ad aiutare Fushiguro...
+Dialogue: 0,0:05:25.08,0:05:26.73,Italics,Nanami,0000,0000,0000,,Maki...
+Dialogue: 0,0:05:27.08,0:05:29.12,Italics,Nanami,0000,0000,0000,,e il signor Naobito...
+Dialogue: 0,0:05:29.12,0:05:31.04,Italics,Nanami,0000,0000,0000,,Che ne è stato di quei due?
+Dialogue: 0,0:05:34.80,0:05:37.12,Italics,Nanami,0000,0000,0000,,Che stanchezza...
+Dialogue: 0,0:05:37.12,0:05:38.89,Italics,Nanami,0000,0000,0000,,Sono davvero stanco...
+Dialogue: 0,0:05:39.46,0:05:41.61,Italics,Nanami,0000,0000,0000,,Sì... Sono esausto...
+Dialogue: 0,0:05:44.53,0:05:47.27,Italics,Nanami,0000,0000,0000,,Ho già fatto più che abbastanza...
+Dialogue: 0,0:08:10.00,0:08:11.87,Main,Nanami,0000,0000,0000,,Eri qui?
+Dialogue: 0,0:08:14.27,0:08:15.18,Main,Mahito,0000,0000,0000,,Eh, già.
+Dialogue: 0,0:08:16.47,0:08:17.70,Main,Mahito,0000,0000,0000,,Fin dall'inizio.
+Dialogue: 0,0:08:26.50,0:08:28.41,Main,Nanami,0000,0000,0000,,Eri qui?
+Dialogue: 0,0:08:29.84,0:08:30.91,Main,Mahito,0000,0000,0000,,Eh, già.
+Dialogue: 0,0:08:31.46,0:08:32.63,Main,Mahito,0000,0000,0000,,Fin dall'inizio.
+Dialogue: 0,0:08:33.14,0:08:35.00,Main,Mahito,0000,0000,0000,,Facciamo due chiacchiere?
+Dialogue: 0,0:08:35.71,0:08:38.63,Main,Mahito,0000,0000,0000,,Ci siamo già frequentati almeno un paio di volte.
+Dialogue: 0,0:08:45.97,0:08:47.51,Italics,Nanami,0000,0000,0000,,Haibara...
+Dialogue: 0,0:08:48.18,0:08:52.07,Italics,Nanami,0000,0000,0000,,Chissà cos'è che speravo di ottenere, alla fine...
+Dialogue: 0,0:08:52.07,0:08:53.64,Italics,Nanami,0000,0000,0000,,Sono fuggito.
+Dialogue: 0,0:08:54.27,0:08:59.10,Italics,Nanami,0000,0000,0000,,Nonostante sia fuggito, sono tornato per una ragione \Nvaga come "qualcosa che valga la pena fare".
+Dialogue: 0,0:09:07.67,0:09:09.21,Italics,Nanami,0000,0000,0000,,Non posso.
+Dialogue: 0,0:09:10.21,0:09:11.83,Italics,Nanami,0000,0000,0000,,Sarebbe sbagliato.
+Dialogue: 0,0:09:18.21,0:09:20.40,Italics,Nanami,0000,0000,0000,,Non posso, Haibara.
+Dialogue: 0,0:09:22.84,0:09:24.78,Italics,Nanami,0000,0000,0000,,Non posso dirglielo.
+Dialogue: 0,0:09:24.78,0:09:27.75,Italics,Nanami,0000,0000,0000,,Per lui diventerebbe solo una maledizione.
+Dialogue: 0,0:09:32.65,0:09:33.88,Main,Yuji,0000,0000,0000,,Nanamin...
+Dialogue: 0,0:09:46.48,0:09:47.82,Italics,Nanami,0000,0000,0000,,Non posso.
+Dialogue: 0,0:09:52.10,0:09:53.20,Italics,Nanami,0000,0000,0000,,Non...
+Dialogue: 0,0:10:01.31,0:10:02.85,Main,Nanami,0000,0000,0000,,Itadori.
+Dialogue: 0,0:10:19.68,0:10:21.61,Main,Nanami,0000,0000,0000,,Al resto pensaci tu.
+Dialogue: 0,0:10:47.32,0:10:48.19,Main,Yuji,0000,0000,0000,,Ma...
+Dialogue: 0,0:10:51.68,0:10:53.30,Main,Yuji,0000,0000,0000,,Ma cosa...
+Dialogue: 0,0:10:55.88,0:11:00.01,Main,Yuji,0000,0000,0000,,Ma che cazzo fai, Mahito?!
+Dialogue: 0,0:11:00.01,0:11:03.37,Main,Mahito,0000,0000,0000,,Non c'è bisogno che urli, \Nguarda che ci sento benissimo...
+Dialogue: 0,0:11:03.37,0:11:05.88,Main,Mahito,0000,0000,0000,,Yuji Itadori!
+Dialogue: 0,0:11:20.49,0:11:22.54,Main,Umano,0000,0000,0000,,Aiu...tami...
+Dialogue: 0,0:11:28.16,0:11:29.86,Main,Umano,0000,0000,0000,,Aiutami...
+Dialogue: 0,0:11:31.17,0:11:33.42,Main,Umano,0000,0000,0000,,Aiutami...
+Dialogue: 0,0:11:37.92,0:11:39.42,Main,Mahito,0000,0000,0000,,Molteplicità dell'Anima.
+Dialogue: 0,0:11:40.77,0:11:42.09,Main,Mahito,0000,0000,0000,,Repulsione Corporea!
+Dialogue: 0,0:12:15.32,0:12:17.65,Main,Mahito,0000,0000,0000,,Se solo ci avessi messo un po' più di forza,
+Dialogue: 0,0:12:17.65,0:12:20.04,Main,Mahito,0000,0000,0000,,forse ti avrei trapassato il cranio.
+Dialogue: 0,0:12:23.60,0:12:26.88,Main,Yuji,0000,0000,0000,,Come diavolo puoi...
+Dialogue: 0,0:12:26.88,0:12:29.16,Main,Yuji,0000,0000,0000,,ogni dannata volta...
+Dialogue: 0,0:12:29.16,0:12:32.76,Main,Yuji,0000,0000,0000,,giocare con la vita di così tante persone?!
+Dialogue: 0,0:12:37.68,0:12:41.94,Main,Mahito,0000,0000,0000,,Ti andrebbe bene se le ammazzassi \Ncon sguardo colpevole, contandole una per una?
+Dialogue: 0,0:12:42.38,0:12:44.27,Main,Mahito,0000,0000,0000,,Dalla prossima volta farò così.
+Dialogue: 0,0:12:45.27,0:12:49.80,Main,Mahito,0000,0000,0000,,Visto che sei un sempliciotto,\N ti fornirò una risposta altrettanto semplice.
+Dialogue: 0,0:12:50.79,0:12:52.60,Main,Mahito,0000,0000,0000,,Yuji Itadori.
+Dialogue: 0,0:12:55.20,0:12:57.64,Main,Junpei,0000,0000,0000,,Aiutami!
+Dialogue: 0,0:13:00.59,0:13:02.49,Main,Mahito,0000,0000,0000,,Tu sei me.
+Dialogue: 0,0:13:05.18,0:13:07.41,Main,Mahito,0000,0000,0000,,Non incazzarti per ogni minima cosa!
+Dialogue: 0,0:13:07.41,0:13:09.43,Main,Mahito,0000,0000,0000,,Sono i deliri di una maledizione, dopotutto.
+Dialogue: 0,0:13:13.28,0:13:14.54,Main,Mahito,0000,0000,0000,,Tuttavia...
+Dialogue: 0,0:13:15.44,0:13:17.99,Main,Mahito,0000,0000,0000,,Finché non sarai disposto ad accettarlo,
+Dialogue: 0,0:13:21.34,0:13:23.45,Main,Mahito,0000,0000,0000,,non potrai battermi.
+Dialogue: 0,0:13:23.88,0:13:25.95,Main,Yuji,0000,0000,0000,,Ancora che continui...
+Dialogue: 0,0:13:25.95,0:13:27.88,Main,Yuji,0000,0000,0000,,Certo che tu parli un sacco.
+Dialogue: 0,0:13:27.88,0:13:29.35,Main,Yuji,0000,0000,0000,,Stai facendo testamento?
+Dialogue: 0,0:13:30.31,0:13:32.30,Flashback_Italics,Nanami,0000,0000,0000,,Al resto pensaci tu.
+Dialogue: 0,0:13:33.56,0:13:38.18,Italics,Yuji,0000,0000,0000,,Nanamin non avrebbe mai fatto \Nl'errore di cedere alla rabbia.
+Dialogue: 0,0:13:39.28,0:13:40.85,Italics,Yuji,0000,0000,0000,,Dimostralo!
+Dialogue: 0,0:13:41.30,0:13:42.46,Italics,Yuji,0000,0000,0000,,Io sono...
+Dialogue: 0,0:13:41.30,0:13:42.46,Flashback_Italics,Nanami,0000,0000,0000,,Tu sei...
+Dialogue: 0,0:13:46.08,0:13:47.67,Italics,Yuji,0000,0000,0000,,... uno stregone!
+Dialogue: 0,0:13:46.08,0:13:47.67,Flashback_Italics,Nanami,0000,0000,0000,,... uno stregone!
+Dialogue: 0,0:15:44.50,0:15:47.00,Main,Mahito,0000,0000,0000,,Bravo. Continuiamo.
+Dialogue: 0,0:15:49.50,0:15:52.01,Main,Mahito,0000,0000,0000,,Che inizi il secondo round!
+Dialogue: 0,0:15:54.37,0:15:57.03,Show_Title,Sign,0000,0000,0000,,{\fad(1350,0)\1c&H213835&\3c&H75EFED&\blur20\1a&HE0&\3a&HC0&\pos(320,18)}JUJUTSU KAISEN
+Dialogue: 0,0:15:54.37,0:15:57.03,Show_Title,Sign,0000,0000,0000,,{\fad(1350,0)\3c&HA0DCE8&\pos(320,18)\c&H292619&}JUJUTSU KAISEN
+Dialogue: 0,0:16:00.00,0:16:02.04,Show_Title,Sign,0000,0000,0000,,{\fad(1350,0)\1c&H213835&\3c&H75EFED&\blur20\1a&HE0&\3a&HC0&\pos(320,18)}JUJUTSU KAISEN
+Dialogue: 0,0:16:00.00,0:16:02.04,Show_Title,Sign,0000,0000,0000,,{\fad(1350,0)\3c&HA0DCE8&\pos(320,18)\c&H354F3E&}JUJUTSU KAISEN
+Dialogue: 0,0:16:02.02,0:16:03.56,Sign_Basic,Sign,0000,0000,0000,,{\an1\fnArial\bord1.5\3a&HE0&\blur1\shad0\b1\fs26\pos(31,308)}23:19\h\h\h\h\h\h\h\h{\fs20}Stazione di Shibuya, tornelli di Dogenzaka
+Dialogue: 0,0:18:12.37,0:18:13.56,Main,Mahito,0000,0000,0000,,Per un pelo!
+Dialogue: 0,0:18:13.98,0:18:17.11,Italics,Mahito,0000,0000,0000,,Se corro rischi \Nnel momento sbagliato, ci resto secco.
+Dialogue: 0,0:18:17.11,0:18:20.24,Italics,Mahito,0000,0000,0000,,Direi che per un po' \Nlo attaccherò con gli umani modificati.
+Dialogue: 0,0:18:20.24,0:18:21.78,Main,Mahito,0000,0000,0000,,Che paura, che paura!
+Dialogue: 0,0:18:21.78,0:18:24.29,Italics,Yuji,0000,0000,0000,,Ora sa fare molte più cose.
+Dialogue: 0,0:18:33.33,0:18:34.34,Main,Ragazzo A,0000,0000,0000,,Un ragazzino?!
+Dialogue: 0,0:18:34.34,0:18:36.34,Main,Ragazzo B,0000,0000,0000,,Ehi! Vieni qui!
+Dialogue: 0,0:18:36.34,0:18:39.04,Main,Ragazzo B,0000,0000,0000,,Lì è pieno di mostri, è pericoloso!
+Dialogue: 0,0:18:39.04,0:18:41.04,Italics,Yuji,0000,0000,0000,,Quel bastardo...
+Dialogue: 0,0:18:41.04,0:18:42.38,Italics,Yuji,0000,0000,0000,,è andato di sopra?!
+Dialogue: 0,0:18:44.00,0:18:45.11,Main,Yuji,0000,0000,0000,,Scusate.
+Dialogue: 0,0:18:45.47,0:18:49.06,Main,Yuji,0000,0000,0000,,Al momento non ci sono luoghi sicuri a Shibuya, \Nallontanatevi più che—
+Dialogue: 0,0:18:51.57,0:18:54.06,Italics,Yuji,0000,0000,0000,,Merda! Maledetto bastardo!
+Dialogue: 0,0:19:03.08,0:19:04.79,Main,Mahito,0000,0000,0000,,Senti un po'...
+Dialogue: 0,0:19:06.74,0:19:09.76,Main,Mahito,0000,0000,0000,,Mi sa che tu non hai molta immaginazione, vero?
+Dialogue: 0,0:19:10.11,0:19:10.75,Main,Yuji,0000,0000,0000,,Smettila!
+Dialogue: 0,0:19:11.20,0:19:12.60,Main,Mahito,0000,0000,0000,,Ma sei scemo?
+Dialogue: 0,0:19:12.60,0:19:14.40,Main,Mahito,0000,0000,0000,,Spetta a te fermarmi, no?
+Dialogue: 0,0:19:14.94,0:19:18.72,Italics,Mahito,0000,0000,0000,,Questo è il modo migliore \Nper minare la salute mentale di Itadori.
+Dialogue: 0,0:19:18.72,0:19:20.20,Italics,Mahito,0000,0000,0000,,Inoltre...
+Dialogue: 0,0:19:20.20,0:19:24.76,Italics,Mahito,0000,0000,0000,,abbiamo un altro asso nella manica \Ncome assicurazione!
+Dialogue: 0,0:19:26.58,0:19:27.42,Flashback,Gente,0000,0000,0000,,Ma cosa...
+Dialogue: 0,0:19:27.42,0:19:28.52,Flashback,Gente,0000,0000,0000,,Ehi!
+Dialogue: 0,0:19:28.88,0:19:30.80,Flashback,Mahito,0000,0000,0000,,Forza bevi, bevi, bevi!
+Dialogue: 0,0:19:30.80,0:19:32.23,Flashback,Mahito,0000,0000,0000,,Bevi, bevi, bevi!
+Dialogue: 0,0:19:32.23,0:19:33.72,Flashback,Mahito,0000,0000,0000,,Bevi, bevi, bevi!
+Dialogue: 0,0:19:33.72,0:19:34.92,Flashback,Mahito,0000,0000,0000,,Bevi!
+Dialogue: 0,0:19:35.77,0:19:40.78,Sign_Basic,Sign,0000,0000,0000,,{\fad(0,932)\an1\fnArial\bord1.5\3a&HE0&\blur1\shad0\b1\fs26\pos(32,312)}21:30\h\h\h\h\h\h\h\h\hStazione di Shibuya, piano -4
+Dialogue: 0,0:19:36.96,0:19:38.14,Flashback,Mahito,0000,0000,0000,,{\an8}Evvai!
+Dialogue: 0,0:19:38.14,0:19:42.58,Flashback,Mahito,0000,0000,0000,,{\an8}Io ho già fatto scorta, potete fare ciò che volete \Ncon gli umani al piano di sotto.
+Dialogue: 0,0:19:42.90,0:19:46.05,Flashback,Mahito,0000,0000,0000,,Forza! Ripartiamo con lo show "Ammazziamo Itadori"!
+Dialogue: 0,0:19:47.63,0:19:48.63,Flashback,Jogo,0000,0000,0000,,No!
+Dialogue: 0,0:19:48.63,0:19:49.62,Flashback,Mahito,0000,0000,0000,,Jogo...
+Dialogue: 0,0:19:50.53,0:19:52.32,Flashback,Mahito,0000,0000,0000,,Prova a prendermi!
+Dialogue: 0,0:19:55.12,0:19:58.98,Flashback,Mahito,0000,0000,0000,,Io sto di sotto, \Ntu va' a gironzolare in superficie.
+Dialogue: 0,0:19:58.98,0:20:01.13,Flashback,Mahito,0000,0000,0000,,Torna quando ti chiamo, ok?
+Dialogue: 0,0:20:01.13,0:20:03.69,Flashback,Mahito,0000,0000,0000,,Sì, sì, non serve che tu me lo dica!
+Dialogue: 0,0:20:03.69,0:20:05.26,Flashback,Mahito,0000,0000,0000,,Non hai tutti i torti...
+Dialogue: 1,0:20:07.14,0:20:07.76,sign_11038_173__Japan_s_Nationa,Sign,0000,0000,0000,,{\fs20\pos(428,324)\frz15.48\c&H6F6F6F&\3c&HF5F6F8&\bord1.4}Si è\Ndiviso\Nin due!
+Dialogue: 0,0:20:07.14,0:20:07.76,sign_11038_173__Japan_s_Nationa,Sign,0000,0000,0000,,{\fs20\pos(428,324)\frz15.48\bord2.6\3c&H393B3D&}Si è\Ndiviso\Nin due!
+Dialogue: 0,0:20:07.76,0:20:10.85,Sign_Basic,Sign,0000,0000,0000,,{\fs20\fnArial\3c&HF6F9F6&\shad0\c&H7E817E&\pos(57,35)}Ciao ciao!
+Dialogue: 0,0:20:08.24,0:20:09.77,Flashback,Mahito,0000,0000,0000,,Ciao ciao!
+Dialogue: 0,0:20:11.01,0:20:13.02,Flashback,Jogo,0000,0000,0000,,Boing!
+Dialogue: 0,0:20:11.06,0:20:13.02,sign_7836_100_Laid_Off_From_Wo,Sign,0000,0000,0000,,{\fad(233,0)\an4\fs18\fnComic Sans MS\c&H282D25&\3c&HBFC3B7&\bord1.6\pos(405,195)}B\NO\NI\NN\NG
+Dialogue: 0,0:20:15.74,0:20:17.19,Flashback,Choso,0000,0000,0000,,Se l'è svignata...
+Dialogue: 0,0:20:21.86,0:20:24.86,Flashback,Jogo,0000,0000,0000,,Mahito!
+Dialogue: 0,0:20:24.86,0:20:32.87,Sign_Basic,Sign,0000,0000,0000,,{\an1\fnArial\bord1.5\3a&HE0&\blur1\shad0\b1\fs26\pos(347,311)}23:16\h\h\h\h\hDogenzaka-koji
+Dialogue: 0,0:20:25.94,0:20:27.75,Top,Mahito,0000,0000,0000,,Hai visto quella roba di prima?
+Dialogue: 0,0:20:27.75,0:20:29.40,Top,Mahito,0000,0000,0000,,Da paura, vero?
+Dialogue: 0,0:20:29.40,0:20:32.52,Top,Mahito,0000,0000,0000,,Pensare che fino a poco fa \Ngironzolavo da quelle parti!
+Dialogue: 0,0:20:33.12,0:20:34.79,Main,Nobara,0000,0000,0000,,Hai la faccia ricucita...
+Dialogue: 0,0:20:34.79,0:20:36.10,Main,Nobara,0000,0000,0000,,Sei tu, vero?
+Dialogue: 0,0:20:36.10,0:20:40.01,Main,Nobara,0000,0000,0000,,Sei lo spirito maledetto di livello speciale \Nche infastidisce lo scemo del nostro gruppo.
+Dialogue: 0,0:20:40.38,0:20:42.20,Main,Mahito,0000,0000,0000,,Beccato!
+Dialogue: 0,0:20:42.20,0:20:44.13,Main,Mahito,0000,0000,0000,,Cos'è, sono famoso?
+Dialogue: 0,0:20:44.13,0:20:47.77,Main,Nobara,0000,0000,0000,,Sì, per essere fuggito con la coda tra le gambe.
+Dialogue: 0,0:20:49.36,0:20:50.58,Main,Mahito,0000,0000,0000,,Mi piaci.
+Dialogue: 0,0:20:51.02,0:20:53.06,Main,Mahito,0000,0000,0000,,Forse varrà la pena ammazzarti.
+Dialogue: 0,0:20:53.36,0:20:56.64,Main,Nobara,0000,0000,0000,,Anche io oggi non ho avuto molta fortuna...
+Dialogue: 0,0:20:57.88,0:21:02.05,Italics,Nobara,0000,0000,0000,,Pare che la sua tecnica\N abbia qualcosa a che fare con l'anima.
+Dialogue: 0,0:21:02.05,0:21:04.56,Italics,Nobara,0000,0000,0000,,E mi hanno anche detto di non farmi toccare da lui...
+Dialogue: 0,0:21:05.60,0:21:08.81,Main,Nobara,0000,0000,0000,,Mi accontenterò di esorcizzare\N un insetto codardo come te.
+Dialogue: 0,0:21:09.46,0:21:10.83,Italics,Nobara,0000,0000,0000,,Ricordala...
+Dialogue: 0,0:21:11.19,0:21:15.21,Italics,Nobara,0000,0000,0000,,Ricorda di quando hai afferrato\N l'essenza dell'energia malefica!
+Dialogue: 0,0:21:17.42,0:21:18.94,Main,Mahito,0000,0000,0000,,Pessimo controllo.
+Dialogue: 0,0:21:28.16,0:21:29.18,Main,Nobara,0000,0000,0000,,Fermacapelli.
+Dialogue: 0,0:21:37.59,0:21:39.11,Main,Mahito,0000,0000,0000,,Ci sai fare!
+Dialogue: 0,0:21:39.11,0:21:42.23,Main,Mahito,0000,0000,0000,,Peccato però che su di me non funziona.
+Dialogue: 0,0:21:42.79,0:21:44.85,Italics,Mahito,0000,0000,0000,,A giudicare dalle sue parole,
+Dialogue: 0,0:21:44.85,0:21:47.36,Italics,Mahito,0000,0000,0000,,dev'essere molto legata a lui.
+Dialogue: 0,0:21:47.77,0:21:50.71,Italics,Mahito,0000,0000,0000,,Gli mostrerò il cadavere di questa donna...
+Dialogue: 0,0:21:50.71,0:21:54.04,Italics,Mahito,0000,0000,0000,,e spezzerò l'anima di Yuji Itadori!
+Dialogue: 0,0:23:25.52,0:23:27.27,Main,Mahito,0000,0000,0000,,Facciamo un test della personalità!
+Dialogue: 0,0:23:27.27,0:23:31.36,Main,Mahito,0000,0000,0000,,Ricordi con più chiarezza la persona che amavi, \Noppure la persona che odiavi?
+Dialogue: 0,0:23:31.36,0:23:33.26,Main,Mahito,0000,0000,0000,,I risultati dopo il titolo!
+Dialogue: 0,0:23:33.26,0:23:35.20,Top,Mahito,0000,0000,0000,,Prossimo episodio: "Giusto e sbagliato 2".
+Dialogue: 0,0:23:33.26,0:23:39.93,Next_Ep_Title,Sign,0000,0000,0000,,{\c&HFFFFFF&\bord2\blur4}Prossimamente\N{\fs30\fscy150}Giusto e sbagliato 2
+Dialogue: 0,0:23:35.20,0:23:39.75,Top,Mahito,0000,0000,0000,,Pensare esclusivamente al passato \Nvuol dire che sei un fissato!
+

@@ -1,0 +1,417 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: ImagetextBD,Arial Unicode MS,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,0065,0065,0075,1
+Style: DefaultBD,Arial Unicode MS,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,0065,0065,0075,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:41.15,0:01:45.45,ImagetextBD,,0000,0000,0000,,{\an8}ENCONTRO ESTRATÉGICO
+Dialogue: 0,0:01:41.69,0:01:44.69,DefaultBD,,0000,0000,0000,,{\an2}Bem quando pensamos que os danos\N{\an2}à cidade seriam inevitáveis
+Dialogue: 0,0:01:44.78,0:01:48.20,DefaultBD,,0000,0000,0000,,{\an2}um ataque poderoso pulverizou\N{\an2}aquela criatura gigante.
+Dialogue: 0,0:01:48.41,0:01:52.37,DefaultBD,,0000,0000,0000,,{\an2}Então quer dizer que o Centichoro\N{\an2}desapareceu sem deixar rastros?
+Dialogue: 0,0:01:53.04,0:01:57.21,DefaultBD,,0000,0000,0000,,{\an2}É difícil acreditar, mas esse é um feito\N{\an2}que só o King teria o poder de realizar.
+Dialogue: 0,0:01:57.46,0:02:00.29,DefaultBD,,0000,0000,0000,,{\an2}Temos muita sorte\N{\an2}por ter o King como nosso aliado.
+Dialogue: 0,0:02:00.38,0:02:05.34,DefaultBD,,0000,0000,0000,,{\an2}Quanto ao Caçador de Heróis, ouvi dizer\N{\an2}que Silverfang falhou em capturá-lo.
+Dialogue: 0,0:02:05.55,0:02:07.68,DefaultBD,,0000,0000,0000,,{\an2}O que planeja fazer com relação a isso,\N{\an2}Sitch?
+Dialogue: 0,0:02:08.05,0:02:09.84,DefaultBD,,0000,0000,0000,,{\an2}Se ele continuar caçando heróis assim
+Dialogue: 0,0:02:09.84,0:02:12.43,DefaultBD,,0000,0000,0000,,{\an2}a Associação dos Heróis\N{\an2}deixará de funcionar.
+Dialogue: 0,0:02:13.43,0:02:18.19,DefaultBD,,0000,0000,0000,,{\an2}Não podemos mais enxergar o Garou\N{\an2}como um humano, mas como um monstro.
+Dialogue: 0,0:02:18.48,0:02:20.31,DefaultBD,,0000,0000,0000,,{\an2}Da próxima vez que ele aparecer,
+Dialogue: 0,0:02:20.40,0:02:22.69,DefaultBD,,0000,0000,0000,,{\an2}ele será categorizado como\N{\an2}nível de ameaça Dragão
+Dialogue: 0,0:02:22.77,0:02:25.03,DefaultBD,,0000,0000,0000,,{\an2}e um alerta de emergência\N{\an2}deve ser emitido.
+Dialogue: 0,0:02:25.15,0:02:27.53,DefaultBD,,0000,0000,0000,,{\an2}Mas, na verdade,\N{\an2}ele ainda é um humano, não é?
+Dialogue: 0,0:02:27.99,0:02:29.53,DefaultBD,,0000,0000,0000,,{\an2}Um ser humano normal conseguiria
+Dialogue: 0,0:02:29.53,0:02:31.95,DefaultBD,,0000,0000,0000,,{\an2}enfrentar nossos heróis\N{\an2}Classe-S desarmado?
+Dialogue: 0,0:02:32.16,0:02:33.49,DefaultBD,,0000,0000,0000,,{\an2}Reflita.
+Dialogue: 0,0:02:33.95,0:02:35.83,DefaultBD,,0000,0000,0000,,{\an2}Talvez o problema seja a estratégia?
+Dialogue: 0,0:02:35.91,0:02:37.21,DefaultBD,,0000,0000,0000,,{\an2}{\i1}"Nossos" heróis Classe-S?{\i0}
+Dialogue: 0,0:02:37.29,0:02:40.29,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Mesmo agora, ele ainda trata tudo{\i0}\N{\an2}{\i1}como se fossem negócios.{\i0}
+Dialogue: 0,0:02:40.88,0:02:45.05,DefaultBD,,0000,0000,0000,,{\an2}Foi uma surpresa o Silverfang\N{\an2}não ter conseguido acabar com o Garou
+Dialogue: 0,0:02:45.09,0:02:47.72,DefaultBD,,0000,0000,0000,,{\an2}mas ele o deixou gravemente ferido.
+Dialogue: 0,0:02:48.26,0:02:51.22,DefaultBD,,0000,0000,0000,,{\an2}Isso significa que o Garou\N{\an2}provavelmente não será um reforço
+Dialogue: 0,0:02:51.22,0:02:52.85,DefaultBD,,0000,0000,0000,,{\an2}para a Associação dos Monstros.
+Dialogue: 0,0:02:52.93,0:02:55.39,DefaultBD,,0000,0000,0000,,{\an2}Acho que podemos\N{\an2}contar isso como uma vitória.
+Dialogue: 0,0:02:55.47,0:02:57.52,DefaultBD,,0000,0000,0000,,{\an2}Tragam o Blast aqui! Eu disse Blast!
+Dialogue: 0,0:02:57.85,0:03:00.52,DefaultBD,,0000,0000,0000,,{\an2}Ele é um dos melhores,\N{\an2}mas não está fazendo nada, não é?
+Dialogue: 0,0:03:00.77,0:03:03.82,DefaultBD,,0000,0000,0000,,{\an2}É impossível dar ordens ao Blast.
+Dialogue: 0,0:03:03.98,0:03:08.11,DefaultBD,,0000,0000,0000,,{\an2}Ele só atua como herói voluntariamente.
+Dialogue: 0,0:03:08.74,0:03:12.32,DefaultBD,,0000,0000,0000,,{\an2}Ele se recusa a ser subordinado de alguém\N{\an2}e detesta chamar atenção.
+Dialogue: 0,0:03:12.41,0:03:15.16,DefaultBD,,0000,0000,0000,,{\an2}A identidade dele é oculta\N{\an2}até mesmo nos registros.
+Dialogue: 0,0:03:15.62,0:03:18.04,DefaultBD,,0000,0000,0000,,{\an2}E isso é porque acreditamos
+Dialogue: 0,0:03:18.04,0:03:20.71,DefaultBD,,0000,0000,0000,,{\an2}que ele seja digno\N{\an2}desse tratamento especial.
+Dialogue: 0,0:03:20.79,0:03:24.38,DefaultBD,,0000,0000,0000,,{\an2}Porém, se a humanidade\N{\an2}realmente precisar realmente de ajuda,
+Dialogue: 0,0:03:24.38,0:03:26.30,DefaultBD,,0000,0000,0000,,{\an2}tenho certeza de que ele\N{\an2}fará alguma coisa.
+Dialogue: 0,0:03:26.38,0:03:27.96,DefaultBD,,0000,0000,0000,,{\an2}O que você quer dizer?!
+Dialogue: 0,0:03:28.30,0:03:32.59,DefaultBD,,0000,0000,0000,,{\an2}A hora é agora!\N{\an2}Meu filho foi sequestrado por um monstro!
+Dialogue: 0,0:03:33.05,0:03:37.72,DefaultBD,,0000,0000,0000,,{\an2}Isso já faz 24 horas.\N{\an2}Por que vocês não atacaram?
+Dialogue: 0,0:03:37.93,0:03:40.52,DefaultBD,,0000,0000,0000,,{\an2}Eu lhe dou a minha palavra\N{\an2}de que salvaremos o seu filho.
+Dialogue: 0,0:03:41.19,0:03:42.06,DefaultBD,,0000,0000,0000,,{\an2}E quem é você?
+Dialogue: 0,0:03:42.56,0:03:45.36,DefaultBD,,0000,0000,0000,,{\an2}Eu comandarei esta operação de resgate.
+Dialogue: 0,0:03:45.69,0:03:47.53,DefaultBD,,0000,0000,0000,,{\an2}Eu me chamo Sekingal.
+Dialogue: 0,0:03:47.94,0:03:49.86,DefaultBD,,0000,0000,0000,,{\an2}Prazer em conhecê-lo.
+Dialogue: 0,0:03:50.40,0:03:51.36,DefaultBD,,0000,0000,0000,,{\an2}Hã?
+Dialogue: 0,0:03:51.95,0:03:53.95,DefaultBD,,0000,0000,0000,,{\an2}Que operação?
+Dialogue: 0,0:03:54.20,0:03:58.49,DefaultBD,,0000,0000,0000,,{\an2}Eu só vou entrar lá\N{\an2}e resolver tudo rápido.
+Dialogue: 0,0:03:58.62,0:04:00.46,DefaultBD,,0000,0000,0000,,{\an2}Já sabemos onde é o esconderijo?
+Dialogue: 0,0:04:00.83,0:04:03.92,DefaultBD,,0000,0000,0000,,{\an2}Kid Emperor está trabalhando\N{\an2}a todo vapor nisso agora.
+Dialogue: 0,0:04:04.54,0:04:09.51,DefaultBD,,0000,0000,0000,,{\an2}Tenho robôs de vigilância investigando\N{\an2}a rota subterrânea do Centichoro.
+Dialogue: 0,0:04:09.71,0:04:11.26,DefaultBD,,0000,0000,0000,,{\an2}Mas a área é enorme.
+Dialogue: 0,0:04:11.67,0:04:12.97,DefaultBD,,0000,0000,0000,,{\an2}Temos três dias, certo?
+Dialogue: 0,0:04:13.09,0:04:14.05,DefaultBD,,0000,0000,0000,,{\an2}Só restam dois.
+Dialogue: 0,0:04:14.47,0:04:16.47,DefaultBD,,0000,0000,0000,,{\an2}Sem descanso pra mim.
+Dialogue: 0,0:04:16.76,0:04:20.60,DefaultBD,,0000,0000,0000,,{\an2}O esconderijo fica em algum lugar\N{\an2}na Cidade Fantasma Z, certo?
+Dialogue: 0,0:04:20.77,0:04:22.89,ImagetextBD,,0000,0000,0000,,{\an8}KABUM
+Dialogue: 0,0:04:20.77,0:04:23.10,DefaultBD,,0000,0000,0000,,{\an2}Quer que eu simplesmente destrua tudo?
+Dialogue: 0,0:04:23.10,0:04:26.11,DefaultBD,,0000,0000,0000,,{\an2}Devemos agir com cautela\N{\an2}já que há um refém.
+Dialogue: 0,0:04:26.44,0:04:28.73,DefaultBD,,0000,0000,0000,,{\an2}Mas que atraso de vida.
+Dialogue: 0,0:04:28.90,0:04:31.94,DefaultBD,,0000,0000,0000,,{\an2}Se eles não tivessem feito isso\N{\an2}não teriam chance contra mim.
+Dialogue: 0,0:04:32.15,0:04:34.61,DefaultBD,,0000,0000,0000,,{\an2}Os monstros devem estar com medo de mim.
+Dialogue: 0,0:04:34.78,0:04:36.66,DefaultBD,,0000,0000,0000,,{\an2}Os oponentes são formidáveis.
+Dialogue: 0,0:04:36.70,0:04:38.12,DefaultBD,,0000,0000,0000,,{\an2}Tanto faz.
+Dialogue: 0,0:04:38.41,0:04:42.12,DefaultBD,,0000,0000,0000,,{\an2}Você nos chamou aqui\N{\an2}só para dar esse aviso?
+Dialogue: 0,0:04:44.62,0:04:48.38,DefaultBD,,0000,0000,0000,,{\an2}Na verdade, ontem o Engine Knight\N{\an2}continuou a investigação por sua conta.
+Dialogue: 0,0:04:48.71,0:04:53.17,DefaultBD,,0000,0000,0000,,{\an2}Ele ignorou nossos avisos\N{\an2}e entrou na Cidade Fantasma antes de nós.
+Dialogue: 0,0:04:53.59,0:04:55.18,DefaultBD,,0000,0000,0000,,{\an2}Por que sozinho?!
+Dialogue: 0,0:04:55.59,0:05:00.31,DefaultBD,,0000,0000,0000,,{\an2}Ele nunca perdeu uma batalha,\N{\an2}então deve ter se sentido confiante.
+Dialogue: 0,0:05:00.72,0:05:05.10,DefaultBD,,0000,0000,0000,,{\an2}Mas desde a noite passada não conseguimos\N{\an2}captar nenhum sinal do transmissor dele.
+Dialogue: 0,0:05:05.85,0:05:09.73,DefaultBD,,0000,0000,0000,,{\an2}Acho que podemos assumir\N{\an2}que Engine Knight foi derrotado.
+Dialogue: 0,0:05:11.44,0:05:12.90,DefaultBD,,0000,0000,0000,,{\an2}Eu não me importo.
+Dialogue: 0,0:05:12.90,0:05:15.82,DefaultBD,,0000,0000,0000,,{\an2}É melhor você se apressar\N{\an2}e reunir a sua equipe.
+Dialogue: 0,0:05:15.99,0:05:17.32,DefaultBD,,0000,0000,0000,,{\an2}Quem sobrou?
+Dialogue: 0,0:05:17.95,0:05:21.83,DefaultBD,,0000,0000,0000,,{\an2}A Associação dos Monstros\N{\an2}nos deu um ultimato de três dias.
+Dialogue: 0,0:05:22.08,0:05:23.25,DefaultBD,,0000,0000,0000,,{\an2}Ainda temos tempo.
+Dialogue: 0,0:05:24.50,0:05:28.84,DefaultBD,,0000,0000,0000,,{\an2}Assim que os outros heróis\N{\an2}estiverem prontos, eles também virão.
+Dialogue: 0,0:05:30.04,0:05:32.42,DefaultBD,,0000,0000,0000,,{\an2}Ainda estamos esperando?\N{\an2}O que está acontecendo?
+Dialogue: 0,0:05:33.05,0:05:35.26,DefaultBD,,0000,0000,0000,,{\an2}Uma criança está sendo mantida como refém?
+Dialogue: 0,0:05:35.55,0:05:38.30,DefaultBD,,0000,0000,0000,,{\an2}Você não sabia disso, Atomic Samurai?
+Dialogue: 0,0:05:38.55,0:05:40.72,DefaultBD,,0000,0000,0000,,{\an2}Você também está fedendo a sangue.
+Dialogue: 0,0:05:41.35,0:05:44.60,DefaultBD,,0000,0000,0000,,{\an2}Desde ontem, eu estive vasculhando\N{\an2}montanhas e cavernas
+Dialogue: 0,0:05:44.60,0:05:49.40,DefaultBD,,0000,0000,0000,,{\an2}procurando monstros escondidos\N{\an2}e os cortando para todos os lados.
+Dialogue: 0,0:05:49.98,0:05:53.99,DefaultBD,,0000,0000,0000,,{\an2}Infelizmente, não consegui encontrar\N{\an2}o esconderijo da Associação dos Monstros.
+Dialogue: 0,0:05:54.40,0:05:55.45,DefaultBD,,0000,0000,0000,,{\an2}Faz sentido.
+Dialogue: 0,0:05:55.70,0:05:59.24,DefaultBD,,0000,0000,0000,,{\an2}Ouvi dizer que o esconderijo deles\N{\an2}fica na Cidade Fantasma.
+Dialogue: 0,0:05:59.45,0:06:01.74,DefaultBD,,0000,0000,0000,,{\an2}O quê?! Isso foi confirmado?
+Dialogue: 0,0:06:02.33,0:06:05.75,DefaultBD,,0000,0000,0000,,{\an2}Pois é, invadir o esconderijo de frente\N{\an2}parece bem fácil.
+Dialogue: 0,0:06:06.37,0:06:08.67,DefaultBD,,0000,0000,0000,,{\an2}Sugiro que todos descansemos até lá.
+Dialogue: 0,0:06:08.75,0:06:11.21,DefaultBD,,0000,0000,0000,,{\an2}- Certo.\N{\an2}- Eu vou tomar um banho.
+Dialogue: 0,0:06:13.13,0:06:13.96,DefaultBD,,0000,0000,0000,,{\an2}Minha nossa!
+Dialogue: 0,0:06:14.59,0:06:18.26,DefaultBD,,0000,0000,0000,,{\an2}Ouvi dizer que a equipe seria composta\N{\an2}por alguns poucos da elite, mas...
+Dialogue: 0,0:06:18.59,0:06:21.68,DefaultBD,,0000,0000,0000,,{\an2}parece que alguns aqui\N{\an2}não se encaixam no perfil.
+Dialogue: 0,0:06:22.05,0:06:23.60,DefaultBD,,0000,0000,0000,,{\an2}Isto não é um piquenique.
+Dialogue: 0,0:06:23.89,0:06:28.48,DefaultBD,,0000,0000,0000,,{\an2}Que tal evitar trazer seus amigos,\N{\an2}Atomic Samurai?
+Dialogue: 0,0:06:29.44,0:06:32.02,DefaultBD,,0000,0000,0000,,{\an2}Eu prefiro que os fracos\N{\an2}lutem contra outros fracos.
+Dialogue: 0,0:06:32.36,0:06:33.32,DefaultBD,,0000,0000,0000,,{\an2}Entendeu?
+Dialogue: 0,0:06:33.57,0:06:36.03,DefaultBD,,0000,0000,0000,,{\an2}Não seria tão ruim\N{\an2}se eles só morressem
+Dialogue: 0,0:06:36.07,0:06:38.49,DefaultBD,,0000,0000,0000,,{\an2}mas e se forem tomados como reféns\N{\an2}ou como escudos?
+Dialogue: 0,0:06:38.82,0:06:40.57,DefaultBD,,0000,0000,0000,,{\an2}Isso seria um grande problema.
+Dialogue: 0,0:06:41.16,0:06:42.66,DefaultBD,,0000,0000,0000,,{\an2}Se isso acontecer
+Dialogue: 0,0:06:42.66,0:06:45.29,DefaultBD,,0000,0000,0000,,{\an2}você pode dar ordens\N{\an2}para cometerem haraquiri?
+Dialogue: 0,0:06:45.50,0:06:47.41,DefaultBD,,0000,0000,0000,,{\an2}Ei, pega leve, Sr. Bonitão...
+Dialogue: 0,0:06:47.46,0:06:50.12,DefaultBD,,0000,0000,0000,,{\an2}Máscara Doce, você está na equipe?
+Dialogue: 0,0:06:50.54,0:06:55.80,DefaultBD,,0000,0000,0000,,{\an2}Claro. Aqueles monstros\N{\an2}interromperam meu show.
+Dialogue: 0,0:06:56.09,0:07:00.68,DefaultBD,,0000,0000,0000,,{\an2}Entendo. Meus discípulos são fortes, sabe.
+Dialogue: 0,0:07:00.84,0:07:04.56,DefaultBD,,0000,0000,0000,,{\an2}Vou dizer a eles\N{\an2}para proteger o idol bonitão
+Dialogue: 0,0:07:04.56,0:07:06.81,DefaultBD,,0000,0000,0000,,{\an2}quando ele se meter em apuros.
+Dialogue: 0,0:07:07.14,0:07:08.77,DefaultBD,,0000,0000,0000,,{\an2}Então relaxe.
+Dialogue: 0,0:07:09.02,0:07:10.27,DefaultBD,,0000,0000,0000,,{\an2}Em apuros?
+Dialogue: 0,0:07:10.73,0:07:13.56,DefaultBD,,0000,0000,0000,,{\an2}Não acredito que ainda existam pessoas\N{\an2}que duvidam
+Dialogue: 0,0:07:13.56,0:07:15.32,DefaultBD,,0000,0000,0000,,{\an2}das minhas habilidades de combate.
+Dialogue: 0,0:07:15.36,0:07:18.86,DefaultBD,,0000,0000,0000,,{\an2}Eu só fico na Classe A\N{\an2}porque é mais fácil supervisionar tudo.
+Dialogue: 0,0:07:18.86,0:07:21.11,DefaultBD,,0000,0000,0000,,{\an2}Posso subir para a Classe S\N{\an2}quando quiser.
+Dialogue: 0,0:07:22.66,0:07:23.74,DefaultBD,,0000,0000,0000,,{\an2}Vamos ver agora.
+Dialogue: 0,0:07:23.95,0:07:26.45,DefaultBD,,0000,0000,0000,,{\an2}Vou simplificar,\N{\an2}para um imbecil entender.
+Dialogue: 0,0:07:26.79,0:07:28.33,DefaultBD,,0000,0000,0000,,{\an2}Eu sou mais forte que você.
+Dialogue: 0,0:07:30.00,0:07:31.83,DefaultBD,,0000,0000,0000,,{\an2}Ah é?
+Dialogue: 0,0:07:31.87,0:07:34.34,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Mestre! Mantenha a calma!{\i0}
+Dialogue: 0,0:07:36.17,0:07:41.09,DefaultBD,,0000,0000,0000,,{\an2}Carcereiro, tem certeza de que eu posso\N{\an2}simplesmente sair pela porta da frente?
+Dialogue: 0,0:07:41.30,0:07:44.01,DefaultBD,,0000,0000,0000,,{\an2}Isto não está previsto em lei.
+Dialogue: 0,0:07:44.35,0:07:47.68,DefaultBD,,0000,0000,0000,,{\an2}Devo lembrá-lo de que todas as vezes\N{\an2}que fugiu da prisão
+Dialogue: 0,0:07:47.68,0:07:50.98,DefaultBD,,0000,0000,0000,,{\an2}para fazer trabalho de herói\N{\an2}foi atividade ilegal.
+Dialogue: 0,0:07:51.89,0:07:53.94,DefaultBD,,0000,0000,0000,,{\an2}Eu não gosto\N{\an2}de como a Associação dos Heróis
+Dialogue: 0,0:07:53.94,0:07:56.48,DefaultBD,,0000,0000,0000,,{\an2}dá tratamento preferencial\N{\an2}a um cara como você.
+Dialogue: 0,0:07:56.65,0:07:58.82,DefaultBD,,0000,0000,0000,,{\an2}Mas dessa vez eu concordo.
+Dialogue: 0,0:07:59.65,0:08:03.57,DefaultBD,,0000,0000,0000,,{\an2}Um monstro parecido com um gato
+Dialogue: 0,0:08:03.57,0:08:06.53,DefaultBD,,0000,0000,0000,,{\an2}transformou alguns dos prisioneiros\N{\an2}em monstros e os levou.
+Dialogue: 0,0:08:06.91,0:08:10.45,DefaultBD,,0000,0000,0000,,{\an2}Muitos oficiais que resistiram\N{\an2}perderam suas vidas.
+Dialogue: 0,0:08:10.71,0:08:13.04,DefaultBD,,0000,0000,0000,,{\an2}Você é um herói lá fora, não é?
+Dialogue: 0,0:08:13.04,0:08:15.00,DefaultBD,,0000,0000,0000,,{\an2}Não é mesmo, chefe dos prisioneiros?
+Dialogue: 0,0:08:15.46,0:08:18.13,DefaultBD,,0000,0000,0000,,{\an2}Se vingue por nós!
+Dialogue: 0,0:08:18.92,0:08:20.34,DefaultBD,,0000,0000,0000,,{\an2}Deixa comigo.
+Dialogue: 0,0:08:20.72,0:08:26.26,DefaultBD,,0000,0000,0000,,{\an2}Vou fazê-los pagar caro por destruir\N{\an2}este lugar enquanto eu estava fora.
+Dialogue: 0,0:08:27.05,0:08:28.89,DefaultBD,,0000,0000,0000,,{\an2}Chefe, espera!
+Dialogue: 0,0:08:29.27,0:08:31.27,DefaultBD,,0000,0000,0000,,{\an2}Eu tricotei um suéter para o senhor.
+Dialogue: 0,0:08:31.68,0:08:33.10,DefaultBD,,0000,0000,0000,,{\an2}Por favor, use se gostar.
+Dialogue: 0,0:08:37.19,0:08:40.32,DefaultBD,,0000,0000,0000,,{\an2}Obrigado. Isso me dará coragem.
+Dialogue: 0,0:08:42.82,0:08:43.65,DefaultBD,,0000,0000,0000,,{\an2}Ei.
+Dialogue: 0,0:08:44.11,0:08:47.91,DefaultBD,,0000,0000,0000,,{\an2}Você se importam em sair da sala?\N{\an2}Me atrapalha ter vocês me encarando.
+Dialogue: 0,0:08:50.70,0:08:55.04,DefaultBD,,0000,0000,0000,,{\an2}Metal Knight, eu sei que está fingindo\N{\an2}não estar aí. Por favor, responda.
+Dialogue: 0,0:08:55.88,0:08:57.08,DefaultBD,,0000,0000,0000,,{\an2}{\i1}O que é?{\i0}
+Dialogue: 0,0:08:57.17,0:09:00.42,DefaultBD,,0000,0000,0000,,{\an2}Sinto que estou desperdiçando\N{\an2}muito tempo e energia.
+Dialogue: 0,0:09:02.09,0:09:05.22,DefaultBD,,0000,0000,0000,,{\an2}Tenho certeza de que você já descobriu\N{\an2}onde fica o esconderijo.
+Dialogue: 0,0:09:05.22,0:09:07.76,DefaultBD,,0000,0000,0000,,{\an2}Por favor, me diga.\N{\an2}Estamos ficando sem tempo.
+Dialogue: 0,0:09:07.80,0:09:09.76,DefaultBD,,0000,0000,0000,,{\an2}Você vai deixar o refém morrer?
+Dialogue: 0,0:09:10.77,0:09:14.19,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Ao não dizer, o refém pode morrer.{\i0}
+Dialogue: 0,0:09:14.35,0:09:15.48,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Mas se eu disser{\i0}
+Dialogue: 0,0:09:15.48,0:09:19.11,DefaultBD,,0000,0000,0000,,{\an2}{\i1}trarei a morte não apenas ao refém,{\i0}\N{\an2}{\i1}mas a todos vocês.{\i0}
+Dialogue: 0,0:09:19.40,0:09:23.61,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Farei uma escolha{\i0}\N{\an2}{\i1}racional baseada na justiça.{\i0}
+Dialogue: 0,0:09:23.86,0:09:27.82,DefaultBD,,0000,0000,0000,,{\an2}Há outra opção.\N{\an2}Você pode se juntar à operação.
+Dialogue: 0,0:09:28.41,0:09:30.91,DefaultBD,,0000,0000,0000,,{\an2}Do que você tem tanto medo?
+Dialogue: 0,0:09:30.95,0:09:33.87,DefaultBD,,0000,0000,0000,,{\an2}Qual é o estado do seu\N{\an2}corpo-máquina agora?
+Dialogue: 0,0:09:34.12,0:09:37.63,DefaultBD,,0000,0000,0000,,{\an2}Se ele foi destruído,\N{\an2}qual monstro fez isso com você e como?
+Dialogue: 0,0:09:39.04,0:09:40.96,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Rei dos Monstros Orochi.{\i0}
+Dialogue: 0,0:09:41.88,0:09:45.13,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Foi só um golpe. Ele destruiu o braço{\i0}\N{\an2}{\i1}que usei para me defender.{\i0}
+Dialogue: 0,0:09:45.13,0:09:47.76,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Até o dispositivo de autodestruição{\i0}\N{\an2}{\i1}foi desativado.{\i0}
+Dialogue: 0,0:09:48.68,0:09:51.76,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Não é da Associação dos Monstros{\i0}\N{\an2}{\i1}que tenho medo...{\i0}
+Dialogue: 0,0:09:52.43,0:09:55.77,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Poderes malignos estão esperando{\i0}\N{\an2}{\i1}uma chance de dominar o mundo.{\i0}
+Dialogue: 0,0:09:56.06,0:09:58.52,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Quando as defesas{\i0}\N{\an2}{\i1}da humanidade enfraquecerem{\i0}
+Dialogue: 0,0:09:58.52,0:10:00.36,DefaultBD,,0000,0000,0000,,{\an2}{\i1}eles atacarão de uma vez para tomar tudo.{\i0}
+Dialogue: 0,0:10:00.73,0:10:05.32,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Tenha cuidado.{\i0}\N{\an2}{\i1}Não confie em ninguém ao seu redor.{\i0}
+Dialogue: 0,0:10:05.61,0:10:08.45,DefaultBD,,0000,0000,0000,,{\an2}Se você quer fazer justiça,\N{\an2}faz isso sozinho.
+Dialogue: 0,0:10:08.74,0:10:13.33,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Se fortaleça e guarde isso{\i0}\N{\an2}{\i1}para o momento certo, Kid Emperor.{\i0}
+Dialogue: 0,0:10:13.45,0:10:14.70,ImagetextBD,,0000,0000,0000,,{\an8}SEM SINAL
+Dialogue: 0,0:10:18.79,0:10:21.42,DefaultBD,,0000,0000,0000,,{\an2}A Associação dos Heróis é inútil.
+Dialogue: 0,0:10:21.50,0:10:22.59,DefaultBD,,0000,0000,0000,,{\an2}Ouçam todos vocês!
+Dialogue: 0,0:10:22.88,0:10:25.38,DefaultBD,,0000,0000,0000,,{\an2}Enquanto discutimos,\N{\an2}meu filho está tremendo de medo
+Dialogue: 0,0:10:25.38,0:10:26.84,DefaultBD,,0000,0000,0000,,{\an2}esperando por ajuda.
+Dialogue: 0,0:10:26.97,0:10:31.10,DefaultBD,,0000,0000,0000,,{\an2}Vão imediatamente para a Cidade Fantasma\N{\an2}e encontrem o esconderijo dos Monstros!
+Dialogue: 0,0:10:31.18,0:10:32.81,DefaultBD,,0000,0000,0000,,{\an2}Resgatem meu filho!
+Dialogue: 0,0:10:33.18,0:10:36.35,DefaultBD,,0000,0000,0000,,{\an2}As roupas de combate que estão usando\N{\an2}são armas secretas obtidas
+Dialogue: 0,0:10:36.35,0:10:37.44,DefaultBD,,0000,0000,0000,,{\an2}por meios especiais.
+Dialogue: 0,0:10:37.56,0:10:39.69,DefaultBD,,0000,0000,0000,,{\an2}O desempenho dessas roupas\N{\an2}supera facilmente o poder
+Dialogue: 0,0:10:39.69,0:10:41.90,DefaultBD,,0000,0000,0000,,{\an2}de qualquer herói profissional.
+Dialogue: 0,0:10:42.15,0:10:46.28,ImagetextBD,,0000,0000,0000,,{\an8}ESQUADRÃO PRIVADO DE NARINKI
+Dialogue: 0,0:10:42.40,0:10:46.28,DefaultBD,,0000,0000,0000,,{\an2}Façam pleno uso de suas roupas de combate\N{\an2}e exterminem todos os monstros.
+Dialogue: 0,0:10:46.99,0:10:49.07,DefaultBD,,0000,0000,0000,,{\an2}Eu pagarei o preço que for pelo sucesso!
+Dialogue: 0,0:10:49.28,0:10:52.95,DefaultBD,,0000,0000,0000,,{\an2}Tragam o Waganma vivo\N{\an2}e vocês viverão no luxo por gerações!
+Dialogue: 0,0:10:53.12,0:10:53.95,DefaultBD,,0000,0000,0000,,{\an2}Vão!!
+Dialogue: 0,0:11:00.04,0:11:03.88,DefaultBD,,0000,0000,0000,,{\an2}Tenho quase certeza\N{\an2}de que é naquele prédio pequeno.
+Dialogue: 0,0:11:04.71,0:11:05.96,DefaultBD,,0000,0000,0000,,{\an2}Encurralei vocês!
+Dialogue: 0,0:11:07.92,0:11:10.13,DefaultBD,,0000,0000,0000,,{\an2}{\i1}O Grupo Nevasca foi aniquilado.{\i0}
+Dialogue: 0,0:11:10.59,0:11:12.68,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Bem, a metade da culpa é da minha irmã.{\i0}
+Dialogue: 0,0:11:13.68,0:11:15.10,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Isto é uma emergência.{\i0}
+Dialogue: 0,0:11:15.47,0:11:17.68,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Preciso usar este lugar{\i0}\N{\an2}{\i1}como uma filial do Grupo Nevasca{\i0}
+Dialogue: 0,0:11:17.68,0:11:19.77,DefaultBD,,0000,0000,0000,,{\an2}{\i1}para realizar uma reunião.{\i0}
+Dialogue: 0,0:11:20.31,0:11:21.31,DefaultBD,,0000,0000,0000,,{\an2}Oi?
+Dialogue: 0,0:11:21.56,0:11:23.15,DefaultBD,,0000,0000,0000,,{\an2}Saita... Quem é você?
+Dialogue: 0,0:11:24.27,0:11:25.52,DefaultBD,,0000,0000,0000,,{\an2}Um amigo?
+Dialogue: 0,0:11:26.11,0:11:28.49,DefaultBD,,0000,0000,0000,,{\an2}Você tem visita, Saitama!
+Dialogue: 0,0:11:30.65,0:11:33.24,DefaultBD,,0000,0000,0000,,{\an2}A Nevasca está aqui de novo.
+Dialogue: 0,0:11:33.32,0:11:35.99,DefaultBD,,0000,0000,0000,,{\an2}Ei, como é que o monstro que eu criei
+Dialogue: 0,0:11:36.04,0:11:38.25,DefaultBD,,0000,0000,0000,,{\an2}morreu na hora com apenas\N{\an2}um único golpe seu?
+Dialogue: 0,0:11:38.66,0:11:40.46,DefaultBD,,0000,0000,0000,,{\an2}O que você quer, Nevasca do Inferno?
+Dialogue: 0,0:11:40.66,0:11:42.63,DefaultBD,,0000,0000,0000,,{\an2}O Mestre não está aceitando\N{\an2}novos discípulos.
+Dialogue: 0,0:11:42.75,0:11:47.21,DefaultBD,,0000,0000,0000,,{\an2}Perdão, está muito apertado aqui.\N{\an2}Poderia me passar aquela pomada?
+Dialogue: 0,0:11:47.30,0:11:49.47,DefaultBD,,0000,0000,0000,,{\an2}Por que vento é fraco contra terra.
+Dialogue: 0,0:11:49.55,0:11:52.30,DefaultBD,,0000,0000,0000,,{\an2}Mas também estou no nível 27\N{\an2}e você no nível 15.
+Dialogue: 0,0:11:52.34,0:11:53.93,DefaultBD,,0000,0000,0000,,{\an2}Mesmo que você tenha o nível mais alto,
+Dialogue: 0,0:11:53.93,0:11:56.60,DefaultBD,,0000,0000,0000,,{\an2}o Golem Velho não pode vencer\N{\an2}tipos Meow-Meow.
+Dialogue: 0,0:11:56.81,0:12:00.60,DefaultBD,,0000,0000,0000,,{\an2}-Ele é considerado um personagem fraco.\N{\an2}-O quê? Você deveria ter me dito antes!
+Dialogue: 0,0:12:00.60,0:12:02.81,DefaultBD,,0000,0000,0000,,{\an2}-E esse do sovaco...\N{\an2}-Esse também é fraco.
+Dialogue: 0,0:12:02.90,0:12:05.40,DefaultBD,,0000,0000,0000,,{\an2}Na verdade,\N{\an2}só os personagens fofos são fortes.
+Dialogue: 0,0:12:05.44,0:12:07.82,DefaultBD,,0000,0000,0000,,{\an2}Deixa pra lá.\N{\an2}Isso tirou toda a minha graça.
+Dialogue: 0,0:12:08.15,0:12:09.49,DefaultBD,,0000,0000,0000,,{\an2}{\i1}O que está acontecendo?{\i0}
+Dialogue: 0,0:12:11.07,0:12:13.20,DefaultBD,,0000,0000,0000,,{\an2}-Por que você está aqui?\N{\an2}-É uma emergência.
+Dialogue: 0,0:12:13.53,0:12:15.57,DefaultBD,,0000,0000,0000,,{\an2}O Grupo Nevasca foi aniquilado!
+Dialogue: 0,0:12:15.70,0:12:18.20,DefaultBD,,0000,0000,0000,,{\an2}A Associação dos Monstros\N{\an2}é extremamente perigosa.
+Dialogue: 0,0:12:18.29,0:12:20.12,DefaultBD,,0000,0000,0000,,{\an2}Não é hora de ficar brincando.
+Dialogue: 0,0:12:20.12,0:12:22.79,DefaultBD,,0000,0000,0000,,{\an2}Você tem alguma ideia\N{\an2}do que está acontecendo?
+Dialogue: 0,0:12:23.29,0:12:24.83,DefaultBD,,0000,0000,0000,,{\an2}Não precisa gritar.
+Dialogue: 0,0:12:25.17,0:12:28.13,DefaultBD,,0000,0000,0000,,{\an2}Eu acabei de chegar em casa\N{\an2}e estava descansando um pouco.
+Dialogue: 0,0:12:28.21,0:12:29.51,DefaultBD,,0000,0000,0000,,{\an2}Não se deite!
+Dialogue: 0,0:12:29.67,0:12:33.68,DefaultBD,,0000,0000,0000,,{\an2}Como o Mestre disse,\N{\an2}nós também enfrentamos inimigos difíceis.
+Dialogue: 0,0:12:33.93,0:12:35.68,DefaultBD,,0000,0000,0000,,{\an2}Não pense que foram só vocês.
+Dialogue: 0,0:12:35.80,0:12:39.18,DefaultBD,,0000,0000,0000,,{\an2}Sim, dá para perceber\N{\an2}pelo jeito que você está.
+Dialogue: 0,0:12:39.89,0:12:41.68,DefaultBD,,0000,0000,0000,,{\an2}Eu sei que o King estava aqui antes
+Dialogue: 0,0:12:41.81,0:12:44.85,DefaultBD,,0000,0000,0000,,{\an2}mas o que o Silverfang\N{\an2}está fazendo aqui agora?
+Dialogue: 0,0:12:45.40,0:12:50.44,DefaultBD,,0000,0000,0000,,{\an2}Eu lutei ao lado deles, então Saitama\N{\an2}está me deixando descansar aqui.
+Dialogue: 0,0:12:50.73,0:12:52.32,DefaultBD,,0000,0000,0000,,{\an2}Eu me empolguei um pouco
+Dialogue: 0,0:12:52.40,0:12:54.57,DefaultBD,,0000,0000,0000,,{\an2}machuquei as costas,\N{\an2}e agora não consigo me mexer.
+Dialogue: 0,0:12:54.70,0:12:56.32,DefaultBD,,0000,0000,0000,,{\an2}Meus joelhos já eram.
+Dialogue: 0,0:12:56.45,0:12:59.49,DefaultBD,,0000,0000,0000,,{\an2}Voltar a usar o Punho do Qi Retumbante,\N{\an2}Rasgando o Ar cobrou seu preço.
+Dialogue: 0,0:12:59.91,0:13:03.21,DefaultBD,,0000,0000,0000,,{\an2}Entendi, deve ter sido uma grande batalha.
+Dialogue: 0,0:13:03.54,0:13:07.29,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Ainda assim, por quê?{\i0}\N{\an2}{\i1}Por que esse cara está como sempre?{\i0}
+Dialogue: 0,0:13:07.67,0:13:11.42,DefaultBD,,0000,0000,0000,,{\an2}Ei Saitama! Você está todo calmo,\N{\an2}mas na verdade está em pânico, não é?
+Dialogue: 0,0:13:11.46,0:13:14.55,DefaultBD,,0000,0000,0000,,{\an2}-Na verdade, não. Está tudo como sempre.\N{\an2}-O quê?
+Dialogue: 0,0:13:14.55,0:13:16.93,DefaultBD,,0000,0000,0000,,{\an2}Não tem como essa situação\N{\an2}ser a mesma de sempre!
+Dialogue: 0,0:13:17.43,0:13:19.22,DefaultBD,,0000,0000,0000,,{\an2}Por que ela está ficando brava?
+Dialogue: 0,0:13:19.51,0:13:23.18,DefaultBD,,0000,0000,0000,,{\an2}Odeio te dizer isso,\N{\an2}mas essa situação não é a mesma de sempre.
+Dialogue: 0,0:13:23.52,0:13:24.81,ImagetextBD,,0000,0000,0000,,{\an8}BAM BAM
+Dialogue: 0,0:13:23.64,0:13:25.10,DefaultBD,,0000,0000,0000,,{\an2}Senta aqui!
+Dialogue: 0,0:13:25.31,0:13:27.69,DefaultBD,,0000,0000,0000,,{\an2}Vamos fazer uma reunião estratégica agora!
+Dialogue: 0,0:13:26.48,0:13:27.40,ImagetextBD,,0000,0000,0000,,{\an8}BAM BAM
+Dialogue: 0,0:13:27.69,0:13:29.02,DefaultBD,,0000,0000,0000,,{\an2}Sério, por que está aqui?
+Dialogue: 0,0:13:29.32,0:13:31.94,DefaultBD,,0000,0000,0000,,{\an2}Genos! Você é Classe S.
+Dialogue: 0,0:13:31.94,0:13:35.11,DefaultBD,,0000,0000,0000,,{\an2}Os executivos da Associação\N{\an2}não te falaram sobre os próximos passos?
+Dialogue: 0,0:13:37.11,0:13:40.99,DefaultBD,,0000,0000,0000,,{\an2}Eu estava apoiando o Mestre Saitama\N{\an2}ontem em um torneio de artes marciais
+Dialogue: 0,0:13:40.99,0:13:42.37,DefaultBD,,0000,0000,0000,,{\an2}e também em uma luta.
+Dialogue: 0,0:13:42.58,0:13:46.50,DefaultBD,,0000,0000,0000,,{\an2}Sem contar que o transmissor da Associação\N{\an2}derreteu e foi destruído.
+Dialogue: 0,0:13:46.54,0:13:49.63,DefaultBD,,0000,0000,0000,,{\an2}Eu deixei o meu cair\N{\an2}em uma rachadura no chão.
+Dialogue: 0,0:13:49.79,0:13:52.00,DefaultBD,,0000,0000,0000,,{\an2}Percebi que o meu também estava quebrado.
+Dialogue: 0,0:13:52.00,0:13:54.34,DefaultBD,,0000,0000,0000,,{\an2}Pode ter sido as ondas de choque\N{\an2}do soco do Saitama.
+Dialogue: 0,0:13:54.76,0:13:56.34,DefaultBD,,0000,0000,0000,,{\an2}E qual é nosso próximo passo?
+Dialogue: 0,0:13:56.38,0:13:58.84,DefaultBD,,0000,0000,0000,,{\an2}Estamos à beira\N{\an2}de uma guerra com os monstros.
+Dialogue: 0,0:13:59.05,0:14:01.22,DefaultBD,,0000,0000,0000,,{\an2}Preciso passar por\N{\an2}alguns reparos primeiro.
+Dialogue: 0,0:14:01.31,0:14:03.22,DefaultBD,,0000,0000,0000,,{\an2}Bem, isso é óbvio.
+Dialogue: 0,0:14:03.39,0:14:07.44,DefaultBD,,0000,0000,0000,,{\an2}Vamos precisar de tempo para nos recuperar\N{\an2}antes de podermos voltar à ação.
+Dialogue: 0,0:14:07.44,0:14:08.85,DefaultBD,,0000,0000,0000,,{\an2}Não há como vencer a idade.
+Dialogue: 0,0:14:09.48,0:14:10.36,DefaultBD,,0000,0000,0000,,{\an2}E você, King?
+Dialogue: 0,0:14:10.40,0:14:13.23,DefaultBD,,0000,0000,0000,,{\an2}Acho que tenho outros\N{\an2}assuntos para resolver.
+Dialogue: 0,0:14:13.65,0:14:16.82,DefaultBD,,0000,0000,0000,,{\an2}Então Saitama e eu somos\N{\an2}os únicos prontos para agir.
+Dialogue: 0,0:14:17.32,0:14:18.61,DefaultBD,,0000,0000,0000,,{\an2}O que acha?
+Dialogue: 0,0:14:18.91,0:14:23.20,DefaultBD,,0000,0000,0000,,{\an2}A sede deve ter a sua própria força-tarefa\N{\an2}especial elaborando um plano.
+Dialogue: 0,0:14:23.41,0:14:26.87,DefaultBD,,0000,0000,0000,,{\an2}Mas em momentos como esse,\N{\an2}as ações tomadas por heróis da Classe B
+Dialogue: 0,0:14:26.87,0:14:29.04,DefaultBD,,0000,0000,0000,,{\an2}e abaixo podem afetar\N{\an2}sua avaliação futura.
+Dialogue: 0,0:14:29.25,0:14:31.34,DefaultBD,,0000,0000,0000,,{\an2}Então deveríamos tentar contribuir.
+Dialogue: 0,0:14:31.50,0:14:32.92,ImagetextBD,,0000,0000,0000,,{\an8}DISTRAÍDO
+Dialogue: 0,0:14:31.88,0:14:32.92,DefaultBD,,0000,0000,0000,,{\an2}Você está ouvindo?
+Dialogue: 0,0:14:33.55,0:14:36.84,DefaultBD,,0000,0000,0000,,{\an2}Desta vez, o inimigo é um grupo\N{\an2}de monstros que normalmente agem sozinhos
+Dialogue: 0,0:14:36.84,0:14:39.72,DefaultBD,,0000,0000,0000,,{\an2}mas que formaram uma aliança,\N{\an2}o que é incomum.
+Dialogue: 0,0:14:40.64,0:14:43.76,DefaultBD,,0000,0000,0000,,{\an2}No entanto, sua estrutura organizacional\N{\an2}deve ser fundada mais em dominação
+Dialogue: 0,0:14:43.76,0:14:48.39,DefaultBD,,0000,0000,0000,,{\an2}do que cooperação\N{\an2}com um chefe dando ordens.
+Dialogue: 0,0:14:48.64,0:14:51.27,DefaultBD,,0000,0000,0000,,{\an2}Certo, um grupo de monstros.
+Dialogue: 0,0:14:51.65,0:14:55.28,DefaultBD,,0000,0000,0000,,{\an2}Se o Garou se juntou a eles,\N{\an2}isso vai ser um problema.
+Dialogue: 0,0:14:55.36,0:15:00.03,DefaultBD,,0000,0000,0000,,{\an2}Sim, talvez nunca tenhamos outra\N{\an2}chance de lutar contra o Garou sozinho.
+Dialogue: 0,0:15:00.28,0:15:04.54,DefaultBD,,0000,0000,0000,,{\an2}Se eles ainda tiverem monstros tão fortes\N{\an2}quanto aquela centopeia do lado deles
+Dialogue: 0,0:15:04.66,0:15:05.70,DefaultBD,,0000,0000,0000,,{\an2}isso vai dar ruim.
+Dialogue: 0,0:15:05.70,0:15:08.08,DefaultBD,,0000,0000,0000,,{\an2}É melhor desistir de ser herói, Bang.
+Dialogue: 0,0:15:08.25,0:15:09.21,DefaultBD,,0000,0000,0000,,{\an2}Saitama.
+Dialogue: 0,0:15:09.50,0:15:13.09,DefaultBD,,0000,0000,0000,,{\an2}Parece que o Caçador de Heróis\N{\an2}que queria encontrar estava naquela luta.
+Dialogue: 0,0:15:13.13,0:15:14.92,DefaultBD,,0000,0000,0000,,{\an2}Você acabou de perdê-lo.
+Dialogue: 0,0:15:15.21,0:15:19.22,DefaultBD,,0000,0000,0000,,{\an2}No caminho para casa,\N{\an2}soube que ele caçou mais heróis.
+Dialogue: 0,0:15:21.51,0:15:22.55,DefaultBD,,0000,0000,0000,,{\an2}Isso é imperdoável.
+Dialogue: 0,0:15:22.76,0:15:26.85,DefaultBD,,0000,0000,0000,,{\an2}Até porque ele não veio atrás de mim.\N{\an2}É porque eu sou o Careca de Capa?
+Dialogue: 0,0:15:28.31,0:15:29.89,DefaultBD,,0000,0000,0000,,{\an2}-Saitama?\N{\an2}-Mestre?
+Dialogue: 0,0:15:30.02,0:15:31.19,DefaultBD,,0000,0000,0000,,{\an2}Eu vou dar uma volta.
+Dialogue: 0,0:15:31.98,0:15:33.77,DefaultBD,,0000,0000,0000,,{\an2}Você sabe onde está o Garou?
+Dialogue: 0,0:15:34.15,0:15:35.32,DefaultBD,,0000,0000,0000,,{\an2}Eu vou procurá-lo.
+Dialogue: 0,0:15:36.15,0:15:38.69,DefaultBD,,0000,0000,0000,,{\an2}Quando eu o encontrar,\N{\an2}vou dar um soco nele.
+Dialogue: 0,0:15:40.28,0:15:42.07,DefaultBD,,0000,0000,0000,,{\an2}Eu também vou comprar repolho na volta.
+Dialogue: 0,0:15:45.83,0:15:49.20,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Eu estava dando as ordens,{\i0}\N{\an2}{\i1}mas estou sendo deixada de lado de novo.{\i0}
+Dialogue: 0,0:15:49.54,0:15:52.25,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Tentar fazer o Saitama e seus a amigos{\i0}\N{\an2}{\i1}entrarem para o Grupo Nevasca{\i0}
+Dialogue: 0,0:15:52.25,0:15:53.83,DefaultBD,,0000,0000,0000,,{\an2}{\i1}não será fácil.{\i0}
+Dialogue: 0,0:16:06.51,0:16:11.31,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Onde eu estou? Eu sobrevivi?{\i0}\N{\an2}{\i1}A minha memória está um pouco confusa.{\i0}
+Dialogue: 0,0:16:12.48,0:16:14.56,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Bem-vindo à Associação dos Monstros.{\i0}
+Dialogue: 0,0:16:14.98,0:16:18.98,DefaultBD,,0000,0000,0000,,{\an2}{\i1}O fato de você estar lendo isso{\i0}\N{\an2}{\i1}significa que sobreviveu.{\i0}
+Dialogue: 0,0:16:19.57,0:16:23.36,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Saiba que fomos nós{\i0}\N{\an2}{\i1}que salvamos a sua vida.{\i0}
+Dialogue: 0,0:16:23.57,0:16:27.37,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Então espere quieto neste quarto{\i0}\N{\an2}{\i1}sem causar problemas.{\i0}
+Dialogue: 0,0:16:27.70,0:16:30.91,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Sair agora só vai fazer{\i0}\N{\an2}{\i1}de você um alvo dos heróis.{\i0}
+Dialogue: 0,0:16:31.16,0:16:33.21,DefaultBD,,0000,0000,0000,,{\an2}{\i1}O que você precisa é de um lar.{\i0}
+Dialogue: 0,0:16:33.21,0:16:36.46,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Há roupas novas no armário.{\i0}\N{\an2}{\i1}Fique à vontade para usá-las.{\i0}
+Dialogue: 0,0:16:38.34,0:16:42.26,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Ai... Dói pra caramba!! Meu corpo todo!{\i0}
+Dialogue: 0,0:16:42.72,0:16:47.85,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Estou com sede. E preciso de comida{\i0}\N{\an2}{\i1}para repor meu sangue.{\i0}
+Dialogue: 0,0:16:50.81,0:16:55.44,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Eu estava lutando com o velho,{\i0}\N{\an2}{\i1}e aí aquele cara pássaro apareceu...{\i0}
+Dialogue: 0,0:16:55.90,0:16:58.40,DefaultBD,,0000,0000,0000,,{\an2}{\i1}A Associação dos Monstros...{\i0}\N{\an2}{\i1}Eles me irritam.{\i0}
+Dialogue: 0,0:16:59.11,0:17:02.69,DefaultBD,,0000,0000,0000,,{\an2}{\i1}O que aconteceu com o velho?{\i0}\N{\an2}{\i1}Ele estava lutando com aquela centopeia...{\i0}
+Dialogue: 0,0:17:03.36,0:17:04.45,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Ah, tanto faz...{\i0}
+Dialogue: 0,0:17:05.20,0:17:08.20,DefaultBD,,0000,0000,0000,,{\an2}{\i1}O cheiro de sangue permeia o ar estagnado.{\i0}
+Dialogue: 0,0:17:08.49,0:17:09.79,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Me dá vontade de vomitar.{\i0}
+Dialogue: 0,0:17:09.99,0:17:12.70,DefaultBD,,0000,0000,0000,,{\an2}{\i1}E está tão silencioso que meus{\i0}\N{\an2}{\i1}ouvidos estão zumbindo.{\i0}
+Dialogue: 0,0:17:12.79,0:17:15.87,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Estou no subterrâneo? Tanto faz...{\i0}
+Dialogue: 0,0:17:18.92,0:17:21.26,DefaultBD,,0000,0000,0000,,{\an2}Por favor, tenha piedade!\N{\an2}Estávamos errados!
+Dialogue: 0,0:17:21.34,0:17:23.76,DefaultBD,,0000,0000,0000,,{\an2}Nunca mais vamos te desafiar!
+Dialogue: 0,0:17:24.01,0:17:26.14,DefaultBD,,0000,0000,0000,,{\an2}Não, eu não quero morrer!
+Dialogue: 0,0:17:26.26,0:17:30.64,DefaultBD,,0000,0000,0000,,{\an2}Mas vocês mataram dois dos meus soldados.
+Dialogue: 0,0:17:30.76,0:17:33.39,DefaultBD,,0000,0000,0000,,{\an2}Eu simplesmente\N{\an2}não posso deixar vocês irem.
+Dialogue: 0,0:17:33.81,0:17:37.40,DefaultBD,,0000,0000,0000,,{\an2}O chefe de vocês\N{\an2}deu equipamentos poderosos,
+Dialogue: 0,0:17:37.40,0:17:39.48,DefaultBD,,0000,0000,0000,,{\an2}é melhor vocês lutarem até o fim.
+Dialogue: 0,0:17:39.57,0:17:44.53,DefaultBD,,0000,0000,0000,,{\an2}Todo mundo aqui adora transformar\N{\an2}qualquer um que resista em um brinquedo.
+Dialogue: 0,0:17:46.03,0:17:47.61,DefaultBD,,0000,0000,0000,,{\an2}É tudo culpa dele.
+Dialogue: 0,0:17:47.87,0:17:50.83,DefaultBD,,0000,0000,0000,,{\an2}Droga. Se aquele robô esquisito\N{\an2}não tivesse aparecido,
+Dialogue: 0,0:17:50.83,0:17:52.41,DefaultBD,,0000,0000,0000,,{\an2}teríamos escapado para a superfície.
+Dialogue: 0,0:17:52.66,0:17:54.79,DefaultBD,,0000,0000,0000,,{\an2}Parece que a propaganda funcionou.
+Dialogue: 0,0:17:54.87,0:17:56.62,DefaultBD,,0000,0000,0000,,{\an2}Obrigado pelo presente.
+Dialogue: 0,0:17:56.62,0:17:59.71,DefaultBD,,0000,0000,0000,,{\an2}Fico feliz que um recruta competente\N{\an2}tenha vindo até nós.
+Dialogue: 0,0:17:59.71,0:18:01.59,DefaultBD,,0000,0000,0000,,{\an2}Você passou com louvor.
+Dialogue: 0,0:18:01.63,0:18:03.96,DefaultBD,,0000,0000,0000,,{\an2}Qual é o seu nome, novato?
+Dialogue: 0,0:18:04.51,0:18:06.47,DefaultBD,,0000,0000,0000,,{\an2}Eu sou o Deus-Máquina G5.
+Dialogue: 0,0:18:05.17,0:18:10.85,ImagetextBD,,0000,0000,0000,,{\an8}NÍVEL DE AMEAÇA: DEMÔNIO\N{\an8}DEUS-MÁQUINA G5
+Dialogue: 0,0:18:06.76,0:18:10.85,DefaultBD,,0000,0000,0000,,{\an2}Fui enviado pela organização\N{\an2}para ajudar a Associação dos Monstros.
+Dialogue: 0,0:18:11.05,0:18:12.18,DefaultBD,,0000,0000,0000,,{\an2}Organização?
+Dialogue: 0,0:18:12.35,0:18:15.10,DefaultBD,,0000,0000,0000,,{\an2}Como você chegou a este esconderijo\N{\an2}sem se perder?
+Dialogue: 0,0:18:15.14,0:18:16.94,DefaultBD,,0000,0000,0000,,{\an2}Posso falar com o seu criador?
+Dialogue: 0,0:18:18.02,0:18:21.69,DefaultBD,,0000,0000,0000,,{\an2}Tanto faz. Te damos as boas-vindas.\N{\an2}Além disso, temos outro aqui.
+Dialogue: 0,0:18:21.90,0:18:25.03,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Fique escondido{\i0}\N{\an2}{\i1}e espere um pouco mais, Garou.{\i0}
+Dialogue: 0,0:18:25.90,0:18:29.11,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Uma voz diretamente na minha cabeça!{\i0}\N{\an2}{\i1}É telepatia?{\i0}
+Dialogue: 0,0:18:29.20,0:18:32.91,DefaultBD,,0000,0000,0000,,{\an2}Tendo lutado contra eles eu mesmo,\N{\an2}posso dizer que os trajes de batalha deles
+Dialogue: 0,0:18:32.91,0:18:36.33,DefaultBD,,0000,0000,0000,,{\an2}têm capacidades de combate\N{\an2}extremamente altas
+Dialogue: 0,0:18:36.33,0:18:37.79,DefaultBD,,0000,0000,0000,,{\an2}e são altamente valiosos.
+Dialogue: 0,0:18:38.37,0:18:41.59,DefaultBD,,0000,0000,0000,,{\an2}No entanto, eles parecem\N{\an2}ser personalizados para cada indivíduo.
+Dialogue: 0,0:18:41.67,0:18:45.67,DefaultBD,,0000,0000,0000,,{\an2}Então ninguém mais,\N{\an2}muito menos um monstro, poderia usá-los.
+Dialogue: 0,0:18:45.92,0:18:49.68,DefaultBD,,0000,0000,0000,,{\an2}Em outras palavras, devemos\N{\an2}deixá-los viver e usá-los como peões.
+Dialogue: 0,0:18:51.22,0:18:55.06,DefaultBD,,0000,0000,0000,,{\an2}Então, vocês são meus. Vou treiná-los bem.
+Dialogue: 0,0:18:56.48,0:18:57.94,DefaultBD,,0000,0000,0000,,{\an2}Treinar? Como assim?
+Dialogue: 0,0:18:58.02,0:18:59.60,DefaultBD,,0000,0000,0000,,{\an2}Por favor, só nos deixe ir!
+Dialogue: 0,0:19:00.31,0:19:01.31,DefaultBD,,0000,0000,0000,,{\an2}Quietos!
+Dialogue: 0,0:19:07.53,0:19:13.20,DefaultBD,,0000,0000,0000,,{\an2}Excelente! Eu tenho sorte\N{\an2}de ter escravos tão promissores!
+Dialogue: 0,0:19:23.50,0:19:26.21,DefaultBD,,0000,0000,0000,,{\an2}Ei, Garou. Você acordou cedo.
+Dialogue: 0,0:19:26.30,0:19:28.13,DefaultBD,,0000,0000,0000,,{\an2}-O Caçador de Heróis.\N{\an2}-Foi resgatado.
+Dialogue: 0,0:19:28.13,0:19:29.97,DefaultBD,,0000,0000,0000,,{\an2}-Eu gosto dele.\N{\an2}-Ele está curado.
+Dialogue: 0,0:19:29.97,0:19:32.80,DefaultBD,,0000,0000,0000,,{\an2}Por que Gyoro-Gyoro se\N{\an2}interessou por um mero humano?
+Dialogue: 0,0:19:32.89,0:19:35.18,DefaultBD,,0000,0000,0000,,{\an2}-Ele é humano ou um monstro?\N{\an2}-Silêncio!
+Dialogue: 0,0:19:35.56,0:19:37.85,DefaultBD,,0000,0000,0000,,{\an2}Vou ter uma conversa\N{\an2}importante com ele agora.
+Dialogue: 0,0:19:38.23,0:19:40.52,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Quem diabos é aquele gigante lá no fundo?{\i0}
+Dialogue: 0,0:19:41.35,0:19:42.94,DefaultBD,,0000,0000,0000,,{\an2}O que você quer que eu faça?
+Dialogue: 0,0:19:43.23,0:19:49.86,DefaultBD,,0000,0000,0000,,{\an2}Depois da última luta, restaram menos\N{\an2}de 30 monstros nível Demônio ou superior.
+Dialogue: 0,0:19:50.28,0:19:53.20,DefaultBD,,0000,0000,0000,,{\an2}Mesmo assim, ainda somos\N{\an2}fortes o suficiente para vencer.
+Dialogue: 0,0:19:53.49,0:19:58.00,DefaultBD,,0000,0000,0000,,{\an2}Mas o que nos falta agora\N{\an2}é união e um líder.
+Dialogue: 0,0:19:58.54,0:20:02.29,DefaultBD,,0000,0000,0000,,{\an2}Gostaria que você se tornasse\N{\an2}um membro da liderança e me ajudasse.
+Dialogue: 0,0:20:02.87,0:20:04.25,DefaultBD,,0000,0000,0000,,{\an2}Um líder, de cara?
+Dialogue: 0,0:20:04.38,0:20:05.84,DefaultBD,,0000,0000,0000,,{\an2}É uma boa proposta.
+Dialogue: 0,0:20:06.25,0:20:07.67,DefaultBD,,0000,0000,0000,,{\an2}Eu estava procurando alguém
+Dialogue: 0,0:20:07.67,0:20:12.38,DefaultBD,,0000,0000,0000,,{\an2}com uma ideologia fortemente\N{\an2}anti-herói como a dele.
+Dialogue: 0,0:20:12.68,0:20:15.80,DefaultBD,,0000,0000,0000,,{\an2}Ele é um lobo solitário,\N{\an2}mas mesmo que esteja acabado
+Dialogue: 0,0:20:15.80,0:20:20.10,DefaultBD,,0000,0000,0000,,{\an2}a forma como ele vai direto na jugular\N{\an2}contra heróis Classe-S é louvável.
+Dialogue: 0,0:20:21.48,0:20:24.90,DefaultBD,,0000,0000,0000,,{\an2}No entanto, nosso chefe,\N{\an2}Lorde Orochi, tem uma condição.
+Dialogue: 0,0:20:25.44,0:20:29.19,DefaultBD,,0000,0000,0000,,{\an2}Prove que você é um monstro de verdade.
+Dialogue: 0,0:20:29.28,0:20:30.82,DefaultBD,,0000,0000,0000,,{\an2}Quer que eu crie um chifre?
+Dialogue: 0,0:20:30.90,0:20:32.57,DefaultBD,,0000,0000,0000,,{\an2}Você tem um dia.
+Dialogue: 0,0:20:32.74,0:20:36.07,DefaultBD,,0000,0000,0000,,{\an2}Eu não me importo quem seja.\N{\an2}Traga-me a cabeça de um herói.
+Dialogue: 0,0:20:36.49,0:20:39.87,DefaultBD,,0000,0000,0000,,{\an2}-Se é a vida de um herói que você quer...\N{\an2}-Odeio lhe dizer.
+Dialogue: 0,0:20:39.87,0:20:42.16,DefaultBD,,0000,0000,0000,,{\an2}mas Silverfang e seus amigos estão vivos.
+Dialogue: 0,0:20:42.29,0:20:44.21,DefaultBD,,0000,0000,0000,,{\an2}O Centichoro foi derrotado.
+Dialogue: 0,0:20:48.75,0:20:52.42,DefaultBD,,0000,0000,0000,,{\an2}Desculpe incomodar.\N{\an2}Tenho um favor para te pedir.
+Dialogue: 0,0:20:53.13,0:20:54.68,ImagetextBD,,0000,0000,0000,,{\an8}NÍVEL DE AMEAÇA: DEMÔNIO\N{\an8}DEUS-INSETO
+Dialogue: 0,0:20:53.13,0:20:54.68,DefaultBD,,0000,0000,0000,,{\an2}O que você quer?
+Dialogue: 0,0:20:54.76,0:20:57.05,DefaultBD,,0000,0000,0000,,{\an2}Eu quero muito ouvir um grito humano.
+Dialogue: 0,0:20:55.55,0:21:00.56,ImagetextBD,,0000,0000,0000,,{\an8}NÍVEL DE AMEAÇA: DEMÔNIO\N{\an8}KING, O STRIPADOR
+Dialogue: 0,0:20:57.14,0:21:00.56,DefaultBD,,0000,0000,0000,,{\an2}Estou prestes a enlouquecer. Anda logo.
+Dialogue: 0,0:21:00.77,0:21:02.64,DefaultBD,,0000,0000,0000,,{\an2}O Garou saiu.
+Dialogue: 0,0:21:03.56,0:21:04.73,DefaultBD,,0000,0000,0000,,{\an2}Siga-o.
+Dialogue: 0,0:22:37.11,0:22:38.99,DefaultBD,,0000,0000,0000,,{\an2}Ontem foi o Goketsu.
+Dialogue: 0,0:22:38.99,0:22:41.41,DefaultBD,,0000,0000,0000,,{\an2}E hoje, o Centichoro foi derrotado.
+Dialogue: 0,0:22:41.45,0:22:44.79,DefaultBD,,0000,0000,0000,,{\an2}Sim, aposto que nem o Gyoro-Gyoro\N{\an2}esperava que dois monstros de topo
+Dialogue: 0,0:22:44.79,0:22:46.62,DefaultBD,,0000,0000,0000,,{\an2}caíssem antes da batalha decisiva.
+Dialogue: 0,0:22:46.71,0:22:50.79,DefaultBD,,0000,0000,0000,,{\an2}Ele está tentando recrutar o Caçador\N{\an2}de Heróis para ser uma peça chave?
+Dialogue: 0,0:22:51.00,0:22:53.25,DefaultBD,,0000,0000,0000,,{\an2}Eu não consigo ler o Gyoro-Gyoro.
+Dialogue: 0,0:22:53.30,0:22:55.55,DefaultBD,,0000,0000,0000,,{\an2}Não que eu esteja interessado também.
+Dialogue: 0,0:22:55.67,0:22:58.63,DefaultBD,,0000,0000,0000,,{\an2}Contanto que possa destruir\N{\an2}a Associação dos Heróis e o Flash.
+Dialogue: 0,0:22:59.26,0:23:02.64,DefaultBD,,0000,0000,0000,,{\an2}Nós recrutamos Velocidade do Som Sônico\N{\an2}mas o que aconteceu com ele?
+Dialogue: 0,0:23:02.80,0:23:04.10,DefaultBD,,0000,0000,0000,,{\an2}Eu não o vi.
+Dialogue: 0,0:23:04.31,0:23:06.56,DefaultBD,,0000,0000,0000,,{\an2}Talvez não tenha se adaptado\N{\an2}às células de monstro.
+Dialogue: 0,0:23:10.77,0:23:14.90,DefaultBD,,0000,0000,0000,,{\an2}Eu sofri a noite toda,\N{\an2}mas acho que o pior já passou.
+Dialogue: 0,0:23:15.11,0:23:17.19,DefaultBD,,0000,0000,0000,,{\an2}Odeio aqueles monstros desgraçados.
+Dialogue: 0,0:23:17.24,0:23:19.70,DefaultBD,,0000,0000,0000,,{\an2}Ninguém me disse\N{\an2}que meu estômago ia ficar assim.
+Dialogue: 0,0:23:19.78,0:23:21.20,DefaultBD,,0000,0000,0000,,{\an2}Vou dar o troco neles um dia.
+Dialogue: 0,0:23:23.37,0:23:24.20,DefaultBD,,0000,0000,0000,,{\an2}Tanto faz.
+Dialogue: 0,0:23:24.66,0:23:27.70,DefaultBD,,0000,0000,0000,,{\an2}Nunca tive a intenção\N{\an2}de me unir aos monstros.
+Dialogue: 0,0:23:27.70,0:23:30.12,DefaultBD,,0000,0000,0000,,{\an2}Eu só queria tirar vantagem deles.
+Dialogue: 0,0:23:30.25,0:23:32.88,DefaultBD,,0000,0000,0000,,{\an2}Meu único alvo é Saitama.
+Dialogue: 0,0:23:33.29,0:23:37.09,DefaultBD,,0000,0000,0000,,{\an2}Dito isso. Eu posso sentir...\N{\an2}um novo poder.
+Dialogue: 0,0:23:37.51,0:23:40.26,DefaultBD,,0000,0000,0000,,{\an2}Meu corpo está definitivamente mudando.
+Dialogue: 0,0:23:40.63,0:23:42.64,DefaultBD,,0000,0000,0000,,{\an2}Meu corpo está leve.
+Dialogue: 0,0:23:42.64,0:23:45.26,DefaultBD,,0000,0000,0000,,{\an2}Pode levar um tempo para eu me acostumar.
+Dialogue: 0,0:23:45.64,0:23:47.35,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Então isso é a monstruosificação?{\i0}
+Dialogue: 0,0:23:47.39,0:23:50.06,DefaultBD,,0000,0000,0000,,{\an2}{\i1}Não que seja algo especial.{\i0}
+Dialogue: 0,0:23:51.02,0:23:55.94,ImagetextBD,,0000,0000,0000,,{\an8}SONIC PERDEU DOIS QUILOS
+Dialogue: 0,0:23:56.02,0:24:00.92,ImagetextBD,,0000,0000,0000,,{\an8}TRAÇOS DE MONSTRO
+

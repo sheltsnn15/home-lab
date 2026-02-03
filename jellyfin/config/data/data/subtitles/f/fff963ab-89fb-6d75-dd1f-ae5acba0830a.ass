@@ -1,0 +1,265 @@
+[Script Info]
+Title: [Erai-raws] Deutsch
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Internal,Arial Bold,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: Top,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0000,0000,0020,1
+Style: TypePlaceholder,Arial Bold,22,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0020,1
+Style: Flashback,Arial Bold,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: Narrator,Arial Bold,23,&H00F2F2F9,&H000000FF,&H00000050,&H00000050,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Overlap,Arial Bold,23,&H00F3EDE3,&H000000FF,&H00362B17,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:03.00,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\bord0\c&HFFFFFF&\fs+3\pos(347.5,208)}Was ist Gojō Satoru für dich?
+Dialogue: 0,0:00:04.19,0:00:05.81,Default,Itadori,0000,0000,0000,,Mein Lehrer!
+Dialogue: 0,0:00:05.81,0:00:09.23,Default,Itadori,0000,0000,0000,,Ohne ihn hätte man mich\Nzum Tode verurteilt.
+Dialogue: 0,0:00:09.23,0:00:10.09,Default,Itadori,0000,0000,0000,,Außerdem …
+Dialogue: 0,0:00:10.09,0:00:12.38,Default,Fushiguro,0000,0000,0000,,Theoretisch stehe ich\Nin seiner Schuld.
+Dialogue: 0,0:00:12.38,0:00:13.54,Default,Fushiguro,0000,0000,0000,,Theoretisch.
+Dialogue: 0,0:00:13.54,0:00:16.54,Default,Fushiguro,0000,0000,0000,,Aber das gilt ja nicht\Nnur für mich.
+Dialogue: 0,0:00:16.54,0:00:20.89,Default,Kugisaki,0000,0000,0000,,Ehrlich gesagt kenne\Nich ihn nicht so gut.
+Dialogue: 0,0:00:20.89,0:00:22.92,Default,Kugisaki,0000,0000,0000,,Aber eines weiß ich mit Sicherheit.
+Dialogue: 0,0:00:22.92,0:00:24.05,Default,Maki,0000,0000,0000,,Er ist ein Trottel.
+Dialogue: 0,0:00:24.05,0:00:24.98,Default,Panda,0000,0000,0000,,Allerdings.
+Dialogue: 0,0:00:24.98,0:00:25.91,Default,Toge,0000,0000,0000,,Lachs.
+Dialogue: 0,0:00:26.46,0:00:27.55,Default,Maki,0000,0000,0000,,Aber …
+Dialogue: 0,0:00:27.55,0:00:29.97,Default,Nanami,0000,0000,0000,,Oberflächlich und egozentrisch.
+Dialogue: 0,0:00:29.97,0:00:31.86,Default,Tōdō,0000,0000,0000,,Das ist doch klar.
+Dialogue: 0,0:00:32.66,0:00:34.11,Default,Itadori,0000,0000,0000,,Der Stärkste!
+Dialogue: 0,0:01:06.59,0:01:11.16,TypePlaceholder,Type,0000,0000,0000,,{\fad(0,1075)\fnVerdana Bold\shad0\bord2\an2\fs45)\move(320,75,320,80,29,4659)\c&H000103&\3c&H91D9D5&\t(0,0,\fscx95\fscy95)}Jujutsu Kaisen
+Dialogue: 0,0:01:06.59,0:01:11.16,TypePlaceholder,Type,0000,0000,0000,,{\fad(0,1075)\fnTimes New Roman Bold\fsp1\bord0\move(320,280,320,275.5,29,4659)\c&HFFFFFF&\t(0,0,\fscx95\fscy95)}Der Shibuya-Vorfall
+Dialogue: 0,0:02:26.02,0:02:29.02,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fsp1\c&HFAFAFA&\bord0\pos(320,105)}Folge 33\N\N\N\N\N\N\N\N\N\N\N{\fs+5}Der Shibuya-Vorfall: Toröffnung
+Dialogue: 0,0:02:35.12,0:02:39.00,Default,Gojō,0000,0000,0000,,Hey, du Wurm. Wir treffen\Nuns nun schon zum dritten Mal.
+Dialogue: 0,0:02:40.71,0:02:43.23,Default,Gojō,0000,0000,0000,,Ihr nehmt mich wohl nicht für voll.
+Dialogue: 0,0:02:43.23,0:02:45.33,Default,Gojō,0000,0000,0000,,Dich bringe ich zuerst um.
+Dialogue: 0,0:02:48.44,0:02:49.86,Default,Gojō,0000,0000,0000,,Los, komm her.
+Dialogue: 0,0:02:50.42,0:02:51.50,Default,Gojō,0000,0000,0000,,Was ist?
+Dialogue: 0,0:02:51.91,0:02:53.59,Default,Gojō,0000,0000,0000,,Ihr habt mir doch gesagt, …
+Dialogue: 0,0:02:54.97,0:02:56.89,Default,Gojō,0000,0000,0000,,ich solle nicht fliehen.
+Dialogue: 0,0:03:07.68,0:03:08.85,Internal,Jōgo,0000,0000,0000,,Hat er mich gerade berührt …?
+Dialogue: 0,0:03:27.35,0:03:28.48,Default,Gojō,0000,0000,0000,,Eins, zwei und …
+Dialogue: 0,0:03:35.04,0:03:37.13,Internal,Hanami,0000,0000,0000,,Er geht nur auf Jōgo.
+Dialogue: 0,0:03:45.54,0:03:48.81,Internal,Hanami,0000,0000,0000,,Wollte er uns mit\Nseiner Drohung nur ködern?
+Dialogue: 0,0:03:48.81,0:03:50.35,Internal,Hanami,0000,0000,0000,,Außerdem hat er …
+Dialogue: 0,0:03:54.64,0:03:57.57,Internal,Hanami,0000,0000,0000,,aufgehört, seine\N„Endlosigkeit“ zu benutzen.
+Dialogue: 0,0:04:01.15,0:04:03.58,Internal,Hanami,0000,0000,0000,,Statt seine Fluchtechnik zu regulieren,
+Dialogue: 0,0:04:03.58,0:04:06.34,Internal,Hanami,0000,0000,0000,,setzt er nun, wo die Leute fort sind,
+Dialogue: 0,0:04:06.34,0:04:10.04,Internal,Hanami,0000,0000,0000,,auf kompakte Angriffe,\Ndie er rein mit Fluchkraft steuern kann?
+Dialogue: 0,0:04:15.35,0:04:19.78,Internal,Hanami,0000,0000,0000,,Doch dann brauche ich zumindest\Nnicht im Gemenge untertauchen.
+Dialogue: 0,0:04:20.86,0:04:23.78,Internal,Hanami,0000,0000,0000,,Jetzt kann ich meine Fluchtechnik benutzen!
+Dialogue: 0,0:04:29.46,0:04:32.35,Default,Jōgo,0000,0000,0000,,Lass die Sphären-Erweiterung\Nja aktiv, Hanami!
+Dialogue: 0,0:04:38.79,0:04:41.80,Default,Gojō,0000,0000,0000,,Das ist dein Schwachpunkt, ja?
+Dialogue: 0,0:04:45.81,0:04:50.37,Default,Gojō,0000,0000,0000,,Du kannst die Erweiterung und deine angeborene\NFluchtechnik also nicht gleichzeitig nutzen.
+Dialogue: 0,0:04:50.69,0:04:54.92,Internal,Jōgo,0000,0000,0000,,Ich bin nur unversehrt, weil die\NSphären-Erweiterung mich beschützt hat.
+Dialogue: 0,0:04:54.92,0:04:58.49,Internal,Jōgo,0000,0000,0000,,Er ist mit nur grundlegender Fluchtechnik-\NManipulation und Kampfkunst so stark.
+Dialogue: 0,0:05:00.84,0:05:03.03,Internal,Jōgo,0000,0000,0000,,Gojō Satoru,
+Dialogue: 0,0:05:03.03,0:05:06.26,Internal,Jōgo,0000,0000,0000,,was kannst du eigentlich nicht?!
+Dialogue: 0,0:05:10.42,0:05:12.36,Internal,Gojō,0000,0000,0000,,Er ist kein Fluchgeist,
+Dialogue: 0,0:05:12.36,0:05:14.96,Internal,Gojō,0000,0000,0000,,sondern ein fleischgewordenes\NTodesgemälde.
+Dialogue: 0,0:05:14.96,0:05:16.77,Internal,Gojō,0000,0000,0000,,Er nervt zwar,\Naber anderes hat Vorrang.
+Dialogue: 0,0:05:20.13,0:05:21.64,Default,Gojō,0000,0000,0000,,Willst du das echt?
+Dialogue: 0,0:05:22.83,0:05:26.49,Default,Gojō,0000,0000,0000,,Je mehr du mit deiner Erweiterung meine\NFluchtechnik zu neutralisieren versuchst,
+Dialogue: 0,0:05:26.49,0:05:29.70,Default,Gojō,0000,0000,0000,,desto stärker werde ich\Nmeine Fluchtechnik aufrechterhalten.
+Dialogue: 0,0:05:29.95,0:05:34.12,Default,Gojō,0000,0000,0000,,Ist unser Wurzelauge\Nnicht langsam am Ende?
+Dialogue: 0,0:05:51.91,0:05:54.71,Default,Jōgo,0000,0000,0000,,Gojō Satoru, hier spielt die Musik!
+Dialogue: 0,0:06:09.72,0:06:11.23,Default,Jōgo,0000,0000,0000,,Hanami …
+Dialogue: 0,0:06:21.61,0:06:22.53,Default,Gojō,0000,0000,0000,,Der Nächste bitte.
+Dialogue: 0,0:06:23.51,0:06:27.67,Flashback,Getō,0000,0000,0000,,Das Gefängnisportal ist die lebende Barriere,\Nzu der Genshin geworden ist.
+Dialogue: 0,0:06:27.67,0:06:30.60,Flashback,Getō,0000,0000,0000,,Es gibt nichts, was es\Nnicht versiegeln könnte.
+Dialogue: 0,0:06:32.33,0:06:36.85,Flashback,Jōgo,0000,0000,0000,,Aber es muss doch\Neine Bedingung dafür geben.
+Dialogue: 0,0:06:36.85,0:06:38.29,Flashback,Getō,0000,0000,0000,,Eine Minute.
+Dialogue: 0,0:06:43.33,0:06:44.43,Flashback,Jōgo,0000,0000,0000,,Hm?
+Dialogue: 0,0:06:45.28,0:06:46.95,Flashback,Getō,0000,0000,0000,,Nach Öffnung des Portals
+Dialogue: 0,0:06:46.95,0:06:51.83,Flashback,Getō,0000,0000,0000,,müssen wir Gojō Satoru eine Minute lang\Nim Wirkungsradius
+Dialogue: 0,0:06:51.83,0:06:54.44,Flashback,Getō,0000,0000,0000,,von etwa vier Metern festhalten.
+Dialogue: 0,0:07:26.39,0:07:27.82,Flashback,Jōgo,0000,0000,0000,,Hey.
+Dialogue: 0,0:07:29.06,0:07:31.25,Flashback,Jōgo,0000,0000,0000,,Ich bring dich um.
+Dialogue: 0,0:07:31.25,0:07:34.67,Flashback,Jōgo,0000,0000,0000,,Du hast dich doch nicht etwa\Ndeshalb mit uns zusammengetan,
+Dialogue: 0,0:07:34.67,0:07:37.36,Flashback,Jōgo,0000,0000,0000,,um uns diese unmögliche\NAufgabe aufzuhalsen?
+Dialogue: 0,0:07:37.36,0:07:40.58,Flashback,Jōgo,0000,0000,0000,,Selbst tausende dieser\Nignoranten Menschenleben
+Dialogue: 0,0:07:40.58,0:07:46.86,Flashback,Jōgo,0000,0000,0000,,wiegen unter diesen Bedingungen\Nkeinen Kampf gegen {\i1}ihn{\i0} auf.
+Dialogue: 0,0:07:49.15,0:07:51.37,Flashback,Getō,0000,0000,0000,,Nicht so hitzig, Jōgo.
+Dialogue: 0,0:07:52.11,0:07:55.47,Flashback,Getō,0000,0000,0000,,Keine Sorge.\NEine Minute bedeutet hier …
+Dialogue: 0,0:08:24.81,0:08:27.96,Internal,Jōgo,0000,0000,0000,,Lass Hanamis Tod\Nnicht umsonst gewesen sein.
+Dialogue: 0,0:08:27.96,0:08:29.24,Internal,Jōgo,0000,0000,0000,,Misch dich unter die Menschen
+Dialogue: 0,0:08:29.24,0:08:32.59,Internal,Jōgo,0000,0000,0000,,und starte kurze Angriffe,\Nbevor du dich wieder versteckst.
+Dialogue: 0,0:08:39.77,0:08:41.31,Default,Jōgo,0000,0000,0000,,Chōsō!
+Dialogue: 0,0:08:41.71,0:08:45.19,Default,Jōgo,0000,0000,0000,,Wenn du nicht mithilfst,\Nbring ich dich zuerst um!
+Dialogue: 0,0:08:48.89,0:08:50.26,Default,Chōsō,0000,0000,0000,,Ist ja gut.
+Dialogue: 0,0:08:54.97,0:08:58.96,Internal,Gojō,0000,0000,0000,,Sie versuchen, den rechten Abstand zu wahren,\Naber selbst das schaffen sie kaum.
+Dialogue: 0,0:08:58.96,0:09:02.32,Internal,Gojō,0000,0000,0000,,Die Leute, die keine Fluchgeister sehen,\Nhaben begonnen, mir auszuweichen.
+Dialogue: 0,0:09:02.32,0:09:05.26,Internal,Gojō,0000,0000,0000,,Wenn es sich weiter ausdünnt\Nund genug Freiraum entsteht,
+Dialogue: 0,0:09:05.26,0:09:07.38,Internal,Gojō,0000,0000,0000,,kann ich mir den Vulkankopf schnappen.
+Dialogue: 0,0:09:07.71,0:09:11.23,Internal,Gojō,0000,0000,0000,,Ohne ihn wie eben zu ködern,\Nindem ich meine Fluchtechnik abbreche.
+Dialogue: 0,0:09:11.23,0:09:14.92,Internal,Gojō,0000,0000,0000,,Sie wissen ja bereits, dass ich sie\Nim Nahkampf zu Klump hauen will.
+Dialogue: 0,0:09:14.92,0:09:16.69,Internal,Gojō,0000,0000,0000,,Wäre lästig, wenn er auf Distanz bleibt
+Dialogue: 0,0:09:16.69,0:09:19.95,Internal,Gojō,0000,0000,0000,,und mit dem Todesgemälde durch\Ndie Menge einen Großangriff startet.
+Dialogue: 0,0:09:22.15,0:09:25.31,Internal,Gojō,0000,0000,0000,,Verzeiht mir.\NIch kann euch nicht alle retten.
+Dialogue: 0,0:09:26.26,0:09:27.86,Internal,Gojō,0000,0000,0000,,Doch dafür …
+Dialogue: 0,0:09:29.99,0:09:32.15,Internal,Gojō,0000,0000,0000,,verspreche ich, sie auszutreiben.
+Dialogue: 0,0:09:32.97,0:09:34.34,Internal,Jōgo,0000,0000,0000,,Wie lange noch?
+Dialogue: 0,0:09:34.34,0:09:37.24,Internal,Jōgo,0000,0000,0000,,Die zwanzig Minuten\Nsollten doch um sein!
+Dialogue: 0,0:09:40.33,0:09:41.80,Default,Getō,0000,0000,0000,,Das dauert noch.
+Dialogue: 0,0:09:43.04,0:09:45.66,Default,Getō,0000,0000,0000,,Gojō Satoru ist noch\Nlange nicht ausgepowert.
+Dialogue: 0,0:09:47.73,0:09:50.90,Default,Getō,0000,0000,0000,,Wir müssen ihn stärker\Nunter Druck setzen.
+Dialogue: 0,0:10:04.42,0:10:06.18,Default,Itadori,0000,0000,0000,,Ähm, ist alles ok…
+Dialogue: 0,0:10:06.18,0:10:09.03,Default,Frau,0000,0000,0000,,Alle … sind zu Monster geworden …
+Dialogue: 0,0:10:09.03,0:10:10.94,Default,Frau,0000,0000,0000,,und in den Zug … gestiegen.
+Dialogue: 0,0:10:10.94,0:10:12.76,Default,Frau,0000,0000,0000,,M-Mir hat man gesagt, …
+Dialogue: 0,0:10:12.76,0:10:17.67,Default,Frau,0000,0000,0000,,{\pos(320,335.2)}es {\frz4}wäre {\frz-4}kein {\frz4}Platz {\frz-4}mehr {\frz4}für {\frz-4}mich …
+Dialogue: 0,0:10:20.91,0:10:22.87,Default,Itadori,0000,0000,0000,,{\i1}Er{\i0} war also hier!
+Dialogue: 0,0:10:23.27,0:10:24.89,Default,Itadori,0000,0000,0000,,Verdammt!
+Dialogue: 0,0:10:27.64,0:10:28.61,Default,Itadori,0000,0000,0000,,Sie sind …
+Dialogue: 0,0:10:29.53,0:10:31.12,Internal,Itadori,0000,0000,0000,,in den Zug gestiegen …
+Dialogue: 0,0:10:31.12,0:10:33.07,Top,Ansage,0000,0000,0000,,Ein Zug mit acht Wagons fährt ein.
+Dialogue: 0,0:10:33.07,0:10:36.56,Top,Ansage,0000,0000,0000,,Bitte warten Sie hinter der gelben Linie
+Dialogue: 0,0:10:35.15,0:10:36.56,Default,Itadori,0000,0000,0000,,Herr Gojō!
+Dialogue: 0,0:10:36.56,0:10:40.51,Top,Ansage,0000,0000,0000,,und lehnen Sie sich nicht gegen\Noder über das Geländer zum Gleis.
+Dialogue: 0,0:10:46.67,0:10:48.85,Default,Leute,0000,0000,0000,,Da ist er!
+Dialogue: 0,0:10:49.46,0:10:50.73,Default,Leute,0000,0000,0000,,Unsere Rettung!
+Dialogue: 0,0:11:04.57,0:11:06.19,Default,Jōgo,0000,0000,0000,,Da sind sie ja!
+Dialogue: 0,0:11:09.35,0:11:10.51,Default,Leute,0000,0000,0000,,Hey!
+Dialogue: 0,0:11:10.51,0:11:11.68,Default,Leute,0000,0000,0000,,Was soll das?
+Dialogue: 0,0:11:11.68,0:11:12.67,Default,Leute,0000,0000,0000,,Aua!
+Dialogue: 0,0:11:12.67,0:11:14.61,Default,Mann,0000,0000,0000,,Der Zug!
+Dialogue: 0,0:11:14.61,0:11:15.82,Default,Mann,0000,0000,0000,,Aus dem Weg!
+Dialogue: 0,0:11:15.82,0:11:16.81,Default,Mann,0000,0000,0000,,Ich steige ein!
+Dialogue: 0,0:11:16.81,0:11:17.51,Default,Mann 2,0000,0000,0000,,Was soll das?!
+Dialogue: 0,0:11:17.51,0:11:18.47,Default,Frau 1,0000,0000,0000,,Was jetzt?!
+Dialogue: 0,0:11:19.02,0:11:20.35,Default,Frau 3,0000,0000,0000,,Warte!
+Dialogue: 0,0:11:49.42,0:11:51.29,Default,Gojō,0000,0000,0000,,Was geht denen durch den Kopf …?
+Dialogue: 0,0:11:53.33,0:11:54.61,Default,Mahito,0000,0000,0000,,Jōgo!
+Dialogue: 0,0:11:59.33,0:12:01.78,Default,Mahito,0000,0000,0000,,Was für ein herrlicher Duft hier!
+Dialogue: 0,0:12:01.78,0:12:03.65,Default,Mahito,0000,0000,0000,,Der Geruch von Furcht.
+Dialogue: 0,0:12:03.65,0:12:06.32,Default,Mahito,0000,0000,0000,,Wir sollten ein paar Leute übrig lassen.
+Dialogue: 0,0:12:06.32,0:12:08.92,Default,Mahito,0000,0000,0000,,Dann können wir sie am Wochenende\Nim Wald freilassen und jagen.
+Dialogue: 0,0:12:09.31,0:12:11.54,Default,Jōgo,0000,0000,0000,,Darf ich dann den\Nganzen Wald abfackeln?
+Dialogue: 0,0:12:11.54,0:12:13.41,Default,Mahito,0000,0000,0000,,Das fände Hanami gar nicht lustig.
+Dialogue: 0,0:12:14.11,0:12:16.13,Default,Jōgo,0000,0000,0000,,Hanami ist tot.
+Dialogue: 0,0:12:17.93,0:12:18.97,Default,Mahito,0000,0000,0000,,Echt jetzt?
+Dialogue: 0,0:12:18.01,0:12:18.97,TypePlaceholder,Type,0000,0000,0000,,{\fnComic Sans MS Bold\an2\fs+4\fad(436,0)\c&H292828&\3c&HF2F0F0&\move(411,72.5,411.5,109,18,644)}Hä …
+Dialogue: 0,0:12:21.78,0:12:23.97,TypePlaceholder,,0000,0000,0000,,{\fad(300,0)\fnVerdana Bold\shad0\bord2\an2\fs45)\move(320,75,320,80,29,4659)\c&HFFFFFF&\3c&HFFFFFF&\t(0,550,1,\c&H0B070D&\3c&HA8DCD8&)\t(0,0,\fscx97\fscy97)}Jujutsu Kaisen
+Dialogue: 0,0:12:26.85,0:12:28.98,TypePlaceholder,,0000,0000,0000,,{\fad(200,0)\fnVerdana Bold\shad0\bord2\an2\fs45)\move(320,75,320,80,29,4659)\c&HFFFFFF&\3c&HFFFFFF&\t(0,550,1,\c&H0B070D&\3c&HA8DCD8&)\t(0,0,\fscx97\fscy97)}Jujutsu Kaisen
+Dialogue: 0,0:12:44.55,0:12:46.18,Default,Mahito,0000,0000,0000,,Man kann dich echt nicht treffen!
+Dialogue: 0,0:12:47.08,0:12:48.56,Internal,Gojō,0000,0000,0000,,Das Flickengesicht!
+Dialogue: 0,0:12:48.56,0:12:50.66,Internal,Gojō,0000,0000,0000,,Den haben Nanami und Yūji erwähnt!
+Dialogue: 0,0:12:57.88,0:13:01.93,Default,Mahito,0000,0000,0000,,Weißt du, was an den Menschen\Nso widerwärtig ist?
+Dialogue: 0,0:13:03.95,0:13:06.11,Default,Mahito,0000,0000,0000,,Dass es so viele von ihnen gibt.
+Dialogue: 0,0:13:15.82,0:13:18.92,Internal,Gojō,0000,0000,0000,,Oben befinden sich also auch\NFluchgeister oder Fluchmagier.
+Dialogue: 0,0:13:18.92,0:13:22.25,Default,Chōsō,0000,0000,0000,,Blut-Manipulation. Konvergenz: Supernova.
+Dialogue: 0,0:13:18.92,0:13:22.25,Overlap,Mahito,0000,0000,0000,,Ruhender Wandel. Seelenfusion: Abstoßung.
+Dialogue: 0,0:13:41.73,0:13:44.95,Internal,Mahito,0000,0000,0000,,Ich weiß, dass Gojō Satoru\Nim Gegensatz zu Itadori Yūji
+Dialogue: 0,0:13:44.95,0:13:48.47,Internal,Mahito,0000,0000,0000,,absolut kaltherzig sein kann.
+Dialogue: 0,0:13:48.47,0:13:51.07,Internal,Mahito,0000,0000,0000,,Er wird eine gewisse Menge\NOpfer einkalkulieren
+Dialogue: 0,0:13:51.07,0:13:54.35,Internal,Mahito,0000,0000,0000,,und uns um jeden Preis\Naustreiben wollen.
+Dialogue: 0,0:13:55.04,0:13:59.23,Internal,Mahito,0000,0000,0000,,Doch jetzt, wo die Toten zunehmen\Nund neue Leute hinzuströmen,
+Dialogue: 0,0:13:59.23,0:14:03.33,Internal,Mahito,0000,0000,0000,,wird seine Waage für das, was verkraftbar ist,\Nnicht mehr funktionieren.
+Dialogue: 0,0:14:04.25,0:14:07.78,Internal,Jōgo,0000,0000,0000,,Dir bleibt nur eine Option.
+Dialogue: 0,0:14:07.78,0:14:11.56,Internal,Jōgo,0000,0000,0000,,Du musst uns und die Leute\Nmit deiner Endlosen Leere töten,
+Dialogue: 0,0:14:11.56,0:14:14.94,Internal,Jōgo,0000,0000,0000,,um diejenigen außerhalb\Nder Sphäre zu retten.
+Dialogue: 0,0:14:14.94,0:14:17.38,Internal,Jōgo,0000,0000,0000,,Doch dazu bist du nicht imstande.
+Dialogue: 0,0:14:17.38,0:14:22.63,Internal,Jōgo,0000,0000,0000,,Denn du nimmst nur die Opfer\Nvon Fluchgeistern in Kauf,
+Dialogue: 0,0:14:22.63,0:14:26.68,Internal,Jōgo,0000,0000,0000,,nicht die Opfer von Gojō Satoru.
+Dialogue: 0,0:14:28.15,0:14:29.40,Internal,Jōgo,0000,0000,0000,,Denk nach.
+Dialogue: 0,0:14:30.02,0:14:31.40,Internal,Jōgo,0000,0000,0000,,Zerbrich dir den Kopf.
+Dialogue: 0,0:14:31.75,0:14:34.00,Internal,Jōgo,0000,0000,0000,,Konzentrier dich.
+Dialogue: 0,0:14:38.59,0:14:40.08,Default,Mahito,0000,0000,0000,,Ernsthaft?
+Dialogue: 0,0:14:40.46,0:14:42.25,Default,Gojō,0000,0000,0000,,Sphärenentfaltung: …
+Dialogue: 0,0:14:43.33,0:14:45.04,Default,Gojō,0000,0000,0000,,Endlose Leere!
+Dialogue: 0,0:15:16.42,0:15:20.60,Narrator,Erzählerin,0000,0000,0000,,Er setzte alles auf eine Sphärenentfaltung,\Ndie 0,2 Sekunden andauerte.
+Dialogue: 0,0:15:25.51,0:15:29.59,Narrator,Erzählerin,0000,0000,0000,,Für diesen Zeitraum entschied sich\NGojō Satoru rein instinktiv.
+Dialogue: 0,0:15:29.59,0:15:34.20,Narrator,Erzählerin,0000,0000,0000,,Er glaubte, diese Dauer würden Nicht-Jujuzisten\Nin der Endlosen Leere überstehen,
+Dialogue: 0,0:15:34.20,0:15:37.56,Narrator,Erzählerin,0000,0000,0000,,ohne zu verkrüppeln oder\NLangzeitschäden zu erleiden.
+Dialogue: 0,0:15:47.32,0:15:49.16,Narrator,Erzählerin,0000,0000,0000,,In diesen 0,2 Sekunden
+Dialogue: 0,0:15:49.16,0:15:52.21,Narrator,Erzählerin,0000,0000,0000,,überflutete eine halbe Jahresdosis\Nan Informationen die Gehirne
+Dialogue: 0,0:15:52.21,0:15:56.41,Narrator,Erzählerin,0000,0000,0000,,der Nicht-Jujuzisten einschließlich\Nder umgestalteten Menschen
+Dialogue: 0,0:15:56.41,0:15:59.66,Narrator,Erzählerin,0000,0000,0000,,und sie alle verloren\Nim Stehen das Bewusstsein.
+Dialogue: 0,0:16:16.08,0:16:19.10,Narrator,Erzählerin,0000,0000,0000,,Doch innerhalb von zwei Monaten
+Dialogue: 0,0:16:19.10,0:16:22.73,Narrator,Erzählerin,0000,0000,0000,,konnten alle Überlebenden\Nin ihr normales Leben zurückkehren.
+Dialogue: 0,0:16:22.73,0:16:25.81,Narrator,Erzählerin,0000,0000,0000,,So schwach war die Endlose Leere.
+Dialogue: 0,0:16:36.68,0:16:41.32,Narrator,Erzählerin,0000,0000,0000,,Womöglich hätten in jenem Moment\NFlüche vom Sonderrang erwachen können.
+Dialogue: 0,0:16:41.32,0:16:43.92,Narrator,Erzählerin,0000,0000,0000,,In Anbetracht eines\Nmöglichen Gegenangriffs
+Dialogue: 0,0:16:43.92,0:16:47.29,Narrator,Erzählerin,0000,0000,0000,,grenzte Gojō Satoru den Zielbereich\Nauf die umgestalteten Menschen ein.
+Dialogue: 0,0:17:10.35,0:17:13.12,Narrator,Erzählerin,0000,0000,0000,,So hatte der stärkste Jujuzist der Gegenwart
+Dialogue: 0,0:17:13.12,0:17:17.82,Narrator,Erzählerin,0000,0000,0000,,die etwa 1.000 modifizierten\NMenschen im 5. UG allesamt
+Dialogue: 0,0:17:17.82,0:17:24.11,Narrator,Erzählerin,0000,0000,0000,,innerhalb von 299 Sekunden\Nnach dem Auflösen der Sphäre ausgelöscht.
+Dialogue: 0,0:17:58.20,0:18:00.70,Default,Getō,0000,0000,0000,,Gefängnisportal, öffne dich.
+Dialogue: 0,0:18:06.71,0:18:08.25,Flashback,Getō,0000,0000,0000,,Keine Sorge.
+Dialogue: 0,0:18:08.88,0:18:11.18,Flashback,Getō,0000,0000,0000,,Eine Minute bedeutet hier …
+Dialogue: 0,0:18:24.78,0:18:25.81,Default,Getō,0000,0000,0000,,Hey.
+Dialogue: 0,0:18:28.64,0:18:29.69,Default,Getō,0000,0000,0000,,Satoru.
+Dialogue: 0,0:18:32.75,0:18:34.19,Default,Getō,0000,0000,0000,,Lang, lang ist’s her.
+Dialogue: 0,0:18:39.95,0:18:41.45,Internal,Gojō,0000,0000,0000,,Ein Hochstapler?
+Dialogue: 0,0:18:42.57,0:18:44.71,Internal,Gojō,0000,0000,0000,,Eine Verwandlungstechnik?
+Dialogue: 0,0:18:47.11,0:18:49.33,Internal,Gojō,0000,0000,0000,,Nein … Er ist es wirklich?
+Dialogue: 0,0:19:01.24,0:19:04.80,Flashback,Getō,0000,0000,0000,,… eine Minute wahrgenommene Zeit\Nin Gojō Satorus Kopf.
+Dialogue: 0,0:19:12.59,0:19:14.89,Default,Getō,0000,0000,0000,,Was ist los mit dir, Satoru?
+Dialogue: 0,0:19:14.89,0:19:17.36,Default,Getō,0000,0000,0000,,Du musst dich auf\Nden Kampf konzentrieren.
+Dialogue: 0,0:19:17.64,0:19:19.76,Internal,Gojō,0000,0000,0000,,Ich kann keine Fluchkraft spüren.
+Dialogue: 0,0:19:19.76,0:19:22.43,Internal,Gojō,0000,0000,0000,,Jegliche Kraft ist\Nmeinem Körper entwichen.
+Dialogue: 0,0:19:22.43,0:19:23.78,Internal,Gojō,0000,0000,0000,,Ist es aus?
+Dialogue: 0,0:19:25.17,0:19:27.78,Default,Gojō,0000,0000,0000,,Und? Wer bist du nun?
+Dialogue: 0,0:19:28.83,0:19:30.86,Default,Getō,0000,0000,0000,,Getō Suguru natürlich.
+Dialogue: 0,0:19:31.31,0:19:34.13,Default,Getō,0000,0000,0000,,Hast du mich etwa vergessen?\NWie traurig.
+Dialogue: 0,0:19:34.64,0:19:37.09,Default,Gojō,0000,0000,0000,,Dein Körper und deine Fluchkraft –
+Dialogue: 0,0:19:37.09,0:19:40.97,Default,Gojō,0000,0000,0000,,alles, was ich sehe, sagt mir,\Ndass du Getō Suguru bist.
+Dialogue: 0,0:19:45.17,0:19:46.49,Default,Gojō,0000,0000,0000,,Aber …
+Dialogue: 0,0:19:48.48,0:19:51.54,Default,Gojō,0000,0000,0000,,meine Seele sagt mir\Ndas genaue Gegenteil!
+Dialogue: 0,0:19:51.54,0:19:53.32,Default,Gojō,0000,0000,0000,,Also sprich!
+Dialogue: 0,0:19:53.32,0:19:54.98,Default,Gojō,0000,0000,0000,,Wer bist du?!
+Dialogue: 0,0:19:59.46,0:20:00.93,Default,Getō,0000,0000,0000,,Widerwärtig.
+Dialogue: 0,0:20:09.71,0:20:11.41,Default,Getō,0000,0000,0000,,Woher wusstest du das?
+Dialogue: 0,0:20:13.92,0:20:16.32,Default,Getō,0000,0000,0000,,Das ist meine Fluchtechnik.
+Dialogue: 0,0:20:16.32,0:20:20.16,Default,Getō,0000,0000,0000,,Wenn ich die Gehirne durch meins tausche,\Nkann ich in andere Körper wechseln.
+Dialogue: 0,0:20:20.16,0:20:23.42,Default,Getō,0000,0000,0000,,Natürlich kann ich auch die den Körpern\Ninhärenten Fluchtechniken nutzen.
+Dialogue: 0,0:20:23.99,0:20:27.78,Default,Getō,0000,0000,0000,,Ich wollte seine Fluchgeister-\NManipulation und diese Situation.
+Dialogue: 0,0:20:27.78,0:20:33.27,Default,Getō,0000,0000,0000,,Sag, hast du Ieiri Shōko damals\NGetō Sugurus Leiche nicht entsorgen lassen?
+Dialogue: 0,0:20:37.33,0:20:39.96,Default,Getō,0000,0000,0000,,Ein seltsamer Moment,\Num Rücksicht zu zeigen.
+Dialogue: 0,0:20:39.96,0:20:43.07,Default,Getō,0000,0000,0000,,So war es ein Leichtes,\Nan diesen Körper zu gelangen.
+Dialogue: 0,0:20:43.97,0:20:47.46,Default,Getō,0000,0000,0000,,Keine Sorge, früher oder später\Nwird sich das Siegel lösen.
+Dialogue: 0,0:20:48.41,0:20:52.05,Default,Getō,0000,0000,0000,,In hundert … nein, eher tausend Jahren.
+Dialogue: 0,0:20:52.05,0:20:54.89,Default,Getō,0000,0000,0000,,Du bist einfach zu stark
+Dialogue: 0,0:20:54.89,0:20:57.00,Default,Getō,0000,0000,0000,,und stehst meinen Zielen im Weg.
+Dialogue: 0,0:20:57.90,0:20:59.74,Default,Gojō,0000,0000,0000,,Schon vergessen,
+Dialogue: 0,0:20:59.74,0:21:04.00,Default,Gojō,0000,0000,0000,,wer diesen Körper so übel\Nzugerichtet hat, bevor ich ihn tötete?
+Dialogue: 0,0:21:04.51,0:21:06.63,Default,Getō,0000,0000,0000,,Okkotsu Yūta, oder?
+Dialogue: 0,0:21:06.63,0:21:10.85,Default,Getō,0000,0000,0000,,Ich verstehe nicht,\Nwieso alle so angetan von ihm sind.
+Dialogue: 0,0:21:13.33,0:21:15.88,Default,Getō,0000,0000,0000,,Seine Fähigkeit, bedingungslos\NFluchtechniken zu kopieren
+Dialogue: 0,0:21:15.88,0:21:17.92,Default,Getō,0000,0000,0000,,und seine grenzenlose Fluchkraft …
+Dialogue: 0,0:21:18.27,0:21:22.40,Default,Getō,0000,0000,0000,,Beides hat er doch nur erlangt,\Nweil er die Seele seiner Geliebten
+Dialogue: 0,0:21:22.40,0:21:24.51,Default,Getō,0000,0000,0000,,mit einem Vertrag gebannt hat.
+Dialogue: 0,0:21:25.95,0:21:30.78,Default,Getō,0000,0000,0000,,Bedauerlicherweise wird Okkotsu Yūta\Ndich nicht ersetzen können.
+Dialogue: 0,0:21:36.13,0:21:38.33,Default,Getō,0000,0000,0000,,Schlaf gut, Gojō Satoru.
+Dialogue: 0,0:21:39.71,0:21:42.93,Default,Getō,0000,0000,0000,,Treffen wir uns\Nin der neuen Welt wieder.
+Dialogue: 0,0:21:48.62,0:21:50.45,Default,Ui,0000,0000,0000,,Was ist los?
+Dialogue: 0,0:21:50.45,0:21:52.75,Default,Itadori,0000,0000,0000,,Ich habe irgendwas gehört …
+Dialogue: 0,0:21:53.22,0:21:56.21,Default,Mechamaru,0000,0000,0000,,Hörst du mich, Itadori Yūji?
+Dialogue: 0,0:21:57.16,0:22:00.82,Default,Mechamaru,0000,0000,0000,,Die Zeit drängt, also hör mir gut zu.
+Dialogue: 0,0:22:02.95,0:22:04.82,Default,Mechamaru,0000,0000,0000,,Gojō Satoru …
+Dialogue: 0,0:22:06.59,0:22:08.24,Default,Mechamaru,0000,0000,0000,,wurde versiegelt.
+Dialogue: 0,0:22:10.48,0:22:12.31,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fs18\fsp1\fad(0,0)\bord1\shad1\c&HC1C4C0&\3c&H201F19&\4c&H131313&\pos(158,228.5)}Übersetzung:\NRuben Grest
+Dialogue: 0,0:22:14.15,0:22:15.98,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fs18\fsp1\fad(0,0)\bord1\shad1\c&HC1C4C0&\3c&H201F19&\4c&H131313&\pos(145.5,10)}Spotting:\NPeter Schirrmeister
+Dialogue: 0,0:22:17.82,0:22:19.65,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fs18\fsp1\fad(0,0)\bord1\shad1\c&HC1C4C0&\3c&H201F19&\4c&H131313&\pos(146,243)}Revision & Typesetting:\NJacqueline Philippi
+Dialogue: 0,0:22:26.99,0:22:28.83,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fs18\fsp1\fad(0,0)\bord1\shad1\c&HC1C4C0&\3c&H201F19&\4c&H131313&\pos(540,309)}Qualitätskontrolle:\NJörg Bauer
+Dialogue: 0,0:22:30.66,0:22:32.50,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fs18\fsp1\fad(0,0)\bord1\shad1\c&HC1C4C0&\3c&H201F19&\4c&H131313&\pos(535.5,125.5)}Projektleitung:\NTobias Philippi
+Dialogue: 0,0:23:40.32,0:23:42.05,Default,Itadori,0000,0000,0000,,Was ist Hautpflege für dich?
+Dialogue: 0,0:23:42.05,0:23:44.18,Default,Kugisaki,0000,0000,0000,,Ist die Frage ernst gemeint?\NAber wie du meinst …
+Dialogue: 0,0:23:44.18,0:23:46.56,Default,Kugisaki,0000,0000,0000,,Ich tu viel für meine Haut,\Naber letztlich zählen die Gene.
+Dialogue: 0,0:23:46.56,0:23:50.96,Default,Kugisaki,0000,0000,0000,,Leute wie Herr Gojō mit glatter, heller Haut\Nsagen bestimmt: „Ich mach nichts.“
+Dialogue: 0,0:23:50.78,0:23:55.00,TypePlaceholder,Type,0000,0000,0000,,{\fnTimes New Roman Bold\fsp1\c&HFAFAFA&\bord3\blur3\pos(320,105)\3c&H000000&}Nächstes Mal\N\N\N\N\N\N\N\N\N\N\N{\fs+5}Durcheinander
+Dialogue: 0,0:23:50.96,0:23:51.89,Default,Fushiguro,0000,0000,0000,,Nächstes Mal: „Durcheinander“.
+Dialogue: 0,0:23:51.89,0:23:52.69,Default,Kugisaki,0000,0000,0000,,Und du?
+Dialogue: 0,0:23:52.69,0:23:53.45,Default,Gojō,0000,0000,0000,,Ich mach nichts.
+Dialogue: 0,0:23:53.45,0:23:54.82,Default,Kugisaki,0000,0000,0000,,Du Arsch!
+

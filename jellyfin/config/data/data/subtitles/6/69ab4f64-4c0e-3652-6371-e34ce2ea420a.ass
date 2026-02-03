@@ -1,0 +1,318 @@
+[Script Info]
+Title: [Erai-raws] VINLAND.SAGA.S01.E13.fr-fr.[fre]
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:25.62,0:00:29.00,Default,,0,0,0,,FILS DE HÉROS
+Dialogue: 0,0:00:43.93,0:00:46.69,Default,,0,0,0,,Ma mère va bientôt mourir.
+Dialogue: 0,0:00:48.11,0:00:51.11,Default,,0,0,0,,Elle voulait retourner\Ndans son village natal.
+Dialogue: 0,0:00:52.53,0:00:53.65,Default,,0,0,0,,Je l'ai ramenée.
+Dialogue: 0,0:02:33.17,0:02:34.88,Default,,0,0,0,,NOVEMBRE 1013\NWESSEX, SUD DE L'ANGLETERRE
+Dialogue: 0,0:02:34.96,0:02:39.51,Default,,0,0,0,,Notre armée principale a détruit\Nla résistance, dans le Wessex.
+Dialogue: 0,0:02:40.84,0:02:44.93,Default,,0,0,0,,La conquête n'est plus\Nqu'une question de temps.
+Dialogue: 0,0:02:45.01,0:02:49.27,Default,,0,0,0,,Si tout va bien,\Nnous aurons terminé avant l'hiver.
+Dialogue: 0,0:02:50.85,0:02:53.36,Default,,0,0,0,,Que s'est-il passé à Londres ?
+Dialogue: 0,0:02:55.65,0:02:56.61,Default,,0,0,0,,Et Canute,
+Dialogue: 0,0:02:57.74,0:02:59.32,Default,,0,0,0,,où est-il ?
+Dialogue: 0,0:03:00.03,0:03:01.24,Default,,0,0,0,,Oui.
+Dialogue: 0,0:03:01.32,0:03:06.99,Default,,0,0,0,,L'armée menée par Canute a été attaquée\Npar Thorkell, pendant le siège.
+Dialogue: 0,0:03:07.08,0:03:10.00,Default,,0,0,0,,On n'en sait pas plus.
+Dialogue: 0,0:03:10.08,0:03:12.96,Default,,0,0,0,,Ils auraient peut-être livré bataille\Nà Marlborough.
+Dialogue: 0,0:03:13.04,0:03:16.50,Default,,0,0,0,,Il est possible qu'ils aient rallié\Ndes troupes locales.
+Dialogue: 0,0:03:16.59,0:03:20.17,Default,,0,0,0,,Mais nous ignorons s'ils s'en sont sortis.
+Dialogue: 0,0:03:21.43,0:03:23.72,Default,,0,0,0,,Il est mon fils chéri.
+Dialogue: 0,0:03:23.80,0:03:27.31,Default,,0,0,0,,Dès que vous en saurez plus,\Nvenez me le dire.
+Dialogue: 0,0:03:27.39,0:03:28.52,Default,,0,0,0,,Bien, sire.
+Dialogue: 0,0:03:46.20,0:03:47.37,Default,,0,0,0,,Quoi ?
+Dialogue: 0,0:03:47.45,0:03:49.12,Default,,0,0,0,,On est encerclés !
+Dialogue: 0,0:03:49.20,0:03:50.33,Default,,0,0,0,,C'est pas vrai.
+Dialogue: 0,0:03:52.04,0:03:54.50,Default,,0,0,0,,Alors ? Je vous l'avais bien dit !
+Dialogue: 0,0:03:54.58,0:03:56.13,Default,,0,0,0,,Bon sang !
+Dialogue: 0,0:03:56.21,0:03:58.38,Default,,0,0,0,,Du calme, soldats !
+Dialogue: 0,0:03:58.46,0:04:02.30,Default,,0,0,0,,Écoutez-moi ! Ne ripostez pas.\NNe les visez pas !
+Dialogue: 0,0:04:04.97,0:04:07.72,Default,,0,0,0,,Émissaires de Brycheiniog !
+Dialogue: 0,0:04:07.81,0:04:10.60,Default,,0,0,0,,Est-ce là une façon de nous accueillir ?
+Dialogue: 0,0:04:11.31,0:04:15.94,Default,,0,0,0,,Alors tu parles notre langue, barbare.
+Dialogue: 0,0:04:16.02,0:04:21.36,Default,,0,0,0,,Je croyais que vous, les Danois,\Nne saviez pas parler, comme les bêtes.
+Dialogue: 0,0:04:21.44,0:04:24.24,Default,,0,0,0,,Retirez-vous, Asser.
+Dialogue: 0,0:04:24.32,0:04:29.20,Default,,0,0,0,,Chercher querelle aux Danois\Nn'apportera rien au Pays de Galles.
+Dialogue: 0,0:04:29.28,0:04:30.70,Default,,0,0,0,,Gratianus !
+Dialogue: 0,0:04:30.79,0:04:37.42,Default,,0,0,0,,J'admire le souci que tu as\Npour l'avenir des royaumes gallois.
+Dialogue: 0,0:04:37.50,0:04:41.51,Default,,0,0,0,,Mais nous n'avons pas les mêmes valeurs.
+Dialogue: 0,0:04:41.59,0:04:46.30,Default,,0,0,0,,Quel type de promesse espères-tu tirer\Ndu prince des Danois ?
+Dialogue: 0,0:04:46.39,0:04:49.60,Default,,0,0,0,,Ce sont des barbares !\NIls n'ont aucune morale !
+Dialogue: 0,0:04:50.64,0:04:52.77,Default,,0,0,0,,De quoi peut-il bien parler ?
+Dialogue: 0,0:04:52.85,0:04:55.64,Default,,0,0,0,,On va se battre ou non ?
+Dialogue: 0,0:04:55.73,0:04:58.98,Default,,0,0,0,,Non. Il n'y aura pas de bataille.
+Dialogue: 0,0:04:59.06,0:05:01.23,Default,,0,0,0,,Tu comprends ce qu'il dit ?
+Dialogue: 0,0:05:01.32,0:05:03.78,Default,,0,0,0,,Non.
+Dialogue: 0,0:05:03.86,0:05:07.53,Default,,0,0,0,,Mais ils auraient pu nous tuer\Ndu premier coup, s'ils l'avaient voulu.
+Dialogue: 0,0:05:07.61,0:05:10.24,Default,,0,0,0,,Ils veulent nous intimider
+Dialogue: 0,0:05:10.33,0:05:13.87,Default,,0,0,0,,pour contrôler les négociations.
+Dialogue: 0,0:05:13.95,0:05:15.54,Default,,0,0,0,,Je vois.
+Dialogue: 0,0:05:15.62,0:05:17.79,Default,,0,0,0,,Espèce d'animaux !
+Dialogue: 0,0:05:17.88,0:05:23.01,Default,,0,0,0,,J'ai suivi votre guerre\Ncontre l'Angleterre avec attention.
+Dialogue: 0,0:05:23.09,0:05:27.13,Default,,0,0,0,,Ces dix dernières années,\Nvous avez conclu trois trêves,
+Dialogue: 0,0:05:27.22,0:05:29.93,Default,,0,0,0,,et vous les avez toutes rompues !
+Dialogue: 0,0:05:30.01,0:05:33.43,Default,,0,0,0,,Nous ne serons pas aussi naïfs\Nque les Anglais !
+Dialogue: 0,0:05:33.52,0:05:37.19,Default,,0,0,0,,Nous allons capturer le prince\Net l'utiliser comme otage !
+Dialogue: 0,0:05:37.27,0:05:41.32,Default,,0,0,0,,Même le roi des démons\Ndoit aimer son propre fils !
+Dialogue: 0,0:05:43.57,0:05:45.69,Default,,0,0,0,,Désolé, Askeladd.
+Dialogue: 0,0:05:45.78,0:05:48.36,Default,,0,0,0,,Ne le sois pas, c'est juste son numéro.
+Dialogue: 0,0:05:48.45,0:05:51.20,Default,,0,0,0,,Il s'agite un peu\Npour voir comment on répond.
+Dialogue: 0,0:05:52.28,0:05:56.79,Default,,0,0,0,,Ces temps-ci, les moutons doivent\Nse déguiser en loups pour paître.
+Dialogue: 0,0:05:56.87,0:05:58.62,Default,,0,0,0,,Je les comprends.
+Dialogue: 0,0:05:59.33,0:06:02.75,Default,,0,0,0,,Tu vas leur parler de ton plan ?
+Dialogue: 0,0:06:02.84,0:06:04.59,Default,,0,0,0,,Je pourrais,
+Dialogue: 0,0:06:05.88,0:06:10.47,Default,,0,0,0,,mais s'ils veulent jouer,\Nje vais jouer avec eux.
+Dialogue: 0,0:06:17.85,0:06:20.19,Default,,0,0,0,,Regardez bien !
+Dialogue: 0,0:06:20.27,0:06:22.27,Default,,0,0,0,,Cet homme-là
+Dialogue: 0,0:06:22.36,0:06:25.61,Default,,0,0,0,,n'est autre que le fils\Ndu roi Sweyn du Danemark,
+Dialogue: 0,0:06:25.69,0:06:29.11,Default,,0,0,0,,Son Altesse Canute.
+Dialogue: 0,0:06:29.20,0:06:32.62,Default,,0,0,0,,Son Altesse va vous parler.
+Dialogue: 0,0:06:33.83,0:06:36.04,Default,,0,0,0,,Taisez-vous et écoutez !
+Dialogue: 0,0:06:37.83,0:06:41.50,Default,,0,0,0,,Bon, Votre Altesse.\NDites quelque chose d'inspiré.
+Dialogue: 0,0:06:43.13,0:06:46.59,Default,,0,0,0,,Par exemple : "Je vais vous bouillir vifs\Net vous manger."
+Dialogue: 0,0:06:46.67,0:06:50.09,Default,,0,0,0,,Que ces brutes scélérates aient peur.
+Dialogue: 0,0:06:52.34,0:06:56.64,Default,,0,0,0,,Si ça vient de vous, leurs couilles rétréciront\Net ils nous laisseront passer.
+Dialogue: 0,0:07:04.57,0:07:05.61,Default,,0,0,0,,Votre Altesse !
+Dialogue: 0,0:07:09.70,0:07:13.53,Default,,0,0,0,,Son Altesse n'aime pas parler en public.
+Dialogue: 0,0:07:13.62,0:07:14.62,Default,,0,0,0,,Je le ferai à sa place.
+Dialogue: 0,0:07:14.70,0:07:16.99,Default,,0,0,0,,Non, Ragnar.
+Dialogue: 0,0:07:17.08,0:07:18.37,Default,,0,0,0,,Quoi ?
+Dialogue: 0,0:07:18.45,0:07:21.21,Default,,0,0,0,,Il est jeune, certes, mais c'est un prince.
+Dialogue: 0,0:07:21.29,0:07:24.25,Default,,0,0,0,,Il doit assumer ses responsabilités.
+Dialogue: 0,0:07:24.33,0:07:26.63,Default,,0,0,0,,Tout le monde ici
+Dialogue: 0,0:07:26.71,0:07:29.67,Default,,0,0,0,,met sa vie en jeu pour le prince.
+Dialogue: 0,0:07:31.30,0:07:33.55,Default,,0,0,0,,C'est une personne délicate.
+Dialogue: 0,0:07:33.64,0:07:36.26,Default,,0,0,0,,Il n'aime pas le combat inutile.
+Dialogue: 0,0:07:36.35,0:07:38.14,Default,,0,0,0,,Voilà pourquoi
+Dialogue: 0,0:07:38.22,0:07:42.73,Default,,0,0,0,,je lui demande de parler.\NPour éviter un combat inutile !
+Dialogue: 0,0:07:42.81,0:07:44.77,Default,,0,0,0,,Tu penses pouvoir succéder
+Dialogue: 0,0:07:44.86,0:07:47.57,Default,,0,0,0,,à Sweyn,\Nla bouche close comme une palourde ?
+Dialogue: 0,0:07:47.65,0:07:48.86,Default,,0,0,0,,Silence !
+Dialogue: 0,0:07:50.32,0:07:53.95,Default,,0,0,0,,Tu ne peux pas comprendre Son Altesse !
+Dialogue: 0,0:07:55.37,0:07:59.83,Default,,0,0,0,,Le palais est un panier de crabe,\Noù parents et enfants s'entredévorent !
+Dialogue: 0,0:07:59.91,0:08:05.63,Default,,0,0,0,,Tu n'imagines pas à quel point survivre\Na été difficile pour ce prince maladif.
+Dialogue: 0,0:08:05.71,0:08:08.30,Default,,0,0,0,,Il a fait taire son cœur\Net masqué son souffle,
+Dialogue: 0,0:08:08.38,0:08:11.63,Default,,0,0,0,,et s'est assuré de n'être pas remarqué.\NC'est ainsi qu'il a survécu !
+Dialogue: 0,0:08:11.72,0:08:15.72,Default,,0,0,0,,Et même après tout cela, il est approché
+Dialogue: 0,0:08:15.80,0:08:18.31,Default,,0,0,0,,par des salauds comme toi\Nqui veulent l'utiliser !
+Dialogue: 0,0:08:24.48,0:08:27.65,Default,,0,0,0,,N'oublie pas ton rang.
+Dialogue: 0,0:08:27.73,0:08:32.65,Default,,0,0,0,,Il ne t'appartient pas\Nde contrôler ce qu'il fait.
+Dialogue: 0,0:08:40.45,0:08:42.12,Default,,0,0,0,,Il y a un problème ?
+Dialogue: 0,0:08:42.20,0:08:44.62,Default,,0,0,0,,De quoi débattez-vous ?
+Dialogue: 0,0:08:44.71,0:08:46.88,Default,,0,0,0,,Que dit Canute ?
+Dialogue: 0,0:08:49.04,0:08:50.55,Default,,0,0,0,,Gratianus.
+Dialogue: 0,0:08:51.67,0:08:53.76,Default,,0,0,0,,Je vais leur dévoiler le plan.
+Dialogue: 0,0:08:55.80,0:08:58.60,Default,,0,0,0,,Très bien, je viens aussi.
+Dialogue: 0,0:08:59.68,0:09:02.52,Default,,0,0,0,,Soldats ! Attendez ici.
+Dialogue: 0,0:09:02.60,0:09:05.52,Default,,0,0,0,,Je vais parler à leur chef.
+Dialogue: 0,0:09:05.60,0:09:07.19,Default,,0,0,0,,D'accord.
+Dialogue: 0,0:09:08.94,0:09:10.02,Default,,0,0,0,,Ragnar.
+Dialogue: 0,0:09:11.53,0:09:13.78,Default,,0,0,0,,Tu as raison.
+Dialogue: 0,0:09:13.86,0:09:16.07,Default,,0,0,0,,Je m'inquiétais pour le prince,
+Dialogue: 0,0:09:16.15,0:09:18.91,Default,,0,0,0,,et j'ai outrepassé mon rang.
+Dialogue: 0,0:09:18.99,0:09:22.16,Default,,0,0,0,,Pardonnez-moi, Votre Altesse.
+Dialogue: 0,0:09:43.10,0:09:46.69,Default,,0,0,0,,Quel naze. On a vraiment le même âge ?
+Dialogue: 0,0:09:56.86,0:09:59.78,Default,,0,0,0,,Cet homme s'appelle bien Ragnar ?
+Dialogue: 0,0:09:59.87,0:10:00.70,Default,,0,0,0,,Oui.
+Dialogue: 0,0:10:01.37,0:10:05.33,Default,,0,0,0,,Et il ignore que les oisillons\Ndoivent un jour quitter le nid.
+Dialogue: 0,0:10:05.41,0:10:08.17,Default,,0,0,0,,Il ne l'aide pas vraiment, le petit.
+Dialogue: 0,0:10:09.75,0:10:14.59,Default,,0,0,0,,Tu as beaucoup de choses à faire\Npour activer le plan.
+Dialogue: 0,0:10:14.67,0:10:17.22,Default,,0,0,0,,La première est de lui faire quitter ce nid.
+Dialogue: 0,0:10:18.51,0:10:21.22,Default,,0,0,0,,Je sais.
+Dialogue: 0,0:10:32.65,0:10:34.86,Default,,0,0,0,,Reculez. Je n'ai pas besoin de garde.
+Dialogue: 0,0:10:34.94,0:10:37.07,Default,,0,0,0,,Mais... chef.
+Dialogue: 0,0:10:37.15,0:10:39.07,Default,,0,0,0,,Ne me faites pas me répéter.
+Dialogue: 0,0:10:39.15,0:10:43.70,Default,,0,0,0,,Notre roi perdra la face, s'ils croient\Nque je ne peux parlementer sans garde.
+Dialogue: 0,0:10:49.62,0:10:53.25,Default,,0,0,0,,Allez ! Cinq fois plus loin !
+Dialogue: 0,0:10:53.34,0:10:54.92,Default,,0,0,0,,Et les autres aussi !
+Dialogue: 0,0:10:58.01,0:10:59.47,Default,,0,0,0,,Bien.
+Dialogue: 0,0:11:00.18,0:11:02.68,Default,,0,0,0,,Ton nom est Askeladd, c'est bien ça ?
+Dialogue: 0,0:11:02.76,0:11:07.14,Default,,0,0,0,,Je te comprends,\Nmais tu me mets dans une situation difficile.
+Dialogue: 0,0:11:07.22,0:11:10.35,Default,,0,0,0,,On m'avait dit que tu étais d'accord.
+Dialogue: 0,0:11:10.44,0:11:15.77,Default,,0,0,0,,Tu demandes l'autorisation de traverser le pays\Net des vivres pour tes hommes.
+Dialogue: 0,0:11:15.86,0:11:18.03,Default,,0,0,0,,Je ne peux pas dire oui comme ça.
+Dialogue: 0,0:11:18.69,0:11:23.49,Default,,0,0,0,,Nous sommes un petit pays,\Nmais notre roi aussi a sa réputation.
+Dialogue: 0,0:11:24.16,0:11:28.58,Default,,0,0,0,,À quoi nous servira-t-il de vous aider ?
+Dialogue: 0,0:11:28.66,0:11:32.83,Default,,0,0,0,,Il me faut pouvoir dire\Nqu'il s'agit d'un marché entre égaux.
+Dialogue: 0,0:11:32.92,0:11:38.26,Default,,0,0,0,,Sinon, mes hommes croiront\Nque mon roi a eu peur de 100 Danois.
+Dialogue: 0,0:11:40.01,0:11:41.76,Default,,0,0,0,,Tu as raison.
+Dialogue: 0,0:11:41.84,0:11:46.51,Default,,0,0,0,,Il serait mauvais pour toi\Nd'accéder à nos demandes ainsi.
+Dialogue: 0,0:11:47.18,0:11:49.93,Default,,0,0,0,,Excuse-moi de ne pas\Nl'avoir pris en compte.
+Dialogue: 0,0:11:50.02,0:11:53.40,Default,,0,0,0,,C'est moi qui ai écrit la lettre à ton pays.
+Dialogue: 0,0:11:53.48,0:11:56.06,Default,,0,0,0,,Je croyais avoir écrit dans la lettre\Nque je ne pouvais pas
+Dialogue: 0,0:11:56.15,0:11:59.44,Default,,0,0,0,,parler de ta récompense,\Npour préserver le secret.
+Dialogue: 0,0:11:59.53,0:12:01.32,Default,,0,0,0,,En effet, j'ai lu cela.
+Dialogue: 0,0:12:03.11,0:12:07.03,Default,,0,0,0,,Eh bien, quel est-il, ce secret ?
+Dialogue: 0,0:12:09.24,0:12:10.66,Default,,0,0,0,,Et moi, puis-je te demander :
+Dialogue: 0,0:12:11.79,0:12:15.50,Default,,0,0,0,,En fonction de la récompense offerte,
+Dialogue: 0,0:12:15.58,0:12:18.42,Default,,0,0,0,,pourrais-tu imaginer\Nde te rallier à nous, Asser ?
+Dialogue: 0,0:12:21.84,0:12:23.76,Default,,0,0,0,,Ne dites pas de bêtises !
+Dialogue: 0,0:12:23.84,0:12:26.22,Default,,0,0,0,,Je sais qu'un petit pays comme le nôtre
+Dialogue: 0,0:12:26.30,0:12:29.43,Default,,0,0,0,,n'est pas de taille face au Danemark !
+Dialogue: 0,0:12:32.43,0:12:36.31,Default,,0,0,0,,Excuse-moi. Je vérifiais juste.
+Dialogue: 0,0:12:38.19,0:12:39.86,Default,,0,0,0,,Quel drôle de type.
+Dialogue: 0,0:12:40.94,0:12:44.53,Default,,0,0,0,,- Qui ça ?\N- Askeladd.
+Dialogue: 0,0:12:44.61,0:12:47.66,Default,,0,0,0,,Je ne savais pas qu'il parlait gallois.
+Dialogue: 0,0:12:49.33,0:12:52.75,Default,,0,0,0,,Même toi, tu ignores certaines choses.
+Dialogue: 0,0:12:52.83,0:12:55.83,Default,,0,0,0,,Idiot. J'ignore tout un tas de choses.
+Dialogue: 0,0:12:55.92,0:13:00.05,Default,,0,0,0,,Tout ce que je sais,\Nc'est qu'il est du Danemark.
+Dialogue: 0,0:13:01.76,0:13:03.63,Default,,0,0,0,,Il est vraiment lourd.
+Dialogue: 0,0:13:03.72,0:13:07.18,Default,,0,0,0,,Des décennies qu'on se bat ensemble,\Nmais il me dit rien.
+Dialogue: 0,0:13:08.55,0:13:11.26,Default,,0,0,0,,Et tu boudes ? Moi qui te croyais un homme.
+Dialogue: 0,0:13:11.35,0:13:13.93,Default,,0,0,0,,Tais-toi ! Tu veux te battre ?
+Dialogue: 0,0:13:14.02,0:13:16.48,Default,,0,0,0,,Du calme.
+Dialogue: 0,0:13:16.56,0:13:19.61,Default,,0,0,0,,On s'en fiche. C'est un bon chef.
+Dialogue: 0,0:13:19.69,0:13:22.57,Default,,0,0,0,,Et il a de la chance.\NTant que je m'enrichis,
+Dialogue: 0,0:13:22.65,0:13:25.49,Default,,0,0,0,,peu m'importe d'où il vient. Je le suivrai.
+Dialogue: 0,0:13:35.04,0:13:38.33,Default,,0,0,0,,C'est dur à croire.
+Dialogue: 0,0:13:38.42,0:13:40.79,Default,,0,0,0,,Mais c'est trop incroyable\Npour être un mensonge.
+Dialogue: 0,0:13:40.88,0:13:44.13,Default,,0,0,0,,C'est le fils de Lydia.
+Dialogue: 0,0:13:44.21,0:13:50.18,Default,,0,0,0,,Askeladd a hérité du sang\Ndes grands chefs celtes romains.
+Dialogue: 0,0:13:51.43,0:13:54.93,Default,,0,0,0,,Donc, tu n'es pas un Danois ?
+Dialogue: 0,0:13:56.06,0:13:58.60,Default,,0,0,0,,Je suis un sang mêlé, Gallois et Danois.
+Dialogue: 0,0:13:58.69,0:14:02.61,Default,,0,0,0,,Mon père Olaf a conquis\Nla côte du Pays de Galles, autrefois,
+Dialogue: 0,0:14:02.69,0:14:06.53,Default,,0,0,0,,et il a enlevé Lydia\Npour en faire sa concubine.
+Dialogue: 0,0:14:06.61,0:14:08.95,Default,,0,0,0,,Je suis leur fils.
+Dialogue: 0,0:14:10.32,0:14:14.79,Default,,0,0,0,,Je croyais que la lignée des dieux guerriers\Nde l'ancienne Bretagne était éteinte.
+Dialogue: 0,0:14:16.58,0:14:20.58,Default,,0,0,0,,Tu prétends être le descendant d'Artorius ?
+Dialogue: 0,0:14:22.92,0:14:25.01,Default,,0,0,0,,Artorius...
+Dialogue: 0,0:14:25.09,0:14:28.34,Default,,0,0,0,,était le commandant de l'armée de Bretagne,
+Dialogue: 0,0:14:28.43,0:14:31.47,Default,,0,0,0,,un pays peuplé de Celtes d'Angleterre
+Dialogue: 0,0:14:31.55,0:14:33.85,Default,,0,0,0,,aux cinquième et sixième siècles.
+Dialogue: 0,0:14:35.27,0:14:36.98,Default,,0,0,0,,En 516,
+Dialogue: 0,0:14:37.06,0:14:39.39,Default,,0,0,0,,il a repoussé l'invasion des Saxons
+Dialogue: 0,0:14:39.48,0:14:41.77,Default,,0,0,0,,et des Anglais
+Dialogue: 0,0:14:41.86,0:14:44.65,Default,,0,0,0,,à la bataille du mont Badon,
+Dialogue: 0,0:14:44.73,0:14:47.32,Default,,0,0,0,,et il a apporté la paix à la Bretagne.
+Dialogue: 0,0:14:48.78,0:14:50.32,Default,,0,0,0,,Son histoire s'est transmise.
+Dialogue: 0,0:14:50.57,0:14:54.83,Default,,0,0,0,,Et c'est sur lui\Nque la légende du Roi Arthur s'est basée.
+Dialogue: 0,0:14:58.96,0:15:00.96,Default,,0,0,0,,Peux-tu prouver
+Dialogue: 0,0:15:01.04,0:15:04.00,Default,,0,0,0,,ton histoire ?
+Dialogue: 0,0:15:04.09,0:15:05.25,Default,,0,0,0,,Moi, je peux.
+Dialogue: 0,0:15:05.34,0:15:07.67,Default,,0,0,0,,Quand il avait 14 ans,
+Dialogue: 0,0:15:07.76,0:15:12.14,Default,,0,0,0,,il est venu au Pays de Galles avec Lydia\Net nous nous sommes rencontrés.
+Dialogue: 0,0:15:21.06,0:15:23.31,Default,,0,0,0,,Elle était malheureuse.
+Dialogue: 0,0:15:23.40,0:15:26.11,Default,,0,0,0,,On l'a longtemps confinée\Ndans la chambre de mon père.
+Dialogue: 0,0:15:26.19,0:15:29.28,Default,,0,0,0,,Une fois malade, on l'a mise à l'étable.
+Dialogue: 0,0:15:30.28,0:15:31.95,Default,,0,0,0,,C'est affreux.
+Dialogue: 0,0:15:33.57,0:15:35.28,Default,,0,0,0,,Mais qui imaginerait
+Dialogue: 0,0:15:35.37,0:15:38.29,Default,,0,0,0,,que le dernier survivant d'une telle lignée
+Dialogue: 0,0:15:38.37,0:15:40.58,Default,,0,0,0,,soit un bâtard danois ?
+Dialogue: 0,0:15:40.66,0:15:42.83,Default,,0,0,0,,C'est exactement cela, Asser.
+Dialogue: 0,0:15:42.92,0:15:45.92,Default,,0,0,0,,C'est parce que mon sang est mêlé,
+Dialogue: 0,0:15:47.42,0:15:49.71,Default,,0,0,0,,que je peux fréquenter les Danois.
+Dialogue: 0,0:15:49.80,0:15:53.18,Default,,0,0,0,,En d'autres termes,\Nle Pays de Galles va disposer
+Dialogue: 0,0:15:53.26,0:15:56.68,Default,,0,0,0,,d'un agent au sein de l'armée danoise : moi.
+Dialogue: 0,0:15:56.76,0:16:00.64,Default,,0,0,0,,Si je peux faire de ce gosse de riche\Nle roi du Danemark,
+Dialogue: 0,0:16:00.73,0:16:02.98,Default,,0,0,0,,je pourrai obtenir un statut élevé.
+Dialogue: 0,0:16:04.02,0:16:06.52,Default,,0,0,0,,Si tel est le cas,
+Dialogue: 0,0:16:06.61,0:16:10.24,Default,,0,0,0,,je conclurai le pacte de non-agression\Navec le Pays de Galles.
+Dialogue: 0,0:16:14.49,0:16:16.32,Default,,0,0,0,,Je ne laisserai pas les Danois
+Dialogue: 0,0:16:16.41,0:16:20.04,Default,,0,0,0,,faire un seul pas dans ce pays.
+Dialogue: 0,0:16:28.09,0:16:30.96,Default,,0,0,0,,Mon Dieu, mais quelle audace !
+Dialogue: 0,0:16:31.05,0:16:33.34,Default,,0,0,0,,J'y crois presque !
+Dialogue: 0,0:16:35.76,0:16:40.18,Default,,0,0,0,,- Asser rit.\N- Il est en confiance.
+Dialogue: 0,0:16:43.27,0:16:45.31,Default,,0,0,0,,J'ai un souci.
+Dialogue: 0,0:16:47.61,0:16:50.90,Default,,0,0,0,,Tu as été élevé chez les Danois.
+Dialogue: 0,0:16:50.98,0:16:55.70,Default,,0,0,0,,Es-tu certain que le sang d'Artorius\Nl'emportera sur le sang danois, chez toi ?
+Dialogue: 0,0:17:01.08,0:17:03.79,Default,,0,0,0,,Il va falloir que tu me croies.
+Dialogue: 0,0:17:04.79,0:17:07.33,Default,,0,0,0,,Peu importe mon sang,
+Dialogue: 0,0:17:10.59,0:17:14.01,Default,,0,0,0,,je hais les Danois.
+Dialogue: 0,0:17:17.84,0:17:19.64,Default,,0,0,0,,Posez vos épées ici.
+Dialogue: 0,0:17:19.80,0:17:21.72,Default,,0,0,0,,Vous nous les rendrez, hein ?
+Dialogue: 0,0:17:22.77,0:17:24.23,Default,,0,0,0,,Je refuse.
+Dialogue: 0,0:17:24.31,0:17:26.69,Default,,0,0,0,,Je ne me séparerai pas de mes armes !
+Dialogue: 0,0:17:29.40,0:17:31.52,Default,,0,0,0,,On fait semblant d'être prisonniers
+Dialogue: 0,0:17:31.61,0:17:34.40,Default,,0,0,0,,pour traverser leur pays.
+Dialogue: 0,0:17:35.57,0:17:39.37,Default,,0,0,0,,Ils nous rendrons nos armes\Nà la frontière.
+Dialogue: 0,0:17:39.45,0:17:42.33,Default,,0,0,0,,Comme ça, ils ne perdent pas la face.
+Dialogue: 0,0:17:43.45,0:17:49.33,Default,,0,0,0,,C'est bizarre.\NPourquoi tes hommes suivent-ils tes ordres ?
+Dialogue: 0,0:17:50.79,0:17:52.50,Default,,0,0,0,,Incroyable, non ?
+Dialogue: 0,0:17:52.59,0:17:56.13,Default,,0,0,0,,C'est parce qu'ils me font confiance.
+Dialogue: 0,0:17:56.22,0:17:58.18,Default,,0,0,0,,Thorfinn, toi aussi.
+Dialogue: 0,0:17:58.26,0:17:59.59,Default,,0,0,0,,Me cherche pas, le chauve.
+Dialogue: 0,0:18:00.64,0:18:01.85,Default,,0,0,0,,"Confiance", tu as dit ?
+Dialogue: 0,0:18:01.93,0:18:05.18,Default,,0,0,0,,Il est différent. Maudit gamin.
+Dialogue: 0,0:18:05.27,0:18:07.94,Default,,0,0,0,,Ne te fais pas d'idée, tête de cône.
+Dialogue: 0,0:18:08.02,0:18:11.82,Default,,0,0,0,,Je ne suis pas l'un de ses hommes.\NJe suis l'ennemi.
+Dialogue: 0,0:18:11.90,0:18:12.82,Default,,0,0,0,,L'ennemi ?
+Dialogue: 0,0:18:12.90,0:18:16.61,Default,,0,0,0,,Comme vous voulez.\NVous deux, vous pouvez désobéir.
+Dialogue: 0,0:18:16.69,0:18:19.74,Default,,0,0,0,,Ils seront d'accord, s'il n'y a que vous.
+Dialogue: 0,0:18:21.20,0:18:24.41,Default,,0,0,0,,Allez, on reprend la marche !
+Dialogue: 0,0:18:31.08,0:18:32.38,Default,,0,0,0,,Des Danois ?
+Dialogue: 0,0:18:32.46,0:18:35.51,Default,,0,0,0,,Il paraît qu'Asser les a faits prisonnier !
+Dialogue: 0,0:18:42.97,0:18:46.77,Default,,0,0,0,,- On dit qu'ils sont cannibales !\N- Ils ont l'air méchants !
+Dialogue: 0,0:18:50.23,0:18:52.23,Default,,0,0,0,,Asser est génial.
+Dialogue: 0,0:18:52.31,0:18:53.61,Default,,0,0,0,,Je vais jeter une pierre.
+Dialogue: 0,0:18:53.69,0:18:54.77,Default,,0,0,0,,Arrête, idiot !
+Dialogue: 0,0:18:54.86,0:18:57.36,Default,,0,0,0,,Ils me saoulent.
+Dialogue: 0,0:18:57.44,0:18:59.28,Default,,0,0,0,,Ils nous matent comme des animaux.
+Dialogue: 0,0:18:59.36,0:19:01.99,Default,,0,0,0,,Vous feriez mieux de baisser le regard !
+Dialogue: 0,0:19:02.07,0:19:03.70,Default,,0,0,0,,On va vous manger !
+Dialogue: 0,0:19:14.13,0:19:16.46,Default,,0,0,0,,Ne regardez pas, princesse.
+Dialogue: 0,0:19:17.63,0:19:21.01,Default,,0,0,0,,Si vous voulez dire quelque chose,\Ndites-le à vous-même.
+Dialogue: 0,0:19:21.09,0:19:23.30,Default,,0,0,0,,Vous avez une langue ?
+Dialogue: 0,0:19:30.18,0:19:31.35,Default,,0,0,0,,Je...
+Dialogue: 0,0:19:31.44,0:19:32.44,Default,,0,0,0,,Je...
+Dialogue: 0,0:19:33.94,0:19:37.23,Default,,0,0,0,,La raison de mon silence\Nn'est pas la lâcheté.
+Dialogue: 0,0:19:38.90,0:19:41.86,Default,,0,0,0,,C'est la prudence.
+Dialogue: 0,0:19:41.95,0:19:44.12,Default,,0,0,0,,Je dois être prudent.
+Dialogue: 0,0:19:45.20,0:19:46.87,Default,,0,0,0,,Je suis prince.
+Dialogue: 0,0:19:46.95,0:19:49.87,Default,,0,0,0,,Je suis différent de vous.
+Dialogue: 0,0:19:52.04,0:19:56.75,Default,,0,0,0,,Mes paroles ont des répercussions politiques,
+Dialogue: 0,0:19:57.88,0:20:00.05,Default,,0,0,0,,et particulièrement à l'étranger.
+Dialogue: 0,0:20:00.13,0:20:02.93,Default,,0,0,0,,Sans la permission de mon père, le roi,
+Dialogue: 0,0:20:03.01,0:20:07.39,Default,,0,0,0,,je ne peux pas conclure\Nde pacte de non-agression,
+Dialogue: 0,0:20:07.47,0:20:09.18,Default,,0,0,0,,ou prononcer de mot déplacé.
+Dialogue: 0,0:20:16.73,0:20:19.57,Default,,0,0,0,,Je suis prudent.
+Dialogue: 0,0:20:21.65,0:20:24.36,Default,,0,0,0,,Pas mal, ton excuse.
+Dialogue: 0,0:20:24.45,0:20:27.33,Default,,0,0,0,,Tu as l'air assez maligne, princesse.
+Dialogue: 0,0:20:28.62,0:20:30.83,Default,,0,0,0,,Comment oses-tu !
+Dialogue: 0,0:20:31.54,0:20:33.50,Default,,0,0,0,,C'est la première fois !
+Dialogue: 0,0:20:33.58,0:20:36.38,Default,,0,0,0,,Personne n'a jamais osé me traiter ainsi !
+Dialogue: 0,0:20:36.46,0:20:38.80,Default,,0,0,0,,Alors c'est plutôt positif, non ?
+Dialogue: 0,0:20:38.88,0:20:42.22,Default,,0,0,0,,Retire ça ! Ce n'est pas une excuse.
+Dialogue: 0,0:20:42.30,0:20:44.97,Default,,0,0,0,,C'est incroyablement dur\Nde faire partie de la famille royale !
+Dialogue: 0,0:20:45.05,0:20:47.22,Default,,0,0,0,,Arrête d'aboyer. Assieds-toi.
+Dialogue: 0,0:20:47.30,0:20:49.26,Default,,0,0,0,,Je n'aboie pas !
+Dialogue: 0,0:20:49.35,0:20:52.56,Default,,0,0,0,,Je t'explique que j'ai raison !
+Dialogue: 0,0:20:52.64,0:20:54.23,Default,,0,0,0,,D'accord, j'ai compris.
+Dialogue: 0,0:20:54.31,0:20:57.48,Default,,0,0,0,,Quelle est cette insolence ?
+Dialogue: 0,0:20:57.56,0:21:01.61,Default,,0,0,0,,Je n'en reviens pas. Son Altesse parle\Nà quelqu'un d'autre que moi !
+Dialogue: 0,0:21:01.69,0:21:02.94,Default,,0,0,0,,Je suis pas ton serviteur.
+Dialogue: 0,0:21:45.03,0:21:45.86,Default,,0,0,0,,De la neige.
+Dialogue: 0,0:21:53.70,0:21:57.00,Default,,0,0,0,,Askeladd ! On ne peut pas accélérer ?
+Dialogue: 0,0:21:57.71,0:22:00.54,Default,,0,0,0,,On va être piégés par la neige !
+Dialogue: 0,0:22:00.63,0:22:04.13,Default,,0,0,0,,Ça commence à bien faire. Il est lourd.
+Dialogue: 0,0:22:06.01,0:22:08.89,Default,,0,0,0,,Nous allons traverser\Nla frontière nord de la Mercie
+Dialogue: 0,0:22:08.97,0:22:11.80,Default,,0,0,0,,et nous diriger\Nvers l'armée de Gainsborough.
+Dialogue: 0,0:22:11.89,0:22:14.06,Default,,0,0,0,,On y sera dans une semaine.
+Dialogue: 0,0:22:14.14,0:22:16.89,Default,,0,0,0,,Tu veux traverser un territoire ennemi ?
+Dialogue: 0,0:22:16.98,0:22:21.48,Default,,0,0,0,,Si on attend la neige\Ndans les montagnes galloises, on sera coincés.
+Dialogue: 0,0:22:22.65,0:22:25.44,Default,,0,0,0,,Quel est le problème ? Ne t'inquiète pas.
+Dialogue: 0,0:22:25.53,0:22:27.70,Default,,0,0,0,,On est loin de leur camp principal.
+Dialogue: 0,0:22:27.78,0:22:30.41,Default,,0,0,0,,Mais comment va-t-on s'approvisionner ?
+Dialogue: 0,0:22:30.49,0:22:34.33,Default,,0,0,0,,Les seigneurs de ce pays\Nn'aideront pas un Danois !
+Dialogue: 0,0:22:34.41,0:22:36.20,Default,,0,0,0,,Ça va aller.
+Dialogue: 0,0:22:36.29,0:22:38.66,Default,,0,0,0,,J'ai déjà tout prévu.
+Dialogue: 0,0:22:42.42,0:22:46.21,Default,,0,0,0,,Soldats, on change de direction,\Net en vitesse !
+Dialogue: 0,0:22:46.30,0:22:48.97,Default,,0,0,0,,- Quoi ?\N- Sérieusement ?
+Dialogue: 0,0:22:49.05,0:22:51.22,Default,,0,0,0,,On change de direction comme ça ?
+Dialogue: 0,0:22:51.30,0:22:55.81,Default,,0,0,0,,Ne vous inquiétez pas !\NLe choix d'Askeladd est le bon !
+
+

@@ -1,0 +1,239 @@
+[Script Info]
+Title: [Erai-raws] Español (América Latina)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_EpiTitle,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H3278070E,&H00494949,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Serieslogo,Times New Roman,40,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0005,0005,0000,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Box,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,0,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.48,0:00:02.77,Gen_Main,Megumi,0000,0000,0000,,¡Nanami!
+Dialogue: 0,0:00:04.48,0:00:09.45,Gen_Main,Megumi,0000,0000,0000,,Creo que el pulpo quiere arrebatarme\Npor completo la supremacía del dominio.
+Dialogue: 0,0:00:09.74,0:00:11.99,Gen_Main,Megumi,0000,0000,0000,,Pero mi objetivo es otro.
+Dialogue: 0,0:00:13.49,0:00:19.00,Gen_Main,Megumi,0000,0000,0000,,Quiero abrir un hoyo, por pequeño\Nque sea, en la barrera del dominio.
+Dialogue: 0,0:00:19.75,0:00:22.13,Gen_Main,Megumi,0000,0000,0000,,El hoyo por el que entré ya se cerró.
+Dialogue: 0,0:00:22.33,0:00:24.21,Gen_Main,Megumi,0000,0000,0000,,Es difícil abrir otro desde dentro,
+Dialogue: 0,0:00:24.42,0:00:29.05,Gen_Main,Megumi,0000,0000,0000,,pero por unos segundos podré mantener\Nuna abertura del tamaño de una persona.
+Dialogue: 0,0:00:29.26,0:00:33.39,Gen_Main,Megumi,0000,0000,0000,,El borde de la barrera está a mis pies.\NLo sé porque lo toqué cuando entré.
+Dialogue: 0,0:00:33.60,0:00:37.02,Gen_Main,Megumi,0000,0000,0000,,¡Estoy listo! ¡Tienen que saltar\Nlos tres al mismo tiempo!
+Dialogue: 0,0:00:38.43,0:00:41.48,Gen_Main,Nanami,0000,0000,0000,,No pienso hacerlo\Nsi eso implica dejarte aquí solo.
+Dialogue: 0,0:00:42.10,0:00:43.90,Gen_Main,Megumi,0000,0000,0000,,Arriesgo la vida,
+Dialogue: 0,0:00:44.77,0:00:46.73,Gen_Main,Megumi,0000,0000,0000,,pero no tengo intención de perderla.
+Dialogue: 0,0:00:46.73,0:00:49.74,Cart_A_Tim,,0000,0000,0000,,{\pos(320,111.15)\bord0}Episodio 39\N\N\N\N\N\N\N\N\N\N\N{\fs30}Temblores, parte dos
+Dialogue: 0,0:00:54.70,0:00:55.74,Gen_Main,Nanami,0000,0000,0000,,¡Ustedes dos,
+Dialogue: 0,0:00:59.00,0:01:00.25,Gen_Main,Nanami,0000,0000,0000,,reúnanse con nosotros!
+Dialogue: 0,0:01:03.17,0:01:08.38,Gen_Italics,Narradora,0000,0000,0000,,Les comunica el plan indirectamente\Nya que Dagon podría entenderlo.
+Dialogue: 0,0:01:08.55,0:01:11.18,Gen_Italics,Narradora,0000,0000,0000,,Un hechicero de primer grado\Ninspira tal confianza.
+Dialogue: 0,0:01:12.51,0:01:15.14,Gen_Italics,Narradora,0000,0000,0000,,El pensamiento que se había descartado
+Dialogue: 0,0:01:15.89,0:01:19.98,Gen_Italics,Narradora,0000,0000,0000,,de escapar fuera del dominio\Notra vez se presenta como una opción.
+Dialogue: 0,0:01:21.14,0:01:24.02,Gen_Main,Dagon,0000,0000,0000,,¿Van a reforzar las defensas del joven?
+Dialogue: 0,0:01:24.19,0:01:26.57,Gen_Main,Dagon,0000,0000,0000,,Mejor, así acabaré con todos\Nal mismo tiempo…
+Dialogue: 0,0:01:27.27,0:01:30.69,Gen_Main,Dagon/Nanami,0000,0000,0000,,-¡No!\N-{\i1}¿Se dio cuenta? Pero ¡demasiado tarde!{\i0}
+Dialogue: 0,0:01:30.90,0:01:32.82,Gen_Main,Nanami,0000,0000,0000,,¡Salgan por el hoyo a sus pies!
+Dialogue: 0,0:01:48.09,0:01:51.88,Gen_Italics,Narradora,0000,0000,0000,,Los que al nacer heredaron\Nla maldición del clan Zenin
+Dialogue: 0,0:01:54.26,0:01:57.85,Gen_Italics,Narradora,0000,0000,0000,,y la que no pudo deshacerse\Npor completo de esa maldición
+Dialogue: 0,0:01:58.47,0:02:00.85,Gen_Italics,Narradora,0000,0000,0000,,serán testigos
+Dialogue: 0,0:02:03.31,0:02:05.86,Gen_Italics,Narradora,0000,0000,0000,,de las extraordinarias hazañas
+Dialogue: 0,0:02:06.40,0:02:08.86,Gen_Italics,Narradora,0000,0000,0000,,del cuerpo al descubierto
+Dialogue: 0,0:02:10.23,0:02:12.36,Gen_Italics,Narradora,0000,0000,0000,,de aquel que lo abandonó todo.
+Dialogue: 0,0:02:13.65,0:02:14.86,Gen_Italics,Megumi,0000,0000,0000,,¡¿Quién es ese?!
+Dialogue: 0,0:02:15.28,0:02:18.37,Gen_Italics,Maki,0000,0000,0000,,¿Un humano? ¿Un hechicero?
+Dialogue: 0,0:02:20.08,0:02:24.37,Gen_Italics,Dagon,0000,0000,0000,,En vez de escapar,\N¿invitaron a otro hechicero a entrar?
+Dialogue: 0,0:02:29.38,0:02:32.38,Gen_Italics,Maki,0000,0000,0000,,¡Qué rápido!\N¿No estaba en el aire hace un segundo?
+Dialogue: 0,0:02:32.76,0:02:34.47,Gen_Italics,Maki,0000,0000,0000,,No solo eso,
+Dialogue: 0,0:02:34.93,0:02:37.05,Gen_Italics,Maki,0000,0000,0000,,¡su fuerza es impresionante!
+Dialogue: 0,0:02:40.89,0:02:42.22,Gen_Main,Megumi,0000,0000,0000,,¡Maki!
+Dialogue: 0,0:02:42.98,0:02:45.27,Gen_Italics,Maki,0000,0000,0000,,No sentí ni una pizca de poder maldito.
+Dialogue: 0,0:02:45.44,0:02:48.73,Gen_Italics,Maki,0000,0000,0000,,¿Acaso perdí en un despliegue\Nde fuerza bruta? ¡¿Yo?!
+Dialogue: 0,0:02:49.86,0:02:51.23,Gen_Main,Nanami,0000,0000,0000,,Fushiguro…
+Dialogue: 0,0:02:51.44,0:02:53.99,Gen_Main,Megumi,0000,0000,0000,,Ya no es posible. Se cerró la abertura.
+Dialogue: 0,0:02:54.20,0:02:56.74,Gen_Main,Megumi,0000,0000,0000,,Además,\Nel enemigo se dio cuenta del plan.
+Dialogue: 0,0:02:57.32,0:03:00.24,Gen_Main,Megumi,0000,0000,0000,,Ya no me dejará hacerlo tan fácilmente.
+Dialogue: 0,0:03:10.84,0:03:12.34,Gen_Main,Naobito,0000,0000,0000,,¡¿Eres Toji?!
+Dialogue: 0,0:03:13.59,0:03:18.01,Gen_Italics,Narradora,0000,0000,0000,,La magia espiritista de la abuela Ogami\Ncontinúa aún después de su muerte.
+Dialogue: 0,0:03:18.59,0:03:24.60,Gen_Italics,Narradora,0000,0000,0000,,Su nieto debía consumir todo su poder\Nmaldito para que la invocación acabara.
+Dialogue: 0,0:03:27.98,0:03:32.57,Gen_Italics,Narradora,0000,0000,0000,,Pero el cuerpo de Toji Zenin, carente de\Npoder maldito, venció al alma del nieto.
+Dialogue: 0,0:03:32.78,0:03:36.28,Gen_Italics,Narradora,0000,0000,0000,,Además, su cuerpo\Nno consume poder maldito para nada.
+Dialogue: 0,0:03:37.57,0:03:41.16,Gen_Italics,Narradora,0000,0000,0000,,Por lo que se perdió la oportunidad\Nde dar término al ritual.
+Dialogue: 0,0:03:41.83,0:03:46.71,Gen_Italics,Narradora,0000,0000,0000,,El ritual empezó a volverse loco por\Ntodas las anomalías que se aglomeraron.
+Dialogue: 0,0:03:47.21,0:03:52.96,Gen_Italics,Narradora,0000,0000,0000,,Lo que mueve a Toji Zenin es luchar\Nhasta que el recipiente se rompa.
+Dialogue: 0,0:03:53.21,0:03:56.13,Gen_Italics,Narradora,0000,0000,0000,,Se volvió un autómata asesino.
+Dialogue: 0,0:03:57.01,0:04:00.47,Gen_Main,Dagon,0000,0000,0000,,¿Este hombre no posee poder maldito?
+Dialogue: 0,0:04:01.18,0:04:03.39,Gen_Main,Dagon,0000,0000,0000,,Es insignificante para mí.
+Dialogue: 0,0:04:24.62,0:04:27.00,Gen_Italics,Narradora,0000,0000,0000,,Y sus instintos homicidas
+Dialogue: 0,0:04:28.37,0:04:31.00,Gen_Italics,Narradora,0000,0000,0000,,siempre se dirigen hacia el más fuerte.
+Dialogue: 0,0:04:41.55,0:04:46.06,Cart_Serieslogo,,0000,0000,0000,,{\fad(0,800)\fs28\3c&H9EF2FA&\move(320,47.64,320,48.85,20,4983)}{\t(0,5050,\fs-0.3)}JUJUTSU KAISEN{\fscy100}\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N{\bord0\c&HFFFFFF&}Shibuya Incident
+Dialogue: 0,0:08:19.94,0:08:21.36,Gen_Main,Maki,0000,0000,0000,,Anciano,
+Dialogue: 0,0:08:22.65,0:08:24.19,Gen_Main,Maki,0000,0000,0000,,¿quién diablos es ese?
+Dialogue: 0,0:08:35.66,0:08:37.16,Gen_Main,Naobito,0000,0000,0000,,Un espectro.
+Dialogue: 0,0:08:40.75,0:08:43.71,Gen_Main,Nanami,0000,0000,0000,,Fushiguro,\N¿puedes aguantar un poco más?
+Dialogue: 0,0:08:45.96,0:08:48.09,Gen_Main,Megumi/Nanami,0000,0000,0000,,-Sí.\N-Te lo agradezco mucho.
+Dialogue: 0,0:08:48.55,0:08:50.22,Gen_Main,Nanami,0000,0000,0000,,Apostaremos todo a él.
+Dialogue: 0,0:09:01.98,0:09:04.48,Gen_Italics,Megumi,0000,0000,0000,,Frota ambas barras de Nube Flotante…
+Dialogue: 0,0:09:05.48,0:09:06.73,Gen_Italics,Nanami,0000,0000,0000,,¿Para cambiar su forma?
+Dialogue: 0,0:09:09.49,0:09:11.24,Gen_Italics,Nanami,0000,0000,0000,,¡Las está afilando!
+Dialogue: 0,0:09:19.50,0:09:22.83,Gen_Italics,Dagon,0000,0000,0000,,¡¿Acaso voy a perder
+Dialogue: 0,0:09:24.92,0:09:28.26,Gen_Italics,Dagon,0000,0000,0000,,contra un humano sin poder maldito?!
+Dialogue: 0,0:09:28.92,0:09:32.43,Gen_Italics,Dagon,0000,0000,0000,,No, siento que el dominio\Ndel muchacho se está debilitando.
+Dialogue: 0,0:09:32.59,0:09:36.26,Gen_Italics,Dagon,0000,0000,0000,,Si recupero el efecto de blanco certero,\Npodré matarlos a todos.
+Dialogue: 0,0:09:36.68,0:09:39.64,Gen_Italics,Dagon,0000,0000,0000,,¡Necesito ganar tiempo!
+Dialogue: 0,0:09:40.02,0:09:43.15,Gen_Main,Naobito,0000,0000,0000,,Claro que puedes levitar.
+Dialogue: 0,0:09:44.31,0:09:46.52,Gen_Main,Naobito,0000,0000,0000,,¿Quieres que lo diga de nuevo?
+Dialogue: 0,0:10:00.16,0:10:03.37,Gen_Main,Dagon,0000,0000,0000,,Todavía no se acaba…
+Dialogue: 0,0:10:25.69,0:10:27.06,Gen_Main,Maki,0000,0000,0000,,El dominio desapareció.
+Dialogue: 0,0:10:27.27,0:10:30.11,Gen_Italics,Maki,0000,0000,0000,,¡En serio exorcizó por sí solo\Nal pulpo del averno!
+Dialogue: 0,0:10:35.41,0:10:40.12,Gen_Italics,Nanami,0000,0000,0000,,Todos habríamos muerto sin duda si\NFushiguro no hubiera venido a ayudarnos.
+Dialogue: 0,0:10:40.95,0:10:43.96,Gen_Italics,Nanami,0000,0000,0000,,Pero aún nos queda un problema.
+Dialogue: 0,0:10:47.17,0:10:49.21,Gen_Italics,Nanami,0000,0000,0000,,¿Estará de nuestro lado o…?
+Dialogue: 0,0:11:29.63,0:11:32.38,Gen_Italics,Megumi,0000,0000,0000,,No me di cuenta cuándo me trajo afuera.
+Dialogue: 0,0:11:33.80,0:11:37.55,Gen_Italics,Megumi,0000,0000,0000,,Posee una velocidad sobrehumana,\Nquizá incluso mayor a la de Sukuna.
+Dialogue: 0,0:11:39.09,0:11:41.22,Gen_Italics,Megumi,0000,0000,0000,,¡¿Quién diablos es este sujeto?!
+Dialogue: 0,0:11:42.31,0:11:43.64,Gen_Main,Maki,0000,0000,0000,,¡Megumi!
+Dialogue: 0,0:11:50.98,0:11:53.86,Gen_Main,Jogo,0000,0000,0000,,¿Te nos has ido, Dagon?
+Dialogue: 0,0:11:54.99,0:11:57.86,Gen_Italics,Naobito,0000,0000,0000,,Oigan, no. Debe ser una broma.
+Dialogue: 0,0:11:58.49,0:12:00.62,Gen_Italics,Nanami,0000,0000,0000,,Después de la maldición del tal Dagon…
+Dialogue: 0,0:12:01.70,0:12:03.62,Gen_Main,Jogo,0000,0000,0000,,Déjame a mí el resto.
+Dialogue: 0,0:12:03.79,0:12:05.62,Gen_Italics,Nanami,0000,0000,0000,,…se aparece otra mucho más fuerte.
+Dialogue: 0,0:12:05.87,0:12:10.38,Gen_Main,Jogo,0000,0000,0000,,No dependemos de los humanos\Npara que nuestros espíritus renazcan.
+Dialogue: 0,0:12:11.25,0:12:14.63,Gen_Main,Jogo,0000,0000,0000,,Nos veremos de nuevo en\Nlas tierras baldías dentro de 100 años.
+Dialogue: 0,0:12:19.51,0:12:21.14,Gen_Main,Jogo,0000,0000,0000,,Ahora bien…
+Dialogue: 0,0:12:25.97,0:12:27.39,Gen_Main,Jogo,0000,0000,0000,,Va uno.
+Dialogue: 0,0:12:28.73,0:12:29.90,Gen_Main,Maki,0000,0000,0000,,¡Nanami…!
+Dialogue: 0,0:12:31.19,0:12:32.40,Gen_Main,Jogo,0000,0000,0000,,Van dos.
+Dialogue: 0,0:12:57.17,0:12:59.13,Gen_Main,Jogo,0000,0000,0000,,Y van tres.
+Dialogue: 0,0:13:03.55,0:13:05.10,Gen_Main,Jogo,0000,0000,0000,,¿Sukuna?
+Dialogue: 0,0:13:06.06,0:13:08.98,Gen_Italics,Jogo,0000,0000,0000,,¡No, no es él! ¡Es uno de sus dedos!
+Dialogue: 0,0:13:09.18,0:13:13.06,Gen_Italics,Jogo,0000,0000,0000,,¡Alguien ha liberado un dedo de Sukuna\Nen algún lugar de Shibuya!
+Dialogue: 0,0:13:13.94,0:13:15.90,Gen_Main,Mimiko,0000,0000,0000,,Démonos prisa, Nanako.
+Dialogue: 0,0:13:17.15,0:13:19.07,Gen_Main,Mimiko,0000,0000,0000,,Quizá el dedo atraiga maldiciones.
+Dialogue: 0,0:13:19.28,0:13:20.57,Gen_Main,Nanako,0000,0000,0000,,Ya lo sé.
+Dialogue: 0,0:13:21.11,0:13:22.45,Gen_Main,Nanako,0000,0000,0000,,Vamos.
+Dialogue: 0,0:13:23.07,0:13:24.45,Gen_Main,Nanako,0000,0000,0000,,Salga, por favor,
+Dialogue: 0,0:13:26.91,0:13:28.41,Gen_Main,Nanako,0000,0000,0000,,gran Sukuna.
+Dialogue: 0,0:13:41.42,0:13:44.43,Gen_Main,Jogo,0000,0000,0000,,Mocosas, ¿cuántos dedos le dieron?
+Dialogue: 0,0:13:45.26,0:13:47.43,Gen_Main,Mimiko/Nanako,0000,0000,0000,,-¡No te lo vamos a decir!\N-¡Mimiko!
+Dialogue: 0,0:13:47.68,0:13:49.43,Gen_Main,Jogo,0000,0000,0000,,Ah, ¿no? Mueran entonces.
+Dialogue: 0,0:13:54.81,0:13:58.07,Gen_Italics,Jogo,0000,0000,0000,,Muy bien. Las marcas del rostro\Nno han desaparecido.
+Dialogue: 0,0:13:58.32,0:14:02.57,Gen_Italics,Jogo,0000,0000,0000,,No había previsto esta situación,\Npero la aprovecharé lo mejor posible.
+Dialogue: 0,0:14:03.45,0:14:07.95,Gen_Main,Geto,0000,0000,0000,,Estoy seguro de que Yuji Itadori no le\Ncedería el control del cuerpo a Sukuna
+Dialogue: 0,0:14:08.16,0:14:11.66,Gen_Main,Geto,0000,0000,0000,,ni aunque se tragara\Nlos 20 dedos en total.
+Dialogue: 0,0:14:12.66,0:14:19.02,Gen_Main,Geto,0000,0000,0000,,Pero solo suponiendo que consumiera un\Ndedo al día por un período de 20 días.
+Dialogue: 0,0:14:19.84,0:14:24.18,Gen_Main,Geto,0000,0000,0000,,Si se tragara 10 dedos a la vez,\Nsu resistencia se vería rebasada
+Dialogue: 0,0:14:24.38,0:14:28.76,Gen_Main,Geto,0000,0000,0000,,y el control del cuerpo pasaría\Ntemporalmente a Sukuna.
+Dialogue: 0,0:14:38.57,0:14:41.61,Gen_Main,Jogo,0000,0000,0000,,¡Despierta, Sukuna!
+Dialogue: 0,0:14:45.20,0:14:47.99,Cart_Serieslogo,,0000,0000,0000,,{\fad(550,0)\3c&H75EFED&}JUJUTSU KAISEN
+Dialogue: 0,0:14:50.66,0:14:53.00,Cart_Serieslogo,,0000,0000,0000,,{\fad(550,0)\3c&H75EFED&}JUJUTSU KAISEN
+Dialogue: 0,0:15:09.39,0:15:11.72,Gen_Italics,Jogo,0000,0000,0000,,Hice que se tragara los diez dedos.
+Dialogue: 0,0:15:11.93,0:15:16.52,Gen_Italics,Jogo,0000,0000,0000,,Ahora dentro de Itadori\Ndebe haber por lo menos 15.
+Dialogue: 0,0:15:26.32,0:15:28.32,Gen_Italics,Jogo,0000,0000,0000,,¿Estaban vivas?
+Dialogue: 0,0:15:28.78,0:15:31.16,Gen_Italics,Jogo,0000,0000,0000,,Debió ser\Nel ritual de alguna de las dos.
+Dialogue: 0,0:15:31.33,0:15:35.21,Gen_Italics,Jogo,0000,0000,0000,,Pero se ven asustadas.\NNo podrán defenderse tantas veces.
+Dialogue: 0,0:15:35.62,0:15:37.67,Gen_Main,Jogo,0000,0000,0000,,No me hagan perder el tiempo.
+Dialogue: 0,0:15:44.42,0:15:46.09,Gen_Main,Sukuna,0000,0000,0000,,Te doy un segundo
+Dialogue: 0,0:15:48.34,0:15:49.59,Gen_Main,Sukuna,0000,0000,0000,,para que te quites.
+Dialogue: 0,0:15:56.69,0:15:58.60,Gen_Italics,Jogo,0000,0000,0000,,Conque este es Sukuna.
+Dialogue: 0,0:15:59.27,0:16:01.61,Gen_Italics,Jogo,0000,0000,0000,,Su fuerza es distinta\Na la de Satoru Gojo
+Dialogue: 0,0:16:01.77,0:16:04.07,Gen_Italics,Jogo,0000,0000,0000,,¡y de una maldad descomunal!
+Dialogue: 0,0:16:04.57,0:16:09.61,Gen_Italics,Jogo,0000,0000,0000,,Me invade el terror. ¡Cualquier paso\Nen falso podría ocasionarnos la muerte!
+Dialogue: 0,0:16:11.83,0:16:15.12,Gen_Italics,Nanako,0000,0000,0000,,¡No puedo respirar!
+Dialogue: 0,0:16:15.33,0:16:17.21,Gen_Italics,Nanako,0000,0000,0000,,¡No puedo respirar!
+Dialogue: 0,0:16:17.37,0:16:20.08,Gen_Italics,Mimiko,0000,0000,0000,,Sí podemos respirar, ¿verdad?
+Dialogue: 0,0:16:20.54,0:16:22.25,Gen_Italics,Mimiko,0000,0000,0000,,No nos matará por respirar, ¿o sí?
+Dialogue: 0,0:16:40.06,0:16:42.15,Gen_Main,Sukuna,0000,0000,0000,,Tienen la frente demasiado en alto.
+Dialogue: 0,0:16:52.41,0:16:55.16,Gen_Main,Sukuna,0000,0000,0000,,¿Creíste que una sola rodilla\Nsería suficiente?
+Dialogue: 0,0:16:55.79,0:16:57.95,Gen_Main,Sukuna,0000,0000,0000,,Las ramas con más grano cuelgan bajo.
+Dialogue: 0,0:16:58.16,0:17:00.79,Gen_Main,Sukuna,0000,0000,0000,,Pero me parece\Nque tu cabeza no tiene mucho grano.
+Dialogue: 0,0:17:02.33,0:17:03.67,Gen_Main,Sukuna,0000,0000,0000,,Par de mocosas,
+Dialogue: 0,0:17:04.13,0:17:05.92,Gen_Main,Sukuna,0000,0000,0000,,primero ustedes.
+Dialogue: 0,0:17:06.38,0:17:09.17,Gen_Main,Sukuna,0000,0000,0000,,Querían tratar algo conmigo, ¿no es así?
+Dialogue: 0,0:17:09.59,0:17:13.68,Gen_Main,Sukuna,0000,0000,0000,,Las escucharé por el dedo. Hablen.
+Dialogue: 0,0:17:20.44,0:17:26.27,Gen_Main,Nanako,0000,0000,0000,,Abajo hay un hombre vestido de sacerdote\Ncon puntadas en la frente.
+Dialogue: 0,0:17:28.94,0:17:30.57,Gen_Main,Nanako,0000,0000,0000,,Mátelo,
+Dialogue: 0,0:17:32.53,0:17:34.20,Gen_Main,Nanako,0000,0000,0000,,por favor.
+Dialogue: 0,0:17:36.41,0:17:37.87,Gen_Main,Mimiko,0000,0000,0000,,Y, por favor,
+Dialogue: 0,0:17:39.62,0:17:41.54,Gen_Main,Mimiko,0000,0000,0000,,libere a nuestro señor Geto.
+Dialogue: 0,0:17:51.93,0:17:53.84,Gen_Main,Nanako,0000,0000,0000,,Oiga, señor Geto,
+Dialogue: 0,0:17:54.51,0:17:56.60,Gen_Main,Nanako,0000,0000,0000,,cuéntenos sobre ese tal Satoru Gojo.
+Dialogue: 0,0:17:57.01,0:17:58.56,Gen_Main,Nanako,0000,0000,0000,,Es muy poderoso, ¿no?
+Dialogue: 0,0:17:59.52,0:18:00.73,Gen_Main,Geto,0000,0000,0000,,Ajá.
+Dialogue: 0,0:18:01.10,0:18:05.56,Gen_Main,Geto,0000,0000,0000,,Era mi mejor amigo.\NNos peleamos y ya no lo he vuelto a ver.
+Dialogue: 0,0:18:07.52,0:18:08.90,Gen_Italics,Nanako,0000,0000,0000,,Lo amamos.
+Dialogue: 0,0:18:10.15,0:18:11.53,Gen_Italics,Mimiko,0000,0000,0000,,Lo amamos.
+Dialogue: 0,0:18:12.65,0:18:14.07,Gen_Italics,Nanako,0000,0000,0000,,Lo amamos.
+Dialogue: 0,0:18:14.70,0:18:16.16,Gen_Italics,Mimiko,0000,0000,0000,,Lo amamos.
+Dialogue: 0,0:18:21.08,0:18:26.38,Gen_Italics,Nanako,0000,0000,0000,,Nunca le perdonaremos a Satoru Gojo\Nhaber asesinado a nuestro señor Geto.
+Dialogue: 0,0:18:26.63,0:18:29.88,Gen_Italics,Mimiko,0000,0000,0000,,Pero ya nos habíamos resignado.
+Dialogue: 0,0:18:30.51,0:18:35.64,Gen_Italics,Nanako,0000,0000,0000,,Porque Satoru Gojo era\Nel único amigo de nuestro señor Geto.
+Dialogue: 0,0:18:36.68,0:18:38.64,Gen_Italics,Mimiko,0000,0000,0000,,Pero tú no eres él.
+Dialogue: 0,0:18:39.47,0:18:41.27,Gen_Italics,Nanako,0000,0000,0000,,Tú vete al infierno.
+Dialogue: 0,0:18:41.85,0:18:43.77,Gen_Italics,Nanako,0000,0000,0000,,Haremos que te arrepientas.
+Dialogue: 0,0:18:45.27,0:18:48.86,Gen_Main,Nanako,0000,0000,0000,,Conocemos la ubicación de otro dedo.
+Dialogue: 0,0:18:50.57,0:18:55.36,Gen_Main,Nanako,0000,0000,0000,,Se la diremos si nos hace el favor\Nde matar a ese desgraciado.
+Dialogue: 0,0:18:55.86,0:18:58.20,Gen_Main,Nanako,0000,0000,0000,,Se lo pedimos, por favor.
+Dialogue: 0,0:18:58.41,0:19:00.12,Gen_Main,Sukuna,0000,0000,0000,,Alcen la cabeza.
+Dialogue: 0,0:19:19.01,0:19:21.66,Gen_Main,Nanako,0000,0000,0000,,¡Mimiko!
+Dialogue: 0,0:19:21.88,0:19:26.52,Gen_Main,Sukuna,0000,0000,0000,,¿Pensaron que podían darme órdenes\Npor tan solo uno o dos dedos?
+Dialogue: 0,0:19:26.73,0:19:30.02,Gen_Main,Nanako,0000,0000,0000,,¡Esto no puede estar pasando! ¡Mimiko!
+Dialogue: 0,0:19:30.19,0:19:32.23,Gen_Main,Sukuna/Nanako,0000,0000,0000,,-Qué desagradable.\N-¡Mimiko!
+Dialogue: 0,0:19:32.48,0:19:35.40,Gen_Main,Nanako,0000,0000,0000,,¡Sukuna, muere!
+Dialogue: 0,0:19:50.88,0:19:55.17,Gen_Main,Sukuna,0000,0000,0000,,¿El celular? No, más bien es la cámara.
+Dialogue: 0,0:19:55.34,0:20:00.01,Gen_Main,Sukuna,0000,0000,0000,,Debe afectar de alguna manera el estado\Ndel objetivo de la cámara, ¿no?
+Dialogue: 0,0:20:00.85,0:20:02.35,Gen_Main,Sukuna,0000,0000,0000,,Qué ridículo.
+Dialogue: 0,0:20:03.14,0:20:04.60,Gen_Main,Sukuna,0000,0000,0000,,Es tu turno.
+Dialogue: 0,0:20:05.02,0:20:07.73,Gen_Main,Sukuna,0000,0000,0000,,Espíritu maldito,\N¿qué asunto quieres tratar?
+Dialogue: 0,0:20:09.52,0:20:11.23,Gen_Main,Jogo,0000,0000,0000,,No tengo ningún asunto
+Dialogue: 0,0:20:12.23,0:20:13.73,Gen_Main,Jogo,0000,0000,0000,,que tratar.
+Dialogue: 0,0:20:15.90,0:20:17.24,Gen_Main,Sukuna,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:20:17.61,0:20:22.49,Gen_Main,Jogo,0000,0000,0000,,Nuestro objetivo es revivirte\Nen tu máximo esplendor, Sukuna.
+Dialogue: 0,0:20:23.24,0:20:28.87,Gen_Main,Jogo,0000,0000,0000,,Ahora Itadori está tardando en asimilar\Nlos dedos y eres libre temporalmente.
+Dialogue: 0,0:20:29.12,0:20:32.88,Gen_Main,Jogo,0000,0000,0000,,Pero eso tú lo sabrás\Nmejor que nadie, ¿no?
+Dialogue: 0,0:20:34.88,0:20:39.38,Gen_Italics,Jogo,0000,0000,0000,,Aunque su ritual inverso pudiera\Nsanar a otros, no podría hacer nada
+Dialogue: 0,0:20:39.59,0:20:45.18,Gen_Italics,Jogo,0000,0000,0000,,por los individuos cuya alma haya sido\Ntransfigurada por el ritual de Mahito.
+Dialogue: 0,0:20:47.43,0:20:51.77,Gen_Italics,Jogo,0000,0000,0000,,No es que no haya querido formar\Nun juramento de atadura aquella vez.
+Dialogue: 0,0:20:51.98,0:20:53.94,Gen_Italics,Jogo,0000,0000,0000,,¡Simplemente no podía!
+Dialogue: 0,0:20:55.32,0:21:00.57,Gen_Main,Jogo,0000,0000,0000,,Antes de que Yuji Itadori regrese,\Nforma una atadura con él.
+Dialogue: 0,0:21:00.95,0:21:05.33,Gen_Main,Jogo,0000,0000,0000,,Una con la que te ceda el derecho\Na controlar el cuerpo para siempre.
+Dialogue: 0,0:21:06.49,0:21:09.96,Gen_Main,Jogo,0000,0000,0000,,Hay una gran cantidad de compañeros\Nde Itadori en Shibuya.
+Dialogue: 0,0:21:10.16,0:21:13.21,Gen_Main,Jogo,0000,0000,0000,,Hay varias maneras de utilizarlos\Ncomo rehenes.
+Dialogue: 0,0:21:18.05,0:21:19.80,Gen_Main,Sukuna,0000,0000,0000,,No es necesario.
+Dialogue: 0,0:21:23.68,0:21:26.26,Gen_Main,Sukuna,0000,0000,0000,,Yo tengo mi propio plan.
+Dialogue: 0,0:21:26.43,0:21:28.81,Gen_Main,Sukuna,0000,0000,0000,,Pero ya veo…
+Dialogue: 0,0:21:30.44,0:21:33.48,Gen_Main,Sukuna,0000,0000,0000,,Ustedes también están desesperados.
+Dialogue: 0,0:21:35.02,0:21:37.65,Gen_Main,Sukuna,0000,0000,0000,,En agradecimiento por los dedos,\Nven por mí.
+Dialogue: 0,0:21:38.28,0:21:40.90,Gen_Main,Sukuna,0000,0000,0000,,Si logras asestarme un solo golpe,
+Dialogue: 0,0:21:41.74,0:21:44.24,Gen_Main,Sukuna,0000,0000,0000,,les otorgaré el honor\Nde trabajar para ustedes.
+Dialogue: 0,0:21:49.12,0:21:53.21,Gen_Main,Sukuna,0000,0000,0000,,En primer lugar, masacraré a todos\Nlos humanos en Shibuya,
+Dialogue: 0,0:21:53.83,0:21:55.92,Gen_Main,Sukuna,0000,0000,0000,,exceptuando a uno.
+Dialogue: 0,0:22:04.76,0:22:07.18,Gen_Main,Jogo,0000,0000,0000,,No te vayas a echar atrás.
+Dialogue: 0,0:23:37.10,0:23:39.02,Cart_A_Tre,,0000,0000,0000,,{\b0\fs20\bord1.5\be1\3c&H161622&}Traducción: Abraham Gayuvas y Antonio Valdez\NEdición: Abraham Gayuvas\NControl de calidad: Nicolás Sepúlveda
+Dialogue: 0,0:23:40.48,0:23:44.28,Gen_Main,Naobito/Nanami,0000,0000,0000,,-Si quieren hacer brujería, hagan esto…\N-Oiga, hay menores de edad.
+Dialogue: 0,0:23:44.49,0:23:46.99,Gen_Main,Naobito/Nanami,0000,0000,0000,,-¡Barreras, rituales y sabe qué más!\N-Hay niños.
+Dialogue: 0,0:23:47.16,0:23:50.32,Gen_Main,Naobito,0000,0000,0000,,Saqué papel. Los niños\Nque sacaron tijeras tendrán suerte.
+Dialogue: 0,0:23:50.53,0:23:53.20,Gen_Main,Nanami/Maki,0000,0000,0000,,-Ahora se puso infantil.\N-El próximo será "Trueno".
+Dialogue: 0,0:23:52.16,0:23:55.04,Cart_A_Tim,,0000,0000,0000,,{\pos(320,111.15)\bord2.5\blur3}Próximo episodio\N\N\N\N\N\N\N\N\N\N\N{\q2\fs30}Trueno
+Dialogue: 0,0:23:53.41,0:23:55.04,Gen_Main,Naobito,0000,0000,0000,,Es que ya ando muy borracho.
+

@@ -1,0 +1,442 @@
+[Script Info]
+Title: [Erai-raws]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: BottomCenter,Trebuchet MS,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:41.02,0:01:42.06,BottomCenter,,0000,0000,0000,,(Had Hidupan)
+Dialogue: 0,0:01:42.06,0:01:43.81,BottomCenter,,0000,0000,0000,,(Had Hidupan)\NWah, mengejutkan sungguh.
+Dialogue: 0,0:01:43.81,0:01:45.86,BottomCenter,,0000,0000,0000,,Siapa sangka identiti sebenar Zombieman
+Dialogue: 0,0:01:45.90,0:01:48.07,BottomCenter,,0000,0000,0000,,ialah subjek ujikaji di Rumah Evolusi.
+Dialogue: 0,0:01:48.65,0:01:52.74,BottomCenter,,0000,0000,0000,,Aku pun ada kenangan mendalam\Nberkenaan Sampel No. 66.
+Dialogue: 0,0:01:52.74,0:01:56.78,BottomCenter,,0000,0000,0000,,Satu-satunya bahan yang berjaya\Ndan cemerlang dalam Siri Abadi,
+Dialogue: 0,0:01:56.78,0:02:00.08,BottomCenter,,0000,0000,0000,,namun dia memusnahkan makmal dan menghilang
+Dialogue: 0,0:02:00.08,0:02:02.45,BottomCenter,,0000,0000,0000,,lebih 10 tahun lalu.
+Dialogue: 0,0:02:02.45,0:02:04.71,BottomCenter,,0000,0000,0000,,Tapi kini kau seorang hero.
+Dialogue: 0,0:02:04.71,0:02:07.38,BottomCenter,,0000,0000,0000,,Kau berjaya mengubah diri.
+Dialogue: 0,0:02:08.88,0:02:12.17,BottomCenter,,0000,0000,0000,,Kau nak membunuh aku? Silakanlah.
+Dialogue: 0,0:02:12.17,0:02:14.34,BottomCenter,,0000,0000,0000,,Kenapa Rumah Evolusi menghilang?
+Dialogue: 0,0:02:14.34,0:02:17.72,BottomCenter,,0000,0000,0000,,Selagi kau masih hidup, kau boleh\Nsaja membinanya semula berkali-kali.
+Dialogue: 0,0:02:17.72,0:02:19.89,BottomCenter,,0000,0000,0000,,Jawablah, Dr. Genus!
+Dialogue: 0,0:02:19.89,0:02:22.35,BottomCenter,,0000,0000,0000,,Kajian aku telah gagal.
+Dialogue: 0,0:02:22.35,0:02:27.23,BottomCenter,,0000,0000,0000,,Aku telah menyaksikan kuasa\Nlebih besar daripada evolusi buatan.
+Dialogue: 0,0:02:27.23,0:02:29.82,BottomCenter,,0000,0000,0000,,Limiter dia telah dibuang.
+Dialogue: 0,0:02:29.82,0:02:31.03,BottomCenter,,0000,0000,0000,,Limiter?
+Dialogue: 0,0:02:31.03,0:02:32.90,BottomCenter,,0000,0000,0000,,Walau berapa kuat kita mencuba,
+Dialogue: 0,0:02:32.90,0:02:36.24,BottomCenter,,0000,0000,0000,,ada had pada pertumbuhan sesebuah hidupan.
+Dialogue: 0,0:02:36.95,0:02:40.28,BottomCenter,,0000,0000,0000,,Kuasa yang terlampau kuat\Nmemberi bebanan pada penggunanya
+Dialogue: 0,0:02:40.28,0:02:42.20,BottomCenter,,0000,0000,0000,,dan mengakibatkan malfungsi.
+Dialogue: 0,0:02:42.20,0:02:45.41,BottomCenter,,0000,0000,0000,,Ataupun, mereka akan hilang integriti diri
+Dialogue: 0,0:02:45.41,0:02:47.33,BottomCenter,,0000,0000,0000,,dan mengamuk seperti raksasa.
+Dialogue: 0,0:02:47.75,0:02:50.38,BottomCenter,,0000,0000,0000,,Sebab itulah Tuhan mereka\Nsetiap makhluk hidupan
+Dialogue: 0,0:02:50.38,0:02:53.05,BottomCenter,,0000,0000,0000,,untuk membesar hanya pada hadnya
+Dialogue: 0,0:02:53.05,0:02:56.18,BottomCenter,,0000,0000,0000,,demi kemandirian dan tujuan hidup.
+Dialogue: 0,0:03:32.96,0:03:34.71,BottomCenter,,0000,0000,0000,,Itulah Limiter.
+Dialogue: 0,0:03:35.67,0:03:37.63,BottomCenter,,0000,0000,0000,,Tetapi dia berbeza.
+Dialogue: 0,0:03:37.63,0:03:40.22,BottomCenter,,0000,0000,0000,,Dengan memaksa diri melangkau hadnya,
+Dialogue: 0,0:03:40.22,0:03:43.39,BottomCenter,,0000,0000,0000,,dia membuang limiter dan\Nmeraih kekuatan luar biasa.
+Dialogue: 0,0:03:43.39,0:03:46.14,BottomCenter,,0000,0000,0000,,Adakah kekuatan itu boleh dicapai dengan
+Dialogue: 0,0:03:46.14,0:03:48.60,BottomCenter,,0000,0000,0000,,membuang limiter tanpa apa-apa akibat?
+Dialogue: 0,0:03:48.60,0:03:51.36,BottomCenter,,0000,0000,0000,,Semestinya, ada akibatnya.
+Dialogue: 0,0:03:51.90,0:03:54.78,BottomCenter,,0000,0000,0000,,Sebagai ganti kekuatannya, dia membotak.
+Dialogue: 0,0:03:54.78,0:03:57.65,BottomCenter,,0000,0000,0000,,Dan perasaan terasing yang\Ndatang dengan kekuatannya.
+Dialogue: 0,0:03:57.65,0:03:59.16,BottomCenter,,0000,0000,0000,,Riak wajahnya selepas membunuh
+Dialogue: 0,0:03:59.16,0:04:02.62,BottomCenter,,0000,0000,0000,,pahlawan terkuat dalam sejarah\Nkajian hanya dengan satu pukulan.
+Dialogue: 0,0:04:02.62,0:04:04.62,BottomCenter,,0000,0000,0000,,Begitulah kisahnya…
+Dialogue: 0,0:04:04.62,0:04:05.75,BottomCenter,,0000,0000,0000,,Mengarut.
+Dialogue: 0,0:04:05.75,0:04:08.33,BottomCenter,,0000,0000,0000,,Nampaknya otak kaulah\Nyang menyebabkan masalah
+Dialogue: 0,0:04:08.33,0:04:10.88,BottomCenter,,0000,0000,0000,,semasa hari-hari kajian aneh itu.
+Dialogue: 0,0:04:10.88,0:04:13.88,BottomCenter,,0000,0000,0000,,Aku tahu beberapa ekor\Nraksasa yang mengabaikan had
+Dialogue: 0,0:04:13.88,0:04:15.42,BottomCenter,,0000,0000,0000,,pada kebolehan mereka.
+Dialogue: 0,0:04:16.71,0:04:19.01,BottomCenter,,0000,0000,0000,,Mungkin apa yang kau bayangkan,
+Dialogue: 0,0:04:19.01,0:04:20.97,BottomCenter,,0000,0000,0000,,ialah suatu dimensi yang jauh berbeza.
+Dialogue: 0,0:04:21.51,0:04:23.47,BottomCenter,,0000,0000,0000,,Apabila manusia berubah menjadi raksasa,
+Dialogue: 0,0:04:23.47,0:04:24.85,BottomCenter,,0000,0000,0000,,perubahan itu disebabkan
+Dialogue: 0,0:04:24.85,0:04:27.23,BottomCenter,,0000,0000,0000,,tabiat buruk berlebihan, kompleks mendalam,
+Dialogue: 0,0:04:27.23,0:04:30.06,BottomCenter,,0000,0000,0000,,atau kekecewaan terpendam\Nyang tiba-tiba meletus.
+Dialogue: 0,0:04:30.06,0:04:31.56,BottomCenter,,0000,0000,0000,,Puncanya adalah bermacam-macam.
+Dialogue: 0,0:04:31.56,0:04:33.77,BottomCenter,,0000,0000,0000,,Tapi dalam setiap kes, sel mereka mengalami
+Dialogue: 0,0:04:33.77,0:04:36.23,BottomCenter,,0000,0000,0000,,keabnormalan dan tiba-tiba bermutasi.
+Dialogue: 0,0:04:36.28,0:04:38.24,BottomCenter,,0000,0000,0000,,Malah ada juga yang dicipta
+Dialogue: 0,0:04:38.24,0:04:40.86,BottomCenter,,0000,0000,0000,,dengan kuasa sains seperti kajianku.
+Dialogue: 0,0:04:41.36,0:04:44.49,BottomCenter,,0000,0000,0000,,Terdapat juga kes makhluk bukan manusia
+Dialogue: 0,0:04:44.49,0:04:47.62,BottomCenter,,0000,0000,0000,,menjadi raksasa kerana\Npencemaran alam dan faktor lain.
+Dialogue: 0,0:04:47.62,0:04:50.21,BottomCenter,,0000,0000,0000,,Hal ini ialah kelahiran\Nsemula dalam makhluk lain,
+Dialogue: 0,0:04:50.21,0:04:52.46,BottomCenter,,0000,0000,0000,,bukannya penghapusan limiter.
+Dialogue: 0,0:04:52.46,0:04:54.75,BottomCenter,,0000,0000,0000,,Bangsa laut dalam yang\Npernah menyerang Bandar J,
+Dialogue: 0,0:04:54.75,0:04:58.84,BottomCenter,,0000,0000,0000,,dan makhluk asing di Bandar A,\Nsecara umumnya ialah raksasa.
+Dialogue: 0,0:04:58.84,0:05:01.09,BottomCenter,,0000,0000,0000,,Tapi makhluk itu sudah begitu sejak azali,
+Dialogue: 0,0:05:01.09,0:05:04.01,BottomCenter,,0000,0000,0000,,musuh alami manusia yang pintar.
+Dialogue: 0,0:05:04.47,0:05:06.97,BottomCenter,,0000,0000,0000,,Hero yang memiliki kuasa hebat
+Dialogue: 0,0:05:06.97,0:05:09.77,BottomCenter,,0000,0000,0000,,yang mampu menandingi\Ndan melawan makhluk itu ialah,
+Dialogue: 0,0:05:09.77,0:05:12.77,BottomCenter,,0000,0000,0000,,individu yang secara semula jadi\Nlahir dengan potensi menjadi kuat,
+Dialogue: 0,0:05:12.77,0:05:16.06,BottomCenter,,0000,0000,0000,,lalu mengasah kuasa\Nmelalui bakat dan usaha.
+Dialogue: 0,0:05:16.06,0:05:18.74,BottomCenter,,0000,0000,0000,,Selain itu, ada yang memperoleh\Nkebolehan istimewa melalui
+Dialogue: 0,0:05:18.74,0:05:22.07,BottomCenter,,0000,0000,0000,,peningkatan sibernetik,\Natau eksperimen seperti kau.
+Dialogue: 0,0:05:22.07,0:05:25.03,BottomCenter,,0000,0000,0000,,Mungkin ada yang seperti aku\Nyang lahir sebagai super genius
+Dialogue: 0,0:05:25.03,0:05:27.16,BottomCenter,,0000,0000,0000,,atau dengan kebolehan istimewa.
+Dialogue: 0,0:05:27.16,0:05:29.62,BottomCenter,,0000,0000,0000,,Tetapi "dia" berbeza.
+Dialogue: 0,0:05:29.62,0:05:32.21,BottomCenter,,0000,0000,0000,,Dia lahir secara biasa, hidup secara biasa,
+Dialogue: 0,0:05:32.21,0:05:35.13,BottomCenter,,0000,0000,0000,,dan orang biasa tanpa apa-apa bakat.
+Dialogue: 0,0:05:35.13,0:05:37.92,BottomCenter,,0000,0000,0000,,Namun dengan usaha semata-mata,\Ndia membuka pintu hadnya,
+Dialogue: 0,0:05:37.92,0:05:39.84,BottomCenter,,0000,0000,0000,,lalu memusnahkan limiter diri.
+Dialogue: 0,0:05:40.34,0:05:42.80,BottomCenter,,0000,0000,0000,,Kekuatan luar biasa daripada\Nmereka yang membuang limiter
+Dialogue: 0,0:05:42.80,0:05:45.22,BottomCenter,,0000,0000,0000,,dan berevolusi sendiri…
+Dialogue: 0,0:05:45.93,0:05:48.31,BottomCenter,,0000,0000,0000,,Memikirkannya saja pun buat aku ketawa.
+Dialogue: 0,0:05:48.31,0:05:51.14,BottomCenter,,0000,0000,0000,,Cita-cita aku terlalu mengarut.
+Dialogue: 0,0:05:51.60,0:05:54.60,BottomCenter,,0000,0000,0000,,Mungkin kau boleh berjumpa\Ndengannya satu hari nanti.
+Dialogue: 0,0:05:54.60,0:05:57.23,BottomCenter,,0000,0000,0000,,Rasanya dia pun seorang hero.
+Dialogue: 0,0:05:57.73,0:05:59.52,BottomCenter,,0000,0000,0000,,Ada soalan lain tak?
+Dialogue: 0,0:05:59.52,0:06:02.03,BottomCenter,,0000,0000,0000,,Habis tu, kenapa takoyaki…?
+Dialogue: 0,0:06:02.03,0:06:04.24,BottomCenter,,0000,0000,0000,,Semasa mengkaji pertumbuhan semula manusia,
+Dialogue: 0,0:06:04.24,0:06:07.41,BottomCenter,,0000,0000,0000,,aku berjaya menghasilkan\Nbanyak kaki sotong.
+Dialogue: 0,0:06:07.41,0:06:08.41,BottomCenter,,0000,0000,0000,,Begitukah?
+Dialogue: 0,0:06:14.00,0:06:15.17,BottomCenter,,0000,0000,0000,,Aku boleh…
+Dialogue: 0,0:06:15.54,0:06:18.63,BottomCenter,,0000,0000,0000,,Kalau berbanding dengan orang\Ntua itu, mereka ini bukan siapa-siapa!
+Dialogue: 0,0:06:18.63,0:06:21.42,BottomCenter,,0000,0000,0000,,Biar betul ada manusia yang\Nboleh bertahan sejauh ini…
+Dialogue: 0,0:06:21.42,0:06:23.13,BottomCenter,,0000,0000,0000,,Dua lawan satu?
+Dialogue: 0,0:06:23.17,0:06:25.30,BottomCenter,,0000,0000,0000,,Kau memang kuatlah.
+Dialogue: 0,0:06:26.76,0:06:29.64,BottomCenter,,0000,0000,0000,,Aku baru terfikir nak berseronok sedikit…
+Dialogue: 0,0:06:29.64,0:06:31.77,BottomCenter,,0000,0000,0000,,tapi tak kisahlah. Jom lakukan.
+Dialogue: 0,0:06:31.77,0:06:33.85,BottomCenter,,0000,0000,0000,,Kali ini, aku takkan main-main.
+Dialogue: 0,0:06:33.85,0:06:35.98,BottomCenter,,0000,0000,0000,,Aku boleh lihat segala gerakan kalian.
+Dialogue: 0,0:06:39.77,0:06:41.53,BottomCenter,,0000,0000,0000,,Pukulan kalian takkan mengena lagi.
+Dialogue: 0,0:06:42.82,0:06:43.94,BottomCenter,,0000,0000,0000,,Pakcik…
+Dialogue: 0,0:06:50.37,0:06:53.20,BottomCenter,,0000,0000,0000,,Pakcik… minta maaf…
+Dialogue: 0,0:06:53.54,0:06:56.42,BottomCenter,,0000,0000,0000,,Obor-Obor Hedro, kenapa kau ke sini?
+Dialogue: 0,0:06:56.46,0:07:00.25,BottomCenter,,0000,0000,0000,,Tak… aku cuma ada\Ndendam peribadi dengan dia.
+Dialogue: 0,0:07:00.25,0:07:01.30,BottomCenter,,0000,0000,0000,,Dia…!
+Dialogue: 0,0:07:02.21,0:07:05.38,BottomCenter,,0000,0000,0000,,Tak guna! Apa kena-mengena dengan budak—
+Dialogue: 0,0:07:19.06,0:07:20.27,BottomCenter,,0000,0000,0000,,Oi.
+Dialogue: 0,0:07:20.27,0:07:22.57,BottomCenter,,0000,0000,0000,,Aku dah kata jangan bunuh, kan?
+Dialogue: 0,0:07:22.57,0:07:26.03,BottomCenter,,0000,0000,0000,,Kau halang aku terlalu lambatlah,\NDewa Kumbang-chan.
+Dialogue: 0,0:07:26.03,0:07:30.41,BottomCenter,,0000,0000,0000,,Kalau kau sempat sebut pun, dia dah mati.
+Dialogue: 0,0:07:32.29,0:07:35.37,BottomCenter,,0000,0000,0000,,Baiklah, jom kita balik\Nsambil pegang tangan!
+Dialogue: 0,0:07:46.13,0:07:48.01,BottomCenter,,0000,0000,0000,,Dia nak lihat aku bermain game…
+Dialogue: 0,0:07:48.01,0:07:49.26,BottomCenter,,0000,0000,0000,,Apa yang dia nak?
+Dialogue: 0,0:07:49.59,0:07:51.60,BottomCenter,,0000,0000,0000,,(TAMAT. Terima kasih bermain.)\NIni dah selesai tapi…
+Dialogue: 0,0:07:51.60,0:07:53.85,BottomCenter,,0000,0000,0000,,Macam mana? Kau puas tak?
+Dialogue: 0,0:07:53.85,0:07:55.56,BottomCenter,,0000,0000,0000,,Dah habiskah?
+Dialogue: 0,0:07:55.56,0:07:57.60,BottomCenter,,0000,0000,0000,,Aku tak faham apa-apapun.
+Dialogue: 0,0:07:58.10,0:08:01.31,BottomCenter,,0000,0000,0000,,Nampaknya masih awal untuk\Naku sertai perlawanan maya
+Dialogue: 0,0:08:01.31,0:08:04.23,BottomCenter,,0000,0000,0000,,yang selalu dimainkan\Noleh Guru Saitama dan King.
+Dialogue: 0,0:08:04.23,0:08:05.99,BottomCenter,,0000,0000,0000,,Aku perlu naikkan level lagi.
+Dialogue: 0,0:08:05.99,0:08:07.69,BottomCenter,,0000,0000,0000,,Banyak kerja yang perlu dibuat.
+Dialogue: 0,0:08:07.69,0:08:10.24,BottomCenter,,0000,0000,0000,,Waktu dah makin lewatlah…
+Dialogue: 0,0:08:10.24,0:08:13.66,BottomCenter,,0000,0000,0000,,Dia takkan jumpa Garou\Nkalau cari macam itu saja.
+Dialogue: 0,0:08:13.66,0:08:16.75,BottomCenter,,0000,0000,0000,,Dia ada dalam persembunyian\Ndengan raksasa, kan?
+Dialogue: 0,0:08:16.75,0:08:18.92,BottomCenter,,0000,0000,0000,,Guru aku nampak yakin.
+Dialogue: 0,0:08:18.92,0:08:20.50,BottomCenter,,0000,0000,0000,,Dia mungkin takkan balik selagi belum
+Dialogue: 0,0:08:20.50,0:08:23.42,BottomCenter,,0000,0000,0000,,hapuskan markas Persatuan Raksasa.
+Dialogue: 0,0:08:23.42,0:08:26.76,BottomCenter,,0000,0000,0000,,Encik Saitama memang\Nkuat, tapi dengan perangainya
+Dialogue: 0,0:08:26.76,0:08:28.34,BottomCenter,,0000,0000,0000,,aku agak risau.
+Dialogue: 0,0:08:28.34,0:08:30.84,BottomCenter,,0000,0000,0000,,Jangan-jangan dia termasuk\Ndalam perangkap raksasa.
+Dialogue: 0,0:08:34.76,0:08:35.76,BottomCenter,,0000,0000,0000,,Aku dah balik.
+Dialogue: 0,0:08:36.35,0:08:37.43,BottomCenter,,0000,0000,0000,,Gurulah!
+Dialogue: 0,0:08:37.43,0:08:38.93,BottomCenter,,0000,0000,0000,,Dia balik macam biasa saja.
+Dialogue: 0,0:08:38.93,0:08:41.10,BottomCenter,,0000,0000,0000,,Kau berjaya dapat apa-apa tak?
+Dialogue: 0,0:08:41.10,0:08:42.90,BottomCenter,,0000,0000,0000,,Alahai…
+Dialogue: 0,0:08:45.11,0:08:46.94,BottomCenter,,0000,0000,0000,,Habislah, habislah.
+Dialogue: 0,0:08:47.53,0:08:49.03,BottomCenter,,0000,0000,0000,,Mencabar betul apa aku lalui tadi.
+Dialogue: 0,0:08:49.03,0:08:50.53,BottomCenter,,0000,0000,0000,,- Eh?\N- Eh?
+Dialogue: 0,0:08:50.53,0:08:53.07,BottomCenter,,0000,0000,0000,,Jangan-jangan awak berjaya jumpa Garou?!
+Dialogue: 0,0:08:53.07,0:08:55.87,BottomCenter,,0000,0000,0000,,Eh, kalian belum balik lagi?
+Dialogue: 0,0:08:56.28,0:08:57.79,BottomCenter,,0000,0000,0000,,Menyempitlah.
+Dialogue: 0,0:08:57.79,0:08:58.70,BottomCenter,,0000,0000,0000,,Guru!
+Dialogue: 0,0:08:58.70,0:09:00.83,BottomCenter,,0000,0000,0000,,Adakah darah itu daripada pemburu hero?
+Dialogue: 0,0:09:00.83,0:09:02.67,BottomCenter,,0000,0000,0000,,Bukan, ada raksasa muncul\Ndalam perjalanan pulang.
+Dialogue: 0,0:09:02.67,0:09:04.54,BottomCenter,,0000,0000,0000,,Ada kaitan dengan Persatuan Raksasa?!
+Dialogue: 0,0:09:04.54,0:09:07.42,BottomCenter,,0000,0000,0000,,Bukanlah, memang ada\Nbanyak raksasa sekitar sini.
+Dialogue: 0,0:09:07.84,0:09:09.17,BottomCenter,,0000,0000,0000,,Tak tahulah kenapa
+Dialogue: 0,0:09:09.76,0:09:12.43,BottomCenter,,0000,0000,0000,,tapi itu bukannya masalah.
+Dialogue: 0,0:09:12.43,0:09:16.10,BottomCenter,,0000,0000,0000,,Jadi apakah perkara mencabar\Nyang berlaku pada Guru…
+Dialogue: 0,0:09:16.10,0:09:17.97,BottomCenter,,0000,0000,0000,,Tapi kau nampak bersemangat sebelum ni…
+Dialogue: 0,0:09:17.97,0:09:20.06,BottomCenter,,0000,0000,0000,,Siapa yang lakukan ini pada kau?!
+Dialogue: 0,0:09:21.69,0:09:22.69,BottomCenter,,0000,0000,0000,,Sebenarnya…
+Dialogue: 0,0:09:24.15,0:09:26.57,BottomCenter,,0000,0000,0000,,aku tercicir dompet entah di mana.
+Dialogue: 0,0:09:26.57,0:09:28.65,BottomCenter,,0000,0000,0000,,Ada lebih kurang 6 ribu yen di dalam.
+Dialogue: 0,0:09:29.69,0:09:31.86,BottomCenter,,0000,0000,0000,,Sebab itu sajakah?
+Dialogue: 0,0:09:31.86,0:09:33.45,BottomCenter,,0000,0000,0000,,Mati-mati aku ingatkan Garou tadi—
+Dialogue: 0,0:09:33.45,0:09:34.57,BottomCenter,,0000,0000,0000,,Apa?!
+Dialogue: 0,0:09:34.57,0:09:35.91,BottomCenter,,0000,0000,0000,,Oh ya, waktu itu…!
+Dialogue: 0,0:09:35.91,0:09:37.78,BottomCenter,,0000,0000,0000,,Ada apa?
+Dialogue: 0,0:09:38.29,0:09:40.25,BottomCenter,,0000,0000,0000,,Orang makan lari itu…
+Dialogue: 0,0:09:40.25,0:09:41.91,BottomCenter,,0000,0000,0000,,Kau tahu apa-apakah?!
+Dialogue: 0,0:09:42.33,0:09:44.38,BottomCenter,,0000,0000,0000,,Semasa aku mengejar dia…
+Dialogue: 0,0:09:44.92,0:09:47.04,BottomCenter,,0000,0000,0000,,Aku beli kubis Cina!
+Dialogue: 0,0:09:47.04,0:09:48.84,BottomCenter,,0000,0000,0000,,Tapi tertinggal di restoran keluarga!
+Dialogue: 0,0:09:49.46,0:09:50.76,BottomCenter,,0000,0000,0000,,Saya akan dapatkannya!
+Dialogue: 0,0:09:50.76,0:09:53.51,BottomCenter,,0000,0000,0000,,Jangan, Genos. Kau tak\Nboleh dengan badan kau!
+Dialogue: 0,0:09:53.51,0:09:55.55,BottomCenter,,0000,0000,0000,,Itu kan cuma kubis Cina.
+Dialogue: 0,0:09:56.43,0:09:57.68,BottomCenter,,0000,0000,0000,,Nampak macam seronok, kan?
+Dialogue: 0,0:09:58.14,0:10:01.02,BottomCenter,,0000,0000,0000,,Kau kembali lagi, Fubuki Neraka?
+Dialogue: 0,0:10:01.02,0:10:02.18,BottomCenter,,0000,0000,0000,,Ada hal lagikah?
+Dialogue: 0,0:10:02.18,0:10:04.69,BottomCenter,,0000,0000,0000,,Saitama… berani kau, ya?
+Dialogue: 0,0:10:06.52,0:10:08.48,BottomCenter,,0000,0000,0000,,Itu kubis Cina!
+Dialogue: 0,0:10:08.48,0:10:09.86,BottomCenter,,0000,0000,0000,,Tapi kenapa ada pada Fubuki?
+Dialogue: 0,0:10:10.28,0:10:12.19,BottomCenter,,0000,0000,0000,,Kau tertinggal ini.
+Dialogue: 0,0:10:12.19,0:10:13.90,BottomCenter,,0000,0000,0000,,Oh, nasib baiklah!
+Dialogue: 0,0:10:13.90,0:10:16.16,BottomCenter,,0000,0000,0000,,Aku nak masak stimbot hari ini.
+Dialogue: 0,0:10:16.70,0:10:18.99,BottomCenter,,0000,0000,0000,,Kubis Cina ialah bahan\Npenting untuk stimbot, tau.
+Dialogue: 0,0:10:18.99,0:10:22.25,BottomCenter,,0000,0000,0000,,Bukankah kau ada hal lain nak beritahu aku?
+Dialogue: 0,0:10:22.25,0:10:24.54,BottomCenter,,0000,0000,0000,,Eh? Terima kasih bawakan kubis Cina.
+Dialogue: 0,0:10:25.25,0:10:26.38,BottomCenter,,0000,0000,0000,,Bukanlah!
+Dialogue: 0,0:10:26.38,0:10:29.79,BottomCenter,,0000,0000,0000,,Kau patut minta maaf betul-betul\Nsebab tinggalkan aku untuk bayar bil,
+Dialogue: 0,0:10:29.79,0:10:31.59,BottomCenter,,0000,0000,0000,,dan larikan diri!
+Dialogue: 0,0:10:31.59,0:10:33.55,BottomCenter,,0000,0000,0000,,Oh, aku terlupa…
+Dialogue: 0,0:10:33.55,0:10:34.55,BottomCenter,,0000,0000,0000,,M-Maaf…
+Dialogue: 0,0:10:34.55,0:10:37.43,BottomCenter,,0000,0000,0000,,Malah kau pergi semasa\Nkita tengah berbincang!
+Dialogue: 0,0:10:38.01,0:10:39.35,BottomCenter,,0000,0000,0000,,Kita berbincang pasal apa?
+Dialogue: 0,0:10:39.35,0:10:41.56,BottomCenter,,0000,0000,0000,,Kau memang tak mendengar langsung rupanya!
+Dialogue: 0,0:10:41.56,0:10:44.68,BottomCenter,,0000,0000,0000,,Apapun, kau berhutang\Ndengan aku pasal kejadian ni!
+Dialogue: 0,0:10:44.68,0:10:46.39,BottomCenter,,0000,0000,0000,,Ingat, tau!
+Dialogue: 0,0:10:46.39,0:10:48.90,BottomCenter,,0000,0000,0000,,Dia tahu dia tak setanding dengan kita,
+Dialogue: 0,0:10:48.90,0:10:50.86,BottomCenter,,0000,0000,0000,,tapi kenapa dia masih mengekori?
+Dialogue: 0,0:10:50.86,0:10:53.11,BottomCenter,,0000,0000,0000,,Dia pun berharap nak jadi anak muridkah?
+Dialogue: 0,0:10:53.11,0:10:55.70,BottomCenter,,0000,0000,0000,,Menambahkan beban kerja\NGuru akan jadi masalah…
+Dialogue: 0,0:10:55.70,0:10:58.16,BottomCenter,,0000,0000,0000,,Aku mesti elakkannya daripada berlaku…
+Dialogue: 0,0:10:59.16,0:11:00.74,BottomCenter,,0000,0000,0000,,Reaksi pendekatan halaju tinggi!
+Dialogue: 0,0:11:00.74,0:11:01.95,BottomCenter,,0000,0000,0000,,Ada sesuatu yang datang!
+Dialogue: 0,0:11:02.79,0:11:05.46,BottomCenter,,0000,0000,0000,,Cis, dengan kerosakan begini,\Naku tak boleh melawan balik.
+Dialogue: 0,0:11:05.46,0:11:07.29,BottomCenter,,0000,0000,0000,,Bang dan abangnya juga sedang cedera.
+Dialogue: 0,0:11:07.29,0:11:09.79,BottomCenter,,0000,0000,0000,,Fubuki kemungkinan besar boleh tewaskan
+Dialogue: 0,0:11:09.79,0:11:11.67,BottomCenter,,0000,0000,0000,,musuh tahap Iblis atau lebih tinggi.
+Dialogue: 0,0:11:11.67,0:11:15.26,BottomCenter,,0000,0000,0000,,Guru telah mengalami keparahan\Nmental yang serius selepas tercicir dompet.
+Dialogue: 0,0:11:15.26,0:11:17.51,BottomCenter,,0000,0000,0000,,Setakat ini, yang boleh\Nbetul-betul berlawan cuma…
+Dialogue: 0,0:11:18.18,0:11:20.89,BottomCenter,,0000,0000,0000,,King! Musuh menghampiri.
+Dialogue: 0,0:11:20.89,0:11:22.31,BottomCenter,,0000,0000,0000,,Halang mereka di luar!
+Dialogue: 0,0:11:22.31,0:11:23.31,BottomCenter,,0000,0000,0000,,Eh?
+Dialogue: 0,0:11:23.31,0:11:25.10,BottomCenter,,0000,0000,0000,,Kita tak boleh berlawan di sini!
+Dialogue: 0,0:11:25.10,0:11:26.73,BottomCenter,,0000,0000,0000,,- Kenapa?\N- Cepat keluar!
+Dialogue: 0,0:11:26.73,0:11:28.19,BottomCenter,,0000,0000,0000,,(Gigil)\NKejap!
+Dialogue: 0,0:11:28.23,0:11:30.27,BottomCenter,,0000,0000,0000,,(Gigil)\NJangan tolak, tunggu. Apa maksud kau—
+Dialogue: 0,0:11:30.27,0:11:32.57,BottomCenter,,0000,0000,0000,,Jangan risau. Cuma seorang musuh saja.
+Dialogue: 0,0:11:32.57,0:11:33.57,BottomCenter,,0000,0000,0000,,Kenapa—?
+Dialogue: 0,0:11:33.57,0:11:34.69,BottomCenter,,0000,0000,0000,,Ada apa, Genos?
+Dialogue: 0,0:11:34.69,0:11:36.28,BottomCenter,,0000,0000,0000,,Nampaknya ada raksasa muncul,
+Dialogue: 0,0:11:36.32,0:11:37.65,BottomCenter,,0000,0000,0000,,jadi saya serahkan pada King.
+Dialogue: 0,0:11:37.65,0:11:38.91,BottomCenter,,0000,0000,0000,,Wah…
+Dialogue: 0,0:11:39.57,0:11:42.45,BottomCenter,,0000,0000,0000,,(Degup)\ND-Dia… ada di pintu masuk…
+Dialogue: 0,0:11:42.74,0:11:44.08,BottomCenter,,0000,0000,0000,,Kita ada tetamu.
+Dialogue: 0,0:11:44.08,0:11:46.16,BottomCenter,,0000,0000,0000,,Apa—King! Kenapa bawa dia masuk?!
+Dialogue: 0,0:11:46.16,0:11:49.46,BottomCenter,,0000,0000,0000,,(Psshh…)\NTunggu, tunggu. Ia rosak teruk sekali lagi.
+Dialogue: 0,0:11:49.46,0:11:51.84,BottomCenter,,0000,0000,0000,,(Pshhh…)\NJangan cuba bergerak lagi.
+Dialogue: 0,0:11:52.38,0:11:54.50,BottomCenter,,0000,0000,0000,,Ini akulah, Genos.
+Dialogue: 0,0:11:55.21,0:11:56.67,BottomCenter,,0000,0000,0000,,Dr. Kuseno!
+Dialogue: 0,0:11:56.67,0:11:58.76,BottomCenter,,0000,0000,0000,,Kenalankah? Nasib baiklah…
+Dialogue: 0,0:11:58.76,0:12:00.01,BottomCenter,,0000,0000,0000,,Kenapa awak di sini?!
+Dialogue: 0,0:12:00.05,0:12:01.93,BottomCenter,,0000,0000,0000,,Aku pun tertanya-tanya.
+Dialogue: 0,0:12:01.93,0:12:03.68,BottomCenter,,0000,0000,0000,,Aku baru baiki kamu,
+Dialogue: 0,0:12:03.68,0:12:06.52,BottomCenter,,0000,0000,0000,,tapi selepas satu lagi\Nisyarat kecemasan tiba,
+Dialogue: 0,0:12:06.52,0:12:09.69,BottomCenter,,0000,0000,0000,,aku ingat mahu periksa situasi sendiri.
+Dialogue: 0,0:12:09.69,0:12:12.02,BottomCenter,,0000,0000,0000,,Maaf merisaukan awak.
+Dialogue: 0,0:12:12.02,0:12:13.94,BottomCenter,,0000,0000,0000,,Walaupun saya kata takkan tewas lagi…
+Dialogue: 0,0:12:13.94,0:12:15.53,BottomCenter,,0000,0000,0000,,Tak sangka betul.
+Dialogue: 0,0:12:15.57,0:12:19.49,BottomCenter,,0000,0000,0000,,Aku ingatkan sudah banyak menambah\Nbaik prestasi dan kadar menembak kamu.
+Dialogue: 0,0:12:19.49,0:12:21.16,BottomCenter,,0000,0000,0000,,Tapi tak apalah!
+Dialogue: 0,0:12:21.16,0:12:24.37,BottomCenter,,0000,0000,0000,,Yang penting adalah untuk\Nselamat, bukannya menang.
+Dialogue: 0,0:12:24.37,0:12:28.16,BottomCenter,,0000,0000,0000,,Jadi, siapa musuh yang\Nmemusnahkan kamu sampai begitu?
+Dialogue: 0,0:12:28.16,0:12:30.58,BottomCenter,,0000,0000,0000,,Seperti biasa, Guru Saitama…
+Dialogue: 0,0:12:30.58,0:12:32.96,BottomCenter,,0000,0000,0000,,Begitu rupanya… Kamulah…
+Dialogue: 0,0:12:32.96,0:12:35.59,BottomCenter,,0000,0000,0000,,Guru kepada Genos, Saitama, ya?
+Dialogue: 0,0:12:35.59,0:12:36.76,BottomCenter,,0000,0000,0000,,Dah lama aku nak berjumpa—
+Dialogue: 0,0:12:36.76,0:12:38.42,BottomCenter,,0000,0000,0000,,Boleh jangan pakai kasut dalam rumah?
+Dialogue: 0,0:12:38.42,0:12:41.43,BottomCenter,,0000,0000,0000,,O-Oh, minta maaf!
+Dialogue: 0,0:12:44.22,0:12:45.60,BottomCenter,,0000,0000,0000,,Namaku ialah, Kuseno.
+Dialogue: 0,0:12:45.60,0:12:48.14,BottomCenter,,0000,0000,0000,,Asalnya aku seorang\Njurutera mekanikal biasa,
+Dialogue: 0,0:12:48.14,0:12:50.98,BottomCenter,,0000,0000,0000,,tapi entah kenapa, kini aku\Nmenyokong kerja keadilan Genos.
+Dialogue: 0,0:12:50.98,0:12:53.11,BottomCenter,,0000,0000,0000,,Nama aku Saitama. Salam kenal.
+Dialogue: 0,0:12:53.11,0:12:54.11,BottomCenter,,0000,0000,0000,,Yakah?
+Dialogue: 0,0:12:54.11,0:12:58.44,BottomCenter,,0000,0000,0000,,Aku sangat terharu memikirkan\NGenos menjumpai mentor yang baik.
+Dialogue: 0,0:12:58.44,0:13:00.07,BottomCenter,,0000,0000,0000,,Semasa aku menjumpai Genos,
+Dialogue: 0,0:13:00.07,0:13:02.99,BottomCenter,,0000,0000,0000,,- Baguslah dia datang menjemput kau, Genos.\N- kami tiada rakan sekutu.
+Dialogue: 0,0:13:02.99,0:13:04.70,BottomCenter,,0000,0000,0000,,- Bilik ni pun sempit,\N- Hanya kami berdua merayau
+Dialogue: 0,0:13:04.70,0:13:06.53,BottomCenter,,0000,0000,0000,,- jadi pulang sajalah.\N- dalam kegelapan,
+Dialogue: 0,0:13:06.53,0:13:08.04,BottomCenter,,0000,0000,0000,,- Jumpa lagi, Kuseno.\N- cuba mengguna kuasa tentera
+Dialogue: 0,0:13:08.04,0:13:11.04,BottomCenter,,0000,0000,0000,,- Dr, sila simpulkan dalam 20 perkataan.\N- untuk melawan kejahatan besar.
+Dialogue: 0,0:13:11.04,0:13:12.88,BottomCenter,,0000,0000,0000,,Ya, tanpa diberitahu…
+Dialogue: 0,0:13:12.88,0:13:15.54,BottomCenter,,0000,0000,0000,,aku tahu ini rumah Saitama.
+Dialogue: 0,0:13:15.59,0:13:17.13,BottomCenter,,0000,0000,0000,,Aku ada hadiah untuk kamu.
+Dialogue: 0,0:13:17.13,0:13:19.55,BottomCenter,,0000,0000,0000,,Itu anggota naik taraf untuk Gurukah?
+Dialogue: 0,0:13:19.55,0:13:21.09,BottomCenter,,0000,0000,0000,,Bukanlah, aku orang biasa saja.
+Dialogue: 0,0:13:21.09,0:13:24.85,BottomCenter,,0000,0000,0000,,Set hadiah daging lembu premium terunggul,
+Dialogue: 0,0:13:24.85,0:13:26.55,BottomCenter,,0000,0000,0000,,mutu paling tinggi.
+Dialogue: 0,0:13:26.55,0:13:29.10,BottomCenter,,0000,0000,0000,,Sila terimanya sebagai tanda penghargaan
+Dialogue: 0,0:13:29.10,0:13:31.18,BottomCenter,,0000,0000,0000,,setelah menjaga Genos selama ini.
+Dialogue: 0,0:13:31.18,0:13:33.48,BottomCenter,,0000,0000,0000,,Oh, daging bermutu tinggi…
+Dialogue: 0,0:13:33.48,0:13:36.36,BottomCenter,,0000,0000,0000,,Aku pun dah lama tak makan daging.
+Dialogue: 0,0:13:36.36,0:13:39.57,BottomCenter,,0000,0000,0000,,Kuseno, maksud aku, Doktor Kuseno.
+Dialogue: 0,0:13:39.57,0:13:42.24,BottomCenter,,0000,0000,0000,,Sebagai orang yang menjaga Genos,
+Dialogue: 0,0:13:42.24,0:13:44.57,BottomCenter,,0000,0000,0000,,aku rasa banyak yang boleh kita bincangkan.
+Dialogue: 0,0:13:44.57,0:13:47.33,BottomCenter,,0000,0000,0000,,Silalah datang ke rumah aku bila-bila masa.
+Dialogue: 0,0:13:47.33,0:13:49.37,BottomCenter,,0000,0000,0000,,Mudah…! Terlalu mudah!
+Dialogue: 0,0:13:49.37,0:13:51.21,BottomCenter,,0000,0000,0000,,Aku rasa malu pada diri kerana fikir
+Dialogue: 0,0:13:51.21,0:13:53.29,BottomCenter,,0000,0000,0000,,merekrut boleh jadi susah!
+Dialogue: 0,0:13:53.29,0:13:55.42,BottomCenter,,0000,0000,0000,,Baiklah, jom masukkan\Ndaging ni dalam stimbot juga.
+Dialogue: 0,0:13:55.42,0:13:57.42,BottomCenter,,0000,0000,0000,,Baiklah, saya akan potongkan sayur.
+Dialogue: 0,0:13:57.42,0:14:00.55,BottomCenter,,0000,0000,0000,,Daging seelok itu dalam stimbot?
+Dialogue: 0,0:14:00.55,0:14:02.67,BottomCenter,,0000,0000,0000,,Membazirlah makan macam tu.
+Dialogue: 0,0:14:03.47,0:14:05.89,BottomCenter,,0000,0000,0000,,Kita tak ada wain merah pun dalam bilik ni!
+Dialogue: 0,0:14:05.89,0:14:07.76,BottomCenter,,0000,0000,0000,,Apa? Kita tak adalah benda tu.
+Dialogue: 0,0:14:08.64,0:14:11.39,BottomCenter,,0000,0000,0000,,Jangan-jangan, kalian\Npun nak makan sekali, kan?
+Dialogue: 0,0:14:11.39,0:14:14.02,BottomCenter,,0000,0000,0000,,Siapa yang tak ada\Nkena-mengena tolong pergi!
+Dialogue: 0,0:14:14.02,0:14:15.56,BottomCenter,,0000,0000,0000,,King dan orang-orang tua ini juga!
+Dialogue: 0,0:14:15.56,0:14:16.77,BottomCenter,,0000,0000,0000,,Balik! Balik!
+Dialogue: 0,0:14:17.48,0:14:19.65,BottomCenter,,0000,0000,0000,,Aku bercakap dengan Garou, tau.
+Dialogue: 0,0:14:19.65,0:14:22.15,BottomCenter,,0000,0000,0000,,Keputusan ujibakat adalah tersingkir.
+Dialogue: 0,0:14:22.15,0:14:24.74,BottomCenter,,0000,0000,0000,,Sebenarnya, aku terus bunuh dia masa tu.
+Dialogue: 0,0:14:25.28,0:14:26.32,BottomCenter,,0000,0000,0000,,Dia ni memang…
+Dialogue: 0,0:14:26.32,0:14:28.62,BottomCenter,,0000,0000,0000,,Kami dah kata nak bincang elok-elok,
+Dialogue: 0,0:14:28.62,0:14:31.16,BottomCenter,,0000,0000,0000,,tapi dia tiba-tiba menyerang
+Dialogue: 0,0:14:31.16,0:14:33.75,BottomCenter,,0000,0000,0000,,Kejam betullah, kan, Dewa Kumbang-chan?
+Dialogue: 0,0:14:34.04,0:14:35.04,BottomCenter,,0000,0000,0000,,Ya.
+Dialogue: 0,0:14:35.04,0:14:37.59,BottomCenter,,0000,0000,0000,,Kau cuma boleh cakap bohong bodohkah?
+Dialogue: 0,0:14:37.96,0:14:40.96,BottomCenter,,0000,0000,0000,,Beritahulah hal sebenarnya.
+Dialogue: 0,0:14:40.96,0:14:44.76,BottomCenter,,0000,0000,0000,,Dia cuma lelaki separuh masak\Nyang menggelar dirinya raksasa.
+Dialogue: 0,0:14:44.76,0:14:45.88,BottomCenter,,0000,0000,0000,,Bergantung pada keadaan,
+Dialogue: 0,0:14:45.88,0:14:48.93,BottomCenter,,0000,0000,0000,,kita takkan tahu bila dia akan membelot.
+Dialogue: 0,0:14:49.26,0:14:51.76,BottomCenter,,0000,0000,0000,,Habis tu, kau ada aduankah
+Dialogue: 0,0:14:51.81,0:14:54.14,BottomCenter,,0000,0000,0000,,tentang kami menghapuskan dia?
+Dialogue: 0,0:14:54.14,0:14:57.15,BottomCenter,,0000,0000,0000,,Tiada aduan. Kau maklumkannya dengan baik.
+Dialogue: 0,0:14:57.15,0:14:59.52,BottomCenter,,0000,0000,0000,,Tapi kalian nampak agak parah.
+Dialogue: 0,0:14:59.52,0:15:00.86,BottomCenter,,0000,0000,0000,,Adakah dia betul-betul kuat?
+Dialogue: 0,0:15:01.57,0:15:05.49,BottomCenter,,0000,0000,0000,,Tubuh sasa dan kuasanya yang\Nmelangkaui jangkaan membuat aku terpegun.
+Dialogue: 0,0:15:05.53,0:15:08.32,BottomCenter,,0000,0000,0000,,Aku kini faham kenapa kau\Nbersusah-payah menghantar kami berdua.
+Dialogue: 0,0:15:08.32,0:15:10.03,BottomCenter,,0000,0000,0000,,Adakah dia betul-betul dah mati?
+Dialogue: 0,0:15:10.03,0:15:11.41,BottomCenter,,0000,0000,0000,,Aku tak pastikannya,
+Dialogue: 0,0:15:11.41,0:15:13.00,BottomCenter,,0000,0000,0000,,tapi dia mungkin dah mati, kan?
+Dialogue: 0,0:15:13.00,0:15:15.62,BottomCenter,,0000,0000,0000,,Dewa Kumbang-chan dah\Nterlewat untuk menghalang.
+Dialogue: 0,0:15:15.62,0:15:18.67,BottomCenter,,0000,0000,0000,,Kau dari awal dah bersedia\Nuntuk membunuhnya.
+Dialogue: 0,0:15:19.84,0:15:20.96,BottomCenter,,0000,0000,0000,,Pakcik…
+Dialogue: 0,0:15:23.13,0:15:25.72,BottomCenter,,0000,0000,0000,,Jadi, kenapa dengan budak ni?
+Dialogue: 0,0:15:25.72,0:15:28.55,BottomCenter,,0000,0000,0000,,Aku bawanya ke sini sebab\Ndia nampak segalanya.
+Dialogue: 0,0:15:28.55,0:15:31.47,BottomCenter,,0000,0000,0000,,Jangan huhu saja. Cepat bereskannya.
+Dialogue: 0,0:15:31.47,0:15:33.60,BottomCenter,,0000,0000,0000,,Janganlah marah begitu.
+Dialogue: 0,0:15:33.60,0:15:36.35,BottomCenter,,0000,0000,0000,,Aku bawa dia ke sini untuk\Nbermain dengannya nanti.
+Dialogue: 0,0:15:36.35,0:15:38.14,BottomCenter,,0000,0000,0000,,Kalau tak lepaskan gian sekali-sekala,
+Dialogue: 0,0:15:38.14,0:15:41.82,BottomCenter,,0000,0000,0000,,aku boleh tiba-tiba melibas\Nseseorang di sini lagi.
+Dialogue: 0,0:15:41.82,0:15:44.15,BottomCenter,,0000,0000,0000,,Tiada masa untuk main-main, tau.
+Dialogue: 0,0:15:44.65,0:15:48.57,BottomCenter,,0000,0000,0000,,Robot peneroka Persatuan Hero\Ntelah tiba berdekatan persembunyian.
+Dialogue: 0,0:15:48.57,0:15:52.53,BottomCenter,,0000,0000,0000,,Takkan ambil masa lebih\Nsehari untuk kesan lokasi kita.
+Dialogue: 0,0:15:52.53,0:15:56.37,BottomCenter,,0000,0000,0000,,Hero Kelas S yang\Ndinanti-nantikan akhirnya tiba.
+Dialogue: 0,0:15:56.37,0:15:58.92,BottomCenter,,0000,0000,0000,,Hero Kelas S betul-betul kuat, tau.
+Dialogue: 0,0:15:58.92,0:16:01.29,BottomCenter,,0000,0000,0000,,Semua, bersedia untuk berperang.
+Dialogue: 0,0:16:01.67,0:16:03.71,BottomCenter,,0000,0000,0000,,Kalian fikir ini senang kacang sajakah?
+Dialogue: 0,0:16:03.71,0:16:06.63,BottomCenter,,0000,0000,0000,,Sebab Tuan Gyoro Gyoro akan\Npilihkan lawan sesuai untuk kita.
+Dialogue: 0,0:16:06.63,0:16:08.38,BottomCenter,,0000,0000,0000,,Apa maksud kau sesuai?!
+Dialogue: 0,0:16:08.38,0:16:11.10,BottomCenter,,0000,0000,0000,,Kalian takut pada manusia biasa?!
+Dialogue: 0,0:16:11.10,0:16:13.22,BottomCenter,,0000,0000,0000,,Raksasa kuat macam aku,
+Dialogue: 0,0:16:13.22,0:16:16.35,BottomCenter,,0000,0000,0000,,hanya boleh tewas dalam\Npertarungan bersemuka!
+Dialogue: 0,0:16:16.35,0:16:17.98,BottomCenter,,0000,0000,0000,,Mengarut!
+Dialogue: 0,0:16:18.27,0:16:19.48,BottomCenter,,0000,0000,0000,,Kalau betul katanya,
+Dialogue: 0,0:16:19.48,0:16:21.36,BottomCenter,,0000,0000,0000,,aku pun pasti boleh jadi macam dia.
+Dialogue: 0,0:16:21.36,0:16:24.07,BottomCenter,,0000,0000,0000,,Raja Raksasa, Lelaki Phoenix.
+Dialogue: 0,0:16:24.11,0:16:26.07,BottomCenter,,0000,0000,0000,,Dengar, semua.
+Dialogue: 0,0:16:26.07,0:16:28.61,BottomCenter,,0000,0000,0000,,Matlamat kita adalah setiap\Ndaripada kalian perlu membunuh!
+Dialogue: 0,0:16:28.61,0:16:30.07,BottomCenter,,0000,0000,0000,,Lakukan dengan semangat!
+Dialogue: 0,0:16:30.78,0:16:33.62,BottomCenter,,0000,0000,0000,,Itu akan menjadi pencapaianku!
+Dialogue: 0,0:16:35.83,0:16:39.16,BottomCenter,,0000,0000,0000,,Kita raksasa tak patut\Nsaling membunuh, kan?!
+Dialogue: 0,0:16:39.16,0:16:42.92,BottomCenter,,0000,0000,0000,,Kalian bebal. Raksasa palsu\Ntak berani cabar benda sebenar.
+Dialogue: 0,0:16:42.96,0:16:44.59,BottomCenter,,0000,0000,0000,,Faham tempat kau.
+Dialogue: 0,0:16:44.59,0:16:46.67,BottomCenter,,0000,0000,0000,,Encik Malong Rambut betul-betul kuat.
+Dialogue: 0,0:16:46.67,0:16:48.05,BottomCenter,,0000,0000,0000,,Tahap Iblis, kan?!
+Dialogue: 0,0:16:48.05,0:16:50.34,BottomCenter,,0000,0000,0000,,Seperti harimau bersayap,\Nrambut perang panjang,
+Dialogue: 0,0:16:50.34,0:16:53.64,BottomCenter,,0000,0000,0000,,aku meluruskannya, seperti syaitan\Ndengan pemukul, begitulah rambutku.
+Dialogue: 0,0:16:53.64,0:16:57.73,BottomCenter,,0000,0000,0000,,Eh, awak bertukar jadi raksasa\Nselepas mendandan rambut, kan?
+Dialogue: 0,0:16:57.73,0:17:00.69,BottomCenter,,0000,0000,0000,,Tuan Nyan, apabila lelaki\NPuri Puri Prisoner muncul,
+Dialogue: 0,0:17:00.69,0:17:02.81,BottomCenter,,0000,0000,0000,,mari kita tewaskan dia.
+Dialogue: 0,0:17:02.81,0:17:04.27,BottomCenter,,0000,0000,0000,,Elok juga.
+Dialogue: 0,0:17:04.27,0:17:06.36,BottomCenter,,0000,0000,0000,,Kita boleh balas dendam sekarang.
+Dialogue: 0,0:17:06.36,0:17:09.15,BottomCenter,,0000,0000,0000,,Aku takkan puas selagi tak\Nbunuhnya dengan tangan sendiri.
+Dialogue: 0,0:17:09.65,0:17:10.74,BottomCenter,,0000,0000,0000,,Baiklah.
+Dialogue: 0,0:17:10.74,0:17:12.28,BottomCenter,,0000,0000,0000,,Buatlah kekacauan sesuka hati.
+Dialogue: 0,0:17:12.82,0:17:17.33,BottomCenter,,0000,0000,0000,,Ahli terkuat Persatuan\NHero ialah Flash Halilintar.
+Dialogue: 0,0:17:17.33,0:17:19.04,BottomCenter,,0000,0000,0000,,Yang lain cuma sampah.
+Dialogue: 0,0:17:19.04,0:17:22.42,BottomCenter,,0000,0000,0000,,Mereka pun ada psikik dan robot juga.
+Dialogue: 0,0:17:22.42,0:17:24.88,BottomCenter,,0000,0000,0000,,Robot itu tak penting.
+Dialogue: 0,0:17:24.88,0:17:27.88,BottomCenter,,0000,0000,0000,,Mustahil alat mekanikal boleh menandingi
+Dialogue: 0,0:17:27.88,0:17:29.84,BottomCenter,,0000,0000,0000,,kelajuan ninja macam kita.
+Dialogue: 0,0:18:30.53,0:18:32.11,BottomCenter,,0000,0000,0000,,Kalau begitu, kuasa psikik pula?
+Dialogue: 0,0:18:34.32,0:18:37.95,BottomCenter,,0000,0000,0000,,Aku akan bunuh dia serta-merta,\Ntanpa sempat untuk dia mengaktifkan.
+Dialogue: 0,0:18:47.00,0:18:49.80,BottomCenter,,0000,0000,0000,,Engkau G5, kan?
+Dialogue: 0,0:18:50.92,0:18:53.88,BottomCenter,,0000,0000,0000,,Apa itu? Agaknya dari mana kau curi?
+Dialogue: 0,0:18:53.88,0:18:57.68,BottomCenter,,0000,0000,0000,,Saya mengambilnya atas minat peribadi.
+Dialogue: 0,0:18:58.01,0:19:00.97,BottomCenter,,0000,0000,0000,,Saya merancang untuk\Nmembuka dan memeriksanya.
+Dialogue: 0,0:19:00.97,0:19:03.27,BottomCenter,,0000,0000,0000,,Metal Knight dah hancur berkecai!
+Dialogue: 0,0:19:03.81,0:19:06.31,BottomCenter,,0000,0000,0000,,Ia sampel yang bernilai.
+Dialogue: 0,0:19:06.31,0:19:07.31,BottomCenter,,0000,0000,0000,,Minta diri dulu.
+Dialogue: 0,0:19:12.57,0:19:16.03,BottomCenter,,0000,0000,0000,,Waganma, aku bawakan kau kawan.
+Dialogue: 0,0:19:17.45,0:19:20.45,BottomCenter,,0000,0000,0000,,S-Siapa? Nama aku Tareo.
+Dialogue: 0,0:19:20.45,0:19:22.37,BottomCenter,,0000,0000,0000,,Kau pun ditangkap raksasakah?
+Dialogue: 0,0:19:22.79,0:19:25.04,BottomCenter,,0000,0000,0000,,Err… Waganma?
+Dialogue: 0,0:19:25.45,0:19:28.88,BottomCenter,,0000,0000,0000,,Ya. Hei, di luar sudah malamkah?
+Dialogue: 0,0:19:28.88,0:19:30.29,BottomCenter,,0000,0000,0000,,Y-Ya.
+Dialogue: 0,0:19:30.67,0:19:33.42,BottomCenter,,0000,0000,0000,,Kau ada makanan tak?
+Dialogue: 0,0:19:33.42,0:19:34.96,BottomCenter,,0000,0000,0000,,Aku ada gula-gula.
+Dialogue: 0,0:19:34.96,0:19:37.38,BottomCenter,,0000,0000,0000,,Cuma ada satu, kalau kau nak…
+Dialogue: 0,0:19:40.72,0:19:41.72,BottomCenter,,0000,0000,0000,,Ada yang lain?
+Dialogue: 0,0:19:41.72,0:19:44.14,BottomCenter,,0000,0000,0000,,M-Maaf, tak ada lagi.
+Dialogue: 0,0:19:45.14,0:19:46.73,BottomCenter,,0000,0000,0000,,Cis, kau ni tak bergunalah.
+Dialogue: 0,0:19:47.64,0:19:50.98,BottomCenter,,0000,0000,0000,,Err, apa akan jadi pada kita?
+Dialogue: 0,0:19:50.98,0:19:53.53,BottomCenter,,0000,0000,0000,,Raksasa ini semua pun bodoh juga, kan?
+Dialogue: 0,0:19:54.40,0:19:56.99,BottomCenter,,0000,0000,0000,,Dalam banyak-banyak\Norang, aku yang diculik.
+Dialogue: 0,0:19:56.99,0:19:59.87,BottomCenter,,0000,0000,0000,,Bapa aku orang besar\Ndi Persatuan Hero, tau.
+Dialogue: 0,0:19:59.87,0:20:00.99,BottomCenter,,0000,0000,0000,,Yakah?
+Dialogue: 0,0:20:00.99,0:20:03.41,BottomCenter,,0000,0000,0000,,Persatuan Hero mesti takkan berdiam diri.
+Dialogue: 0,0:20:03.41,0:20:05.41,BottomCenter,,0000,0000,0000,,Mereka akan segera selamatkan aku.
+Dialogue: 0,0:20:05.41,0:20:08.58,BottomCenter,,0000,0000,0000,,Oh, ya. Nak aku selamatkan kau juga?
+Dialogue: 0,0:20:08.58,0:20:11.13,BottomCenter,,0000,0000,0000,,- Eh?!\N- Aku akan minta tolong hero.
+Dialogue: 0,0:20:11.13,0:20:12.79,BottomCenter,,0000,0000,0000,,Ya, tolonglah!
+Dialogue: 0,0:20:12.79,0:20:16.09,BottomCenter,,0000,0000,0000,,Baiklah, mulai sekarang kau\Nakan jadi orang bawahan aku.
+Dialogue: 0,0:20:16.09,0:20:17.01,BottomCenter,,0000,0000,0000,,Eh?
+Dialogue: 0,0:20:17.05,0:20:18.30,BottomCenter,,0000,0000,0000,,Kau ada masalahkah?
+Dialogue: 0,0:20:18.30,0:20:19.63,BottomCenter,,0000,0000,0000,,Kau nak diselamatkan, kan?
+Dialogue: 0,0:20:20.05,0:20:22.51,BottomCenter,,0000,0000,0000,,Y-Ya. Aku nak pulang.
+Dialogue: 0,0:20:22.51,0:20:24.18,BottomCenter,,0000,0000,0000,,Apa kalian cakapkan?
+Dialogue: 0,0:20:24.18,0:20:26.60,BottomCenter,,0000,0000,0000,,Wah, dia muncul!
+Dialogue: 0,0:20:26.60,0:20:29.81,BottomCenter,,0000,0000,0000,,Malangnya, kalian berdua\Ntakkan boleh pulang.
+Dialogue: 0,0:20:29.81,0:20:31.56,BottomCenter,,0000,0000,0000,,Malangnya.
+Dialogue: 0,0:20:32.15,0:20:34.07,BottomCenter,,0000,0000,0000,,Kalau kau tak bawa aku pulang,
+Dialogue: 0,0:20:34.23,0:20:35.44,BottomCenter,,0000,0000,0000,,hero akan muncul tau!
+Dialogue: 0,0:20:37.03,0:20:38.44,BottomCenter,,0000,0000,0000,,Semua akan mati.
+Dialogue: 0,0:20:38.44,0:20:39.78,BottomCenter,,0000,0000,0000,,Hero dan Papa kau juga.
+Dialogue: 0,0:20:39.78,0:20:42.66,BottomCenter,,0000,0000,0000,,Siapa yang datang selamatkan kau semuanya
+Dialogue: 0,0:20:42.66,0:20:43.66,BottomCenter,,0000,0000,0000,,mati!
+Dialogue: 0,0:20:46.79,0:20:48.70,BottomCenter,,0000,0000,0000,,Hero kelas S pun akan datang, tau!
+Dialogue: 0,0:20:48.83,0:20:51.63,BottomCenter,,0000,0000,0000,,Kalian layak dibelasah lumat-lumat nanti!
+Dialogue: 0,0:20:51.75,0:20:52.96,BottomCenter,,0000,0000,0000,,Betul tu.
+Dialogue: 0,0:20:53.09,0:20:55.34,BottomCenter,,0000,0000,0000,,Bat Besi pun boleh tewaskan kalian sendiri!
+Dialogue: 0,0:20:55.34,0:20:57.05,BottomCenter,,0000,0000,0000,,Aku pernah lihat dari dekat, jadi aku tahu.
+Dialogue: 0,0:20:57.05,0:20:58.30,BottomCenter,,0000,0000,0000,,Mesti senang kacang.
+Dialogue: 0,0:20:58.84,0:21:01.38,BottomCenter,,0000,0000,0000,,Yalah, yalah. Bat Besi, ya?\NTakutnya, takutnya.
+Dialogue: 0,0:21:03.30,0:21:05.14,BottomCenter,,0000,0000,0000,,Hei, Waganma.
+Dialogue: 0,0:21:05.68,0:21:07.47,BottomCenter,,0000,0000,0000,,Aku ada nampak dalam berita.
+Dialogue: 0,0:21:07.93,0:21:11.14,BottomCenter,,0000,0000,0000,,Genji Petir, Heavy Kong dan Bat Besi juga…
+Dialogue: 0,0:21:11.60,0:21:13.65,BottomCenter,,0000,0000,0000,,Metal Knight tadi pun…
+Dialogue: 0,0:21:14.15,0:21:15.15,BottomCenter,,0000,0000,0000,,Apa dia?
+Dialogue: 0,0:21:15.15,0:21:17.82,BottomCenter,,0000,0000,0000,,Persatuan Hero ada orang\Nmacam Tatsumaki dan Blast.
+Dialogue: 0,0:21:17.82,0:21:20.15,BottomCenter,,0000,0000,0000,,Oh ya, King pun ada, tau!
+Dialogue: 0,0:21:20.74,0:21:23.70,BottomCenter,,0000,0000,0000,,Macam mana? Dengar namanya\Nsaja pasti buat kau takut, kan?!
+Dialogue: 0,0:21:23.70,0:21:26.37,BottomCenter,,0000,0000,0000,,Oi, budak. Kau tahu tak kenapa
+Dialogue: 0,0:21:26.37,0:21:28.49,BottomCenter,,0000,0000,0000,,Persatuan Raksasa ditubuhkan?
+Dialogue: 0,0:21:28.49,0:21:32.33,BottomCenter,,0000,0000,0000,,Ia adalah untuk membunuh\Norang-orang yang menghalang.
+Dialogue: 0,0:21:32.33,0:21:36.67,BottomCenter,,0000,0000,0000,,Kami tahu dari awal hero\Nkelas S kuat-kuat belaka.
+Dialogue: 0,0:21:36.67,0:21:40.67,BottomCenter,,0000,0000,0000,,Sebab aku tahulah aku\Nkatakan, semua hero itu akan mati.
+Dialogue: 0,0:21:41.05,0:21:45.72,BottomCenter,,0000,0000,0000,,Kami pun ada orang terlalu\Nberbahaya di sini dari kelas S ke atas.
+Dialogue: 0,0:21:45.72,0:21:49.72,BottomCenter,,0000,0000,0000,,Lebih-lebih lagi, eksekutif\Ntahap ancaman Naga.
+Dialogue: 0,0:21:56.82,0:21:59.82,BottomCenter,,0000,0000,0000,,Mereka memiliki kekuatan ajaib
+Dialogue: 0,0:21:59.82,0:22:04.24,BottomCenter,,0000,0000,0000,,seolah-olah, karya seni\Nyang dihasilkan tuhan.
+Dialogue: 0,0:22:04.24,0:22:06.99,BottomCenter,,0000,0000,0000,,Manusia takkan boleh tewaskan mereka.
+Dialogue: 0,0:22:07.95,0:22:09.95,BottomCenter,,0000,0000,0000,,King pun akan mati, tau.
+Dialogue: 0,0:23:56.02,0:24:01.02,BottomCenter,,0000,0000,0000,,(Isyarat Serang Balas)
+

@@ -1,0 +1,56 @@
+version: 4
+homeassistant:
+  enabled: true
+frontend:
+  enabled: true
+mqtt:
+  base_topic: zigbee2mqtt
+  server: mqtt://${MQTT_USERNAME}:${MQTT_PASSWORD}@localhost:1883
+serial:
+  port: /dev/ttyZigbee
+  adapter: ezsp
+advanced:
+  network_key:
+    - 164
+    - 149
+    - 63
+    - 16
+    - 112
+    - 93
+    - 255
+    - 180
+    - 249
+    - 235
+    - 238
+    - 220
+    - 36
+    - 98
+    - 175
+    - 251
+  pan_id: 50728
+  ext_pan_id:
+    - 244
+    - 156
+    - 140
+    - 216
+    - 141
+    - 155
+    - 13
+    - 162
+devices:
+  '0x0ceff6fffe1a1740':
+    friendly_name: ms_stairs
+  '0x0ceff6fffe8fe6df':
+    friendly_name: ms_kitchen
+  '0x0ceff6fffe1818fa':
+    friendly_name: ms_dining
+  '0xa4c1382fe3d17f3d':
+    friendly_name: upstairs_alarm
+  '0xa4c1382b42715ae3':
+    friendly_name: downstairs_alarm
+  '0xd44867fffe464d79':
+    friendly_name: main_door_ds
+  '0xd44867fffe46414e':
+    friendly_name: kitchen_balcony_ds
+  '0x08ddebfffe0ff8d5':
+    friendly_name: dinning_balcony_ds

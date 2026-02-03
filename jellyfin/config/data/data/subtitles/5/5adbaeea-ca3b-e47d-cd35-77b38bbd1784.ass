@@ -1,0 +1,283 @@
+﻿[Script Info]
+Title: [Erai-raws] Français (France)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,0002,0002,0025,1
+Style: Italique,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,2,0002,0002,0025,1
+Style: Sign,Arial Unicode MS,18,&H00FFFFFF,&H000000FF,&H00292929,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0010,0010,0030,1
+Style: TITREJJK,Times New Roman,24,&H00000000,&H000000FF,&H009DD9CF,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.45,0:00:03.98,Italique,Jogo,0000,0000,0000,,Je le savais, pourtant.
+Dialogue: 0,0:00:04.72,0:00:07.61,Italique,Jogo,0000,0000,0000,,J’en étais parfaitement conscient.
+Dialogue: 0,0:00:10.24,0:00:13.14,Italique,Jogo,0000,0000,0000,,Mais je pensais pas\Nque c’était à ce point…
+Dialogue: 0,0:00:23.54,0:00:28.04,TITREJJK,sign,0000,0000,0000,,{\fad(0,809)\an5\t(\fs23.5)\3c&H92D1D2&\pos(320,46.667)}JUJUTSU KAISEN\N{\fnGeorgia\bord0\fscy100\fs17\c&HFFFFFF&\b1\fscx80\t(\fs16.5)}LE DRAME DE SHIBUYA
+Dialogue: 0,0:01:51.10,0:01:53.17,Italique,Fushiguro,0000,0000,0000,,Il est si rapide, sans force occulte…
+Dialogue: 0,0:01:53.56,0:01:56.76,Italique,Fushiguro,0000,0000,0000,,Il a les capacités de Maki,\Nmais poussées au maximum.
+Dialogue: 0,0:01:57.98,0:01:59.39,Italique,Fushiguro,0000,0000,0000,,Je dois me concentrer.
+Dialogue: 0,0:01:59.66,0:02:03.39,Italique,Fushiguro,0000,0000,0000,,Inumaki a débarrassé la zone\Ndes civils et humains altérés.
+Dialogue: 0,0:02:04.26,0:02:05.60,Italique,Fushiguro,0000,0000,0000,,J’ai juste à m’imaginer
+Dialogue: 0,0:02:05.97,0:02:07.94,Italique,Fushiguro,0000,0000,0000,,en train de vaincre ce type.
+Dialogue: 0,0:02:09.30,0:02:10.28,Italique,Fushiguro,0000,0000,0000,,Je peux
+Dialogue: 0,0:02:11.30,0:02:12.60,Italique,Fushiguro,0000,0000,0000,,le vaincre !
+Dialogue: 0,0:02:15.32,0:02:16.19,Default,Fushiguro,0000,0000,0000,,Lapins d’évasion.
+Dialogue: 0,0:02:19.50,0:02:21.32,Italique,Fushiguro,0000,0000,0000,,L’aura d’un doigt de Sukuna !
+Dialogue: 0,0:02:21.96,0:02:25.02,Italique,Fushiguro,0000,0000,0000,,Mais qu’est-ce qui se passe,\Ndans ce quartier ?
+Dialogue: 0,0:02:33.32,0:02:35.25,Italique,Fushiguro,0000,0000,0000,,Il a foncé dedans à l’instinct !
+Dialogue: 0,0:02:44.36,0:02:47.73,Italique,Fushiguro,0000,0000,0000,,Merde, j’ai plus assez d’énergie\Npour un Territoire !
+Dialogue: 0,0:03:30.89,0:03:33.85,Sign,sign,0000,0000,0000,,{\fad(279,0)\an1\fs17\bord0\pos(32.374,304.146)}23 H 01 - TOUR SHIBUYA STREAM
+Dialogue: 0,0:03:34.20,0:03:37.82,Default,Panda,0000,0000,0000,,Kusakabe… On peut arrêter\Nde fouiller les bâtiments, non ?
+Dialogue: 0,0:03:38.15,0:03:40.15,Default,Panda,0000,0000,0000,,Toge a évacué les civils,
+Dialogue: 0,0:03:40.30,0:03:43.12,Default,Panda,0000,0000,0000,,même s’ils sont encore\Ndans le Rideau.
+Dialogue: 0,0:03:43.26,0:03:45.46,Default,Panda,0000,0000,0000,,Allons secourir Satoru.
+Dialogue: 0,0:03:46.32,0:03:49.28,Default,Panda,0000,0000,0000,,Comment on se rend\Nau 5e sous-sol ?
+Dialogue: 0,0:03:49.98,0:03:53.92,Default,Panda,0000,0000,0000,,Faut qu’on se grouille,\NToge a confirmé qu’il a été scellé.
+Dialogue: 0,0:03:55.16,0:03:57.22,Default,Kusakabe,0000,0000,0000,,Gojo par-ci, Gojo par-là…
+Dialogue: 0,0:03:57.70,0:04:01.11,Default,Kusakabe,0000,0000,0000,,Faut arrêter,\Nc’est pas le centre du monde !
+Dialogue: 0,0:04:03.50,0:04:05.28,Default,Kusakabe,0000,0000,0000,,En ce moment même,
+Dialogue: 0,0:04:05.42,0:04:08.96,Default,Kusakabe,0000,0000,0000,,il y a peut-être des enfants\Nqui tremblent de peur.
+Dialogue: 0,0:04:09.24,0:04:12.98,Default,Kusakabe,0000,0000,0000,,Imagine un groupe\Nde petites filles de 6 ou 7 ans…
+Dialogue: 0,0:04:13.38,0:04:15.89,Default,Kusakabe,0000,0000,0000,,Tu veux les abandonner ?
+Dialogue: 0,0:04:16.02,0:04:19.18,Default,Kusakabe,0000,0000,0000,,Ça serait comme si\Non piétinait nous-mêmes
+Dialogue: 0,0:04:19.30,0:04:21.44,Default,Kusakabe,0000,0000,0000,,ces jeunes pousses\Npleines d’avenir !
+Dialogue: 0,0:04:21.80,0:04:23.59,Default,Panda,0000,0000,0000,,Oui, c’est vrai !
+Dialogue: 0,0:04:23.82,0:04:28.56,Default,Kusakabe,0000,0000,0000,,Puisqu’on est d’accord,\Ncontinue à fouiller le moindre recoin !
+Dialogue: 0,0:04:29.44,0:04:33.33,Italique,Kusakabe,0000,0000,0000,,Bon sang… Je commence\Nà être à court d’excuses.
+Dialogue: 0,0:04:33.90,0:04:36.71,Italique,Kusakabe,0000,0000,0000,,Je veux vraiment pas aller au −5.
+Dialogue: 0,0:04:36.84,0:04:39.74,Italique,Kusakabe,0000,0000,0000,,Je préférerais\Nqu’on continue de fouiller ici.
+Dialogue: 0,0:04:40.09,0:04:42.59,Italique,Kusakabe,0000,0000,0000,,J’y peux rien,\Nje tiens à la vie, moi !
+Dialogue: 0,0:04:43.10,0:04:47.06,Italique,Kusakabe,0000,0000,0000,,Panda se jettera dans la gueule du loup\Ndès qu’il saura où aller.
+Dialogue: 0,0:04:47.20,0:04:48.44,Italique,Kusakabe,0000,0000,0000,,Et ça, c’est non !
+Dialogue: 0,0:04:48.57,0:04:51.35,Italique,Kusakabe,0000,0000,0000,,Je veux encore moins\Nme retrouver seul !
+Dialogue: 0,0:04:51.70,0:04:55.82,Italique,Kusakabe,0000,0000,0000,,C’est un panda,\Nmais il a plus d’empathie que moi.
+Dialogue: 0,0:04:55.96,0:04:59.09,Italique,Kusakabe,0000,0000,0000,,Par contre, étant Panda,\Nil ne connaît pas les lieux.
+Dialogue: 0,0:04:59.23,0:05:02.70,Italique,Kusakabe,0000,0000,0000,,Il n’a pas compris\Nque le 5e sous-sol est tout proche.
+Dialogue: 0,0:05:02.84,0:05:04.50,Default,Panda,0000,0000,0000,,Je vais voir là-bas.
+Dialogue: 0,0:05:05.30,0:05:07.37,Default,Kusakabe,0000,0000,0000,,OK, ouvre bien les mirettes.
+Dialogue: 0,0:05:08.08,0:05:10.61,Italique,Kusakabe,0000,0000,0000,,À la gare,\Nje ferai semblant de me perdre.
+Dialogue: 0,0:05:10.74,0:05:12.47,Italique,Kusakabe,0000,0000,0000,,Je sens par intermittence
+Dialogue: 0,0:05:12.59,0:05:15.54,Italique,Kusakabe,0000,0000,0000,,l’impressionnante force occulte\Nde nos adversaires.
+Dialogue: 0,0:05:16.06,0:05:18.35,Default,Kusakabe,0000,0000,0000,,Je suis pas assez bête\Npour m’y frotter.
+Dialogue: 0,0:05:23.61,0:05:25.41,Default,Negi,0000,0000,0000,,Vous êtes avec l’École.
+Dialogue: 0,0:05:26.20,0:05:27.42,Default,Negi,0000,0000,0000,,Rendez-vous.
+Dialogue: 0,0:05:27.81,0:05:30.00,Default,Negi,0000,0000,0000,,Je ne veux pas tuer d’exorcistes.
+Dialogue: 0,0:05:31.45,0:05:32.34,Default,Kusakabe,0000,0000,0000,,Panda.
+Dialogue: 0,0:05:32.72,0:05:36.16,Default,Panda,0000,0000,0000,,Trois autres derrière nous,\Nprobablement plus.
+Dialogue: 0,0:05:37.84,0:05:40.10,Default,Kusakabe,0000,0000,0000,,Je veux pas mourir non plus,
+Dialogue: 0,0:05:40.23,0:05:43.22,Default,Kusakabe,0000,0000,0000,,mais je peux pas\Nme rendre aussi facilement.
+Dialogue: 0,0:05:43.42,0:05:45.57,Default,Kusakabe,0000,0000,0000,,Dites-moi ce que vous voulez.
+Dialogue: 0,0:05:46.00,0:05:48.59,Default,Kusakabe,0000,0000,0000,,Avec le plus de détails possible.
+Dialogue: 0,0:06:22.62,0:06:24.15,Italique,Fushiguro,0000,0000,0000,,Je peux pas faire traîner !
+Dialogue: 0,0:06:24.62,0:06:27.11,Italique,Fushiguro,0000,0000,0000,,Je dois à tout prix en finir vite.
+Dialogue: 0,0:06:27.25,0:06:29.64,Italique,Fushiguro,0000,0000,0000,,Avec mon seul atout !
+Dialogue: 0,0:06:29.95,0:06:34.95,Sign,sign,0000,0000,0000,,{\fad(0,974)\an1\fs17\bord0\pos(32.374,284.813)}22 H 51 - PÉAGE DE LA VOIE EXPRESS Nº 3
+Dialogue: 0,0:06:30.11,0:06:33.63,Default,Shoko,0000,0000,0000,,{\an8}Vous pouvez me laisser seule\Navec vos incarnés, M. le proviseur.
+Dialogue: 0,0:06:33.76,0:06:35.28,Default,Yaga,0000,0000,0000,,{\an8}Hors de question.
+Dialogue: 0,0:06:35.41,0:06:38.14,Default,Yaga,0000,0000,0000,,Les ennemis se rueront ici,\Ns’ils comprennent.
+Dialogue: 0,0:06:38.42,0:06:42.40,Default,Yaga,0000,0000,0000,,Tu es la seule qui sache\Nsoigner quelqu’un par sort d’inversion.
+Dialogue: 0,0:06:42.63,0:06:45.74,Default,Yaga,0000,0000,0000,,Ino et Ijichi seraient morts,\Nsans toi.
+Dialogue: 0,0:06:45.88,0:06:48.66,Default,Shoko,0000,0000,0000,,C’est aussi\Ngrâce à votre réactivité.
+Dialogue: 0,0:06:48.79,0:06:51.50,Default,Shoko,0000,0000,0000,,Avec Nanami,\Nje serais arrivée trop tard.
+Dialogue: 0,0:06:52.10,0:06:55.04,Default,Shoko,0000,0000,0000,,Et ça lui a permis\Nde rester sur le terrain.
+Dialogue: 0,0:06:58.76,0:07:01.67,Default,Yaga,0000,0000,0000,,Tu n’avais pas arrêté de fumer ?
+Dialogue: 0,0:07:02.83,0:07:06.41,Default,Shoko,0000,0000,0000,,Un vieux réflexe.\NLa situation me rappelle ma jeunesse.
+Dialogue: 0,0:07:27.64,0:07:29.92,Italique,Fushiguro,0000,0000,0000,,Ieiri est juste à côté.
+Dialogue: 0,0:07:30.05,0:07:32.43,Italique,Fushiguro,0000,0000,0000,,Je n’ai pas besoin de me retenir !
+Dialogue: 0,0:07:33.96,0:07:37.22,Italique,Fushiguro,0000,0000,0000,,Je peux me permettre d’être blessé\Ntant que c’est soignable.
+Dialogue: 0,0:07:40.28,0:07:41.73,Italique,Fushiguro,0000,0000,0000,,Je le restreins au maximum.
+Dialogue: 0,0:07:41.87,0:07:45.22,Italique,Fushiguro,0000,0000,0000,,Il est aussi rapide que Sukuna.\NInutile de le suivre des yeux.
+Dialogue: 0,0:07:45.35,0:07:46.61,Italique,Fushiguro,0000,0000,0000,,Priorité au rythme.
+Dialogue: 0,0:07:47.06,0:07:49.23,Italique,Fushiguro,0000,0000,0000,,Si je me foire, je meurs.
+Dialogue: 0,0:07:49.84,0:07:51.50,Italique,Fushiguro,0000,0000,0000,,Si je suis trop lent…
+Dialogue: 0,0:07:53.80,0:07:54.93,Italique,Fushiguro,0000,0000,0000,,je meurs.
+Dialogue: 0,0:08:15.67,0:08:16.78,Italique,Fushiguro,0000,0000,0000,,Fait chier…
+Dialogue: 0,0:08:21.10,0:08:22.39,Italique,Toji,0000,0000,0000,,Mon gamin,
+Dialogue: 0,0:08:23.06,0:08:25.54,Italique,Toji,0000,0000,0000,,c’est certain qu’il a un sort inné.
+Dialogue: 0,0:08:25.96,0:08:29.02,Italique,Toji,0000,0000,0000,,À 5 ou 6 ans,\Nquand son pouvoir se sera manifesté,
+Dialogue: 0,0:08:29.46,0:08:31.51,Italique,Toji,0000,0000,0000,,je veux bien vous le laisser.
+Dialogue: 0,0:08:31.84,0:08:33.87,Italique,Toji,0000,0000,0000,,Si tu m’en offres assez.
+Dialogue: 0,0:08:34.71,0:08:39.03,Italique,Toji,0000,0000,0000,,Huit si c’est le sort héréditaire.\NSinon, sept.
+Dialogue: 0,0:08:40.89,0:08:43.20,Italique,Naobito,0000,0000,0000,,Dix, s’il a le sort héréditaire.
+Dialogue: 0,0:08:46.71,0:08:48.89,Italique,Toji,0000,0000,0000,,C’étaient des ordures, avec moi,
+Dialogue: 0,0:08:49.03,0:08:51.84,Italique,Toji,0000,0000,0000,,mais avec un sort inné,\Nil sera bien traité.
+Dialogue: 0,0:08:52.79,0:08:54.22,Italique,Toji,0000,0000,0000,,Enfin, je m’en fous.
+Dialogue: 0,0:08:56.06,0:08:57.54,Italique,Toji,0000,0000,0000,,C’est plus mon problème.
+Dialogue: 0,0:08:59.37,0:09:01.10,Italique,Mère de Megumi,0000,0000,0000,,Prends soin de Megumi.
+Dialogue: 0,0:09:06.08,0:09:07.25,Default,Toji,0000,0000,0000,,Petit…
+Dialogue: 0,0:09:10.70,0:09:11.94,Default,Toji,0000,0000,0000,,Ton nom de famille.
+Dialogue: 0,0:09:14.30,0:09:15.40,Default,Fushiguro,0000,0000,0000,,Fushiguro.
+Dialogue: 0,0:09:17.93,0:09:20.19,Default,Toji,0000,0000,0000,,Pas Zenin ?
+Dialogue: 0,0:09:25.82,0:09:27.34,Default,Toji,0000,0000,0000,,Tant mieux.
+Dialogue: 0,0:09:45.15,0:09:47.89,Italique,Fushiguro,0000,0000,0000,,Qu’est-ce qui lui a pris ?
+Dialogue: 0,0:09:52.18,0:09:53.90,Italique,Fushiguro,0000,0000,0000,,Pas le temps de réfléchir.
+Dialogue: 0,0:09:54.29,0:09:56.96,Italique,Fushiguro,0000,0000,0000,,Je dois vite rejoindre Ieiri.
+Dialogue: 0,0:09:58.06,0:10:01.62,Italique,Fushiguro,0000,0000,0000,,Non, faut d’abord que je voie\Nsi les autres vont bien…
+Dialogue: 0,0:10:07.72,0:10:09.58,Default,Shigemo,0000,0000,0000,,Voilà, c’est ça !
+Dialogue: 0,0:10:09.74,0:10:12.24,Default,Shigemo,0000,0000,0000,,C’est ça qui me réussit, à moi !
+Dialogue: 0,0:10:16.34,0:10:18.01,TITREJJK,sign,0000,0000,0000,,{\fad(404,0)\c&H303D3D&\3c&HA0DBE8&}JUJUTSU KAISEN
+Dialogue: 0,0:10:19.74,0:10:21.68,Italique,Nanako,0000,0000,0000,,On va vraiment coopérer ?
+Dialogue: 0,0:10:21.82,0:10:25.59,Italique,Nanako,0000,0000,0000,,C’est juste pour récupérer\Nle corps de maître Geto, hein ?
+Dialogue: 0,0:10:26.10,0:10:27.09,Italique,Negi,0000,0000,0000,,Non.
+Dialogue: 0,0:10:27.53,0:10:30.56,Italique,Negi,0000,0000,0000,,On ignore qui est cet imposteur\Net ce qu’il veut.
+Dialogue: 0,0:10:31.13,0:10:31.98,Italique,Negi,0000,0000,0000,,Par contre,
+Dialogue: 0,0:10:32.35,0:10:34.29,Italique,Negi,0000,0000,0000,,si le monde sombre dans le chaos,
+Dialogue: 0,0:10:34.43,0:10:37.16,Italique,Negi,0000,0000,0000,,ce sont les non-exorcistes\Nqui en pâtiront.
+Dialogue: 0,0:10:37.48,0:10:40.42,Italique,Negi,0000,0000,0000,,La survie des plus forts\Nest garantie.
+Dialogue: 0,0:10:40.66,0:10:43.64,Italique,Negi,0000,0000,0000,,Les primates disparaîtront\Nau profit des exorcistes,
+Dialogue: 0,0:10:43.85,0:10:45.48,Italique,Negi,0000,0000,0000,,et les fléaux disparaîtront.
+Dialogue: 0,0:10:46.36,0:10:48.80,Italique,Negi,0000,0000,0000,,Exactement\Nce que voulait maître Geto.
+Dialogue: 0,0:10:49.44,0:10:50.94,Italique,Negi,0000,0000,0000,,C’est notre objectif.
+Dialogue: 0,0:10:51.52,0:10:54.02,Italique,Negi,0000,0000,0000,,Récupérer son corps\Nn’est pas la priorité.
+Dialogue: 0,0:10:54.68,0:10:57.01,Italique,Negi,0000,0000,0000,,L’important,\Nc’est de perpétuer sa volonté.
+Dialogue: 0,0:10:57.21,0:10:59.81,Italique,Nanako,0000,0000,0000,,Essaie pas de nous embrouiller.
+Dialogue: 0,0:10:59.99,0:11:02.43,Italique,Nanako,0000,0000,0000,,Nous, on veut pas voir\Nquelqu’un qu’on aime
+Dialogue: 0,0:11:02.56,0:11:04.89,Italique,Nanako,0000,0000,0000,,se faire contrôler\Ncomme un zombie.
+Dialogue: 0,0:11:05.50,0:11:07.96,Italique,Nanako,0000,0000,0000,,L’histoire de maître Geto est finie.
+Dialogue: 0,0:11:08.29,0:11:10.34,Italique,Nanako,0000,0000,0000,,On laissera personne la souiller !
+Dialogue: 0,0:11:10.48,0:11:13.47,Italique,Suda,0000,0000,0000,,Il serait temps que tu grandisses,\NNanako.
+Dialogue: 0,0:11:15.28,0:11:17.36,Italique,Nanako,0000,0000,0000,,Si tu nous traites\Ncomme des gamines…
+Dialogue: 0,0:11:17.74,0:11:20.49,Italique,Nanako,0000,0000,0000,,tu peux te brosser\Npour qu’on te respecte !
+Dialogue: 0,0:11:26.53,0:11:28.74,Italique,Larue,0000,0000,0000,,Calmez-vous tous.
+Dialogue: 0,0:11:30.27,0:11:32.86,Italique,Larue,0000,0000,0000,,Ce que Suguru\Nne voulait surtout pas,
+Dialogue: 0,0:11:33.01,0:11:35.34,Italique,Larue,0000,0000,0000,,c’était qu’on se fasse du mal.
+Dialogue: 0,0:11:36.22,0:11:39.01,Italique,Larue,0000,0000,0000,,Aucun de vous quatre n’a tort.
+Dialogue: 0,0:11:40.00,0:11:41.80,Italique,Larue,0000,0000,0000,,Séparons-nous ici.
+Dialogue: 0,0:11:43.03,0:11:45.51,Italique,Larue,0000,0000,0000,,Chacun fera ce qu’il voudra.
+Dialogue: 0,0:11:46.06,0:11:47.70,Italique,Nanako,0000,0000,0000,,Et toi, Larue, tu iras où ?
+Dialogue: 0,0:11:48.82,0:11:52.88,Italique,Larue,0000,0000,0000,,Avec aucun de vous.\NJe suis du même avis que Miguel.
+Dialogue: 0,0:11:53.20,0:11:57.62,Italique,Larue,0000,0000,0000,,Tout ce que je voulais,\Nc’était faire de Suguru le roi.
+Dialogue: 0,0:11:58.33,0:12:01.57,Italique,Larue,0000,0000,0000,,Mais n’oubliez pas une chose.
+Dialogue: 0,0:12:02.60,0:12:04.56,Italique,Larue,0000,0000,0000,,Nous sommes une famille.
+Dialogue: 0,0:12:05.81,0:12:07.82,Italique,Larue,0000,0000,0000,,Un jour, nous nous retrouverons
+Dialogue: 0,0:12:08.70,0:12:11.00,Italique,Larue,0000,0000,0000,,et nous prendrons\Nun bon repas ensemble.
+Dialogue: 0,0:12:12.67,0:12:15.97,Default,Suda,0000,0000,0000,,Nous sommes les successeurs\Nde Suguru Geto.
+Dialogue: 0,0:12:16.20,0:12:20.14,Default,Suda,0000,0000,0000,,Nous n’avons rien à dire\Naux membres des écoles d’exorcisme.
+Dialogue: 0,0:12:20.66,0:12:22.98,Default,Suda,0000,0000,0000,,Tu te rends ou non ?
+Dialogue: 0,0:12:23.10,0:12:25.34,Default,Suda,0000,0000,0000,,Je déteste les hommes indécis.
+Dialogue: 0,0:12:26.08,0:12:28.48,Default,Panda,0000,0000,0000,,Je suis un panda,\Nça me concerne pas.
+Dialogue: 0,0:12:28.98,0:12:32.18,Italique,Kusakabe,0000,0000,0000,,La poisse, c’est déjà fini. Merde.
+Dialogue: 0,0:12:33.44,0:12:37.44,Italique,Kusakabe,0000,0000,0000,,Bon, en même temps,\Nc’est pas des voyous de bas étage.
+Dialogue: 0,0:12:37.75,0:12:39.10,Italique,Kusakabe,0000,0000,0000,,C’est des bons.
+Dialogue: 0,0:12:39.71,0:12:43.32,Italique,Kusakabe,0000,0000,0000,,Je vais juste contrer, pour le moment,\Nhistoire de gagner du temps.
+Dialogue: 0,0:12:45.51,0:12:48.86,Default,Kusakabe,0000,0000,0000,,Dégainer de la nouvelle école de l’ombre,\NLune nocturne.
+Dialogue: 0,0:12:49.24,0:12:50.68,Default,Negi,0000,0000,0000,,C’est ta réponse ?
+Dialogue: 0,0:13:15.79,0:13:18.36,Italique,Sukuna,0000,0000,0000,,Pour te remercier,\Nje t’autorise à m’attaquer.
+Dialogue: 0,0:13:18.49,0:13:22.56,Italique,Sukuna,0000,0000,0000,,Si tu arrives à me toucher une fois,\Nje veux bien vous suivre.
+Dialogue: 0,0:13:23.04,0:13:27.24,Italique,Sukuna,0000,0000,0000,,Je commencerai par massacrer\Ntous les humains de Shibuya.
+Dialogue: 0,0:13:27.92,0:13:29.93,Italique,Sukuna,0000,0000,0000,,Sauf un, bien sûr.
+Dialogue: 0,0:13:30.12,0:13:31.41,Default,Sukuna,0000,0000,0000,,C’est tout ce que t’as…
+Dialogue: 0,0:13:31.57,0:13:32.58,Default,Jogo,0000,0000,0000,,Je suis pas mort !
+Dialogue: 0,0:13:32.70,0:13:33.87,Default,Sukuna,0000,0000,0000,,… le fléau ?
+Dialogue: 0,0:14:12.16,0:14:16.86,Italique,Jogo,0000,0000,0000,,À ton avis, en termes de puissance,\Nje vaux combien des doigts de Sukuna ?
+Dialogue: 0,0:14:17.00,0:14:20.38,Italique,Geto,0000,0000,0000,,En étant généreux,\Nje dirais huit ou neuf.
+Dialogue: 0,0:14:28.34,0:14:30.26,Italique,Jogo,0000,0000,0000,,Je le savais, pourtant.
+Dialogue: 0,0:14:30.70,0:14:32.89,Italique,Jogo,0000,0000,0000,,J’en étais parfaitement conscient.
+Dialogue: 0,0:15:17.90,0:15:21.14,Italique,Jogo,0000,0000,0000,,Je savais\Nqu’il était plus puissant que moi.
+Dialogue: 0,0:15:21.26,0:15:23.15,Italique,Jogo,0000,0000,0000,,Mais pas à ce point-là…
+Dialogue: 0,0:15:36.18,0:15:38.88,Default,Sukuna,0000,0000,0000,,La lune est juste au-dessus de nous.
+Dialogue: 0,0:15:39.51,0:15:43.46,Default,Sukuna,0000,0000,0000,,Elle rend ta détresse\Nencore plus exquise.
+Dialogue: 0,0:15:45.35,0:15:48.84,Default,Sukuna,0000,0000,0000,,Allez, courage, petit fléau.
+Dialogue: 0,0:15:49.52,0:15:53.37,Default,Sukuna,0000,0000,0000,,Je reste jouer avec toi\Njusqu’à ce que j’en aie marre.
+Dialogue: 0,0:15:57.16,0:15:59.31,Default,Kusakabe,0000,0000,0000,,Ça commence à être chaud…\NOn se tire !
+Dialogue: 0,0:15:59.70,0:16:01.04,Default,Ami de Negi,0000,0000,0000,,Vous n’irez nulle part !
+Dialogue: 0,0:16:02.30,0:16:03.27,Default,Kusakabe,0000,0000,0000,,Attendez !
+Dialogue: 0,0:16:10.02,0:16:11.55,Default,Kusakabe,0000,0000,0000,,Écoutez tous !
+Dialogue: 0,0:16:11.69,0:16:14.65,Default,Kusakabe,0000,0000,0000,,Je sais pas pourquoi,\Nmais des classe S s’affrontent !
+Dialogue: 0,0:16:14.77,0:16:17.95,Default,Kusakabe,0000,0000,0000,,Ce sont des éléphants\Nqui dansent sur un nid de fourmis !
+Dialogue: 0,0:16:18.59,0:16:21.58,Default,Kusakabe,0000,0000,0000,,Et si vous avez pas pigé,\Non est tous les fourmis !
+Dialogue: 0,0:16:27.25,0:16:28.92,Default,Jogo,0000,0000,0000,,Technique supérieure.
+Dialogue: 0,0:16:29.46,0:16:30.34,Default,Jogo,0000,0000,0000,,Météore !
+Dialogue: 0,0:16:36.85,0:16:38.22,Default,Kusakabe,0000,0000,0000,,Nouvelle école de l’ombre.
+Dialogue: 0,0:16:39.14,0:16:40.30,Default,Kusakabe,0000,0000,0000,,Taille !
+Dialogue: 0,0:16:41.08,0:16:43.83,Default,Kusakabe,0000,0000,0000,,Panda ! On dégage vite de là !
+Dialogue: 0,0:16:43.97,0:16:45.14,Default,Sukuna,0000,0000,0000,,Ou pas.
+Dialogue: 0,0:16:48.10,0:16:51.66,Default,Sukuna,0000,0000,0000,,Aucun humain alentour\Nn’a plus le droit de bouger
+Dialogue: 0,0:16:52.06,0:16:55.91,Default,Sukuna,0000,0000,0000,,tant que je n’aurai pas\Ndonné le feu vert.
+Dialogue: 0,0:16:56.42,0:17:00.06,Default,Sukuna,0000,0000,0000,,Et bien sûr, si vous me désobéissez,\Nje vous tuerai.
+Dialogue: 0,0:17:04.24,0:17:05.29,Default,Sukuna,0000,0000,0000,,À vos marques…
+Dialogue: 0,0:17:06.94,0:17:08.42,Default,Sukuna,0000,0000,0000,,Prêts…
+Dialogue: 0,0:17:14.35,0:17:14.97,Default,Sukuna,0000,0000,0000,,Partez !
+Dialogue: 0,0:17:32.50,0:17:36.75,Default,Jogo,0000,0000,0000,,Même Sukuna ne pourra pas\Ns’en sortir indemne.
+Dialogue: 0,0:17:38.06,0:17:39.82,Default,Sukuna,0000,0000,0000,,Encore faut-il me toucher.
+Dialogue: 0,0:17:41.64,0:17:44.36,Default,Sukuna,0000,0000,0000,,Pourquoi ne déploies-tu pas\Nton Territoire ?
+Dialogue: 0,0:17:46.55,0:17:50.70,Default,Jogo,0000,0000,0000,,Je sais qu’il ferait pas le poids\Nface au tien.
+Dialogue: 0,0:17:51.09,0:17:53.94,Default,Sukuna,0000,0000,0000,,Parce que celui de Satoru Gojo\Nétait supérieur ?
+Dialogue: 0,0:17:54.79,0:17:57.69,Default,Sukuna,0000,0000,0000,,Ce que tu es mauvais perdant !
+Dialogue: 0,0:17:59.24,0:18:02.94,Default,Sukuna,0000,0000,0000,,Cela dit, tu as tout de même\Npiqué mon intérêt.
+Dialogue: 0,0:18:03.08,0:18:05.47,Default,Sukuna,0000,0000,0000,,Je vais me mettre à ton niveau.
+Dialogue: 0,0:18:08.35,0:18:09.67,Default,Sukuna,0000,0000,0000,,Ouverture.
+Dialogue: 0,0:18:11.76,0:18:12.94,Default,Jogo,0000,0000,0000,,Ce sont…
+Dialogue: 0,0:18:14.98,0:18:16.58,Default,Jogo,0000,0000,0000,,des flammes ?
+Dialogue: 0,0:18:17.88,0:18:21.95,Italique,Jogo,0000,0000,0000,,Son sort inné ne consiste pas seulement\Nà trancher et à disloquer ?
+Dialogue: 0,0:18:22.75,0:18:24.12,Default,Sukuna,0000,0000,0000,,Ah, mais oui.
+Dialogue: 0,0:18:24.38,0:18:26.81,Default,Sukuna,0000,0000,0000,,Je pensais que tu étais au courant,
+Dialogue: 0,0:18:26.95,0:18:29.85,Default,Sukuna,0000,0000,0000,,mais tu es un fléau,\Ntu ne pouvais pas savoir.
+Dialogue: 0,0:18:29.99,0:18:34.61,Default,Sukuna,0000,0000,0000,,T’inquiète, je ne suis pas assez déloyal\Npour divulguer ma technique.
+Dialogue: 0,0:18:35.88,0:18:37.08,Default,Sukuna,0000,0000,0000,,Tiens-toi prêt.
+Dialogue: 0,0:18:39.86,0:18:41.98,Default,Sukuna,0000,0000,0000,,Combattons le feu par le feu.
+Dialogue: 0,0:19:12.89,0:19:16.46,Default,Jogo,0000,0000,0000,,Je suis désolé, Hanami, Dagon.
+Dialogue: 0,0:19:17.38,0:19:19.50,Default,Hanami,0000,0000,0000,,Mahito est toujours vivant.
+Dialogue: 0,0:19:21.87,0:19:24.63,Default,Hanami,0000,0000,0000,,Les humains\Ncraignent et exècrent la mort.
+Dialogue: 0,0:19:25.64,0:19:29.87,Default,Hanami,0000,0000,0000,,Pourtant, d’autres humains\Nse tiennent de l’autre côté.
+Dialogue: 0,0:19:30.21,0:19:32.75,Default,Hanami,0000,0000,0000,,Pour les humains,\Nla mort est un miroir.
+Dialogue: 0,0:19:32.91,0:19:36.48,Default,Hanami,0000,0000,0000,,Et ce miroir,\Nc’est Mahito lui-même.
+Dialogue: 0,0:19:38.20,0:19:40.88,Default,Hanami,0000,0000,0000,,Il va continuer\Nà développer sa force.
+Dialogue: 0,0:19:41.02,0:19:45.04,Default,Hanami,0000,0000,0000,,C’est pour ça que tu l’as placé\Nà la tête de notre groupe.
+Dialogue: 0,0:19:46.05,0:19:51.34,Default,Jogo,0000,0000,0000,,Quand nous renaîtrons,\Nnous ne serons plus les mêmes.
+Dialogue: 0,0:19:51.49,0:19:55.75,Default,Jogo,0000,0000,0000,,Malgré ça, j’attends avec impatience\Nnos retrouvailles.
+Dialogue: 0,0:19:56.91,0:20:00.01,Default,Jogo,0000,0000,0000,,Les véritables humains, c’est nous.
+Dialogue: 0,0:20:00.16,0:20:02.00,Default,Sukuna,0000,0000,0000,,Tiens donc.
+Dialogue: 0,0:20:02.85,0:20:05.19,Default,Sukuna,0000,0000,0000,,Tu voulais devenir humain,\Nen fait ?
+Dialogue: 0,0:20:07.64,0:20:09.86,Default,Sukuna,0000,0000,0000,,Ah non, j’ai compris.
+Dialogue: 0,0:20:10.12,0:20:13.82,Default,Sukuna,0000,0000,0000,,Ce que tu voulais,\Nc’était prendre leur place.
+Dialogue: 0,0:20:13.94,0:20:15.65,Default,Sukuna,0000,0000,0000,,Je me trompe ?
+Dialogue: 0,0:20:16.06,0:20:19.24,Default,Sukuna,0000,0000,0000,,Plus j’en apprends sur toi,\Nplus je te trouve ridicule.
+Dialogue: 0,0:20:20.15,0:20:24.19,Default,Sukuna,0000,0000,0000,,Des groupes d’humains…\NDes groupes de fléaux…
+Dialogue: 0,0:20:24.32,0:20:27.08,Default,Sukuna,0000,0000,0000,,Vous vous réunissez\Npour éprouver votre valeur,
+Dialogue: 0,0:20:27.20,0:20:30.46,Default,Sukuna,0000,0000,0000,,mais c’est ce qui vous diminue\Net vous affaiblit.
+Dialogue: 0,0:20:31.17,0:20:34.03,Default,Sukuna,0000,0000,0000,,Tu aurais dû tout brûler.
+Dialogue: 0,0:20:34.22,0:20:37.66,Default,Sukuna,0000,0000,0000,,Tout ce qui te passait sous la main,\Nsans réfléchir.
+Dialogue: 0,0:20:37.90,0:20:40.28,Default,Sukuna,0000,0000,0000,,Rejeter tout avenir\Net toute appartenance
+Dialogue: 0,0:20:40.41,0:20:43.14,Default,Sukuna,0000,0000,0000,,jusqu’à atteindre\Nle niveau de Satoru Gojo.
+Dialogue: 0,0:20:43.64,0:20:46.05,Default,Sukuna,0000,0000,0000,,Ton désir d’imposer tes idéaux
+Dialogue: 0,0:20:46.17,0:20:49.18,Default,Sukuna,0000,0000,0000,,était loin\Nd’être suffisamment puissant.
+Dialogue: 0,0:20:50.56,0:20:54.19,Default,Jogo,0000,0000,0000,,Oui, tu as peut-être raison.
+Dialogue: 0,0:20:55.40,0:20:59.19,Default,Sukuna,0000,0000,0000,,Mais bon, je me suis quand même\Nun peu amusé.
+Dialogue: 0,0:21:01.02,0:21:03.97,Default,Sukuna,0000,0000,0000,,Tu fais partie\Ndes meilleurs que j’aie affrontés,
+Dialogue: 0,0:21:04.30,0:21:08.06,Default,Sukuna,0000,0000,0000,,parmi les humains, exorcistes\Net fléaux d’il y a mille ans.
+Dialogue: 0,0:21:09.30,0:21:10.48,Default,Sukuna,0000,0000,0000,,Tu peux être fier.
+Dialogue: 0,0:21:11.90,0:21:13.74,Default,Sukuna,0000,0000,0000,,Tu es fort.
+Dialogue: 0,0:21:18.85,0:21:21.38,Default,Jogo,0000,0000,0000,,Qu’est-ce que c’est que ça ?
+Dialogue: 0,0:21:22.96,0:21:24.45,Default,Sukuna,0000,0000,0000,,Aucune idée.
+Dialogue: 0,0:21:26.47,0:21:28.64,Default,Sukuna,0000,0000,0000,,Ça ne m’est jamais arrivé.
+Dialogue: 0,0:21:39.00,0:21:40.08,Default,Sukuna,0000,0000,0000,,Qui es-tu ?
+Dialogue: 0,0:21:41.10,0:21:43.07,Default,Uraume,0000,0000,0000,,Je viens vous saluer…
+Dialogue: 0,0:21:44.82,0:21:46.19,Default,Uraume,0000,0000,0000,,maître Sukuna.
+Dialogue: 0,0:21:49.78,0:21:51.14,Default,Uraume,0000,0000,0000,,Uraume !
+Dialogue: 0,0:21:51.28,0:21:53.54,Default,Uraume,0000,0000,0000,,Cela faisait si longtemps.
+Dialogue: 0,0:21:54.12,0:21:57.12,Sign,sign,0000,0000,0000,,{\an1\fs17\bord0.5\blur6\pos(32.374,304.146)}23 H 07 - DOGENZAKA, DEVANT LE SHIBUYA 109
+Dialogue: 0,0:21:56.79,0:21:58.50,Default,Shigemo,0000,0000,0000,,{\an8}Non mais c’est pas vrai !
+Dialogue: 0,0:21:59.60,0:22:00.63,Default,Shigemo,0000,0000,0000,,Bordel de merde !
+Dialogue: 0,0:22:04.14,0:22:07.01,Default,Shigemo,0000,0000,0000,,Réveille-toi,\Nexorciste de mes deux !
+Dialogue: 0,0:22:07.01,0:22:10.01,Sign,sign,0000,0000,0000,,{\bord0}ÉPISODE 40\N\N{\fs22}UN COUP DE TONNERRE
+Dialogue: 0,0:23:34.47,0:23:37.14,Default,credits,0000,0000,0000,,Traduction, adaptation :\NAdam Plaza
+Dialogue: 0,0:23:37.14,0:23:39.06,Default,credits,0000,0000,0000,,Repérage : Clément Hautavoine\NRelecture : VC
+Dialogue: 0,0:23:40.77,0:23:43.49,Italique,Yuji,0000,0000,0000,,C’est vrai, cette histoire\Nde Mentos avec du soda ?
+Dialogue: 0,0:23:43.61,0:23:44.26,Italique,Kugisaki,0000,0000,0000,,Pourquoi ?
+Dialogue: 0,0:23:44.38,0:23:47.87,Italique,Yuji,0000,0000,0000,,Je suis sûr que, gamin,\Nj’en ai mangé et bu en même temps.
+Dialogue: 0,0:23:47.99,0:23:50.30,Italique,Yuji,0000,0000,0000,,Ces vidéos,\Nelles sont fausses, hein ?
+Dialogue: 0,0:23:50.45,0:23:51.24,Italique,Kugisaki,0000,0000,0000,,Réessaie !
+Dialogue: 0,0:23:51.24,0:23:55.03,Sign,sign,0000,0000,0000,,{\bord3\blur3\3c&H000000&}PROCHAIN ÉPISODE\N\N{\fs22}UN COUP DE TONNERRE (2)
+Dialogue: 0,0:23:51.36,0:23:52.85,Italique,Kugisaki,0000,0000,0000,,Ne manquez pas la ssss…
+Dialogue: 0,0:23:53.06,0:23:54.84,Italique,Kugisaki - Fushiguro,0000,0000,0000,,À la semaine prochaine !
+

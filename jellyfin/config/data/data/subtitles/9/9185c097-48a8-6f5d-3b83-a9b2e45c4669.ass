@@ -1,0 +1,242 @@
+﻿[Script Info]
+Title: [Erai-raws] Français (France)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,0002,0002,0025,1
+Style: Italique,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,2,0002,0002,0025,1
+Style: Sign,Arial Unicode MS,18,&H00FFFFFF,&H000000FF,&H00292929,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0010,0010,0030,1
+Style: TITREJJK,Times New Roman,24,&H00000000,&H000000FF,&H009DD9CF,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: TiretsDefault,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,1,0020,0002,0025,1
+Style: TiretsItalique,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,1,0020,0002,0025,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:02.98,Sign,sign,0000,0000,0000,,QUESTION : À VOS YEUX,\NQUE REPRÉSENTE SATORU GOJO ?
+Dialogue: 0,0:00:04.23,0:00:05.40,Default,Yuji,0000,0000,0000,,C’est mon prof !
+Dialogue: 0,0:00:05.81,0:00:09.03,Default,Yuji,0000,0000,0000,,Il paraît que sans lui,\Nj’aurais été condamné à mort.
+Dialogue: 0,0:00:09.19,0:00:10.07,Default,Yuji,0000,0000,0000,,Et puis…
+Dialogue: 0,0:00:10.23,0:00:11.99,Default,Fushiguro,0000,0000,0000,,Je lui dois beaucoup.
+Dialogue: 0,0:00:12.32,0:00:13.40,Default,Fushiguro,0000,0000,0000,,Si on veut.
+Dialogue: 0,0:00:13.53,0:00:16.53,Default,Fushiguro,0000,0000,0000,,Après, je pense que\Ntout le monde vous dira que…
+Dialogue: 0,0:00:16.70,0:00:20.49,Default,Kugisaki,0000,0000,0000,,Franchement,\Nje le connais pas très bien.
+Dialogue: 0,0:00:20.83,0:00:22.91,Default,Kugisaki,0000,0000,0000,,La seule chose\Nque je peux affirmer…
+Dialogue: 0,0:00:23.29,0:00:24.75,TiretsDefault,Maki - Panda,0266,0000,0000,,– Il est bête.\N– Très.
+Dialogue: 0,0:00:24.87,0:00:25.88,Default,Toge,0000,0000,0000,,Saumon.
+Dialogue: 0,0:00:26.46,0:00:27.54,Default,Maki,0000,0000,0000,,Mais…
+Dialogue: 0,0:00:27.67,0:00:29.96,Default,Nanami,0000,0000,0000,,Il est puéril. Et égocentrique.
+Dialogue: 0,0:00:30.09,0:00:31.84,Default,Todo,0000,0000,0000,,La réponse est évidente.
+Dialogue: 0,0:00:32.55,0:00:33.92,Default,Yuji,0000,0000,0000,,C’est le plus fort !
+Dialogue: 0,0:01:06.58,0:01:11.09,TITREJJK,sign,0000,0000,0000,,{\fad(0,809)\an5\t(\fs23.5)\3c&H92D1D2&\pos(320,46.667)}JUJUTSU KAISEN\N{\fnGeorgia\bord0\fscy100\fs17\c&HFFFFFF&\b1\fscx80\t(\fs16.5)}LE DRAME DE SHIBUYA
+Dialogue: 0,0:02:26.00,0:02:29.00,Sign,sign,0000,0000,0000,,{\bord0}ÉPISODE 33\N\N{\fs22}LE DRAME DE SHIBUYA - OUVERTURE
+Dialogue: 0,0:02:35.13,0:02:38.97,Default,Gojo,0000,0000,0000,,Toi, là, la mauvaise herbe…\NC’est la troisième fois qu’on se croise.
+Dialogue: 0,0:02:40.68,0:02:42.85,Default,Gojo,0000,0000,0000,,Quand on me cherche,\Non me trouve.
+Dialogue: 0,0:02:43.43,0:02:45.31,Default,Gojo,0000,0000,0000,,Tu vas y passer en premier.
+Dialogue: 0,0:02:48.39,0:02:49.89,Default,Gojo,0000,0000,0000,,Allez, amène-toi.
+Dialogue: 0,0:02:50.39,0:02:51.48,Default,Gojo,0000,0000,0000,,Ben quoi ?
+Dialogue: 0,0:02:51.90,0:02:53.56,Default,Gojo,0000,0000,0000,,Ne venez pas vous plaindre.
+Dialogue: 0,0:02:54.86,0:02:56.73,Default,Gojo,0000,0000,0000,,Vous m’avez interdit de fuir.
+Dialogue: 0,0:03:07.62,0:03:08.75,Italique,Jogo,0000,0000,0000,,Je l’ai touché ?
+Dialogue: 0,0:03:27.18,0:03:28.47,Default,Gojo,0000,0000,0000,,À la une, à la deux…
+Dialogue: 0,0:03:35.19,0:03:37.11,Italique,Hanami,0000,0000,0000,,C’est Jogo qu’il a pris pour cible.
+Dialogue: 0,0:03:45.53,0:03:48.62,Italique,Hanami,0000,0000,0000,,Ses paroles ne visaient\Nqu’à nous induire en erreur.
+Dialogue: 0,0:03:48.79,0:03:50.33,Italique,Hanami,0000,0000,0000,,Et en plus de ça…
+Dialogue: 0,0:03:54.58,0:03:57.38,Italique,Hanami,0000,0000,0000,,il a désactivé son Infini !
+Dialogue: 0,0:04:01.09,0:04:03.51,Italique,Hanami,0000,0000,0000,,Comme les humains\Narrivent en masse,
+Dialogue: 0,0:04:03.63,0:04:06.30,Italique,Hanami,0000,0000,0000,,il se détourne\Nde son sort le plus complexe
+Dialogue: 0,0:04:06.43,0:04:10.02,Italique,Hanami,0000,0000,0000,,au profit d’attaques occultes puissantes\Nmais simples ?
+Dialogue: 0,0:04:15.40,0:04:19.78,Italique,Hanami,0000,0000,0000,,Dans ce cas,\Ninutile de me cacher parmi la foule.
+Dialogue: 0,0:04:20.69,0:04:23.71,Italique,Hanami,0000,0000,0000,,Il me suffit\Nd’utiliser mon sort inné !
+Dialogue: 0,0:04:29.49,0:04:32.33,Default,Jogo,0000,0000,0000,,Ne désactive pas ton Prolongement,\NHanami !
+Dialogue: 0,0:04:38.71,0:04:41.67,Default,Gojo,0000,0000,0000,,C’est là, ton point faible, pas vrai ?
+Dialogue: 0,0:04:45.80,0:04:50.35,Default,Gojo,0000,0000,0000,,Je me doutais que vous ne pouviez pas\Nfaire les deux à la fois.
+Dialogue: 0,0:04:50.56,0:04:54.77,Italique,Jogo,0000,0000,0000,,Sans le Prolongement du Territoire,\Nil m’aurait déjà tué.
+Dialogue: 0,0:04:54.89,0:04:58.48,Italique,Jogo,0000,0000,0000,,Et encore, sans sortir des arts martiaux\Net des techniques de base.
+Dialogue: 0,0:05:00.82,0:05:02.82,Italique,Jogo,0000,0000,0000,,Satoru Gojo…
+Dialogue: 0,0:05:02.99,0:05:06.24,Italique,Jogo,0000,0000,0000,,Y a-t-il quelque chose\Nque tu ne saches pas faire ?
+Dialogue: 0,0:05:10.33,0:05:12.12,Italique,Gojo,0000,0000,0000,,Lui, ce n’est pas un fléau.
+Dialogue: 0,0:05:12.33,0:05:14.79,Italique,Gojo,0000,0000,0000,,C’est un des Fœtus réincarnés ?
+Dialogue: 0,0:05:14.91,0:05:16.75,Italique,Gojo,0000,0000,0000,,Relou, mais on verra après.
+Dialogue: 0,0:05:20.21,0:05:21.50,Default,Gojo,0000,0000,0000,,Mauvaise idée.
+Dialogue: 0,0:05:22.88,0:05:26.34,Default,Gojo,0000,0000,0000,,Plus tu essaies de neutraliser mon sort\Npar ton Prolongement,
+Dialogue: 0,0:05:26.51,0:05:29.35,Default,Gojo,0000,0000,0000,,plus je le renforce\Npour le maintenir.
+Dialogue: 0,0:05:29.85,0:05:34.10,Default,Gojo,0000,0000,0000,,Cette branche pourrie\Nne va pas le supporter très longtemps.
+Dialogue: 0,0:05:51.87,0:05:54.70,Default,Jogo,0000,0000,0000,,Satoru Gojo ! Regarde par ici !
+Dialogue: 0,0:06:09.84,0:06:11.22,Default,Jogo,0000,0000,0000,,Hanami…
+Dialogue: 0,0:06:21.73,0:06:22.52,Default,Gojo,0000,0000,0000,,Suivant.
+Dialogue: 0,0:06:23.52,0:06:27.32,Italique,Geto,0000,0000,0000,,La Lisière du supplice,\Nc’est le moine Genshin devenu barrière.
+Dialogue: 0,0:06:27.53,0:06:30.32,Italique,Geto,0000,0000,0000,,Elle peut emprisonner\Nn’importe quoi.
+Dialogue: 0,0:06:32.45,0:06:36.56,Italique,Jogo,0000,0000,0000,,Dans ce cas, il y a forcément\Ndes conditions à respecter.
+Dialogue: 0,0:06:36.91,0:06:38.16,Italique,Geto,0000,0000,0000,,Une minute.
+Dialogue: 0,0:06:43.16,0:06:44.13,Italique,Jogo,0000,0000,0000,,Quoi ?
+Dialogue: 0,0:06:45.25,0:06:46.80,Italique,Geto,0000,0000,0000,,Après ouverture,
+Dialogue: 0,0:06:46.92,0:06:51.22,Italique,Geto,0000,0000,0000,,la Lisière met une minute à sceller\Nce qui se trouve dans un rayon de 4 m.
+Dialogue: 0,0:06:51.80,0:06:54.26,Italique,Geto,0000,0000,0000,,Il faudra l’y maintenir\Npendant ce temps-là.
+Dialogue: 0,0:07:26.50,0:07:27.80,Italique,Jogo,0000,0000,0000,,Dis donc !
+Dialogue: 0,0:07:28.84,0:07:31.05,Italique,Jogo,0000,0000,0000,,Tu veux finir en cendres ?
+Dialogue: 0,0:07:31.18,0:07:34.55,Italique,Jogo,0000,0000,0000,,Si j’avais su\Nque tu allais demander l’impossible,
+Dialogue: 0,0:07:34.68,0:07:37.18,Italique,Jogo,0000,0000,0000,,je n’aurais jamais\Naccepté de t’aider.
+Dialogue: 0,0:07:37.39,0:07:40.23,Italique,Jogo,0000,0000,0000,,Retenir ce mec\Npendant une minute ?
+Dialogue: 0,0:07:40.52,0:07:42.35,Italique,Jogo,0000,0000,0000,,Il ne restera jamais en place
+Dialogue: 0,0:07:42.48,0:07:46.65,Italique,Jogo,0000,0000,0000,,même si on lui met dans les pattes\Ndes milliers d’humains stupides !
+Dialogue: 0,0:07:49.19,0:07:51.36,Italique,Geto,0000,0000,0000,,Ça brûle, Jogo.
+Dialogue: 0,0:07:52.07,0:07:55.12,Italique,Geto,0000,0000,0000,,Tout se passera bien.\NQuand je dis une minute…
+Dialogue: 0,0:08:24.81,0:08:27.65,Italique,Jogo,0000,0000,0000,,Hanami ne sera pas mort en vain.
+Dialogue: 0,0:08:27.81,0:08:32.28,Italique,Jogo,0000,0000,0000,,La foule me servira de bouclier.\NAinsi, je pourrai frapper et m’enfuir !
+Dialogue: 0,0:08:39.66,0:08:41.29,Default,Jogo,0000,0000,0000,,Choso !
+Dialogue: 0,0:08:41.50,0:08:45.17,Default,Jogo,0000,0000,0000,,Aide-moi,\Nou c’est toi que je tuerai en premier !
+Dialogue: 0,0:08:48.75,0:08:50.13,Default,Choso,0000,0000,0000,,Oui, oui…
+Dialogue: 0,0:08:54.88,0:08:58.68,Italique,Gojo,0000,0000,0000,,Ils restent à bonne distance,\Nmais ça ne durera pas.
+Dialogue: 0,0:08:58.93,0:09:01.85,Italique,Gojo,0000,0000,0000,,Les gens commencent\Nà s’éloigner de moi.
+Dialogue: 0,0:09:02.35,0:09:07.15,Italique,Gojo,0000,0000,0000,,Dès que j’aurai le champ libre,\Nje pourrai choper M. Volcan.
+Dialogue: 0,0:09:07.60,0:09:10.86,Italique,Gojo,0000,0000,0000,,L’appâter en annulant mon sort\Nne marchera plus.
+Dialogue: 0,0:09:11.19,0:09:14.70,Italique,Gojo,0000,0000,0000,,Il a compris que je comptais l’exploser\Ns’il s’approchait,
+Dialogue: 0,0:09:14.82,0:09:19.70,Italique,Gojo,0000,0000,0000,,et ça va devenir un problème, s’il lance\Nune grosse technique avec le Fœtus.
+Dialogue: 0,0:09:22.16,0:09:25.08,Italique,Gojo,0000,0000,0000,,Désolé,\Nje ne peux pas tous vous sauver.
+Dialogue: 0,0:09:26.25,0:09:27.62,Italique,Gojo,0000,0000,0000,,En contrepartie…
+Dialogue: 0,0:09:29.96,0:09:32.09,Italique,Gojo,0000,0000,0000,,je vous jure de les exorciser.
+Dialogue: 0,0:09:32.80,0:09:37.22,Italique,Jogo,0000,0000,0000,,C’est quand il veut !\NÇa fait plus de vingt minutes, là !
+Dialogue: 0,0:09:40.26,0:09:41.76,Default,Geto,0000,0000,0000,,Encore un peu.
+Dialogue: 0,0:09:42.97,0:09:45.39,Default,Geto,0000,0000,0000,,Satoru ne faiblit toujours pas.
+Dialogue: 0,0:09:47.64,0:09:50.61,Default,Geto,0000,0000,0000,,On va l’avoir à l’usure.
+Dialogue: 0,0:10:04.41,0:10:06.04,Default,Yuji,0000,0000,0000,,Vous m’entendez ? Ça va ?
+Dialogue: 0,0:10:06.16,0:10:08.71,Default,Femme,0000,0000,0000,,Ils se sont tous…\Nchangés en monstres…
+Dialogue: 0,0:10:09.00,0:10:12.21,Default,Femme,0000,0000,0000,,et sont montés dans le train…\Nmais moi…
+Dialogue: 0,0:10:12.67,0:10:17.13,Default,Femme,0000,0000,0000,,Il n’y avait plus de place,\Non m’a dit de rester…
+Dialogue: 0,0:10:20.84,0:10:22.51,Default,Yuji,0000,0000,0000,,Il est passé par ici…
+Dialogue: 0,0:10:23.18,0:10:24.39,Default,Yuji,0000,0000,0000,,Fait chier !
+Dialogue: 0,0:10:27.60,0:10:28.60,Default,Yuji,0000,0000,0000,,Ils sont tous
+Dialogue: 0,0:10:29.44,0:10:30.98,Default,Yuji,0000,0000,0000,,montés dans le train…
+Dialogue: 0,0:10:31.15,0:10:32.90,Italique,Annonceur,0000,0000,0000,,Train en approche.
+Dialogue: 0,0:10:33.02,0:10:35.03,Italique,Annonceur,0000,0000,0000,,Restez derrière la ligne jaune.
+Dialogue: 0,0:10:35.15,0:10:36.36,Default,Yuji,0000,0000,0000,,M. Gojo !
+Dialogue: 0,0:10:36.49,0:10:40.49,Italique,Annonceur,0000,0000,0000,,Ne vous penchez pas\Nau-dessus des portiques de sécurité.
+Dialogue: 0,0:11:04.47,0:11:05.89,Default,Jogo,0000,0000,0000,,Enfin !
+Dialogue: 0,0:11:12.90,0:11:14.61,Default,Mec A,0000,0000,0000,,Un train !
+Dialogue: 0,0:11:14.77,0:11:16.69,Default,Mec A,0000,0000,0000,,Dégagez ! Je monte !
+Dialogue: 0,0:11:16.82,0:11:18.49,TiretsDefault,Mec B - Femme 1,0265,0000,0000,,– Ça va pas ?\N– Où tu vas ?
+Dialogue: 0,0:11:18.74,0:11:20.24,Default,Femme 3,0000,0000,0000,,Non, attends !
+Dialogue: 0,0:11:49.27,0:11:51.23,Default,Gojo,0000,0000,0000,,C’est quoi, leur plan ?
+Dialogue: 0,0:11:53.31,0:11:54.60,Default,Mahito,0000,0000,0000,,Jogo !
+Dialogue: 0,0:11:59.32,0:12:03.32,Default,Mahito,0000,0000,0000,,Ça sent bon, ici !\NQuelle délicieuse odeur de peur !
+Dialogue: 0,0:12:03.53,0:12:06.03,Default,Mahito,0000,0000,0000,,Gardons quelques humains en vie,
+Dialogue: 0,0:12:06.20,0:12:08.91,Default,Mahito,0000,0000,0000,,on les lâchera dans la forêt\Npour les chasser.
+Dialogue: 0,0:12:09.29,0:12:11.33,Default,Mahito,0000,0000,0000,,Je pourrai brûler toute la forêt ?
+Dialogue: 0,0:12:11.46,0:12:13.33,Default,Mahito,0000,0000,0000,,Hanami se fâchera.
+Dialogue: 0,0:12:14.04,0:12:15.83,Default,Jogo,0000,0000,0000,,Il est mort.
+Dialogue: 0,0:12:17.88,0:12:18.92,Default,Mahito,0000,0000,0000,,Pardon ?
+Dialogue: 0,0:12:18.00,0:12:18.96,Sign,sign,0000,0000,0000,,{\fad(446,0)\fnComic Sans MS\c&H332E2F&\3c&HEEF0F5&\frz4.012\move(411,54.5,411,91,28,571)}HEIN ?
+Dialogue: 0,0:12:22.30,0:12:23.97,TITREJJK,sign,0000,0000,0000,,{\fad(404,0)\c&H303D3D&\3c&HA0DBE8&}JUJUTSU KAISEN
+Dialogue: 0,0:12:27.22,0:12:28.97,TITREJJK,sign,0000,0000,0000,,{\fad(404,0)\c&H303D3D&\3c&H5AE3E3&}JUJUTSU KAISEN
+Dialogue: 0,0:12:44.45,0:12:46.16,Default,Mahito,0000,0000,0000,,Ça bloque vraiment tout !
+Dialogue: 0,0:12:47.03,0:12:50.48,Italique,Gojo,0000,0000,0000,,Un visage recousu… C’est de lui\Nque parlaient Nanami et Yuji ?
+Dialogue: 0,0:12:57.88,0:13:01.59,Default,Mahito,0000,0000,0000,,L’une des raisons pour lesquelles\Nles humains sont répugnants…
+Dialogue: 0,0:13:03.88,0:13:06.09,Default,Mahito,0000,0000,0000,,c’est qu’ils sont trop nombreux.
+Dialogue: 0,0:13:15.77,0:13:18.90,Default,Gojo,0000,0000,0000,,Il y a bien des fléaux\Net maîtres des fléaux en haut.
+Dialogue: 0,0:13:19.06,0:13:22.23,TiretsItalique,Choso - Mahito,0166,0000,0000,,– Contraction. Supernova.\N– Âmes multiples. Démembrement.
+Dialogue: 0,0:13:41.59,0:13:44.51,Italique,Mahito,0000,0000,0000,,Je sais que\Ncontrairement à Yuji Itadori,
+Dialogue: 0,0:13:44.84,0:13:47.84,Italique,Mahito,0000,0000,0000,,Satoru Gojo\Nfait preuve d’une logique très froide.
+Dialogue: 0,0:13:48.43,0:13:50.93,Italique,Mahito,0000,0000,0000,,Il est prêt à sacrifier des civils,
+Dialogue: 0,0:13:51.05,0:13:54.27,Italique,Mahito,0000,0000,0000,,tant que ça lui permet\Nde nous exorciser.
+Dialogue: 0,0:13:55.06,0:13:59.02,Italique,Mahito,0000,0000,0000,,Sauf que là, entre ceux qui sont morts\Net ceux qui débarquent,
+Dialogue: 0,0:13:59.15,0:14:03.40,Italique,Mahito,0000,0000,0000,,on atteint les limites\Nde ce qu’il peut tolérer.
+Dialogue: 0,0:14:04.23,0:14:07.53,Italique,Jogo,0000,0000,0000,,À présent,\Ntu n’as plus qu’une option,
+Dialogue: 0,0:14:07.65,0:14:11.37,Italique,Jogo,0000,0000,0000,,c’est d’étendre ta Sphère pour nous tuer\Navec ces quelques humains,
+Dialogue: 0,0:14:11.49,0:14:14.54,Italique,Jogo,0000,0000,0000,,ce qui sauvera\Nceux qui sont hors de ton Territoire.
+Dialogue: 0,0:14:14.87,0:14:17.21,Italique,Jogo,0000,0000,0000,,Mais tu n’en seras pas capable.
+Dialogue: 0,0:14:17.41,0:14:19.75,Italique,Jogo,0000,0000,0000,,Le nombre de pertes humaines
+Dialogue: 0,0:14:19.88,0:14:22.50,Italique,Jogo,0000,0000,0000,,serait compatible\Navec une attaque de fléau.
+Dialogue: 0,0:14:22.63,0:14:26.92,Italique,Jogo,0000,0000,0000,,Pas avec une opération de sauvetage\Nmenée par Satoru Gojo !
+Dialogue: 0,0:14:28.09,0:14:29.34,Italique,Jogo,0000,0000,0000,,Réfléchis.
+Dialogue: 0,0:14:29.89,0:14:31.34,Italique,Jogo,0000,0000,0000,,Hésite.
+Dialogue: 0,0:14:31.64,0:14:33.68,Italique,Jogo,0000,0000,0000,,Ne pense plus qu’à nous !
+Dialogue: 0,0:14:38.52,0:14:40.06,Default,Mahito,0000,0000,0000,,Sérieux ?
+Dialogue: 0,0:14:40.44,0:14:42.23,Default,Gojo,0000,0000,0000,,Extension du Territoire.
+Dialogue: 0,0:14:43.23,0:14:44.98,Default,Gojo,0000,0000,0000,,Sphère de l’espace infini.
+Dialogue: 0,0:15:16.26,0:15:20.44,Italique,Narratrice,0000,0000,0000,,Il se risqua à étendre son Territoire\Npendant 0,2 seconde.
+Dialogue: 0,0:15:25.57,0:15:29.57,Italique,Narratrice,0000,0000,0000,,C’était un pari de sa part,\Npurement à l’instinct.
+Dialogue: 0,0:15:29.69,0:15:34.07,Italique,Narratrice,0000,0000,0000,,C’était suffisamment court\Npour ne pas blesser les civils
+Dialogue: 0,0:15:34.20,0:15:37.37,Italique,Narratrice,0000,0000,0000,,ni leur laisser\Nla moindre séquelle physique.
+Dialogue: 0,0:15:47.09,0:15:52.01,Italique,Narratrice,0000,0000,0000,,Durant cet infime instant,\Nle cerveau des humains, altérés ou non,
+Dialogue: 0,0:15:52.18,0:15:56.22,Italique,Narratrice,0000,0000,0000,,fut inondé de l’équivalent\Nde six mois d’informations,
+Dialogue: 0,0:15:56.35,0:15:59.64,Italique,Narratrice,0000,0000,0000,,et tous perdirent connaissance,\Nfigés debout.
+Dialogue: 0,0:16:16.07,0:16:19.04,Italique,Narratrice,0000,0000,0000,,Néanmoins,\Ntous les survivants du 5e sous-sol
+Dialogue: 0,0:16:19.16,0:16:22.58,Italique,Narratrice,0000,0000,0000,,durent par la suite\Nsuivre deux mois de rééducation,
+Dialogue: 0,0:16:22.71,0:16:25.46,Italique,Narratrice,0000,0000,0000,,tant la Sphère était puissante\Nmalgré tout.
+Dialogue: 0,0:16:36.55,0:16:41.02,Italique,Narratrice,0000,0000,0000,,Mais il courait le risque\Nque les fléaux de classe S se réveillent.
+Dialogue: 0,0:16:41.18,0:16:43.69,Italique,Narratrice,0000,0000,0000,,Aussi,\Npour empêcher que cela arrive,
+Dialogue: 0,0:16:43.85,0:16:47.27,Italique,Narratrice,0000,0000,0000,,Satoru Gojo se concentra\Nsur les humains altérés.
+Dialogue: 0,0:17:10.34,0:17:12.92,Italique,Narratrice,0000,0000,0000,,L’exorciste\Nle plus fort de sa génération
+Dialogue: 0,0:17:13.05,0:17:17.80,Italique,Narratrice,0000,0000,0000,,massacra le millier d’humains altérés\Nlâchés au 5e sous-sol
+Dialogue: 0,0:17:17.93,0:17:22.39,Italique,Narratrice,0000,0000,0000,,après avoir annulé\Nl’extension de son Territoire,
+Dialogue: 0,0:17:22.52,0:17:24.10,Italique,Narratrice,0000,0000,0000,,en 299 secondes.
+Dialogue: 0,0:17:58.18,0:18:00.68,Default,Geto,0000,0000,0000,,Ouverture de la Lisière du supplice.
+Dialogue: 0,0:18:06.73,0:18:08.23,Italique,Geto,0000,0000,0000,,Tout se passera bien.
+Dialogue: 0,0:18:08.90,0:18:10.94,Italique,Geto,0000,0000,0000,,Quand je dis une minute…
+Dialogue: 0,0:18:24.79,0:18:25.79,Default,Geto,0000,0000,0000,,Salut…
+Dialogue: 0,0:18:28.62,0:18:29.67,Default,Geto,0000,0000,0000,,Satoru.
+Dialogue: 0,0:18:32.75,0:18:34.17,Default,Geto,0000,0000,0000,,Ça faisait un bail.
+Dialogue: 0,0:18:39.72,0:18:41.43,Italique,Gojo,0000,0000,0000,,C’est une illusion ?
+Dialogue: 0,0:18:42.51,0:18:44.60,Italique,Gojo,0000,0000,0000,,Un sort de métamorphose ?
+Dialogue: 0,0:18:47.02,0:18:49.31,Italique,Gojo,0000,0000,0000,,Non, c’est vraiment lui !
+Dialogue: 0,0:19:01.20,0:19:04.83,Italique,Geto,0000,0000,0000,,C’est une minute telle qu’elle est perçue\Npar le cerveau de Satoru.
+Dialogue: 0,0:19:12.63,0:19:14.67,Default,Geto,0000,0000,0000,,Tu te relâches, Satoru.
+Dialogue: 0,0:19:14.84,0:19:17.34,Default,Geto,0000,0000,0000,,Il ne faut pas rêvasser\Nen plein combat.
+Dialogue: 0,0:19:17.63,0:19:21.68,Italique,Gojo,0000,0000,0000,,Je ne sens plus mon énergie occulte\Net je suis incapable de bouger.
+Dialogue: 0,0:19:22.47,0:19:23.76,Italique,Gojo,0000,0000,0000,,J’ai perdu ?
+Dialogue: 0,0:19:25.14,0:19:27.64,Default,Gojo,0000,0000,0000,,Et t’es qui, au juste ?
+Dialogue: 0,0:19:28.98,0:19:30.85,Default,Geto,0000,0000,0000,,Suguru Geto.
+Dialogue: 0,0:19:31.29,0:19:34.11,Default,Geto,0000,0000,0000,,Tu m’as déjà oublié ?\NÇa me fend le cœur.
+Dialogue: 0,0:19:34.61,0:19:36.65,Default,Gojo,0000,0000,0000,,Mon Sixième œil lui-même
+Dialogue: 0,0:19:36.77,0:19:40.95,Default,Gojo,0000,0000,0000,,me dit que ton énergie et ton corps\Nsont ceux de Suguru.
+Dialogue: 0,0:19:45.07,0:19:46.24,Default,Gojo,0000,0000,0000,,Mais mon âme…
+Dialogue: 0,0:19:48.41,0:19:51.33,Default,Gojo,0000,0000,0000,,mon âme me hurle le contraire !
+Dialogue: 0,0:19:51.50,0:19:54.96,Default,Gojo,0000,0000,0000,,Réponds-moi ! Qui es-tu ?
+Dialogue: 0,0:19:59.38,0:20:00.80,Default,Geto,0000,0000,0000,,Bien joué.
+Dialogue: 0,0:20:09.72,0:20:11.39,Default,Geto,0000,0000,0000,,Comment as-tu deviné ?
+Dialogue: 0,0:20:13.90,0:20:15.94,Default,Geto,0000,0000,0000,,C’est mon sort inné.
+Dialogue: 0,0:20:16.31,0:20:19.82,Default,Geto,0000,0000,0000,,Je peux posséder un corps\Nen y insérant mon cerveau.
+Dialogue: 0,0:20:19.98,0:20:23.40,Default,Geto,0000,0000,0000,,J’ai ainsi accès aux sorts et techniques\Nde mon hôte.
+Dialogue: 0,0:20:23.95,0:20:27.45,Default,Geto,0000,0000,0000,,J’avais besoin\Nde sa manipulation des esprits.
+Dialogue: 0,0:20:27.74,0:20:28.58,Default,Geto,0000,0000,0000,,Souviens-toi,
+Dialogue: 0,0:20:29.08,0:20:33.25,Default,Geto,0000,0000,0000,,tu n’as pas laissé Shoko Ieiri\Nincinérer la dépouille de Suguru.
+Dialogue: 0,0:20:37.29,0:20:39.59,Default,Geto,0000,0000,0000,,Tu es étrangement sentimental,\Ndes fois.
+Dialogue: 0,0:20:40.00,0:20:43.05,Default,Geto,0000,0000,0000,,Mais grâce à toi,\Nj’ai pu m’en emparer sans souci.
+Dialogue: 0,0:20:44.01,0:20:47.14,Default,Geto,0000,0000,0000,,Ne t’en fais pas,\Nje te libérerai un jour.
+Dialogue: 0,0:20:48.39,0:20:51.60,Default,Geto,0000,0000,0000,,Dans cent ans.\NNon, peut-être plutôt mille.
+Dialogue: 0,0:20:51.98,0:20:54.23,Default,Geto,0000,0000,0000,,Tu es beaucoup trop fort.
+Dialogue: 0,0:20:54.81,0:20:56.98,Default,Geto,0000,0000,0000,,Tu me gênes dans mes projets.
+Dialogue: 0,0:20:57.86,0:20:59.36,Default,Gojo,0000,0000,0000,,T’as oublié
+Dialogue: 0,0:20:59.73,0:21:03.90,Default,Gojo,0000,0000,0000,,qui a réduit ton hôte en bouillie\Navant que je l’achève ?
+Dialogue: 0,0:21:04.49,0:21:06.49,Default,Geto,0000,0000,0000,,Yuta Okkotsu ?
+Dialogue: 0,0:21:06.70,0:21:10.58,Default,Geto,0000,0000,0000,,Je n’ai pas senti\Nde grand potentiel en lui.
+Dialogue: 0,0:21:13.33,0:21:17.92,Default,Geto,0000,0000,0000,,Il copie les sorts à volonté,\Net sa force occulte est intarissable,
+Dialogue: 0,0:21:18.26,0:21:22.38,Default,Geto,0000,0000,0000,,mais c’est uniquement\Ngrâce au pacte qui retient captive
+Dialogue: 0,0:21:22.51,0:21:24.26,Default,Geto,0000,0000,0000,,l’âme de sa bien-aimée.
+Dialogue: 0,0:21:25.97,0:21:30.76,Default,Geto,0000,0000,0000,,Malheureusement, il ne comblera jamais\Nl’abîme qui vous sépare.
+Dialogue: 0,0:21:36.10,0:21:38.35,Default,Geto,0000,0000,0000,,Bonne nuit, Satoru Gojo.
+Dialogue: 0,0:21:39.73,0:21:42.78,Default,Geto,0000,0000,0000,,Nous nous reverrons\Ndans le nouveau monde.
+Dialogue: 0,0:21:48.57,0:21:49.91,Default,Ui Ui,0000,0000,0000,,Un problème ?
+Dialogue: 0,0:21:50.41,0:21:52.58,Default,Yuji,0000,0000,0000,,J’ai un truc sur l’oreille…
+Dialogue: 0,0:21:53.20,0:21:55.71,Italique,Mechamaru,0000,0000,0000,,Tu m’entends, Yuji Itadori ?
+Dialogue: 0,0:21:57.17,0:22:00.66,Italique,Mechamaru,0000,0000,0000,,Le temps presse.\NJe ne le dirai qu’une seule fois.
+Dialogue: 0,0:22:02.96,0:22:04.63,Italique,Mechamaru,0000,0000,0000,,Satoru Gojo
+Dialogue: 0,0:22:06.63,0:22:08.22,Italique,Mechamaru,0000,0000,0000,,a été scellé.
+Dialogue: 0,0:23:34.43,0:23:37.10,Default,credits,0000,0000,0000,,Traduction, adaptation :\NAdam Plaza
+Dialogue: 0,0:23:37.10,0:23:39.02,Default,credits,0000,0000,0000,,Repérage : Clément Hautavoine\NRelecture : VC
+Dialogue: 0,0:23:40.44,0:23:41.81,Italique,Yuji,0000,0000,0000,,Vous soignez votre peau ?
+Dialogue: 0,0:23:41.94,0:23:44.06,Italique,Kugisaki,0000,0000,0000,,Ça se demande pas, mais bon…
+Dialogue: 0,0:23:44.23,0:23:46.52,Italique,Kugisaki,0000,0000,0000,,Moi oui,\Nmais ça dépend des gènes.
+Dialogue: 0,0:23:46.65,0:23:50.66,Italique,Kugisaki,0000,0000,0000,,Je suis sûre que M. Gojo\Na une belle peau sans rien faire.
+Dialogue: 0,0:23:50.78,0:23:52.55,TiretsItalique,Fushiguro - Kugisaki,0240,0000,0000,,– Prochainement…\N– J’ai raison ?
+Dialogue: 0,0:23:50.78,0:23:54.99,Sign,sign,0000,0000,0000,,{\bord3\blur3}PROCHAIN ÉPISODE\N\N{\fs22}CONFUSION
+Dialogue: 0,0:23:52.69,0:23:54.78,TiretsItalique,Gojo - Kugisaki,0292,0000,0000,,– Oui.\N– Grr !
+

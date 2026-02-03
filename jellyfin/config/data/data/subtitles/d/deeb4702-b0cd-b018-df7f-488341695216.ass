@@ -1,0 +1,230 @@
+[Script Info]
+Title: [Erai-raws] Español (España)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_EpiTitle,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H32494949,&H00494949,-1,0,0,0,100,100,0,0,1,0,2,3,0020,0020,0020,1
+Style: Cart_Serieslogo,Consolas,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,10,0,1,0,0,5,0005,0005,0000,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:01:56.47,0:01:57.88,Gen_Main,NA,0000,0000,0000,,Grábalo.
+Dialogue: 0,0:02:03.76,0:02:06.14,Gen_Main,NA,0000,0000,0000,,Grábalo en tu carne.
+Dialogue: 0,0:02:13.19,0:02:15.44,Gen_Main,NA,0000,0000,0000,,Grábalo en la tierra.
+Dialogue: 0,0:02:21.45,0:02:23.74,Gen_Main,NA,0000,0000,0000,,Grábalo en el mar.
+Dialogue: 0,0:02:28.62,0:02:31.25,Gen_Main,NA,0000,0000,0000,,Grábalo en tus enemigos.
+Dialogue: 0,0:02:31.67,0:02:33.75,Gen_Main,NA,0000,0000,0000,,Grábalo en tu botín.
+Dialogue: 0,0:02:36.17,0:02:38.13,Gen_Main,NA,0000,0000,0000,,Grábalo.
+Dialogue: 0,0:02:38.88,0:02:40.76,Gen_Main,NA,0000,0000,0000,,Grábalo.
+Dialogue: 0,0:02:57.07,0:03:01.24,Gen_Main,NA,0000,0000,0000,,Graba esa calidez en mí.
+Dialogue: 1,0:03:16.13,0:03:21.63,Cart_A_Tim,EPTITLE,0000,0000,0000,,{\fad(1400,700)\blur4\shad1\bord0\b0\pos(116.571,288)}{\t(0,1400,\blur0)}{\t(4800,5500,\blur4)}Esclavo
+Dialogue: 0,0:03:23.32,0:03:24.43,Gen_Main,EMMA,0000,0000,0000,,¡Einar!
+Dialogue: 0,0:03:29.04,0:03:30.43,Gen_Main,EINAR,0000,0000,0000,,¿Qué haces?
+Dialogue: 0,0:03:30.60,0:03:32.44,Gen_Main,EMMA,0000,0000,0000,,Eso mismo te digo yo.
+Dialogue: 0,0:03:33.02,0:03:35.94,Gen_Main,EMMA,0000,0000,0000,,¿Por qué golpeas ese árbol?\N¿Quieres cargarte la casa?
+Dialogue: 0,0:03:37.57,0:03:39.74,Gen_Main,LOTTA,0000,0000,0000,,¿Es que quieres ser leñador?
+Dialogue: 0,0:03:39.90,0:03:41.04,Gen_Main,EINAR,0000,0000,0000,,No.
+Dialogue: 0,0:03:41.45,0:03:43.80,Gen_Main,EINAR,0000,0000,0000,,¡Entreno para el combate!
+Dialogue: 0,0:03:43.95,0:03:45.20,Gen_Main,EINAR,0000,0000,0000,,¡Contemplad mi fuerza!
+Dialogue: 0,0:03:46.28,0:03:50.03,Gen_Main,EMMA,0000,0000,0000,,Eres un grandullón,\Npero eso no te servirá en combate.
+Dialogue: 0,0:03:50.20,0:03:51.53,Gen_Main,EMMA,0000,0000,0000,,Prepárate para comer.
+Dialogue: 0,0:03:51.71,0:03:54.08,Gen_Main,LOTTA,0000,0000,0000,,Qué hambre tengo.
+Dialogue: 0,0:03:58.04,0:04:00.22,Gen_Main,EINAR,0000,0000,0000,,Y no me tires cuchillos.
+Dialogue: 0,0:04:00.38,0:04:02.49,Gen_Main,EINAR,0000,0000,0000,,Estás llevando platos y cucharas.
+Dialogue: 0,0:04:02.69,0:04:04.43,Gen_Main,EMMA,0000,0000,0000,,¿Prefieres que te tire un plato?
+Dialogue: 0,0:04:09.60,0:04:14.49,Gen_Main,LOTTA,0000,0000,0000,,Se dice que los osos deben\Ncomer mucho antes del invierno.
+Dialogue: 0,0:04:19.94,0:04:23.77,Gen_Main,EMMA,0000,0000,0000,,¿Por qué te has puesto\Na entrenar de pronto?
+Dialogue: 0,0:04:25.41,0:04:28.44,Gen_Main,EINAR,0000,0000,0000,,Porque tengo que proteger este sitio.
+Dialogue: 0,0:04:32.02,0:04:36.58,Gen_Main,EINAR,0000,0000,0000,,Después de que lo redujeran a cenizas,\Npor fin está reconstruido.
+Dialogue: 0,0:04:38.48,0:04:40.82,Gen_Main,EINAR,0000,0000,0000,,No dejaré que vuelva a pasar.
+Dialogue: 0,0:04:43.18,0:04:44.39,Gen_Main,EINAR,0000,0000,0000,,Seguro que papá…
+Dialogue: 0,0:04:46.36,0:04:49.14,Gen_Main,LOTTA,0000,0000,0000,,¡La leche de Guthmur está buenísima!
+Dialogue: 0,0:04:49.39,0:04:54.14,Gen_Main,EMMA,0000,0000,0000,,¿Verdad? Ese tipo maneja\Nperfectamente las ubres.
+Dialogue: 0,0:04:54.31,0:04:56.40,Gen_Main,LOTTA,0000,0000,0000,,¿Qué haces con las manos? Qué ascazo.
+Dialogue: 0,0:04:56.56,0:04:58.33,Gen_Main,EINAR,0000,0000,0000,,¡Eh, escuchadme!
+Dialogue: 0,0:04:58.48,0:04:59.89,Gen_Main,EMMA,0000,0000,0000,,No te molestes.
+Dialogue: 0,0:05:00.06,0:05:01.86,Gen_Main,EMMA,0000,0000,0000,,Déjate de tonterías de guerreros.
+Dialogue: 0,0:05:04.25,0:05:07.34,Gen_Main,EINAR,0000,0000,0000,,¿No te da rabia estar siempre\Nen el bando perdedor?
+Dialogue: 0,0:05:07.62,0:05:10.61,Gen_Main,EINAR,0000,0000,0000,,Papá murió protegiéndonos.
+Dialogue: 0,0:05:10.84,0:05:11.87,Gen_Main,EMMA,0000,0000,0000,,Es verdad.
+Dialogue: 0,0:05:12.14,0:05:13.78,Gen_Main,EMMA,0000,0000,0000,,Y tú estás vivo.
+Dialogue: 0,0:05:14.01,0:05:15.63,Gen_Main,EMMA,0000,0000,0000,,Reconstruiste esta aldea
+Dialogue: 0,0:05:15.79,0:05:18.36,Gen_Main,EMMA,0000,0000,0000,,y estás comiendo algo rico\Ncon dos bellezones.
+Dialogue: 0,0:05:22.78,0:05:24.46,Gen_Main,EMMA,0000,0000,0000,,No hemos perdido en absoluto.
+Dialogue: 0,0:05:38.77,0:05:40.61,Gen_Main,OLD MAN ON CART,0000,0000,0000,,-Hola.\N-Hola. ¿Qué tal?
+Dialogue: 0,0:05:42.40,0:05:43.58,Gen_Main,CHILD VILLAGER,0000,0000,0000,,Deprisa.
+Dialogue: 0,0:06:13.26,0:06:16.23,Gen_Main,EMMA,0000,0000,0000,,Escuchad.\NCorred cuando entremos en el bosque.
+Dialogue: 0,0:06:16.39,0:06:17.39,Gen_Main,EMMA,0000,0000,0000,,Seguid el río y…
+Dialogue: 0,0:06:18.33,0:06:19.31,Gen_Main,EINAR,0000,0000,0000,,Lotta.
+Dialogue: 0,0:06:20.46,0:06:21.53,Gen_Main,EINAR,0000,0000,0000,,Mamá.
+Dialogue: 0,0:06:31.76,0:06:34.68,Gen_Main,EMMA,0000,0000,0000,,No lo pienses. Corre sin más.
+Dialogue: 0,0:06:35.68,0:06:37.58,Gen_Main,EMMA,0000,0000,0000,,Tu hermano y yo estaremos contigo.
+Dialogue: 0,0:07:13.68,0:07:14.73,Gen_Main,EINAR,0000,0000,0000,,¡Mamá!
+Dialogue: 0,0:07:24.11,0:07:25.82,Gen_Main,EINAR,0000,0000,0000,,A ver, te voy a levantar.
+Dialogue: 0,0:07:28.91,0:07:30.01,Gen_Main,EINAR,0000,0000,0000,,¡Mamá!
+Dialogue: 0,0:07:39.38,0:07:44.81,Gen_Main,EMMA,0000,0000,0000,,Einar, huye. Déjame aquí.
+Dialogue: 0,0:07:45.00,0:07:45.98,Gen_Main,EINAR,0000,0000,0000,,¡No digas ton…!
+Dialogue: 0,0:07:47.26,0:07:49.76,Gen_Main,EINAR,0000,0000,0000,,Vamos. Levántate, joder.
+Dialogue: 0,0:07:49.96,0:07:51.07,Gen_Main,LOTTA,0000,0000,0000,,¿Mamá?
+Dialogue: 0,0:07:51.74,0:07:52.89,Gen_Main,LOTTA,0000,0000,0000,,¡Mamá!
+Dialogue: 0,0:08:00.70,0:08:02.22,Gen_Main,LOTTA,0000,0000,0000,,Mamá…
+Dialogue: 0,0:08:05.29,0:08:06.65,Gen_Main,EMMA,0000,0000,0000,,Qué tonta eres…
+Dialogue: 0,0:08:09.00,0:08:12.16,Gen_Main,VIKING B,0000,0000,0000,,Aún hay gente por ahí.
+Dialogue: 0,0:08:12.91,0:08:15.08,Gen_Main,VIKING C,0000,0000,0000,,Eh, también hay mujeres.
+Dialogue: 0,0:08:15.26,0:08:17.10,Gen_Main,VIKING B,0000,0000,0000,,¡Ya vamos para allá!
+Dialogue: 0,0:08:29.18,0:08:30.70,Gen_Main,EMMA,0000,0000,0000,,Levántate, Einar.
+Dialogue: 0,0:08:32.61,0:08:34.52,Gen_Main,EMMA,0000,0000,0000,,Vete con Lotta. ¡Deprisa!
+Dialogue: 0,0:08:36.37,0:08:37.53,Gen_Main,EINAR,0000,0000,0000,,Mamá…
+Dialogue: 0,0:08:40.87,0:08:44.63,Gen_Main,EMMA,0000,0000,0000,,Hasta una vieja moribunda\Nse las sabrá arreglar.
+Dialogue: 0,0:08:46.82,0:08:47.88,Gen_Main,EMMA,0000,0000,0000,,¡Vivid!
+Dialogue: 0,0:08:51.29,0:08:55.08,Gen_Main,EMMA,0000,0000,0000,,Mientras sigáis con vida, podréis…
+Dialogue: 0,0:09:05.10,0:09:07.56,Gen_Main,EMMA,0000,0000,0000,,Einar…
+Dialogue: 0,0:09:08.73,0:09:10.12,Gen_Main,EMMA,0000,0000,0000,,Lotta…
+Dialogue: 0,0:09:30.60,0:09:32.81,Gen_Main,VIKING B,0000,0000,0000,,¿Por qué no huyen?
+Dialogue: 0,0:09:32.96,0:09:35.47,Gen_Main,VIKING C,0000,0000,0000,,Anda, pues es bastante guapa.
+Dialogue: 0,0:09:36.26,0:09:38.51,Gen_Main,VIKING D,0000,0000,0000,,Tu madre está muerta, ¿no?
+Dialogue: 0,0:09:40.09,0:09:41.10,Gen_Main,EINAR,0000,0000,0000,,¡Lotta!
+Dialogue: 0,0:09:41.26,0:09:44.10,Gen_Main,LOTTA,0000,0000,0000,,-¡Soltadme! ¡Einar!\N-¡Lotta!
+Dialogue: 0,0:09:44.43,0:09:46.12,Gen_Main,EINAR,0000,0000,0000,,¡Soltadla!
+Dialogue: 0,0:09:47.38,0:09:48.68,Gen_Main,LOTTA,0000,0000,0000,,¡Einar!
+Dialogue: 0,0:09:50.22,0:09:51.98,Gen_Main,LOTTA,0000,0000,0000,,¿Cómo os atrevéis?
+Dialogue: 0,0:09:53.23,0:09:56.17,Gen_Main,LOTTA,0000,0000,0000,,¡Einar!
+Dialogue: 0,0:10:05.81,0:10:07.41,Gen_Main,LOTTA,0000,0000,0000,,Pagaréis por…
+Dialogue: 0,0:10:17.80,0:10:20.30,Gen_Main,VIKING C,0000,0000,0000,,¿Qué coño has hecho?
+Dialogue: 0,0:10:20.47,0:10:23.35,Gen_Main,VIKING B,0000,0000,0000,,¡Joder, que me ha apuñalado!
+Dialogue: 0,0:10:23.51,0:10:25.47,Gen_Main,VIKING C,0000,0000,0000,,Vaya, hombre. Qué desperdicio.
+Dialogue: 0,0:10:25.64,0:10:26.78,Gen_Main,VIKING D,0000,0000,0000,,¿Qué le vamos a hacer?
+Dialogue: 0,0:10:26.93,0:10:29.48,Gen_Main,VIKING D,0000,0000,0000,,Vendamos al chaval\Npara pagar unas cervezas.
+Dialogue: 0,0:10:30.10,0:10:31.61,Gen_Main,VIKING C,0000,0000,0000,,Eres un imbécil.
+Dialogue: 0,0:10:31.77,0:10:33.34,Gen_Main,VIKING B,0000,0000,0000,,Mira, lo siento.
+Dialogue: 0,0:10:33.48,0:10:36.01,Gen_Main,VIKING C,0000,0000,0000,,Vamos. Andando, dinero para cerveza.
+Dialogue: 1,0:11:33.42,0:11:45.26,Cart_A_Tre,SIGN,0000,0000,0000,,{\blur2\bord1\an3\fnGeorgia\fad(1000,0)\shad0\b0\pos(628.571,320.715)}Un abeto en una región estéril\Nse marchita sin corteza ni hojas.\NIgual que un hombre sin amor.\N¿Para qué quiere vivir mucho?
+Dialogue: 1,0:11:33.42,0:11:45.26,Cart_A_Tre,SIGN,0000,0000,0000,,{\bord1\an3\blur2\fnGeorgia\fad(1000,0)\b0\pos(627.143,345.714)}— Hávamál
+Dialogue: 0,0:12:23.15,0:12:24.26,Gen_Main,MERCHANT A,0000,0000,0000,,¿Cómo está?
+Dialogue: 0,0:12:27.54,0:12:29.03,Gen_Main,MERCHANT B,0000,0000,0000,,No sobrevivirá.
+Dialogue: 0,0:12:29.43,0:12:33.24,Gen_Main,MERCHANT A,0000,0000,0000,,Mierda. En fin, vamos a llevárnosla.
+Dialogue: 0,0:12:45.91,0:12:47.37,Gen_Main,MERCHANTS,0000,0000,0000,,¡Vamos!
+Dialogue: 0,0:12:49.70,0:12:50.70,Gen_Main,EINAR,0000,0000,0000,,¡Eh!
+Dialogue: 0,0:13:02.05,0:13:04.26,Gen_Main,EINAR,0000,0000,0000,,¿A qué ha venido eso?
+Dialogue: 0,0:13:04.42,0:13:06.43,Gen_Main,EINAR,0000,0000,0000,,¿Por qué la tiráis por la borda?
+Dialogue: 0,0:13:10.97,0:13:13.06,Gen_Main,MERCHANT A,0000,0000,0000,,Vale, no estás hinchado.
+Dialogue: 0,0:13:15.46,0:13:17.02,Gen_Main,MERCHANT B,0000,0000,0000,,Vamos a repartir mantas.
+Dialogue: 0,0:13:17.19,0:13:19.34,Gen_Main,MERCHANT B,0000,0000,0000,,Manteneos en calor.
+Dialogue: 0,0:13:20.23,0:13:22.64,Gen_Main,MERCHANT B,0000,0000,0000,,Hemos pagado una fortuna por vosotros.
+Dialogue: 0,0:13:22.82,0:13:25.65,Gen_Main,MERCHANT B,0000,0000,0000,,No os pongáis malos sin nuestro permiso.
+Dialogue: 0,0:13:26.34,0:13:29.45,Gen_Main,MERCHANT B,0000,0000,0000,,Manteneos sanos hasta\Nque os encontremos un comprador.
+Dialogue: 0,0:13:29.62,0:13:31.03,Gen_Main,MERCHANT B,0000,0000,0000,,¿Entendido?
+Dialogue: 0,0:13:33.70,0:13:35.18,Gen_Main,MERCHANT B,0000,0000,0000,,¡Vamos, no perdáis el tiempo!
+Dialogue: 0,0:13:35.33,0:13:36.66,Gen_Main,MERCHANT B,0000,0000,0000,,¡Coged esa vela!
+Dialogue: 0,0:14:04.65,0:14:07.88,Gen_Main,EINAR,0000,0000,0000,,Es verdad, tengo que vivir.
+Dialogue: 0,0:14:19.08,0:14:22.43,Gen_Main,MERCHANT D,0000,0000,0000,,No os olvidéis de beber.\NOs dejará con mejor color.
+Dialogue: 0,0:14:23.28,0:14:26.59,Gen_Main,MERCHANT C,0000,0000,0000,,Lavaos a conciencia,\Nsobre todo la cabeza.
+Dialogue: 0,0:14:27.14,0:14:29.11,Gen_Main,MERCHANT C,0000,0000,0000,,Comprobad si tenéis piojos.
+Dialogue: 0,0:14:33.70,0:14:36.12,Gen_Main,WOMAN B,0000,0000,0000,,¿Qué tal así?
+Dialogue: 0,0:14:37.12,0:14:38.66,Gen_Main,MERCHANT A,0000,0000,0000,,El pelo está bien.
+Dialogue: 0,0:14:38.91,0:14:41.48,Gen_Main,MERCHANT A,0000,0000,0000,,¿Puedes maquillarla\Npara que parezca más joven?
+Dialogue: 0,0:14:56.58,0:14:59.74,Gen_Main,MERCHANT A,0000,0000,0000,,¿Y bien? ¿No te parece\Nque traemos una buena remesa?
+Dialogue: 0,0:15:00.30,0:15:02.29,Gen_Main,CUSTOMER A,0000,0000,0000,,Es mierda de segunda.
+Dialogue: 0,0:15:02.46,0:15:05.78,Gen_Main,MERCHANT A,0000,0000,0000,,¿Qué dices? No encontrarás nada mejor.
+Dialogue: 0,0:15:09.16,0:15:12.15,Gen_Italics,EINAR,0000,0000,0000,,Es verdad. No puedo quedarme ahí.
+Dialogue: 0,0:15:12.97,0:15:16.74,Gen_Italics,EINAR,0000,0000,0000,,Huiré. Mientras sobreviva,\Npodré volver a intentarlo.
+Dialogue: 0,0:15:39.48,0:15:41.06,Gen_Main,WOMAN C,0000,0000,0000,,A ver…
+Dialogue: 0,0:15:43.70,0:15:45.19,Gen_Main,WOMAN C,0000,0000,0000,,¡Un ladrón!
+Dialogue: 0,0:15:46.21,0:15:47.34,Gen_Main,EINAR,0000,0000,0000,,¡Lo siento!
+Dialogue: 0,0:15:54.30,0:15:55.76,Gen_Main,MERCHANT A,0000,0000,0000,,Hola, Einar.
+Dialogue: 0,0:15:56.58,0:15:59.77,Gen_Main,MERCHANT A,0000,0000,0000,,Veo que sigues sin captarlo.
+Dialogue: 0,0:16:07.02,0:16:10.81,Gen_Main,MERCHANT A,0000,0000,0000,,Escuchad bien, esclavos.
+Dialogue: 0,0:16:11.95,0:16:14.62,Gen_Main,MERCHANT A,0000,0000,0000,,Vuestras casas están muy lejos de aquí.
+Dialogue: 0,0:16:14.78,0:16:17.15,Gen_Main,MERCHANT A,0000,0000,0000,,Y no volveréis\Npor mucho que os resistáis.
+Dialogue: 0,0:16:17.33,0:16:22.00,Gen_Main,MERCHANT A,0000,0000,0000,,Y, naturalmente,\Nnadie os ayudará a escapar.
+Dialogue: 0,0:16:22.38,0:16:28.73,Gen_Main,MERCHANT A,0000,0000,0000,,Porque sois unos forasteros\Ny unos esclavos sin blanca.
+Dialogue: 0,0:16:29.48,0:16:32.92,Gen_Main,MERCHANT A,0000,0000,0000,,Encontrad un buen amo\Ny servidle lo mejor que podáis.
+Dialogue: 0,0:16:33.57,0:16:37.68,Gen_Main,MERCHANT A,0000,0000,0000,,Os irá mucho mejor así que huyendo\Ny practicando la mendicidad.
+Dialogue: 0,0:16:38.08,0:16:41.93,Gen_Main,MERCHANT A,0000,0000,0000,,En vez de iros de aventura,\Npensad bien qué os conviene más.
+Dialogue: 0,0:16:42.99,0:16:45.27,Gen_Main,MERCHANT A,0000,0000,0000,,¿Te ha quedado claro, Einar?
+Dialogue: 0,0:17:00.45,0:17:05.06,Gen_Main,EINAR,0000,0000,0000,,Tengo que vivir…
+Dialogue: 0,0:17:14.09,0:17:15.70,Gen_Main,CUSTOMER B,0000,0000,0000,,Ya veo…
+Dialogue: 0,0:17:16.20,0:17:20.65,Gen_Main,CUSTOMER B,0000,0000,0000,,No está mal, pero ¿no tienes\Nchicos más guapos de cara?
+Dialogue: 0,0:17:20.93,0:17:22.47,Gen_Main,MERCHANT D,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:17:22.64,0:17:26.19,Gen_Main,MERCHANT D,0000,0000,0000,,En ese caso, tenemos unos productos\Nespeciales que te interesarán.
+Dialogue: 0,0:17:26.35,0:17:29.23,Gen_Main,CUSTOMER B,0000,0000,0000,,¿En serio? Qué emocionante.
+Dialogue: 0,0:17:29.40,0:17:32.17,Gen_Main,MERCHANT D,0000,0000,0000,,Sé que te quedarás satisfecho.
+Dialogue: 0,0:17:37.72,0:17:39.29,Gen_Main,EINAR,0000,0000,0000,,Tienen razón.
+Dialogue: 0,0:17:40.58,0:17:44.22,Gen_Italics,EINAR,0000,0000,0000,,Aunque huyera a lo loco,\Nno sabría adónde iría.
+Dialogue: 0,0:17:45.77,0:17:46.90,Gen_Italics,EINAR,0000,0000,0000,,Y además…
+Dialogue: 0,0:17:50.40,0:17:55.17,Gen_Italics,EINAR,0000,0000,0000,,no tengo un sitio al que regresar.
+Dialogue: 0,0:17:57.57,0:18:02.31,Gen_Italics,EINAR,0000,0000,0000,,Mientras sirva obedientemente\Na mi amo…
+Dialogue: 0,0:18:04.57,0:18:08.28,Gen_Main,MERCHANT A,0000,0000,0000,,Estás de suerte.
+Dialogue: 0,0:18:08.44,0:18:10.41,Gen_Main,MERCHANT A,0000,0000,0000,,Tenemos un grupo enorme.
+Dialogue: 0,0:18:10.59,0:18:11.86,Gen_Main,MERCHANT A,0000,0000,0000,,Mira, es él.
+Dialogue: 0,0:18:14.23,0:18:16.49,Gen_Main,MERCHANT A,0000,0000,0000,,¿Es al que estabas buscando?
+Dialogue: 0,0:18:42.93,0:18:45.47,Gen_Main,LEIF,0000,0000,0000,,¡No se le parece en nada!
+Dialogue: 0,0:18:45.64,0:18:47.77,Gen_Main,LEIF,0000,0000,0000,,¡No es ni rubio ni bajito!
+Dialogue: 0,0:18:47.93,0:18:51.06,Gen_Main,MERCHANT A,0000,0000,0000,,¿Eh? Ahora que me fijo,\Npuede que no sea él.
+Dialogue: 0,0:18:51.65,0:18:54.08,Gen_Main,MERCHANT A,0000,0000,0000,,Y quitando eso, ¿qué te parece?
+Dialogue: 0,0:18:54.23,0:18:56.56,Gen_Main,MERCHANT A,0000,0000,0000,,Es fuerte y resistente.\NSi lo compras ahora…
+Dialogue: 0,0:18:56.73,0:19:00.95,Gen_Main,LEIF,0000,0000,0000,,¡Te he dicho que no he venido\Na comprar un trabajador!
+Dialogue: 0,0:19:01.26,0:19:04.03,Gen_Main,LEIF,0000,0000,0000,,Solo quiero liberar a mi pariente.
+Dialogue: 0,0:19:04.20,0:19:07.45,Gen_Main,LEIF,0000,0000,0000,,Estoy seguro de que vino a esta ciudad.
+Dialogue: 0,0:19:08.00,0:19:09.77,Gen_Main,LEIF,0000,0000,0000,,Es rubio y bajito…
+Dialogue: 0,0:19:09.91,0:19:11.24,Gen_Main,LEIF,0000,0000,0000,,Se llama Thorfinn.
+Dialogue: 0,0:19:11.42,0:19:14.34,Gen_Main,LEIF,0000,0000,0000,,¿De verdad que no sabes dónde está?
+Dialogue: 0,0:19:22.05,0:19:23.71,Gen_Main,LEIF,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:19:26.09,0:19:27.40,Gen_Main,LEIF,0000,0000,0000,,Siento las molestias.
+Dialogue: 0,0:19:27.56,0:19:30.52,Gen_Main,MERCHANT A,0000,0000,0000,,No importa. Vuelve en otra ocasión.
+Dialogue: 0,0:19:32.78,0:19:34.74,Gen_Main,MERCHANT A,0000,0000,0000,,No lo encontrará nunca.
+Dialogue: 0,0:19:37.71,0:19:42.25,Gen_Italics,EINAR,0000,0000,0000,,Va deambulando por ahí\Nbuscando a su pariente.
+Dialogue: 0,0:19:45.88,0:19:50.34,Gen_Italics,EINAR,0000,0000,0000,,Qué suerte tiene ese tipo\Nal que está buscando.
+Dialogue: 0,0:19:55.16,0:19:56.49,Gen_Main,KETIL,0000,0000,0000,,Eh, tú.
+Dialogue: 0,0:20:01.23,0:20:04.73,Gen_Main,KETIL,0000,0000,0000,,¿Sabes hablar? Déjame ver tus dientes.
+Dialogue: 0,0:20:18.27,0:20:19.50,Gen_Main,KETIL,0000,0000,0000,,¿Cómo te llamas?
+Dialogue: 0,0:20:19.87,0:20:21.76,Gen_Main,EINAR,0000,0000,0000,,Einar.
+Dialogue: 0,0:20:21.90,0:20:24.14,Gen_Main,KETIL,0000,0000,0000,,¿De dónde eres? ¿A qué te dedicabas?
+Dialogue: 0,0:20:24.53,0:20:27.16,Gen_Main,EINAR,0000,0000,0000,,Era un granjero\Nen el norte de Inglaterra.
+Dialogue: 0,0:20:37.20,0:20:38.76,Gen_Main,KETIL,0000,0000,0000,,¿Qué me dices, Einar?
+Dialogue: 0,0:20:39.02,0:20:41.42,Gen_Main,KETIL,0000,0000,0000,,¿Quieres ayudar en mi granja?
+Dialogue: 0,0:20:49.46,0:20:50.90,Gen_Main,EINAR,0000,0000,0000,,Una granja…
+Dialogue: 0,0:21:14.37,0:21:16.33,Gen_Main,KETIL,0000,0000,0000,,Einar, ven aquí.
+Dialogue: 0,0:21:20.75,0:21:22.91,Gen_Main,KETIL,0000,0000,0000,,Toda mi gente está trabajando.
+Dialogue: 0,0:21:23.09,0:21:25.90,Gen_Main,KETIL,0000,0000,0000,,Te los presentaré a la hora de cenar.
+Dialogue: 0,0:21:26.05,0:21:27.05,Gen_Main,EINAR,0000,0000,0000,,Sí, señor.
+Dialogue: 0,0:21:28.37,0:21:31.08,Gen_Main,KETIL,0000,0000,0000,,Pero primero vayamos a ver mi granja.
+Dialogue: 0,0:22:02.62,0:22:07.11,Gen_Italics,EINAR,0000,0000,0000,,Oye, mamá. ¿Eso que dijiste era verdad?
+Dialogue: 0,0:22:09.57,0:22:14.73,Gen_Italics,EINAR,0000,0000,0000,,Viva o muera, no volveré a ser libre.
+Dialogue: 0,0:22:16.69,0:22:21.31,Gen_Italics,EINAR,0000,0000,0000,,¿Sigues creyendo que no he perdido?
+Dialogue: 0,0:22:45.33,0:22:46.98,Gen_Italics,EINAR,0000,0000,0000,,Me arrebataron a mi familia.
+Dialogue: 0,0:22:47.52,0:22:50.94,Gen_Italics,EINAR,0000,0000,0000,,Perdí mi hogar. Lo perdí todo.
+Dialogue: 0,0:22:52.97,0:22:56.81,Gen_Italics,EINAR,0000,0000,0000,,Ni siquiera sé\Nqué sentido tiene seguir viviendo.
+Dialogue: 0,0:23:06.11,0:23:09.32,Gen_Main,KETIL,0000,0000,0000,,Thorfinn, soy yo. Ven aquí.
+Dialogue: 0,0:23:25.52,0:23:30.78,Gen_Italics,EINAR,0000,0000,0000,,"Me comprará un buen amo\Ny haré lo posible para servirle bien".
+Dialogue: 0,0:23:32.43,0:23:36.04,Gen_Italics,EINAR,0000,0000,0000,,"Mientras sea un esclavo obediente,\Nno moriré de hambre".
+Dialogue: 0,0:23:37.71,0:23:40.70,Gen_Italics,EINAR,0000,0000,0000,,Ya estaba empezando a pensar así.
+Dialogue: 0,0:23:41.12,0:23:42.62,Gen_Main,EINAR,0000,0000,0000,,Thorfinn…
+Dialogue: 0,0:23:54.73,0:23:55.99,Gen_Italics,EINAR,0000,0000,0000,,Y así fue…
+Dialogue: 0,0:23:58.25,0:24:03.10,Gen_Italics,EINAR,0000,0000,0000,,como nos conocimos Thorfinn y yo.
+Dialogue: 0,0:25:39.89,0:25:44.98,Cart_A_Tre,EINAR,0000,0000,0000,,{\b0}Traducción: Abraham Gayuvas y Nicolás Sepúlveda\NEdición: Abraham Gayuvas\NControl de calidad: Nicolás Sepúlveda
+Dialogue: 1,0:25:52.15,0:25:54.99,Cart_A_Tim,SIGN,0000,0000,0000,,{\blur6\an1\shad1\bord0\fs26\fad(1000,0)\b0\pos(120,293.714)}{\t(0,1000,\blur0)}La granja de Ketil
+Dialogue: 0,0:25:52.90,0:25:54.38,Gen_Main,Narrator,0000,0000,0000,,La granja de Ketil.
+

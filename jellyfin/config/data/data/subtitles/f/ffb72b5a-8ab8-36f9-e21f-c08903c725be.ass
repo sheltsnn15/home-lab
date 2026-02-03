@@ -1,0 +1,417 @@
+﻿[Script Info]
+Title: [Erai-raws] Français (France)
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,0002,0002,0025,1
+Style: Italique,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,2,0002,0002,0025,1
+Style: TiretsDefault,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,1,0020,0002,0025,1
+Style: Sign,Arial Unicode MS,21,&H00FFFFFF,&H000000FF,&H00292929,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,0010,0010,0025,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:40.99,0:01:45.67,Sign,Sign,0000,0000,0000,,{\bord3\b1\an8\fad(0,500)\pos(482.67,206.89)\fnComic Sans MS\fs35\blur1}LE BRIEFING
+Dialogue: 0,0:01:41.62,0:01:44.50,Default,Dirigeant A,0000,0000,0000,,{\an8}La ville semblait condamnée.
+Dialogue: 0,0:01:44.62,0:01:48.12,Default,Dirigeant A,0000,0000,0000,,{\an8}Mais la force brute d’un homme\Na repoussé cette immense menace.
+Dialogue: 0,0:01:48.25,0:01:52.34,Default,Dirigeant A,0000,0000,0000,,La grande scolopendre patriarche\Na été anéantie instantanément.
+Dialogue: 0,0:01:52.80,0:01:57.13,Default,Dirigeant A,0000,0000,0000,,C’est difficile à croire.\NQui hormis King aurait pu y arriver ?
+Dialogue: 0,0:01:57.26,0:02:00.26,Default,Dirigeant B,0000,0000,0000,,Heureusement qu’il est notre allié.
+Dialogue: 0,0:02:00.39,0:02:05.39,Default,Dirigeant C,0000,0000,0000,,Croc d’argent a failli à sa mission\Ncontre le chasseur de héros, hélas.
+Dialogue: 0,0:02:05.52,0:02:07.64,Default,Dirigeant C,0000,0000,0000,,Qu’allons-nous faire, M. Sytch ?
+Dialogue: 0,0:02:07.98,0:02:12.57,Default,Dirigeant C,0000,0000,0000,,Notre Association perdra ses moyens,\Nsi d’autres héros tombent.
+Dialogue: 0,0:02:13.27,0:02:15.48,Default,Sytch,0000,0000,0000,,Garoh n’est plus humain,
+Dialogue: 0,0:02:15.61,0:02:18.28,Default,Sytch,0000,0000,0000,,dites-vous bien\Nqu’il est un monstre.
+Dialogue: 0,0:02:18.45,0:02:22.20,Default,Sytch,0000,0000,0000,,À sa prochaine apparition, traitons-le\Ncomme un fléau de niveau Dragon
+Dialogue: 0,0:02:22.32,0:02:24.91,Default,Sytch,0000,0000,0000,,justifiant un rassemblement d’urgence.
+Dialogue: 0,0:02:25.04,0:02:27.54,Default,Dirigeant D,0000,0000,0000,,Vous dites cela,\Nmais il est humain.
+Dialogue: 0,0:02:27.96,0:02:31.96,Default,Dirigeant D,0000,0000,0000,,Existe-t-il vraiment un homme\Ncapable de tenir tête à nos classe S ?
+Dialogue: 0,0:02:32.08,0:02:33.59,Default,Dirigeant D,0000,0000,0000,,C’est invraisemblable !
+Dialogue: 0,0:02:33.88,0:02:35.75,Default,Dirigeant E,0000,0000,0000,,C’est un problème stratégique.
+Dialogue: 0,0:02:35.88,0:02:40.30,Italique,Sytch,0000,0000,0000,,Qu’est-ce qu’il veut, celui-là ?\NNous vendre sa camelote ?
+Dialogue: 0,0:02:40.72,0:02:44.97,Default,Sytch,0000,0000,0000,,Je n’imaginais pas\Nque Garoh échappe à Croc d’argent,
+Dialogue: 0,0:02:45.10,0:02:47.93,Default,Sytch,0000,0000,0000,,mais il est tout de même\Ngrièvement blessé.
+Dialogue: 0,0:02:48.18,0:02:52.86,Default,Sytch,0000,0000,0000,,Il ne sera d’aucune utilité\Nà l’Association des monstres.
+Dialogue: 0,0:02:52.98,0:02:55.36,Default,Sytch,0000,0000,0000,,C’est déjà ça, quelque part.
+Dialogue: 0,0:02:55.48,0:02:57.69,Default,Dirigeant D,0000,0000,0000,,Appelons Blast.
+Dialogue: 0,0:02:57.82,0:03:00.49,Default,Dirigeant D,0000,0000,0000,,C’est notre numéro un,\Nmais il ne bouge pas !
+Dialogue: 0,0:03:00.70,0:03:03.91,Default,Sytch,0000,0000,0000,,On ne commande jamais Blast.
+Dialogue: 0,0:03:04.03,0:03:08.13,Default,Sytch,0000,0000,0000,,Il tient à sa liberté de héros,
+Dialogue: 0,0:03:08.66,0:03:12.25,Default,Sytch,0000,0000,0000,,ne supporte pas les ordres\Net déteste attirer l’attention.
+Dialogue: 0,0:03:12.37,0:03:15.21,Default,Sytch,0000,0000,0000,,Il refuse même que son nom\Nsoit dans l’almanach.
+Dialogue: 0,0:03:15.50,0:03:20.67,Default,Sytch,0000,0000,0000,,Son traitement de faveur est délicat,\Nmais dans notre intérêt.
+Dialogue: 0,0:03:20.76,0:03:24.18,Default,Sytch,0000,0000,0000,,Si un grave danger\Nmenaçait l’humanité entière,
+Dialogue: 0,0:03:24.30,0:03:26.26,Default,Sytch,0000,0000,0000,,il ne manquerait pas de réagir.
+Dialogue: 0,0:03:26.35,0:03:28.02,Default,Rupin,0000,0000,0000,,Foutaises !
+Dialogue: 0,0:03:28.14,0:03:29.60,Default,Rupin,0000,0000,0000,,On n’est pas en danger ?
+Dialogue: 0,0:03:29.73,0:03:32.48,Default,Rupin,0000,0000,0000,,Mon fils est retenu en otage\Npar des monstres.
+Dialogue: 0,0:03:32.94,0:03:35.36,Default,Rupin,0000,0000,0000,,Vingt-quatre heures ont déjà passé,
+Dialogue: 0,0:03:35.48,0:03:37.70,Default,Rupin,0000,0000,0000,,et la charge\Nn’a même pas été sonnée !
+Dialogue: 0,0:03:37.94,0:03:40.44,Default,Baurgne,0000,0000,0000,,Nous récupérerons votre fils.
+Dialogue: 0,0:03:41.11,0:03:42.03,Default,Rupin,0000,0000,0000,,Qui es-tu ?
+Dialogue: 0,0:03:42.45,0:03:47.49,Default,Baurgne,0000,0000,0000,,Baurgne. Je vais diriger\Nla future opération de secours.
+Dialogue: 0,0:03:47.87,0:03:49.91,Default,Baurgne,0000,0000,0000,,C’est un honneur.
+Dialogue: 0,0:03:51.83,0:03:54.00,Default,Tatsumaki,0000,0000,0000,,Quelle opération ?
+Dialogue: 0,0:03:54.12,0:03:58.46,Default,Tatsumaki,0000,0000,0000,,Je vais y aller et régler ça\Nen deux coups de cuillère à pot.
+Dialogue: 0,0:03:58.59,0:04:00.42,Default,Tatsumaki,0000,0000,0000,,Vous avez trouvé leur planque ?
+Dialogue: 0,0:04:00.71,0:04:03.93,Default,Baurgne,0000,0000,0000,,Petit Empereur la cherche\Nà toute vitesse.
+Dialogue: 0,0:04:04.47,0:04:09.56,Default,Petit Empereur,0000,0000,0000,,J’ai dispersé des robots d’exploration\Noù la scolopendre est passée,
+Dialogue: 0,0:04:09.68,0:04:11.18,Default,Petit Empereur,0000,0000,0000,,mais ça fait une trotte.
+Dialogue: 0,0:04:11.52,0:04:12.89,Default,Petit Empereur,0000,0000,0000,,On a trois jours ?
+Dialogue: 0,0:04:13.02,0:04:14.02,Default,Péon A,0000,0000,0000,,Il en reste deux.
+Dialogue: 0,0:04:14.27,0:04:16.44,Default,Petit Empereur,0000,0000,0000,,Je vais pas pouvoir dormir.
+Dialogue: 0,0:04:16.65,0:04:20.57,Default,Tatsumaki,0000,0000,0000,,Ça doit être quelque part\Ndans la zone fantôme de la ville Z.
+Dialogue: 0,0:04:20.69,0:04:22.90,Default,Tatsumaki,0000,0000,0000,,Je vais tout casser, et basta.
+Dialogue: 0,0:04:20.86,0:04:22.90,Sign,Sign,0000,0000,0000,,{\fs25\pos(528.89,49.78)\c&H3D14D6&\bord1.5}KABOUM
+Dialogue: 0,0:04:23.03,0:04:26.07,Default,Baurgne,0000,0000,0000,,Je vous prierais d’éviter,\Nil y a un otage à sauver.
+Dialogue: 0,0:04:26.28,0:04:28.74,Default,Tatsumaki,0000,0000,0000,,Y a rien de plus pénible.
+Dialogue: 0,0:04:28.87,0:04:31.75,Default,Tatsumaki,0000,0000,0000,,Au moins, ça devrait garantir\Nun combat équitable.
+Dialogue: 0,0:04:32.08,0:04:34.58,Default,Tatsumaki,0000,0000,0000,,Les monstres doivent flipper\Nque je vienne.
+Dialogue: 0,0:04:34.71,0:04:36.46,Default,Baurgne,0000,0000,0000,,Cette fois, ils sont puissants.
+Dialogue: 0,0:04:36.58,0:04:38.04,Default,Tatsumaki,0000,0000,0000,,Vous m’en direz tant.
+Dialogue: 0,0:04:38.29,0:04:42.26,Default,Tatsumaki,0000,0000,0000,,Vous vouliez nous voir\Npour nous avertir, c’est tout ?
+Dialogue: 0,0:04:44.55,0:04:48.39,Default,Baurgne,0000,0000,0000,,Hier, Mecavalier est allé en repérage\Nde sa propre initiative.
+Dialogue: 0,0:04:48.60,0:04:50.47,Default,Baurgne,0000,0000,0000,,En échappant à notre contrôle,
+Dialogue: 0,0:04:50.60,0:04:53.27,Default,Baurgne,0000,0000,0000,,il s’est rendu en premier\Ndans la ville fantôme.
+Dialogue: 0,0:04:53.93,0:04:55.14,Default,Super Black Brillant,0000,0000,0000,,Pourquoi tout seul ?
+Dialogue: 0,0:04:55.52,0:04:58.65,Default,Baurgne,0000,0000,0000,,Il a sa petite fierté,\Ndès qu’on touche aux combats.
+Dialogue: 0,0:04:58.77,0:05:00.48,Default,Baurgne,0000,0000,0000,,Il devait être confiant.
+Dialogue: 0,0:05:00.65,0:05:05.28,Default,Baurgne,0000,0000,0000,,Hélas, le signal de sa radio\Nne transmet plus rien depuis hier.
+Dialogue: 0,0:05:05.74,0:05:09.99,Default,Baurgne,0000,0000,0000,,Partons donc du principe\Nque Mecavalier a été écrasé.
+Dialogue: 0,0:05:11.29,0:05:15.83,Default,Tatsumaki,0000,0000,0000,,Je me fiche de vos histoires.\NRassemblez un groupe, qu’on s’active.
+Dialogue: 0,0:05:15.96,0:05:17.25,Default,Tatsumaki,0000,0000,0000,,Il manque qui ?
+Dialogue: 0,0:05:17.79,0:05:21.92,Default,Baurgne,0000,0000,0000,,L’Association des monstres\Nnous a offert trois jours de répit.
+Dialogue: 0,0:05:22.05,0:05:23.55,Default,Baurgne,0000,0000,0000,,Il nous reste du temps.
+Dialogue: 0,0:05:24.38,0:05:28.93,Default,Baurgne,0000,0000,0000,,D’autres héros viendront\Ndès leurs préparatifs achevés.
+Dialogue: 0,0:05:30.01,0:05:32.51,Default,Atomic Samouraï,0000,0000,0000,,On reste en stand-by ?\NIl y a une raison ?
+Dialogue: 0,0:05:33.02,0:05:35.43,Default,Atomic Samouraï,0000,0000,0000,,Un enfant est retenu en otage ?
+Dialogue: 0,0:05:35.52,0:05:38.27,Default,Super Black Brillant,0000,0000,0000,,Tu n’es pas au courant,\NAtomic Samouraï ?
+Dialogue: 0,0:05:38.40,0:05:40.69,Default,Super Black Brillant,0000,0000,0000,,Et c’est moi, ou tu pues le sang ?
+Dialogue: 0,0:05:41.27,0:05:44.40,Default,Atomic Samouraï,0000,0000,0000,,Je patrouillais en montagne\Net dans les grottes.
+Dialogue: 0,0:05:44.53,0:05:49.49,Default,Atomic Samouraï,0000,0000,0000,,J’ai tranché du monstre,\Ntout ce que j’ai trouvé depuis hier.
+Dialogue: 0,0:05:49.91,0:05:53.95,Default,Atomic Samouraï,0000,0000,0000,,Sans jamais débusquer le repaire\Nde l’Association des monstres.
+Dialogue: 0,0:05:54.37,0:05:55.58,Default,Super Black Brillant,0000,0000,0000,,C’est bien normal.
+Dialogue: 0,0:05:55.70,0:05:59.21,Default,Super Black Brillant,0000,0000,0000,,Il est dans la ville fantôme.
+Dialogue: 0,0:05:59.38,0:06:01.88,Default,bushidrill,0000,0000,0000,,Quoi ?\NOù avez-vous eu cette information ?
+Dialogue: 0,0:06:02.21,0:06:06.01,Default,Atomic Samouraï,0000,0000,0000,,On va faire la guerre chez eux,\Nc’est d’une simplicité enfantine.
+Dialogue: 0,0:06:06.26,0:06:08.63,Default,Atomic Samouraï,0000,0000,0000,,Reposez-vous en attendant le départ.
+Dialogue: 0,0:06:08.76,0:06:11.18,TiretsDefault,,0224,0000,0000,,– Très bien.\N– Je vais me doucher.
+Dialogue: 0,0:06:12.97,0:06:13.85,Default,okamaitachi,0000,0000,0000,,Qui voilà ?
+Dialogue: 0,0:06:14.52,0:06:18.06,Default,Bogosse,0000,0000,0000,,On m’a vendu un groupe d’assaut\Naussi réduit qu’efficace.
+Dialogue: 0,0:06:18.52,0:06:21.69,Default,Bogosse,0000,0000,0000,,Que font des tanches ici ?
+Dialogue: 0,0:06:21.94,0:06:23.65,Default,Bogosse,0000,0000,0000,,On ne part pas en pique-nique.
+Dialogue: 0,0:06:23.82,0:06:28.53,Default,Bogosse,0000,0000,0000,,Peux-tu nous épargner cette bande\Nde joyeux lurons, Atomic Samouraï ?
+Dialogue: 0,0:06:29.36,0:06:33.41,Default,Bogosse,0000,0000,0000,,Les nuls se battent avec les nuls.\NC’est la base.
+Dialogue: 0,0:06:33.58,0:06:35.87,Default,Bogosse,0000,0000,0000,,Sauf s’ils canent tout de suite.
+Dialogue: 0,0:06:35.99,0:06:38.58,Default,Bogosse,0000,0000,0000,,Pas envie qu’ils servent\Nde bouclier ou d’otage.
+Dialogue: 0,0:06:38.79,0:06:40.54,Default,Bogosse,0000,0000,0000,,Ça nous compliquerait la tâche.
+Dialogue: 0,0:06:41.04,0:06:45.30,Default,Bogosse,0000,0000,0000,,S’ils tombent dans les griffes ennemies,\Nqu’ils se suicident, au moins.
+Dialogue: 0,0:06:45.42,0:06:47.26,Default,Super Black Brillant,0000,0000,0000,,Bogosse, tu t’emballes.
+Dialogue: 0,0:06:47.38,0:06:50.10,Default,Atomic Samouraï,0000,0000,0000,,Tu viens avec nous,\NBogosse masqué ?
+Dialogue: 0,0:06:50.47,0:06:51.89,Default,Bogosse,0000,0000,0000,,C’est l’évidence même.
+Dialogue: 0,0:06:52.05,0:06:55.76,Default,Bogosse,0000,0000,0000,,Ces saloperies de streums\Nont ruiné mon concert.
+Dialogue: 0,0:06:55.97,0:06:57.81,Default,Atomic Samouraï,0000,0000,0000,,C’est bien dommage.
+Dialogue: 0,0:06:57.93,0:07:00.73,Default,Atomic Samouraï,0000,0000,0000,,Mes disciples sont forts, tu sais.
+Dialogue: 0,0:07:00.85,0:07:04.36,Default,Atomic Samouraï,0000,0000,0000,,Ils porteront secours\Nau petit idol en porcelaine,
+Dialogue: 0,0:07:04.48,0:07:06.94,Default,Atomic Samouraï,0000,0000,0000,,je m’en assurerai.
+Dialogue: 0,0:07:07.07,0:07:08.74,Default,Atomic Samouraï,0000,0000,0000,,Tu peux venir sans crainte.
+Dialogue: 0,0:07:08.94,0:07:10.36,Default,Bogosse,0000,0000,0000,,Me porter secours ?
+Dialogue: 0,0:07:10.70,0:07:15.03,Default,Bogosse,0000,0000,0000,,Pitoyable. Il reste des gens\Nqui doutent de ma force ?
+Dialogue: 0,0:07:15.33,0:07:18.45,Default,Bogosse,0000,0000,0000,,Au sommet de la classe A,\Nje contrôle qui entre en S.
+Dialogue: 0,0:07:18.58,0:07:20.96,Default,Bogosse,0000,0000,0000,,Je serais en S si je le voulais.
+Dialogue: 0,0:07:21.54,0:07:23.63,Default,Bogosse,0000,0000,0000,,Comment lui dire ça…
+Dialogue: 0,0:07:23.92,0:07:26.34,Default,Bogosse,0000,0000,0000,,Faisons bref,\Npour les simples d’esprit.
+Dialogue: 0,0:07:26.71,0:07:28.71,Default,Bogosse,0000,0000,0000,,Je suis plus fort que toi.
+Dialogue: 0,0:07:29.76,0:07:31.51,Default,Atomic Samouraï,0000,0000,0000,,Première nouvelle.
+Dialogue: 0,0:07:31.63,0:07:34.30,Italique,iairon,0000,0000,0000,,Maître, n’entrez pas dans son jeu.
+Dialogue: 0,0:07:36.10,0:07:41.06,Default,Pri-Pri Prisonnier,0000,0000,0000,,M. le directeur, vous êtes sûr\Nde me libérer par la grande porte ?
+Dialogue: 0,0:07:41.19,0:07:44.15,Default,alcaide,0000,0000,0000,,C’est une mesure extrajudiciaire.
+Dialogue: 0,0:07:44.27,0:07:48.98,Default,alcaide,0000,0000,0000,,Écoute, on sait que tu t’évadais\Npour aller jouer les héros.
+Dialogue: 0,0:07:49.11,0:07:50.94,Default,alcaide,0000,0000,0000,,Ça aussi, c’est illégal.
+Dialogue: 0,0:07:51.86,0:07:56.41,Default,alcaide,0000,0000,0000,,Que l’Association des héros accepte\Nquelqu’un comme toi, ça me débecte,
+Dialogue: 0,0:07:56.53,0:07:58.74,Default,alcaide,0000,0000,0000,,mais là, je dois ravaler mon aigreur.
+Dialogue: 0,0:07:59.66,0:08:03.46,Default,alcaide,0000,0000,0000,,Il aura suffi d’un monstre félin\Npour s’en prendre à mes matons,
+Dialogue: 0,0:08:03.58,0:08:06.50,Default,alcaide,0000,0000,0000,,les changer en monstre\Net les enlever.
+Dialogue: 0,0:08:06.79,0:08:10.55,Default,alcaide,0000,0000,0000,,Pire, nombre de mes hommes\Nont perdu la vie.
+Dialogue: 0,0:08:10.67,0:08:14.97,Default,alcaide,0000,0000,0000,,Tu es un héros, pas vrai,\Nle boss des prisonniers ?
+Dialogue: 0,0:08:15.30,0:08:18.10,Default,alcaide,0000,0000,0000,,Venge-nous, s’il te plaît !
+Dialogue: 0,0:08:18.81,0:08:20.35,Default,Pri-Pri Prisonnier,0000,0000,0000,,Ainsi soit-il.
+Dialogue: 0,0:08:20.68,0:08:23.19,Default,Pri-Pri Prisonnier,0000,0000,0000,,Je vais leur faire payer les actes
+Dialogue: 0,0:08:23.31,0:08:26.19,Default,Pri-Pri Prisonnier,0000,0000,0000,,commis en mon absence.
+Dialogue: 0,0:08:26.94,0:08:28.61,Default,preso,0000,0000,0000,,Patron ! Attendez.
+Dialogue: 0,0:08:29.19,0:08:31.24,Default,preso,0000,0000,0000,,Je vous ai cousu un nouveau pull.
+Dialogue: 0,0:08:31.69,0:08:33.07,Default,preso,0000,0000,0000,,Vous en voulez ?
+Dialogue: 0,0:08:37.07,0:08:40.29,Default,Pri-Pri Prisonnier,0000,0000,0000,,Merci beaucoup.\NÇa me donne du courage.
+Dialogue: 0,0:08:42.75,0:08:43.62,Default,Petit Empereur,0000,0000,0000,,Dites…
+Dialogue: 0,0:08:43.96,0:08:45.79,Default,Petit Empereur,0000,0000,0000,,Vous voudriez pas vous barrer ?
+Dialogue: 0,0:08:46.04,0:08:47.88,Default,Petit Empereur,0000,0000,0000,,Vous me déconcentrez.
+Dialogue: 0,0:08:50.67,0:08:55.05,Default,Petit Empereur,0000,0000,0000,,Metal Knight, je sais que tu fais\Nsemblant d’être sorti. Réponds.
+Dialogue: 0,0:08:55.80,0:08:57.01,Italique,Metal Knight,0000,0000,0000,,Quoi ?
+Dialogue: 0,0:08:57.14,0:09:00.39,Default,Petit Empereur,0000,0000,0000,,J’ai l’impression de bosser pour rien.
+Dialogue: 0,0:09:01.93,0:09:05.10,Default,Petit Empereur,0000,0000,0000,,Tu as déjà trouvé la planque.\NJ’en suis sûr.
+Dialogue: 0,0:09:05.23,0:09:07.65,Default,Petit Empereur,0000,0000,0000,,Dis-nous où elle est,\Non manque de temps.
+Dialogue: 0,0:09:07.77,0:09:09.73,Default,Petit Empereur,0000,0000,0000,,Tu veux sacrifier l’otage ?
+Dialogue: 0,0:09:10.65,0:09:14.11,Italique,Metal Knight,0000,0000,0000,,Ne rien dire\Net abandonner le petit.
+Dialogue: 0,0:09:14.24,0:09:16.45,Italique,Metal Knight,0000,0000,0000,,Vous le dire\Net précipiter votre mort,
+Dialogue: 0,0:09:16.57,0:09:19.20,Italique,Metal Knight,0000,0000,0000,,à vous comme au petit.
+Dialogue: 0,0:09:19.32,0:09:23.58,Italique,Metal Knight,0000,0000,0000,,Ce sont mes choix.\NJe fais celui qui me paraît juste.
+Dialogue: 0,0:09:23.75,0:09:25.71,Default,Petit Empereur,0000,0000,0000,,Il y a un dernier choix.
+Dialogue: 0,0:09:25.87,0:09:27.79,Default,Petit Empereur,0000,0000,0000,,Participe à l’opération !
+Dialogue: 0,0:09:28.33,0:09:30.75,Default,Petit Empereur,0000,0000,0000,,Qu’est-ce qui te fait peur ?
+Dialogue: 0,0:09:30.88,0:09:33.80,Default,Petit Empereur,0000,0000,0000,,C’est ton armure, le problème ?
+Dialogue: 0,0:09:34.05,0:09:37.59,Default,Petit Empereur,0000,0000,0000,,Elle a été détruite ?\NPar quel monstre ? Et comment ?
+Dialogue: 0,0:09:38.93,0:09:41.18,Italique,Metal Knight,0000,0000,0000,,Orochi, le Roi des monstres.
+Dialogue: 0,0:09:41.81,0:09:43.27,Italique,Metal Knight,0000,0000,0000,,D’un seul coup.
+Dialogue: 0,0:09:43.39,0:09:47.64,Italique,Metal Knight,0000,0000,0000,,Un bras en moins, malgré ma garde.\NJe n’ai même pas pu m’autodétruire.
+Dialogue: 0,0:09:48.60,0:09:51.77,Default,Metal Knight,0000,0000,0000,,Je ne crains pas\Nl’Association des monstres.
+Dialogue: 0,0:09:52.36,0:09:55.90,Default,Metal Knight,0000,0000,0000,,D’autres entités maléfiques\Nen veulent à notre monde.
+Dialogue: 0,0:09:56.03,0:10:00.32,Default,Metal Knight,0000,0000,0000,,Elles profiteront sans vergogne\Nd’un trou dans notre défense.
+Dialogue: 0,0:10:00.70,0:10:02.58,Italique,Metal Knight,0000,0000,0000,,Prends garde, toi aussi.
+Dialogue: 0,0:10:02.70,0:10:05.25,Italique,Metal Knight,0000,0000,0000,,Ne fais pas confiance\Naux gens qui t’entourent.
+Dialogue: 0,0:10:05.54,0:10:08.46,Italique,Metal Knight,0000,0000,0000,,Tant que tu serviras la justice,\Ntu seras mieux seul.
+Dialogue: 0,0:10:08.67,0:10:10.75,Italique,Metal Knight,0000,0000,0000,,Entraîne-toi suffisamment
+Dialogue: 0,0:10:10.88,0:10:13.34,Italique,Metal Knight,0000,0000,0000,,et préserve tes forces,\NPetit Empereur.
+Dialogue: 0,0:10:18.76,0:10:21.35,Default,Rupin,0000,0000,0000,,L’Association des héros,\Nc’est du flan.
+Dialogue: 0,0:10:21.47,0:10:22.55,Default,Rupin,0000,0000,0000,,Vous comprenez ?
+Dialogue: 0,0:10:22.85,0:10:26.73,Default,Rupin,0000,0000,0000,,Mon fils attend les secours\Npendant qu’ils croisent les bras !
+Dialogue: 0,0:10:26.85,0:10:31.02,Default,Rupin,0000,0000,0000,,Trouvez-moi la planque des monstres\Ndans les ruines de la ville Z !
+Dialogue: 0,0:10:31.15,0:10:32.77,Default,Rupin,0000,0000,0000,,Et récupérez mon fils !
+Dialogue: 0,0:10:33.11,0:10:37.40,Default,Rupin,0000,0000,0000,,Votre combinaison de combat secrète\Na été importée illégalement.
+Dialogue: 0,0:10:37.53,0:10:42.03,Default,Rupin,0000,0000,0000,,Ses capacités surpassent de loin\Ncelles de ces faiblards de héros.
+Dialogue: 0,0:10:42.04,0:10:46.25,Sign,Sign,0000,0000,0000,,{\pos(325.33,245.33)\fs25\c&H000000&\3c&HFFFFFF&\bord2}LA MILICE DE RUPIN
+Dialogue: 0,0:10:42.37,0:10:44.12,Default,Rupin,0000,0000,0000,,{\an8}Exploitez leur plein potentiel
+Dialogue: 0,0:10:44.24,0:10:46.24,Default,Rupin,0000,0000,0000,,{\an8}et exterminez tous les monstres.
+Dialogue: 0,0:10:46.87,0:10:49.04,Default,Rupin,0000,0000,0000,,Je vous paierai ce que vous voulez.
+Dialogue: 0,0:10:49.16,0:10:52.79,Default,Rupin,0000,0000,0000,,Ramenez-moi Chenapon,\Net vos mômes ne connaîtront pas la faim.
+Dialogue: 0,0:10:52.92,0:10:53.92,Default,Rupin,0000,0000,0000,,Déploiement !
+Dialogue: 0,0:10:59.88,0:11:03.97,Default,Zombiman,0000,0000,0000,,C’est ce petit bâtiment,\Nsans le moindre doute.
+Dialogue: 0,0:11:04.60,0:11:06.06,Default,Zombiman,0000,0000,0000,,Échec et mat.
+Dialogue: 0,0:11:07.72,0:11:09.89,Italique,Fubuki,0000,0000,0000,,Le clan Fubuki appartient au passé.
+Dialogue: 0,0:11:10.39,0:11:12.65,Italique,Fubuki,0000,0000,0000,,C’est en partie la faute de ma sœur.
+Dialogue: 0,0:11:13.48,0:11:15.19,Italique,Fubuki,0000,0000,0000,,Reste que l’heure est grave.
+Dialogue: 0,0:11:15.40,0:11:19.65,Italique,Fubuki,0000,0000,0000,,Je vais établir une branche ici\Net demander une réunion immédiatement.
+Dialogue: 0,0:11:20.20,0:11:21.36,Default,Bomb,0000,0000,0000,,J’arrive.
+Dialogue: 0,0:11:21.49,0:11:23.24,Default,Fubuki,0000,0000,0000,,Saita… Vous êtes qui ?
+Dialogue: 0,0:11:23.41,0:11:25.49,Default,Bomb,0000,0000,0000,,Et vous ? Une amie à lui ?
+Dialogue: 0,0:11:25.95,0:11:28.58,Default,Bomb,0000,0000,0000,,Tu as une invitée, Saitama.
+Dialogue: 0,0:11:30.54,0:11:33.13,Default,King,0000,0000,0000,,Fubuki est revenue.
+Dialogue: 0,0:11:33.25,0:11:35.84,Default,Saitama,0000,0000,0000,,Pourquoi un seul de tes coups
+Dialogue: 0,0:11:35.96,0:11:38.21,Default,Saitama,0000,0000,0000,,a flingué mon monstre ?
+Dialogue: 0,0:11:38.55,0:11:40.51,Default,Genos,0000,0000,0000,,Que veux-tu, Blizzard infernal ?
+Dialogue: 0,0:11:40.63,0:11:42.59,Default,Genos,0000,0000,0000,,Je ne prends pas d’élèves.
+Dialogue: 0,0:11:42.68,0:11:44.18,Default,Bang,0000,0000,0000,,On est un peu à l’étroit.
+Dialogue: 0,0:11:44.30,0:11:47.18,Default,Bang,0000,0000,0000,,Tu peux me passer un patch ?
+Dialogue: 0,0:11:47.31,0:11:49.35,Default,Saitama,0000,0000,0000,,Pourquoi le vent est ma faiblesse ?
+Dialogue: 0,0:11:49.47,0:11:52.14,Default,Saitama,0000,0000,0000,,Je suis niveau 27,\Net toi à peine 15.
+Dialogue: 0,0:11:52.27,0:11:56.57,Default,King,0000,0000,0000,,Un Gogolem ne peut rien\Ncontre mon Chamiaou.
+Dialogue: 0,0:11:56.69,0:11:58.48,Default,King,0000,0000,0000,,C’est un perso nul.
+Dialogue: 0,0:11:58.82,0:12:01.35,Default,Saitama,0000,0000,0000,,Fallait le dire…\NEt Diablopoilaubras ?
+Dialogue: 0,0:12:01.50,0:12:05.28,Default,King,0000,0000,0000,,Non, il est tout nul…\NLes persos mignons sont les seuls pétés.
+Dialogue: 0,0:12:05.41,0:12:07.91,Default,Saitama,0000,0000,0000,,La flemme.\NÇa m’a coupé l’envie de jouer.
+Dialogue: 0,0:12:08.08,0:12:09.66,Italique,Fubuki,0000,0000,0000,,Pourquoi ils sont tous là ?
+Dialogue: 0,0:12:11.00,0:12:13.17,TiretsDefault,Saitama/Fubuki,0236,0000,0000,,– Pourquoi t’es là ?\N– Y a urgence !
+Dialogue: 0,0:12:13.37,0:12:15.50,Default,Fubuki,0000,0000,0000,,Tout mon clan a été détruit.
+Dialogue: 0,0:12:15.63,0:12:18.00,Default,Fubuki,0000,0000,0000,,Nos ennemis sont coriaces,\Nce coup-ci.
+Dialogue: 0,0:12:18.13,0:12:19.80,Default,Fubuki,0000,0000,0000,,C’est pas le moment de jouer.
+Dialogue: 0,0:12:19.92,0:12:22.72,Default,Fubuki,0000,0000,0000,,Tu sais ce qui se passe dehors ?
+Dialogue: 0,0:12:23.09,0:12:24.93,Default,Saitama,0000,0000,0000,,Pas besoin de piailler, ça va.
+Dialogue: 0,0:12:25.05,0:12:28.01,Default,Saitama,0000,0000,0000,,Je viens de rentrer.\NJ’ai le droit de me poser.
+Dialogue: 0,0:12:28.14,0:12:29.43,Default,Fubuki,0000,0000,0000,,Relève-toi !
+Dialogue: 0,0:12:29.56,0:12:33.56,Default,Genos,0000,0000,0000,,Comme le maître l’a dit,\Non a affronté notre lot de fléaux.
+Dialogue: 0,0:12:33.81,0:12:35.60,Default,Genos/Fubuki,0000,0000,0000,,Pense un peu à nous.
+Dialogue: 0,0:12:35.73,0:12:39.23,Default,Genos/Fubuki,0000,0000,0000,,Ça se voit en trois secondes,\Nvu votre état…
+Dialogue: 0,0:12:39.73,0:12:41.49,Default,Fubuki,0000,0000,0000,,J’ai déjà vu King ici,
+Dialogue: 0,0:12:41.65,0:12:44.99,Default,Fubuki,0000,0000,0000,,mais que fais-tu chez Saitama,\NCroc d’argent ?
+Dialogue: 0,0:12:45.28,0:12:47.62,Default,Bang,0000,0000,0000,,On a combattu ensemble.
+Dialogue: 0,0:12:47.74,0:12:50.49,Default,Bang,0000,0000,0000,,J’en profite\Npour me reposer dans sa piaule.
+Dialogue: 0,0:12:50.62,0:12:54.54,Default,Bang,0000,0000,0000,,Je me suis un peu trop excité,\Nça m’a bloqué le dos.
+Dialogue: 0,0:12:54.66,0:12:56.29,Default,Bomb,0000,0000,0000,,J’ai les genoux en compote.
+Dialogue: 0,0:12:56.42,0:12:59.46,Default,Bomb,0000,0000,0000,,Le Poing fluctutourbillonnant\Nn’est pas sans contrecoup.
+Dialogue: 0,0:12:59.84,0:13:00.80,Default,Fubuki,0000,0000,0000,,Eh bien…
+Dialogue: 0,0:13:01.05,0:13:03.26,Default,Fubuki,0000,0000,0000,,Ça ne devait pas\Nêtre une mince affaire.
+Dialogue: 0,0:13:03.51,0:13:07.47,Italique,Fubuki,0000,0000,0000,,Alors comment ça se fait\Nqu’il ait l’air pépère, lui ?
+Dialogue: 0,0:13:07.59,0:13:08.64,Default,Fubuki,0000,0000,0000,,Saitama.
+Dialogue: 0,0:13:08.76,0:13:11.26,Default,Fubuki,0000,0000,0000,,Rassure-moi, tu paniques, en vrai ?
+Dialogue: 0,0:13:11.39,0:13:13.36,Default,Saitama,0000,0000,0000,,Y a pas de raison.\NJ’ai l’habitude.
+Dialogue: 0,0:13:14.43,0:13:16.90,Default,Fubuki,0000,0000,0000,,De tout ce cirque ?\NÀ d’autres !
+Dialogue: 0,0:13:17.31,0:13:19.27,Default,Saitama,0000,0000,0000,,Pourquoi elle s’énerve, l’autre ?
+Dialogue: 0,0:13:19.40,0:13:23.16,Default,King,0000,0000,0000,,On est un peu dans la mélasse,\Nplus que d’habitude, tu sais.
+Dialogue: 0,0:13:23.40,0:13:25.03,Default,Fubuki,0000,0000,0000,,Viens t’asseoir.
+Dialogue: 0,0:13:23.41,0:13:24.37,Sign,Sign,0000,0000,0000,,{\an8\fad(0,100)\fnComic Sans MS\fs25\bord0\c&H000000&\pos(385.78,35.56)}BAM BAM
+Dialogue: 0,0:13:25.20,0:13:27.45,Default,Fubuki,0000,0000,0000,,On a une réunion de crise à tenir.
+Dialogue: 0,0:13:26.41,0:13:27.37,Sign,Sign,0000,0000,0000,,{\an8\fad(0,100)\fnComic Sans MS\fs25\bord0\c&H000000&\pos(385.78,35.56)}BAM BAM
+Dialogue: 0,0:13:27.57,0:13:29.00,Default,Saitama,0000,0000,0000,,Pourquoi t’es venue ?
+Dialogue: 0,0:13:29.20,0:13:30.16,Default,Fubuki,0000,0000,0000,,Genos !
+Dialogue: 0,0:13:30.28,0:13:35.04,Default,Fubuki,0000,0000,0000,,Tu es un héros de classe S,\Net l’Association ne t’a rien dit ?
+Dialogue: 0,0:13:37.00,0:13:38.79,Default,Genos,0000,0000,0000,,J’étais trop occupé
+Dialogue: 0,0:13:38.92,0:13:42.30,Default,Genos,0000,0000,0000,,à soutenir mon maître\Nqui combattait au tournoi.
+Dialogue: 0,0:13:42.50,0:13:46.30,Default,Genos,0000,0000,0000,,J’ai perdu ma radio de l’Association,\Nelle a fondu.
+Dialogue: 0,0:13:46.42,0:13:49.39,Default,Bang,0000,0000,0000,,Je l’ai laissé tomber\Ndans les entrailles de la Terre.
+Dialogue: 0,0:13:49.72,0:13:51.76,Default,King,0000,0000,0000,,La mienne est cassée aussi.
+Dialogue: 0,0:13:51.89,0:13:54.31,Default,King,0000,0000,0000,,Sûrement un choc\Nà cause du coup de Saitama.
+Dialogue: 0,0:13:54.60,0:13:56.18,Default,Fubuki,0000,0000,0000,,Qu’allez-vous faire, alors ?
+Dialogue: 0,0:13:56.31,0:13:58.81,Default,Fubuki,0000,0000,0000,,On entre en guerre\Ncontre les monstres.
+Dialogue: 0,0:13:59.02,0:14:01.11,Default,Genos,0000,0000,0000,,Je dois réparer mon corps.
+Dialogue: 0,0:14:01.23,0:14:03.19,Default,Fubuki,0000,0000,0000,,Je dirais que ça se voit.
+Dialogue: 0,0:14:03.32,0:14:07.28,Default,Bang,0000,0000,0000,,Mon frère et moi avons besoin de temps\Npour nous requinquer.
+Dialogue: 0,0:14:07.40,0:14:08.82,Default,Bomb,0000,0000,0000,,Dur, dur, la vieillesse.
+Dialogue: 0,0:14:09.36,0:14:10.24,Default,Fubuki/King,0000,0000,0000,,Et toi ?
+Dialogue: 0,0:14:10.37,0:14:13.20,Default,Fubuki/King,0000,0000,0000,,J’ai une autre urgence sur le feu.
+Dialogue: 0,0:14:13.54,0:14:16.66,Default,Fubuki,0000,0000,0000,,Ça ne laisse plus que Saitama et moi.
+Dialogue: 0,0:14:17.21,0:14:18.62,Default,Fubuki,0000,0000,0000,,Tu vas faire quoi ?
+Dialogue: 0,0:14:18.83,0:14:23.09,Default,Fubuki,0000,0000,0000,,Un groupe d’assaut spécial\Nest monté au QG en ce moment même.
+Dialogue: 0,0:14:23.34,0:14:26.59,Default,Fubuki,0000,0000,0000,,L’attitude des classe B\Npendant cette crise déterminera
+Dialogue: 0,0:14:26.72,0:14:29.01,Default,Fubuki,0000,0000,0000,,l’opinion des dirigeants\Nà leur sujet.
+Dialogue: 0,0:14:29.18,0:14:31.39,Default,Fubuki,0000,0000,0000,,En s’illustrant, on pourrait…
+Dialogue: 0,0:14:31.39,0:14:32.89,Default,Sign,0000,0000,0000,,{\an8\fnComic Sans MS\fs35\bord0\c&H000000&\pos(120.89,37.33)}FLEMME
+Dialogue: 0,0:14:31.80,0:14:32.72,Default,Fubuki,0000,0000,0000,,Tu m’écoutes ?
+Dialogue: 0,0:14:33.51,0:14:39.85,Default,Fubuki,0000,0000,0000,,On combat un gros groupe qui rassemble\Ndes monstres habitués à tuer en solo.{Émilie : Cet épisode est d’une longueur insoutenable, c’est pas facile de se dire qu’il m’en reste 23 comme ça…}
+Dialogue: 0,0:14:40.52,0:14:42.06,Default,Fubuki,0000,0000,0000,,Même si, pragmatiquement,
+Dialogue: 0,0:14:42.19,0:14:44.57,Default,Fubuki,0000,0000,0000,,ils ne font sûrement pas équipe.
+Dialogue: 0,0:14:44.69,0:14:48.36,Default,Fubuki,0000,0000,0000,,Un monstre doit avoir pris le dessus\Nsur tous les autres.
+Dialogue: 0,0:14:48.57,0:14:51.32,Default,Bang,0000,0000,0000,,C’est sûrement le cas.\NUn groupement de monstres…
+Dialogue: 0,0:14:51.49,0:14:55.24,Default,Bang,0000,0000,0000,,Si Garoh se joint à eux,\Nça va devenir un sacré bourbier.
+Dialogue: 0,0:14:55.37,0:14:56.33,Default,Bomb,0000,0000,0000,,Oui.
+Dialogue: 0,0:14:56.45,0:15:00.08,Default,Bomb,0000,0000,0000,,On ne le retrouvera plus jamais seul.
+Dialogue: 0,0:15:00.21,0:15:04.42,Default,Bomb,0000,0000,0000,,Et s’il reste des monstres\Naussi puissants que la scolopendre,
+Dialogue: 0,0:15:04.63,0:15:08.05,Default,Bomb,0000,0000,0000,,autant aller élever des chèvres\Ntout de suite, Bang.
+Dialogue: 0,0:15:08.21,0:15:12.84,Default,King,0000,0000,0000,,Saitama, il y avait le chasseur de héros\Nque tu voulais voir, dans la forêt.
+Dialogue: 0,0:15:12.97,0:15:15.01,Default,King,0000,0000,0000,,Vous vous êtes ratés de peu.
+Dialogue: 0,0:15:15.14,0:15:19.18,Default,Saitama,0000,0000,0000,,J’en ai entendu parler sur le retour.\NPas mal de héros y sont passés.
+Dialogue: 0,0:15:21.39,0:15:22.52,Default,Saitama,0000,0000,0000,,Je vais me le faire.
+Dialogue: 0,0:15:22.65,0:15:26.82,Default,Saitama,0000,0000,0000,,C’est pas moi qu’il cherchait,\Nça me gonfle. Il aime pas les chauves ?
+Dialogue: 0,0:15:28.11,0:15:29.82,TiretsDefault,King/Genos,0272,0000,0000,,– Saitama ?\N– Maître !
+Dialogue: 0,0:15:29.95,0:15:31.32,Default,Saitama,0000,0000,0000,,Je reviens tout de suite.
+Dialogue: 0,0:15:31.86,0:15:33.74,Default,Genos,0000,0000,0000,,Vous savez où est Garoh ?
+Dialogue: 0,0:15:33.99,0:15:35.33,Default,Saitama,0000,0000,0000,,Je vais le chercher.
+Dialogue: 0,0:15:35.99,0:15:38.87,Default,Saitama,0000,0000,0000,,Quand je l’aurai trouvé,\Nje vais le cogner.
+Dialogue: 0,0:15:40.12,0:15:42.25,Default,Saitama,0000,0000,0000,,Et je passerai acheter du chou.
+Dialogue: 0,0:15:45.67,0:15:49.05,Italique,Fubuki,0000,0000,0000,,Même quand je donne l’impulsion,\Nils me méprisent.
+Dialogue: 0,0:15:49.38,0:15:53.47,Italique,Fubuki,0000,0000,0000,,Saitama et les siens\Nne veulent pas de mon clan !
+Dialogue: 0,0:16:06.48,0:16:08.02,Italique,Garoh,0000,0000,0000,,Où suis-je ?
+Dialogue: 0,0:16:08.15,0:16:11.65,Italique,Garoh,0000,0000,0000,,J’ai survécu ?\NMes souvenirs sont trop flous…
+Dialogue: 0,0:16:12.40,0:16:14.78,Italique,Scrutt,0000,0000,0000,,Bienvenue\Nà l’Association des monstres.
+Dialogue: 0,0:16:14.91,0:16:19.24,Italique,Scrutt,0000,0000,0000,,Si tu lis ceci,\Nc’est que tu as repris tes esprits.
+Dialogue: 0,0:16:19.49,0:16:23.37,Italique,Scrutt,0000,0000,0000,,Garde bien en tête\Nque nous t’avons sauvé la vie.
+Dialogue: 0,0:16:23.50,0:16:27.46,Italique,Scrutt,0000,0000,0000,,Reste dans cette pièce\Nsans chercher à en sortir, merci.
+Dialogue: 0,0:16:27.63,0:16:30.96,Italique,Scrutt,0000,0000,0000,,Dehors, tu ne serviras\Nque de chair à héros.
+Dialogue: 0,0:16:31.09,0:16:33.09,Italique,Scrutt,0000,0000,0000,,Il te faut un foyer.
+Dialogue: 0,0:16:33.22,0:16:36.43,Italique,Scrutt,0000,0000,0000,,Nous t’avons préparé des vêtements.\NTu peux les mettre.
+Dialogue: 0,0:16:38.22,0:16:42.23,Italique,Garoh,0000,0000,0000,,Aïe… J’ai mal partout.\NC’est un supplice.
+Dialogue: 0,0:16:42.60,0:16:45.56,Italique,Garoh,0000,0000,0000,,J’ai autant soif que faim.
+Dialogue: 0,0:16:45.73,0:16:48.06,Italique,Garoh,0000,0000,0000,,Faut que j’avale quelque chose.
+Dialogue: 0,0:16:50.69,0:16:52.99,Italique,Garoh,0000,0000,0000,,J’affrontais les deux viocs…
+Dialogue: 0,0:16:53.15,0:16:55.61,Italique,Garoh,0000,0000,0000,,Une saloperie de piaf s’est pointée.
+Dialogue: 0,0:16:55.82,0:16:58.41,Italique,Garoh,0000,0000,0000,,L’Association des monstres ?\NQuelle blague !
+Dialogue: 0,0:16:58.99,0:17:02.37,Italique,Garoh,0000,0000,0000,,Qu’ont fait les vieux,\Ncontre la scolopendre ?
+Dialogue: 0,0:17:03.25,0:17:04.62,Italique,Garoh,0000,0000,0000,,Je m’en tape.
+Dialogue: 0,0:17:05.12,0:17:08.29,Italique,Garoh,0000,0000,0000,,L’air se fait rare et l’odeur du sang\Nest omniprésente…
+Dialogue: 0,0:17:08.43,0:17:09.54,Italique,Garoh,0000,0000,0000,,Je vais vomir.
+Dialogue: 0,0:17:09.84,0:17:12.55,Italique,Garoh,0000,0000,0000,,Tout est trop calme,\Nmes oreilles sifflent.
+Dialogue: 0,0:17:12.67,0:17:14.09,Italique,Garoh,0000,0000,0000,,Suis-je loin sous terre ?
+Dialogue: 0,0:17:14.51,0:17:15.84,Italique,Garoh,0000,0000,0000,,Je m’en tape aussi.
+Dialogue: 0,0:17:18.80,0:17:21.10,Default,Pabrika,0000,0000,0000,,Pardonnez-nous !\NC’est notre faute.
+Dialogue: 0,0:17:21.22,0:17:23.89,Default,Pabrika,0000,0000,0000,,C’est fini,\Non vous cherchera plus de noises.
+Dialogue: 0,0:17:24.48,0:17:26.10,Default,Bazilik,0000,0000,0000,,Je veux pas mourir !
+Dialogue: 0,0:17:26.23,0:17:30.61,Default,Scrutt,0000,0000,0000,,Vous avez tué deux de mes soldats,\Nvous comprendrez qu’il est trop tard.
+Dialogue: 0,0:17:30.73,0:17:33.36,Default,Scrutt,0000,0000,0000,,On ne peut pas vous laisser partir.
+Dialogue: 0,0:17:33.61,0:17:37.32,Default,Scrutt,0000,0000,0000,,Votre chef vous a armés\Njusqu’aux dents,
+Dialogue: 0,0:17:37.45,0:17:39.41,Default,Scrutt,0000,0000,0000,,montrez-nous votre puissance.
+Dialogue: 0,0:17:39.53,0:17:44.50,Default,Scrutt,0000,0000,0000,,On aime jouer avec les choses\Nqui osent nous résister, ici.
+Dialogue: 0,0:17:45.87,0:17:47.58,Default,Pabrika,0000,0000,0000,,C’est sa faute…
+Dialogue: 0,0:17:47.75,0:17:52.34,Default,Pabrika,0000,0000,0000,,Sans ce foutu robot,\Non aurait pu fuir à la surface !
+Dialogue: 0,0:17:52.50,0:17:56.38,Default,Scrutt,0000,0000,0000,,Tu ne t’es pas survendu, mon cher.\NMerci de les avoir amenés.
+Dialogue: 0,0:17:56.51,0:17:59.51,Default,Scrutt,0000,0000,0000,,Ça fait plaisir d’avoir\Ndu sang neuf de valeur.
+Dialogue: 0,0:17:59.64,0:18:01.35,Default,Scrutt,0000,0000,0000,,Tu es admis avec plaisir.
+Dialogue: 0,0:18:01.47,0:18:04.10,Default,Scrutt,0000,0000,0000,,Comment tu t’appelles, le nouveau ?
+Dialogue: 0,0:18:04.31,0:18:06.43,Default,Machine Divine G5,0000,0000,0000,,Je suis la machine divine G5.
+Dialogue: 0,0:18:04.81,0:18:10.81,Sign,Sign,0000,0000,0000,,{\pos(101.33,118.22)\fs18\bord2.2\blur1\shad0\c&H090187&\3c&H000000&\4c&H000000&\3a&H32&\b1}FLÉAU : DÉMON\NMACHINE DIVINE G5
+Dialogue: 0,0:18:04.81,0:18:10.81,Sign,Sign,0000,0000,0000,,{\pos(101.33,118.22)\fs18\shad0\c&H090187&\3c&HFFFFFF&\b1}FLÉAU : DÉMON\NMACHINE DIVINE G5
+Dialogue: 0,0:18:06.64,0:18:10.81,Default,Machine Divine G5,0000,0000,0000,,L’Organisation m’a envoyé\Nafin que je garnisse vos rangs.
+Dialogue: 0,0:18:10.94,0:18:12.07,Default,Scrutt,0000,0000,0000,,L’Organisation ?
+Dialogue: 0,0:18:12.27,0:18:14.98,Default,Scrutt,0000,0000,0000,,Comment nous as-tu trouvés\Ndu premier coup ?
+Dialogue: 0,0:18:15.11,0:18:16.88,Default,Scrutt,0000,0000,0000,,Puis-je parler à ton concepteur ?
+Dialogue: 0,0:18:17.90,0:18:21.49,Default,Scrutt,0000,0000,0000,,Tant pis, tu es le bienvenu.\NUne autre affaire m’attend.
+Dialogue: 0,0:18:21.83,0:18:25.08,Italique,Scrutt,0000,0000,0000,,Tu peux rester caché, Garoh.\NJe suis à toi dans une minute.
+Dialogue: 0,0:18:25.79,0:18:29.08,Italique,Garoh,0000,0000,0000,,Il m’a parlé dans ma tête.\NPar télépathie ?
+Dialogue: 0,0:18:29.21,0:18:32.63,Default,Machine divine G5,0000,0000,0000,,Si je puis me permettre,\Naprès avoir croisé le fer avec eux,
+Dialogue: 0,0:18:32.75,0:18:37.76,Default,Machine divine G5,0000,0000,0000,,leurs combinaisons de combat\Nont des fonctions qui seraient utiles.
+Dialogue: 0,0:18:38.22,0:18:41.47,Default,Machine divine G5,0000,0000,0000,,Elles sont adaptées à leur utilisateur.
+Dialogue: 0,0:18:41.59,0:18:45.64,Default,Machine divine G5,0000,0000,0000,,Personne d’autre ne peut s’en servir,\Nencore moins un monstre.
+Dialogue: 0,0:18:45.85,0:18:49.60,Default,Scrutt,0000,0000,0000,,Mieux vaut les laisser partir\Net en faire nos pions, c’est ça ?
+Dialogue: 0,0:18:51.10,0:18:52.98,Default,do-s,0000,0000,0000,,Ils sont à moi !
+Dialogue: 0,0:18:53.15,0:18:55.15,Default,do-s,0000,0000,0000,,Je vais nous les discipliner.
+Dialogue: 0,0:18:56.44,0:18:57.78,Default,Barbane,0000,0000,0000,,Nous discipliner ?
+Dialogue: 0,0:18:57.90,0:18:59.57,Default,Safranne,0000,0000,0000,,Laissez-nous partir, pitié !
+Dialogue: 0,0:19:00.20,0:19:01.32,Default,do-s,0000,0000,0000,,Silence !
+Dialogue: 0,0:19:07.45,0:19:09.00,Default,do-s,0000,0000,0000,,Je préfère ça.
+Dialogue: 0,0:19:09.12,0:19:13.33,Default,do-s,0000,0000,0000,,Des esclaves bien dévoués\Nà leur maîtresse, j’aime ça.
+Dialogue: 0,0:19:23.43,0:19:26.18,Default,Scrutt,0000,0000,0000,,Bonjour, Garoh.\NTu t’es vite réveillé.
+Dialogue: 0,0:19:26.31,0:19:27.89,Default,Monstres,0000,0000,0000,,C’est le chasseur de héros ?
+Dialogue: 0,0:19:28.02,0:19:29.85,Default,Monstres,0000,0000,0000,,Pas mal.\NIl a tout mon soutien !
+Dialogue: 0,0:19:29.98,0:19:33.73,Default,Monstres,0000,0000,0000,,Comment Scrutt a pu s’enticher\Nd’un vulgaire humain ?
+Dialogue: 0,0:19:34.02,0:19:35.15,Default,Monstres/Scrutt,0000,0000,0000,,Faites silence.
+Dialogue: 0,0:19:35.44,0:19:37.78,Default,Scrutt,0000,0000,0000,,Lui et moi\Navons des choses à nous dire.
+Dialogue: 0,0:19:38.11,0:19:40.65,Italique,Garoh,0000,0000,0000,,C’est quoi, le gros truc au fond ?
+Dialogue: 0,0:19:41.24,0:19:42.91,Default,Garoh,0000,0000,0000,,Qu’attendez-vous de moi ?
+Dialogue: 0,0:19:43.11,0:19:45.78,Default,Scrutt,0000,0000,0000,,À cause de la dernière bataille,
+Dialogue: 0,0:19:45.91,0:19:49.83,Default,Scrutt,0000,0000,0000,,nous avons moins\Nde trente fléaux de niveau Démon.
+Dialogue: 0,0:19:50.08,0:19:53.21,Default,Scrutt,0000,0000,0000,,Même si la victoire\Nreste à notre portée,
+Dialogue: 0,0:19:53.33,0:19:57.96,Default,Scrutt,0000,0000,0000,,nous manquons de deux choses :\Nd’esprit de corps et de leaders.
+Dialogue: 0,0:19:58.42,0:20:02.55,Default,Scrutt,0000,0000,0000,,Deviens un de nos cadres.\NJe te veux comme adjoint.
+Dialogue: 0,0:20:02.76,0:20:05.80,Default,Noirozoïde,0000,0000,0000,,Cadre dès son entrée ?\NC’est une belle affaire.
+Dialogue: 0,0:20:06.10,0:20:07.39,Default,Scrutt,0000,0000,0000,,Des gens comme lui,
+Dialogue: 0,0:20:07.51,0:20:12.35,Default,Scrutt,0000,0000,0000,,qui haïssent viscéralement les héros,\Nvoilà ce que je cherche.
+Dialogue: 0,0:20:12.52,0:20:14.35,Default,Scrutt,0000,0000,0000,,Sans l’aide de personne,
+Dialogue: 0,0:20:14.48,0:20:17.19,Default,Scrutt,0000,0000,0000,,il s’est battu à bout de forces
+Dialogue: 0,0:20:17.32,0:20:20.07,Default,Scrutt,0000,0000,0000,,et a tenu la dragée haute\Nà des classe S.
+Dialogue: 0,0:20:21.44,0:20:25.24,Default,Scrutt,0000,0000,0000,,Cela dit, notre seigneur Orochi\Npose une condition à ton entrée.
+Dialogue: 0,0:20:25.37,0:20:29.16,Default,Scrutt,0000,0000,0000,,Prouve-nous\Nque tu es un véritable monstre.
+Dialogue: 0,0:20:29.24,0:20:30.66,Default,Garoh/Orochi,0000,0000,0000,,En me greffant une corne ?
+Dialogue: 0,0:20:30.79,0:20:32.37,Default,Garoh/Orochi,0000,0000,0000,,Je te donne 24 h.
+Dialogue: 0,0:20:32.62,0:20:36.04,Default,Orochi,0000,0000,0000,,Apporte-moi la tête d’un héros,\Npeu importe lequel.
+Dialogue: 0,0:20:36.42,0:20:37.92,Default,Garoh,0000,0000,0000,,J’en ai déjà pris deux.
+Dialogue: 0,0:20:38.09,0:20:42.09,Default,Phénix,0000,0000,0000,,Dommage pour toi,\NCroc d’argent et son frère sont en vie.
+Dialogue: 0,0:20:42.22,0:20:44.18,Default,Phénix,0000,0000,0000,,La scolopendre a été vaincue.
+Dialogue: 0,0:20:48.60,0:20:52.39,Italique,Scrutt,0000,0000,0000,,Navré de vous convoquer.\NJ’ai un service à vous demander.
+Dialogue: 0,0:20:53.10,0:20:54.64,Sign,Sign,0000,0000,0000,,{\pos(104,59.56)\fs18\bord2.2\blur1\shad0\c&H090187&\3c&H000000&\4c&H000000&\3a&H32&\b1}FLÉAU : DÉMON\NDIVINSECTE
+Dialogue: 0,0:20:53.10,0:20:54.64,Sign,Sign,0000,0000,0000,,{\pos(104,59.56)\fs18\shad0\c&H090187&\3c&HFFFFFF&\b1}FLÉAU : DÉMON\NDIVINSECTE
+Dialogue: 0,0:20:53.18,0:20:54.52,Default,Divinsecte,0000,0000,0000,,Quel genre de service ?
+Dialogue: 0,0:20:54.64,0:20:56.81,Default,Sécatoroi,0000,0000,0000,,Les hurlements humains\Nme manquent,
+Dialogue: 0,0:20:55.48,0:21:00.53,Sign,Sign,0000,0000,0000,,{\pos(554.89,52.44)\fs18\bord2.2\blur1\shad0\c&H090187&\3c&H000000&\4c&H000000&\3a&H32&\b1}FLÉAU : DÉMON\NSÉCATOROI
+Dialogue: 0,0:20:55.48,0:21:00.53,Sign,Sign,0000,0000,0000,,{\pos(554.89,52.44)\fs18\shad0\c&H090187&\3c&HFFFFFF&\b1}FLÉAU : DÉMON\NSÉCATOROI
+Dialogue: 0,0:20:56.94,0:21:00.53,Default,Sécatoroi,0000,0000,0000,,alors dis-nous tout\Navant que je devienne fou.
+Dialogue: 0,0:21:00.69,0:21:02.61,Default,Scrutt,0000,0000,0000,,Garoh est sorti à la surface.
+Dialogue: 0,0:21:03.50,0:21:04.89,Default,Scrutt,0000,0000,0000,,Suivez-le.
+Dialogue: 0,0:22:31.89,0:22:33.72,Default,Crédits,0000,0000,0000,,Traduction : Émilie M.
+Dialogue: 0,0:22:33.87,0:22:35.87,Default,Crédits,0000,0000,0000,,Repérage : Michaël Seguin\NRelecture : Mathieu Lachassagne
+Dialogue: 0,0:22:36.87,0:22:38.54,Default,Flame,0000,0000,0000,,Hier, Mutant est mort,
+Dialogue: 0,0:22:38.66,0:22:41.21,Default,Flame,0000,0000,0000,,et maintenant,\Nc’est la Grande scolopendre.
+Dialogue: 0,0:22:41.33,0:22:44.46,Default,Wind,0000,0000,0000,,Deux cadres manquants\Nà la veille de l’ultime bataille,
+Dialogue: 0,0:22:44.59,0:22:46.59,Default,Wind,0000,0000,0000,,Scrutt ne l’a pas vu venir.
+Dialogue: 0,0:22:46.71,0:22:50.76,Default,Flame,0000,0000,0000,,C’est ce qui le pousse\Nà inviter le chasseur de héros ?
+Dialogue: 0,0:22:50.97,0:22:55.47,Default,Wind,0000,0000,0000,,Les voies de Scrutt sont impénétrables.\NEt franchement, je m’en tape.
+Dialogue: 0,0:22:55.60,0:22:58.60,Default,Wind,0000,0000,0000,,Je veux éliminer Flash\Net l’Association des héros.
+Dialogue: 0,0:22:59.14,0:23:02.56,Default,Flame,0000,0000,0000,,D’ailleurs, qu’est devenu ton invité,\NSonic le Foudroyant ?
+Dialogue: 0,0:23:02.73,0:23:06.53,Default,Wind,0000,0000,0000,,Jamais revu. Il a peut-être\Nsuccombé aux cellules de monstre.
+Dialogue: 0,0:23:10.66,0:23:14.87,Default,Sonic,0000,0000,0000,,J’ai morflé toute la nuit,\Nmais ça va mieux.
+Dialogue: 0,0:23:15.03,0:23:19.58,Default,Sonic,0000,0000,0000,,Je la sens pas, cette asso.\NIls m’ont pas dit pour la chiasse.
+Dialogue: 0,0:23:19.71,0:23:21.17,Default,Sonic,0000,0000,0000,,Ça va se payer.
+Dialogue: 0,0:23:23.25,0:23:24.13,Default,Sonic,0000,0000,0000,,M’enfin bon.
+Dialogue: 0,0:23:24.50,0:23:27.51,Default,Sonic,0000,0000,0000,,M’allier aux monstres\Nn’est pas dans mes intentions.
+Dialogue: 0,0:23:27.63,0:23:30.05,Default,Sonic,0000,0000,0000,,Je vais me servir d’eux, point.
+Dialogue: 0,0:23:30.17,0:23:32.93,Default,Sonic,0000,0000,0000,,Tout ce que je veux, c’est Saitama.
+Dialogue: 0,0:23:33.18,0:23:37.06,Default,Sonic,0000,0000,0000,,Mais je sens maintenant\Nun nouveau pouvoir affluer en moi.
+Dialogue: 0,0:23:37.52,0:23:40.27,Default,Sonic,0000,0000,0000,,Quelque chose a changé\Ndans mon corps.
+Dialogue: 0,0:23:40.52,0:23:45.15,Default,Sonic,0000,0000,0000,,Je me trouve plus léger…\NÇa prendra du temps de m’adapter.
+Dialogue: 0,0:23:45.44,0:23:47.19,Italique,Sonic,0000,0000,0000,,Je me change en monstre…
+Dialogue: 0,0:23:47.32,0:23:50.19,Italique,Sonic,0000,0000,0000,,Pour ce que ça me fait,\Nc’est pas un drame !
+Dialogue: 0,0:23:50.90,0:23:55.91,Sign,Sign,0000,0000,0000,,{\pos(115.56,87.11)\c&H000000&\3c&HFFFFFF&\bord2}SONIC A PERDU 2 KG
+Dialogue: 0,0:23:55.91,0:24:00.91,Sign,Sign,0000,0000,0000,,{\pos(318,95)\fnComic Sans MS\fs35\bord0}LA CONDITION DU MONSTRE
+

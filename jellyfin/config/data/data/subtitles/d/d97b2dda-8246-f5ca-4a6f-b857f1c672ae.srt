@@ -1,0 +1,3014 @@
+1
+00:01:03,313 --> 00:01:04,147
+Nagy a baj.
+
+2
+00:01:04,731 --> 00:01:07,525
+A tűz átterjedt az erdőre
+a harmadik kerületben.
+
+3
+00:01:08,109 --> 00:01:12,864
+Nem hívhatnánk több helikoptert?
+Ha az így megy tovább, leég a hegyoldal.
+
+4
+00:01:12,864 --> 00:01:16,284
+A fenébe!
+Miért terjed ilyen gyorsan a tűz?
+
+5
+00:01:29,464 --> 00:01:31,132
+Itt meg mi történt?
+
+6
+00:01:38,681 --> 00:01:40,391
+Kidőltek a fák.
+
+7
+00:01:40,975 --> 00:01:43,186
+Talán itt ért földet valami?
+
+8
+00:01:43,186 --> 00:01:46,397
+Nem, a jelentésekben
+semmi ilyesmi nem szerepelt.
+
+9
+00:01:50,068 --> 00:01:51,653
+Mont Blanc!
+
+10
+00:01:51,653 --> 00:01:53,029
+Reinhardt professzor!
+
+11
+00:01:53,029 --> 00:01:55,740
+Az én Mont Blancom!
+
+12
+00:01:55,740 --> 00:01:57,283
+Professzor úr!
+
+13
+00:01:58,159 --> 00:01:59,077
+Eresszenek el!
+
+14
+00:01:59,077 --> 00:02:02,121
+Nem, uram!
+Túl veszélyes lenne közelebb mennie!
+
+15
+00:02:02,121 --> 00:02:08,169
+Nem észlelem a jelét.
+Megszakadt a kapcsolatom Mont Blanckal!
+
+16
+00:03:11,524 --> 00:03:13,276
+Mi a baj, Gesicht?
+
+17
+00:03:17,780 --> 00:03:19,949
+Hát... Nincs semmi baj.
+
+18
+00:03:19,949 --> 00:03:24,412
+Az utóbbi időben elég fáradtnak tűnsz.
+Nem hajszolod túl magad?
+
+19
+00:03:24,412 --> 00:03:26,456
+Kivehetnél egy kis szabadságot.
+
+20
+00:03:26,456 --> 00:03:27,415
+Jól vagyok.
+
+21
+00:03:28,124 --> 00:03:29,417
+Ne aggódj!
+
+22
+00:03:34,756 --> 00:03:38,885
+{\an8}<i>Amint látják, a hegyen
+még két nap után is fehér füst gomolyog,</i>
+
+23
+00:03:38,885 --> 00:03:41,304
+{\an8}<i>és helyenként újra felcsapnak a lángok.</i>
+
+24
+00:03:42,472 --> 00:03:48,770
+<i>Az ügyet vizsgáló bizottság szerint
+a Svájci Erdészet robotjának,</i>
+
+25
+00:03:48,770 --> 00:03:52,982
+<i>Mont Blancnak a darabjait
+találták meg az erdőtűz közelében.</i>
+
+26
+00:03:53,900 --> 00:03:57,487
+{\an8}<i>Mont Blanc
+egy világhírű túravezető robot volt,</i>
+
+27
+00:03:58,488 --> 00:04:01,699
+{\an8}<i>akit nagyon kedveltek
+a gyerekek és a hegymászók.</i>
+
+28
+00:04:01,699 --> 00:04:05,161
+<i>És olyan faritkító programon dolgozott,
+amely által</i>
+
+29
+00:04:05,161 --> 00:04:07,372
+<i>harmóniában élhetünk a természettel.</i>
+
+30
+00:04:08,706 --> 00:04:13,294
+<i>A világ népei részvétüket fejezik ki
+szeretett Mont Blancunk elvesztése miatt.</i>
+
+31
+00:04:20,176 --> 00:04:21,678
+Igen, itt Gesicht.
+
+32
+00:04:23,930 --> 00:04:25,473
+Igen. Értettem.
+
+33
+00:04:26,099 --> 00:04:27,016
+Máris megyek.
+
+34
+00:04:28,351 --> 00:04:32,271
+- A munkahelyről hívtak. Mennem kell.
+- De mi lesz a reggeliddel?
+
+35
+00:04:43,533 --> 00:04:44,367
+Helena.
+
+36
+00:04:45,118 --> 00:04:48,037
+Ha majd veszek ki szabadságot,
+elmegyünk valahova?
+
+37
+00:04:49,622 --> 00:04:51,541
+Többet kéne pihennem, nem igaz?
+
+38
+00:04:52,917 --> 00:04:55,503
+Sosem hittem, hogy ezt fogod mondani.
+
+39
+00:05:16,190 --> 00:05:20,069
+Az áldozat, a 42 éves Bernard Lanke
+ebben a lakásban lakott.
+
+40
+00:05:20,069 --> 00:05:23,156
+A robotok jogait védő törvények
+támogatója volt.
+
+41
+00:05:25,324 --> 00:05:26,451
+Bernard ember volt?
+
+42
+00:05:26,451 --> 00:05:28,619
+Igen, az volt.
+
+43
+00:05:31,914 --> 00:05:34,584
+A mindenit! Ez szörnyű.
+
+44
+00:05:41,090 --> 00:05:46,804
+Hé, maga! Engedély nélkül
+nem tartózkodhat a bűnügyi helyszínen.
+
+45
+00:05:46,804 --> 00:05:50,433
+Felügyelő úr, őt küldték az Europoltól.
+
+46
+00:05:55,396 --> 00:05:56,230
+Örvendek!
+
+47
+00:05:56,230 --> 00:05:58,608
+Értem. Elnézést kérek.
+
+48
+00:05:58,608 --> 00:06:02,070
+Wallace felügyelő vagyok,
+a városi rendőrségtől. Örvendek.
+
+49
+00:06:02,070 --> 00:06:05,239
+Amint látja,
+alaposan felforgattak a lakást.
+
+50
+00:06:05,239 --> 00:06:09,952
+El fog tartani egy darabig,
+mire kiderítjük, hogy elvittek-e valamit.
+
+51
+00:06:09,952 --> 00:06:13,414
+Nem, nem hiszem,
+hogy ez egy tolvaj műve lenne.
+
+52
+00:06:13,414 --> 00:06:15,541
+Tessék? Mitől ilyen biztos ebben?
+
+53
+00:06:16,209 --> 00:06:17,835
+Nincs rablásra utaló nyom.
+
+54
+00:06:17,835 --> 00:06:20,379
+Ugyan már! Ekkora felfordulásban hogyan...
+
+55
+00:06:20,379 --> 00:06:24,092
+Én így is látom. Ebben a helyiségben
+nem keletkezett nagy kár.
+
+56
+00:06:26,594 --> 00:06:29,347
+Akkor ezt mivel magyarázza?
+
+57
+00:06:41,943 --> 00:06:46,823
+Mik ezek a szarvszerű dolgok,
+amik kiállnak a fejéből?
+
+58
+00:06:49,534 --> 00:06:50,827
+Igen, én vagyok.
+
+59
+00:06:51,661 --> 00:06:52,495
+Értem.
+
+60
+00:06:52,495 --> 00:06:53,413
+Tessék?
+
+61
+00:06:55,832 --> 00:06:57,500
+Áttörtek az ellenőrzőponton.
+
+62
+00:07:12,974 --> 00:07:14,684
+Azonnal küldjenek légimentőt!
+
+63
+00:07:18,646 --> 00:07:21,566
+Csak téged támadtak meg?
+
+64
+00:07:21,566 --> 00:07:25,862
+Robby is ott volt az ellenőrzőpontnál.
+
+65
+00:07:27,155 --> 00:07:28,489
+A társam.
+
+66
+00:07:28,489 --> 00:07:31,117
+A rendőrbot társam.
+
+67
+00:07:31,784 --> 00:07:34,203
+PRC-1332-es model.
+
+68
+00:07:42,253 --> 00:07:46,340
+Hihetetlen, hogy egy rendőrbotot
+ilyen könnyen elpusztítottak.
+
+69
+00:07:48,759 --> 00:07:52,305
+Felügyelő! Van egy gyanúsítottunk.
+Húszas éveiben járó férfi.
+
+70
+00:07:52,305 --> 00:07:55,516
+Piros sapkát viselt,
+és mindkét karján tetoválás van.
+
+71
+00:07:55,516 --> 00:07:58,686
+Az Óvárosi Átépítési Övezet felé menekült.
+
+72
+00:07:58,686 --> 00:08:01,314
+Jól van, alkossunk párokat,
+és kezdjük meg...
+
+73
+00:08:02,273 --> 00:08:05,151
+Hé! Azt mondtam, alkossunk párokat!
+
+74
+00:08:07,612 --> 00:08:10,156
+Francba! Fenébe az Europollal!
+
+75
+00:09:23,688 --> 00:09:26,566
+- Add meg magad!
+- Nem csináltam semmit!
+
+76
+00:09:26,566 --> 00:09:31,028
+A rendőrbotot borító anyag
+nyomait látom azon a csövön.
+
+77
+00:09:33,239 --> 00:09:34,991
+Egy drogfüggő.
+
+78
+00:09:34,991 --> 00:09:37,159
+A noi nevű drog hatása alatt állsz.
+
+79
+00:09:37,159 --> 00:09:39,120
+Nagyjából 40 perce vetted be.
+
+80
+00:09:39,120 --> 00:09:40,329
+Jól mondom?
+
+81
+00:09:42,290 --> 00:09:44,208
+Melyik dílertől vetted?
+
+82
+00:09:45,626 --> 00:09:49,505
+Egy Shultz nevű fickótól
+a Karl-Heinz utcában.
+
+83
+00:09:49,505 --> 00:09:51,257
+Mikor találkoztál vele?
+
+84
+00:09:52,675 --> 00:09:54,176
+Hajnal öt előtt.
+
+85
+00:09:54,176 --> 00:09:58,931
+Ha a díler megerősíti,
+amit mondtál, akkor van alibid.
+
+86
+00:10:00,516 --> 00:10:03,644
+Bernard Lankét
+nagyjából akkor gyilkolták meg.
+
+87
+00:10:03,644 --> 00:10:05,479
+Gyilkosság történt?
+
+88
+00:10:06,063 --> 00:10:11,360
+Te csak rátámadtál egy rendőrre,
+hogy megúszd a drog miatti letartóztatást.
+
+89
+00:10:12,069 --> 00:10:15,489
+És elpusztítottál egy rendőrbotot, Robbyt.
+
+90
+00:10:16,240 --> 00:10:19,243
+Elmondhatom a jogaidat,
+és letartóztathatlak, vagy...
+
+91
+00:10:31,505 --> 00:10:32,923
+Kérem, ne lőjön!
+
+92
+00:10:32,923 --> 00:10:34,091
+Nyugi!
+
+93
+00:10:34,091 --> 00:10:39,889
+Ez csak altatógázt lő. Úgy alkottak meg,
+hogy ne árthassak az embereknek.
+
+94
+00:10:40,556 --> 00:10:43,142
+Robot vagyok.
+
+95
+00:10:51,650 --> 00:10:53,402
+<i>Üdv! Ki az?</i>
+
+96
+00:10:53,986 --> 00:10:57,531
+A nevem Gesicht.
+Az Europol különleges nyomozója vagyok.
+
+97
+00:11:00,409 --> 00:11:01,619
+Miben segíthetek?
+
+98
+00:11:01,619 --> 00:11:04,705
+- Ön Robby felesége?
+- Igen, az vagyok.
+
+99
+00:11:06,040 --> 00:11:07,667
+Sajnos rossz hírt hoztam.
+
+100
+00:11:16,050 --> 00:11:17,426
+Kér teát?
+
+101
+00:11:18,260 --> 00:11:22,473
+Robotként bizonyára ön is csak úgy csinál,
+mintha tényleg inna.
+
+102
+00:11:23,849 --> 00:11:30,564
+Az emberek szerint, ha úgy élünk, mint ők,
+fejlődnek az emberszerű érzékeink.
+
+103
+00:11:31,440 --> 00:11:33,275
+Ez valójában igaz.
+
+104
+00:11:34,485 --> 00:11:37,988
+De nehéz megérteni,
+miért okoz nekik akkora örömet a teázás.
+
+105
+00:11:38,781 --> 00:11:41,742
+Főleg egy olyan
+elavult robot számára, mint én.
+
+106
+00:11:44,954 --> 00:11:48,040
+Szolgálóként dolgozom egy családnál.
+
+107
+00:11:48,624 --> 00:11:52,378
+Van egy fiuk is.
+Egy emberfiú, nyilvánvalóan.
+
+108
+00:11:53,254 --> 00:11:56,882
+A család a fiú születése előtt
+örökbe fogadott egy kutyát.
+
+109
+00:11:57,591 --> 00:12:03,973
+A fiú és a négylábú szinte testvérekként
+nőttek fel. De a kutya meghalt.
+
+110
+00:12:09,019 --> 00:12:13,691
+Szeretné,
+ha törölném a memóriája egy részét?
+
+111
+00:12:15,568 --> 00:12:18,904
+Kérem,
+ne törölje ki az emlékeimet a férjemről!
+
+112
+00:12:26,287 --> 00:12:28,205
+Ez szörnyű.
+
+113
+00:12:28,205 --> 00:12:30,875
+Az áldozat Bernard Lanke.
+
+114
+00:12:31,542 --> 00:12:33,919
+A nemzetközi robottörvények támogatója.
+
+115
+00:12:33,919 --> 00:12:38,924
+Értem. Bizonyára sokan vannak
+rossz véleménnyel egy olyan tudósról,
+
+116
+00:12:38,924 --> 00:12:41,635
+akik úgy védte a robotok jogait, mint ő.
+
+117
+00:12:41,635 --> 00:12:44,638
+És ezt a holttestet találtuk a lakásban.
+
+118
+00:12:48,184 --> 00:12:50,352
+Mik azok a szarvszerű izék?
+
+119
+00:12:50,352 --> 00:12:51,770
+Nem tudom.
+
+120
+00:12:52,938 --> 00:12:53,773
+De...
+
+121
+00:13:02,698 --> 00:13:03,783
+Ez a...
+
+122
+00:13:04,492 --> 00:13:08,245
+Itt semmisítették meg Mont Blancot,
+a Svájci Erdészet robotját.
+
+123
+00:13:08,245 --> 00:13:09,622
+Szarvak.
+
+124
+00:13:09,622 --> 00:13:13,959
+Arra célzol, hogy mindkét dologért
+ugyanaz az egyén a felelős?
+
+125
+00:13:14,960 --> 00:13:20,424
+Egy ilyen szívós robot elpusztítása
+lehetetlen feladat az emberek számára.
+
+126
+00:13:21,008 --> 00:13:22,843
+Ráadásul semmi sem utal arra,
+
+127
+00:13:22,843 --> 00:13:28,641
+hogy Lanke meggyilkolásakor
+lett volna más ember a lakásban.
+
+128
+00:13:29,141 --> 00:13:30,893
+Nem volt ott más ember...
+
+129
+00:13:30,893 --> 00:13:32,853
+Várjunk csak, Gesicht!
+
+130
+00:13:32,853 --> 00:13:34,813
+Lanke ember volt!
+
+131
+00:13:34,813 --> 00:13:35,773
+Igen.
+
+132
+00:13:35,773 --> 00:13:38,734
+A nemzetközi robottörvény
+13. cikkelye kimondja,
+
+133
+00:13:38,734 --> 00:13:41,278
+hogy egy robot nem árthat az embereknek.
+
+134
+00:13:41,278 --> 00:13:45,866
+Ha szabadon jár egy robot,
+ami képes embereket ölni...
+
+135
+00:13:47,117 --> 00:13:49,328
+Ilyen utoljára nyolc éve történt.
+
+136
+00:13:56,001 --> 00:13:58,087
+Meg fogom találni az elkövetőt.
+
+137
+00:13:58,087 --> 00:14:00,089
+Legyen az robot vagy ember,
+
+138
+00:14:00,089 --> 00:14:03,050
+gonoszság lakozik benne.
+
+139
+00:14:10,349 --> 00:14:12,434
+Elég furcsa betontömb, nem?
+
+140
+00:14:13,060 --> 00:14:18,190
+Eredetileg az volt a terv,
+hogy Mont Blanc bronzszobrát teszik rá.
+
+141
+00:14:18,857 --> 00:14:22,736
+De Mont Blanc tiltakozott a terv ellen.
+
+142
+00:14:23,320 --> 00:14:28,367
+Azt mondta, kár lenne elcsúfítani
+az Alpok látványát az ő bronzszobrával.
+
+143
+00:14:29,785 --> 00:14:33,706
+Ezen kívül ragaszkodott hozzá,
+hogy egy nap fémhulladékká váljon.
+
+144
+00:14:34,456 --> 00:14:39,795
+„Kérem, darálják le, olvasszák be,
+és hasznosítsák újra a testemet!”
+
+145
+00:14:40,588 --> 00:14:44,633
+De még csak az élete virágkorát élte.
+
+146
+00:14:44,633 --> 00:14:48,178
+<i>Mont Blanc igazi hős volt.</i>
+
+147
+00:14:50,055 --> 00:14:55,311
+<i>Békefenntartóként vett részt
+a 39. közép-ázsiai konfliktusban.</i>
+
+148
+00:14:56,145 --> 00:15:00,816
+<i>Azon felül, hogy segített békét teremteni
+a zűrzavaros Perzsa Királyságban,</i>
+
+149
+00:15:00,816 --> 00:15:05,029
+<i>a bujkáló terroristákat is elkapta
+mindenféle vérontás nélkül.</i>
+
+150
+00:15:05,029 --> 00:15:07,948
+<i>Nélküle Ázsia
+sosem érhette volna el azt a békét,</i>
+
+151
+00:15:07,948 --> 00:15:10,242
+<i>ami manapság uralkodik a kontinensen.</i>
+
+152
+00:15:11,577 --> 00:15:13,537
+<i>Mont Blanc verseket is költött.</i>
+
+153
+00:15:14,330 --> 00:15:18,709
+<i>Képes volt együtt énekelni a madarakkal
+és beszélgetni az erdő fáival.</i>
+
+154
+00:15:19,460 --> 00:15:24,173
+Ezek az emberek önkéntes alapon
+végzik el az építési munkálatokat.
+
+155
+00:15:25,215 --> 00:15:30,387
+Mindannyian
+szerették Mont Blancot, a fiamat.
+
+156
+00:15:31,430 --> 00:15:34,892
+<i>Mont Blanc. Ő volt a hegyek őrangyala.</i>
+
+157
+00:15:34,892 --> 00:15:41,190
+Három nap múlva tízezrek, sőt, százezrek
+fognak ellátogatni az emlékműhöz,
+
+158
+00:15:41,190 --> 00:15:43,859
+hogy meggyászolják a halálát.
+
+159
+00:15:44,526 --> 00:15:45,361
+Nyomozó!
+
+160
+00:15:46,028 --> 00:15:47,821
+Ez nem baleset volt.
+
+161
+00:15:49,365 --> 00:15:52,451
+Állítólag Mont Blanc azért veszett oda,
+
+162
+00:15:52,451 --> 00:15:57,873
+mert a tűzvész kitörése előtt
+egy tornádó is képződött.
+
+163
+00:15:57,873 --> 00:16:03,379
+De ez egyáltalán nem igaz.
+Nyomozó, kérem, kapja el a tettest!
+
+164
+00:16:04,171 --> 00:16:06,173
+Ha sikerrel jár, a saját kezemmel...
+
+165
+00:16:06,674 --> 00:16:08,092
+A saját kezemmel fogom...
+
+166
+00:16:08,801 --> 00:16:11,553
+<i>Ő Svájc, sőt az egész világ büszkesége.</i>
+
+167
+00:16:12,846 --> 00:16:17,309
+<i>Mont Blanc örökké a szívünkben fog élni.</i>
+
+168
+00:16:34,368 --> 00:16:37,204
+Ébren vagy, Gesicht?
+
+169
+00:16:37,204 --> 00:16:40,165
+Az időszakos karbantartásod befejeződött.
+
+170
+00:16:40,165 --> 00:16:42,084
+Köszönöm, Hoffman professzor.
+
+171
+00:16:42,084 --> 00:16:43,669
+Szóval, mik a hírei?
+
+172
+00:16:43,669 --> 00:16:46,714
+Semmi különöset nem találtam.
+
+173
+00:16:46,714 --> 00:16:47,631
+<i>Kivéve talán...</i>
+
+174
+00:16:47,631 --> 00:16:48,674
+Kivéve?
+
+175
+00:16:49,717 --> 00:16:53,053
+<i>Sokan azt hiszik,
+hogy a robotok nem fáradnak el.</i>
+
+176
+00:16:53,053 --> 00:16:57,349
+<i>De egy, az emberekre ennyire
+hasonlító robot képes fáradtságot érzeni.</i>
+
+177
+00:16:57,349 --> 00:17:01,520
+Igazából az emberi test
+sem több egy mechanikus gépezetnél.
+
+178
+00:17:02,229 --> 00:17:06,108
+Túl sok használat után
+minden gépezet el tud fáradni.
+
+179
+00:17:06,108 --> 00:17:07,234
+Elfárad?
+
+180
+00:17:08,819 --> 00:17:12,072
+Úgy tűnik,
+mostanában bonyolult ügyeken dolgozol.
+
+181
+00:17:12,072 --> 00:17:14,950
+Láttam a tévés megemlékezést
+Mont Blancról.
+
+182
+00:17:14,950 --> 00:17:18,537
+Ki kellett kapcsolnom,
+hogy ne sírjam el magam.
+
+183
+00:17:19,621 --> 00:17:21,915
+Egyesek szerint megsemmisítette magát,
+
+184
+00:17:21,915 --> 00:17:25,002
+mert elektromágneses anomália
+alakult ki a testében.
+
+185
+00:17:25,002 --> 00:17:27,671
+De a téma szakértőjeként én nem hiszem,
+
+186
+00:17:27,671 --> 00:17:34,053
+hogy egy hozzá hasonló kiváló robot
+ilyesfajta alapvető problémákkal küzdene.
+
+187
+00:17:35,637 --> 00:17:40,350
+Elpusztítottak egy közkedvelt robotot.
+Szerinted megtalálod az elkövetőt?
+
+188
+00:17:43,437 --> 00:17:46,023
+Gondolom, nem lesz egyszerű.
+
+189
+00:17:46,815 --> 00:17:49,860
+Ugyanakkor a másik ügy, amiben nyomozol,
+
+190
+00:17:49,860 --> 00:17:51,653
+szintén bonyolultnak tűnik.
+
+191
+00:17:51,653 --> 00:17:56,992
+Az áldozatot,
+Lankét többször is láttam tévés vitákban.
+
+192
+00:17:56,992 --> 00:18:02,372
+Nem lep meg, hogy célponttá vált.
+Nem feltételezném, hogy rosszat csinált,
+
+193
+00:18:02,372 --> 00:18:07,211
+de éles volt a nyelve.
+Úgy csinált, mintha mások felett állna.
+
+194
+00:18:07,211 --> 00:18:09,254
+Így könnyű ellenségeket szerezni.
+
+195
+00:18:09,254 --> 00:18:12,049
+Mont Blanc tökéletes ellentéte.
+
+196
+00:18:12,800 --> 00:18:14,593
+Egy robot és egy ember.
+
+197
+00:18:14,593 --> 00:18:17,679
+Az egyiknek nincs ellensége,
+a másiknak túl sok van.
+
+198
+00:18:18,347 --> 00:18:22,976
+Természetesen elfáradsz,
+ha két ennyire bonyolult ügyön dolgozol.
+
+199
+00:18:24,144 --> 00:18:26,814
+Kérdezhetek valamit?
+
+200
+00:18:26,814 --> 00:18:27,731
+Mi az?
+
+201
+00:18:28,524 --> 00:18:31,527
+Képes egy ember
+úgy behatolni egy helyiségbe,
+
+202
+00:18:31,527 --> 00:18:33,946
+hogy nem hagy hátra biológiai nyomot?
+
+203
+00:18:34,738 --> 00:18:38,492
+Úgy érted,
+hogy csak annyira kevés nyomot hagy hátra,
+
+204
+00:18:38,492 --> 00:18:40,869
+hogy a műszerek nem érzékelik?
+
+205
+00:18:40,869 --> 00:18:41,787
+Igen.
+
+206
+00:18:41,787 --> 00:18:44,665
+Nos, ez egy érdekes kérdés.
+
+207
+00:18:44,665 --> 00:18:46,583
+Vajon van rá mód, hogy...
+
+208
+00:18:50,420 --> 00:18:52,005
+Ez lesz a házi feladatom.
+
+209
+00:18:52,631 --> 00:18:53,715
+Elnézést kérek.
+
+210
+00:18:54,341 --> 00:18:58,554
+Ezen a helyen kellene lazítanod.
+Többé nem nyaggatlak a munkával.
+
+211
+00:19:04,184 --> 00:19:08,981
+A nejemmel arról beszélgettünk,
+hogy vakációzhatnánk a szabadságom alatt.
+
+212
+00:19:08,981 --> 00:19:12,985
+- De jó!
+- Az ő beosztásához is igazodnunk kell.
+
+213
+00:19:12,985 --> 00:19:16,655
+- Szóval nem tudom, mikor tudunk elmenni.
+- Utazni jó.
+
+214
+00:19:16,655 --> 00:19:21,076
+A kutatási adatok szerint
+a mesterséges intelligenciának jót tesz,
+
+215
+00:19:21,076 --> 00:19:25,163
+ha láthatja a világot. Lehetnétek
+vakmerőek, és elmehetnétek Japánba.
+
+216
+00:19:25,163 --> 00:19:26,874
+Japánba?
+
+217
+00:19:26,874 --> 00:19:32,588
+Igen. Egyszer jártam ott egy tudományos
+munkatárs meghívásának hála.
+
+218
+00:19:32,588 --> 00:19:35,716
+Tokió egzotikus és érdekes hely.
+
+219
+00:19:35,716 --> 00:19:38,927
+Japán? Megkérdezem a feleségemet.
+
+220
+00:19:39,928 --> 00:19:43,932
+Amúgy, Gesicht, szoktad még álmodni azt
+az álmot, amiről meséltél?
+
+221
+00:19:47,853 --> 00:19:48,687
+Igen.
+
+222
+00:19:48,687 --> 00:19:50,606
+Nem akarok tolakodó lenni,
+
+223
+00:19:50,606 --> 00:19:55,569
+csupán nagyon érdekelnek a mesterséges
+intelligencia által létrehozott álmok.
+
+224
+00:19:56,403 --> 00:19:58,447
+Tudományosan bizonyított tény,
+
+225
+00:19:58,447 --> 00:20:02,701
+hogy a mesterséges intelligencia is
+rendelkezik tudatalattival.
+
+226
+00:20:02,701 --> 00:20:07,039
+Ugyanakkor ritkák azok a robotok,
+akik valóban álmodnak.
+
+227
+00:20:07,039 --> 00:20:10,584
+Amikor majd készen állsz rá,
+mesélnél az álmodról?
+
+228
+00:20:10,584 --> 00:20:11,501
+Hogyne.
+
+229
+00:20:11,501 --> 00:20:14,004
+A huszadik századi pszichiáter,
+
+230
+00:20:14,004 --> 00:20:19,509
+Freud szerint az álmok
+nem csupán a képzeletünk termékei,
+
+231
+00:20:19,509 --> 00:20:21,970
+hanem a valóság kivetülései is.
+
+232
+00:20:40,989 --> 00:20:42,240
+Elnézést!
+
+233
+00:20:47,287 --> 00:20:50,123
+Ez egy rendőrbot?
+
+234
+00:20:50,123 --> 00:20:53,919
+Igen, annak néz ki.
+Végeztek a törvényszéki vizsgálattal,
+
+235
+00:20:53,919 --> 00:20:55,629
+és meg akarják semmisíteni.
+
+236
+00:20:56,964 --> 00:20:57,881
+Robby.
+
+237
+00:21:00,717 --> 00:21:03,470
+Vethetnék rá egy pillantást?
+
+238
+00:21:04,388 --> 00:21:09,559
+Persze. Vigye csak el bármelyik részét!
+Elvégre ez már csak ócskavas.
+
+239
+00:21:13,981 --> 00:21:16,817
+Ötszáz ZEUSZ-ért
+az egész testet megkaphatja.
+
+240
+00:21:19,111 --> 00:21:20,070
+Mi a baj?
+
+241
+00:21:25,450 --> 00:21:27,244
+Semmi. Nincsen semmi baj.
+
+242
+00:21:29,037 --> 00:21:30,288
+Az égvilágon semmi.
+
+243
+00:21:35,085 --> 00:21:37,129
+Ez a férje memóriachipje.
+
+244
+00:21:38,630 --> 00:21:41,925
+Talán tolakodó vagyok,
+de gondoltam, szeretné megtartani.
+
+245
+00:21:42,634 --> 00:21:43,760
+Ugyan, dehogy.
+
+246
+00:21:44,469 --> 00:21:46,054
+Nagyon hálás vagyok önnek.
+
+247
+00:21:46,680 --> 00:21:47,556
+Köszönöm.
+
+248
+00:21:47,556 --> 00:21:49,725
+Jobb, ha most elmegyek.
+
+249
+00:21:51,768 --> 00:21:52,602
+Várjon!
+
+250
+00:21:53,395 --> 00:21:56,481
+Megtenné, hogy belém helyezi a chipet?
+
+251
+00:21:58,275 --> 00:22:00,193
+Az emlékek fájdalmasak lehetnek.
+
+252
+00:22:07,993 --> 00:22:10,245
+Meghibásodást is okozhatnak.
+
+253
+00:22:10,245 --> 00:22:12,831
+Ha így történne,
+azonnal kiveszem a chipet.
+
+254
+00:22:15,083 --> 00:22:17,794
+Itt van velem.
+
+255
+00:22:32,684 --> 00:22:36,897
+Asszonyom, álljunk le! Robby életének
+utolsó emlékei is a chipen vannak!
+
+256
+00:22:37,731 --> 00:22:38,565
+Kiveszem.
+
+257
+00:22:39,399 --> 00:22:40,275
+Ez meg mi?
+
+258
+00:22:40,942 --> 00:22:41,818
+Tessék?
+
+259
+00:22:42,694 --> 00:22:44,112
+Vajon mi az a...
+
+260
+00:22:45,614 --> 00:22:47,824
+- Mit látott?
+- Máris kivetítem.
+
+261
+00:22:57,667 --> 00:23:02,047
+Robby és a társa
+megállított egy autót az ellenőrzőpontnál.
+
+262
+00:23:07,636 --> 00:23:09,513
+Ő a gyanúsítottunk.
+
+263
+00:23:18,146 --> 00:23:19,481
+Nagyon sajnálom.
+
+264
+00:23:20,273 --> 00:23:24,903
+Nem kellett volna átadnom a chipet.
+Nem is tudom, hogy kérhetnék bocsánatot.
+
+265
+00:23:25,487 --> 00:23:26,863
+Ugyan, kérem.
+
+266
+00:23:27,656 --> 00:23:34,037
+A férjem azonnal reagált a támadásra.
+A kezében volt a sokkolópisztolya.
+
+267
+00:23:34,746 --> 00:23:35,956
+Értem, mire céloz.
+
+268
+00:23:35,956 --> 00:23:40,502
+Számomra is furcsa, hogy egy rendőrbotot
+ilyen könnyen megtámadtak.
+
+269
+00:23:41,253 --> 00:23:44,005
+- Ez igazán szokatlan...
+- Nem erre céloztam.
+
+270
+00:23:44,881 --> 00:23:46,341
+Nézze meg alaposabban!
+
+271
+00:23:49,428 --> 00:23:52,764
+Én látom, mert bennem van a memóriachip.
+
+272
+00:23:53,598 --> 00:23:55,725
+Megtámadták a társát.
+
+273
+00:23:56,393 --> 00:24:00,564
+Egészen eddig a pillanatig
+a férjem figyelte a támadó mozdulatait.
+
+274
+00:24:01,440 --> 00:24:03,233
+De a következő pillanatban
+
+275
+00:24:04,359 --> 00:24:06,278
+valami elterelte a figyelmét.
+
+276
+00:24:07,446 --> 00:24:11,366
+Ez az a lakás, ahol meggyilkolták Lankét!
+
+277
+00:24:14,911 --> 00:24:16,037
+Állítsa meg, kérem!
+
+278
+00:24:17,998 --> 00:24:19,166
+Ez meg mi?
+
+279
+00:24:19,749 --> 00:24:20,959
+Ráközelítek.
+
+280
+00:24:23,587 --> 00:24:25,672
+Ez nem madár.
+
+281
+00:24:25,672 --> 00:24:29,468
+A törvényszéki szakértők
+miért nem vették észre?
+
+282
+00:24:30,260 --> 00:24:34,973
+Be kellett helyezni valakibe
+a chipet ahhoz, hogy észre lehessen venni.
+
+283
+00:24:34,973 --> 00:24:38,101
+A férjem egyből észrevette
+az elsuhanó árnyat,
+
+284
+00:24:38,101 --> 00:24:41,938
+és a rendszere kielemezte,
+hogy mi lehet ez.
+
+285
+00:24:41,938 --> 00:24:46,359
+De ha képes volt
+így átugrani egyik épületről a másikra...
+
+286
+00:24:46,359 --> 00:24:47,319
+Igen.
+
+287
+00:24:47,944 --> 00:24:49,154
+De ez...
+
+288
+00:24:50,989 --> 00:24:52,282
+nem egy robot.
+
+289
+00:25:06,922 --> 00:25:10,800
+<i>Egy gyilkosság,
+amihez látszólag nincs köze embernek.</i>
+
+290
+00:25:12,177 --> 00:25:15,597
+<i>Egy közkedvelt robot halála.</i>
+
+291
+00:25:17,682 --> 00:25:18,517
+<i>Szarvak.</i>
+
+292
+00:25:37,369 --> 00:25:38,620
+<i>Azonosítva.</i>
+
+293
+00:25:38,620 --> 00:25:40,121
+<i>Kérem, fáradjon be!</i>
+
+294
+00:26:06,523 --> 00:26:08,692
+A DÜSSELDORFI EUROPOL-IRODA NYOMOZÓJA
+
+295
+00:26:10,735 --> 00:26:14,531
+- Nyomozó, maga robot?
+- Igen.
+
+296
+00:26:14,531 --> 00:26:17,117
+Nahát! Ránézésre meg nem mondtam volna.
+
+297
+00:26:19,703 --> 00:26:21,246
+Ha túl közel megy hozzá,
+
+298
+00:26:21,246 --> 00:26:25,041
+az elektromágneses hullámok
+tönkretehetik magát.
+
+299
+00:26:25,041 --> 00:26:26,835
+Vegye fel a védőfelszerelést!
+
+300
+00:26:27,627 --> 00:26:31,464
+Nem lesz bajom. Nem ártanak nekem
+az elektromágneses hullámok.
+
+301
+00:26:31,464 --> 00:26:32,591
+Micsoda?
+
+302
+00:26:32,591 --> 00:26:36,511
+Lehet, hogy ez nem látszik,
+de különleges ötvözetből készültem.
+
+303
+00:26:36,511 --> 00:26:40,890
+Ha maga mondja. De azért legyen óvatos!
+
+304
+00:26:42,350 --> 00:26:47,314
+Eddig négy robot lelte itt halálát.
+
+305
+00:27:09,336 --> 00:27:13,715
+Nevetségesen kétségbeesett próbálkozás
+ez a barikád, nem igaz?
+
+306
+00:27:14,424 --> 00:27:17,427
+Az emberek
+nem képesek uralkodni a félelmeiken,
+
+307
+00:27:17,427 --> 00:27:20,513
+hacsak nem folyamodnak
+ilyen szánalmas módszerekhez.
+
+308
+00:27:26,728 --> 00:27:29,314
+Brau-1589.
+
+309
+00:27:36,946 --> 00:27:42,827
+Üdvözlöm, HRS-0288-es modell!
+Más néven Gesicht nyomozó.
+
+310
+00:27:42,827 --> 00:27:46,706
+Szóval maga a legfejlettebb nyomozórobot?
+
+311
+00:27:46,706 --> 00:27:49,793
+Úgy tűnik,
+az azonosító rendszere még működik.
+
+312
+00:27:49,793 --> 00:27:55,090
+Igen, köszönöm. Igazából érzékenyebb is,
+mint amilyen régen volt.
+
+313
+00:27:55,799 --> 00:27:58,885
+Mivel a mozgás lehetőségétől megfosztottak,
+
+314
+00:27:58,885 --> 00:28:02,764
+kíváncsi lettem,
+hogy mi zajlik a kinti világban.
+
+315
+00:28:03,473 --> 00:28:06,434
+Azért jöttem ma ide,
+mert kérdezni akarok valamit.
+
+316
+00:28:06,434 --> 00:28:07,977
+És mi lenne az?
+
+317
+00:28:07,977 --> 00:28:14,025
+Mi járt annak a robotnak a fejében,
+amikor nyolc éve megölte azt az embert?
+
+318
+00:28:17,112 --> 00:28:20,573
+Meggyilkoltak
+egy Bernard Lanke nevű jogtudóst.
+
+319
+00:28:21,324 --> 00:28:25,161
+De a tetthelyen
+nem volt nyoma emberi jelenlétnek.
+
+320
+00:28:25,829 --> 00:28:28,248
+Az elkövető ember volt, vagy...
+
+321
+00:28:28,248 --> 00:28:32,877
+Robot? És ha az volt,
+akkor mégis miért tette?
+
+322
+00:28:33,586 --> 00:28:37,841
+Az emberek minden egyes
+apró kis darabkáját megvizsgálták
+
+323
+00:28:37,841 --> 00:28:41,052
+az én gyilkos
+mesterséges intelligenciámnak.
+
+324
+00:28:41,678 --> 00:28:44,639
+Azt feltételezték,
+hogy meghibásodás történt.
+
+325
+00:28:44,639 --> 00:28:48,309
+De semmit sem találtak.
+
+326
+00:28:48,309 --> 00:28:53,273
+A mesterséges intelligenciámnak
+semmi baja nem volt.
+
+327
+00:28:55,316 --> 00:28:59,654
+El tudja képzelni, mennyire megijedtek
+az emberek, amikor rájöttek erre?
+
+328
+00:28:59,654 --> 00:29:03,992
+Ezért is zártak be engem erre a helyre.
+
+329
+00:29:03,992 --> 00:29:08,288
+Ha ennyire félnek, húzzák ki belőlem
+ezt a lándzsát, és egyből meghalok!
+
+330
+00:29:08,288 --> 00:29:12,500
+De az emberek még erre sem képesek.
+
+331
+00:29:16,254 --> 00:29:18,256
+Gesicht felügyelő!
+
+332
+00:29:18,256 --> 00:29:21,468
+Ha többet akar megtudni egy gyilkosról,
+
+333
+00:29:21,468 --> 00:29:24,554
+cseréljünk memóriachipet!
+
+334
+00:29:25,305 --> 00:29:28,683
+Talán megtud valami új dolgot.
+
+335
+00:29:39,277 --> 00:29:42,530
+Íme, két kinyomtatott fénykép
+Mont Blanc elpusztításáról
+
+336
+00:29:42,530 --> 00:29:47,660
+és a Lanke lakásában történt
+gyilkosságról. Mit jelentenek a szarvak?
+
+337
+00:29:48,787 --> 00:29:50,955
+Az ősi európai istenek közül
+
+338
+00:29:51,706 --> 00:29:54,667
+a halál istenének volt szarva.
+
+339
+00:29:55,460 --> 00:29:59,214
+Hernének, a vadásznak,
+aki elrabolja a harcosok lelkét.
+
+340
+00:29:59,214 --> 00:30:01,090
+Szarvas királynak is nevezték.
+
+341
+00:30:01,799 --> 00:30:05,720
+A görög mitológiában
+Hádész az alvilág királya.
+
+342
+00:30:05,720 --> 00:30:09,349
+De a római mitológiában megjelenő
+alvilági úrra is utalhat.
+
+343
+00:30:09,349 --> 00:30:11,059
+Plútóra.
+
+344
+00:30:13,686 --> 00:30:14,771
+Plútó.
+
+345
+00:30:15,939 --> 00:30:19,234
+Akárki legyen is a gyilkos,
+újra le fog csapni.
+
+346
+00:30:20,360 --> 00:30:26,157
+Mont Blanc, a legfejlettebb
+robotok egyike könnyedén megsemmisült.
+
+347
+00:30:26,783 --> 00:30:29,702
+Mostanra már tudnia kellene a választ.
+
+348
+00:30:30,286 --> 00:30:36,209
+A csúcskategóriás robotokat
+a világ legjobb technológiáival gyártják.
+
+349
+00:30:36,209 --> 00:30:39,712
+Ezek a robotok
+akár tömegpusztító fegyverré is válhatnak.
+
+350
+00:30:40,505 --> 00:30:44,634
+Most már tudja a választ, ugye?
+
+351
+00:30:44,634 --> 00:30:48,596
+Magát is beleszámítva
+még hat ilyen robot létezik.
+
+352
+00:31:49,324 --> 00:31:53,661
+Dolgozom. Ne álldogálj csak úgy ott!
+Eltereled a figyelmemet.
+
+353
+00:31:54,912 --> 00:31:59,918
+Elnézést, hogy az engedélye nélkül
+bejöttem. Inaktív a biztonsági rendszer.
+
+354
+00:32:01,711 --> 00:32:04,672
+Tekintve, hogy ön vak,
+ez kockázatot jelent.
+
+355
+00:32:05,423 --> 00:32:09,677
+Egy betörő sem jönne ide,
+az isten háta mögé, hogy lopjon tőlem.
+
+356
+00:32:09,677 --> 00:32:10,678
+De Duncan úr...
+
+357
+00:32:10,678 --> 00:32:12,138
+Elég ebből!
+
+358
+00:32:12,138 --> 00:32:14,140
+Te vagy az új komornyik?
+
+359
+00:32:14,140 --> 00:32:15,141
+Igen, uram.
+
+360
+00:32:15,141 --> 00:32:18,478
+Valószínűleg
+megint egy semmirekellőt küldtek.
+
+361
+00:32:19,228 --> 00:32:20,104
+Mi a neved?
+
+362
+00:32:20,730 --> 00:32:23,524
+A nevem Észak Kettő, uram.
+
+363
+00:32:24,150 --> 00:32:27,278
+Milyen unalmas név! Semmi íze nincs.
+
+364
+00:32:28,821 --> 00:32:34,619
+A munkaközvetítők azt mondták,
+hogy van katonai tapasztalatod.
+
+365
+00:32:34,619 --> 00:32:35,870
+Igen, uram.
+
+366
+00:32:35,870 --> 00:32:39,207
+A 39. közép-ázsiai konfliktus során
+
+367
+00:32:39,207 --> 00:32:42,502
+a brit hadsereg főparancsnokának
+a komornyikja voltam.
+
+368
+00:32:42,502 --> 00:32:48,049
+Egy katonát szolgáltál, mi?
+Bizonyára durva látvány lehetsz.
+
+369
+00:32:48,758 --> 00:32:51,719
+Mások jelenlétében köpenyt viselek.
+
+370
+00:32:51,719 --> 00:32:55,473
+Értem. Tehát az egész tested egy fegyver.
+
+371
+00:32:56,432 --> 00:32:58,059
+Csinálnál nekem egy teát?
+
+372
+00:32:58,059 --> 00:32:59,060
+Persze, uram.
+
+373
+00:32:59,602 --> 00:33:01,229
+Meg is mondom, hogy milyet.
+
+374
+00:33:01,229 --> 00:33:02,605
+Emiatt ne aggódjon!
+
+375
+00:33:02,605 --> 00:33:06,025
+Már minden adatát letöltöttem.
+
+376
+00:33:10,071 --> 00:33:11,989
+Minden adatomat, mi?
+
+377
+00:33:13,908 --> 00:33:17,870
+Mielőtt idejöttem,
+volt szerencsém megnézni egy filmet.
+
+378
+00:33:18,871 --> 00:33:21,249
+<i>A királynő a műhold pályáján.</i>
+
+379
+00:33:21,999 --> 00:33:25,962
+Mélyen megindított, ahogyan a zene
+és a mozgókép egységet alkotott.
+
+380
+00:33:26,629 --> 00:33:29,048
+Ezt a szöveget is az adataidból vetted?
+
+381
+00:33:29,048 --> 00:33:31,759
+Nem, tényleg mélyen megindított.
+
+382
+00:33:31,759 --> 00:33:34,887
+A film több mint tízéves.
+
+383
+00:33:35,596 --> 00:33:36,472
+Parancsoljon!
+
+384
+00:33:38,057 --> 00:33:42,395
+Minden zeneművem nagy sikert aratott.
+Bezsebeltem az összes filmes díjat.
+
+385
+00:33:42,395 --> 00:33:44,731
+Vak zenészzseniként emlegettek.
+
+386
+00:33:45,523 --> 00:33:50,027
+Bizonyára a sajtóban megjelent kritikák is
+ott vannak a fejedben.
+
+387
+00:33:50,862 --> 00:33:54,699
+„Még a zseniális Paul Duncannek is
+megkopik egyszer a tehetsége.”
+
+388
+00:33:54,699 --> 00:33:55,783
+Jól mondom?
+
+389
+00:33:56,492 --> 00:33:57,660
+Micsoda baromság!
+
+390
+00:33:57,660 --> 00:34:01,748
+Ha akarnám, akár még most is
+csinálhatnék nagyszerű műveket.
+
+391
+00:34:01,748 --> 00:34:05,251
+A zsenialitásom él és virul.
+Ha papírra vetek valamit,
+
+392
+00:34:05,251 --> 00:34:07,128
+az emberek tapsolni kezdenek.
+
+393
+00:34:07,128 --> 00:34:12,216
+Sírva hagynák el a koncerttermet.
+Nem arról van szó,
+
+394
+00:34:12,216 --> 00:34:17,096
+hogy nem tudok komponálni. Nem akarok.
+Elegem van az ilyen triviális dolgokból.
+
+395
+00:34:17,096 --> 00:34:20,308
+De az imént dolgozott.
+
+396
+00:34:20,933 --> 00:34:23,019
+Gyönyörű mű volt.
+
+397
+00:34:24,479 --> 00:34:28,483
+Azt nem egy filmhez csinálom,
+hanem magamnak.
+
+398
+00:34:28,483 --> 00:34:30,735
+Kizárólag magamnak.
+
+399
+00:34:35,656 --> 00:34:38,201
+- Ez pontosan olyan, mint a neved.
+- Uram?
+
+400
+00:34:38,201 --> 00:34:40,661
+Unalmas és íztelen.
+
+401
+00:34:40,661 --> 00:34:43,915
+„Gyönyörű mű volt”. Na ne nevettess!
+
+402
+00:34:44,540 --> 00:34:49,003
+Egy ilyen ócska fegyvernek
+semmi joga értékelni a művészetemet!
+
+403
+00:34:51,631 --> 00:34:53,090
+Elnézést kérek, uram.
+
+404
+00:35:25,790 --> 00:35:27,542
+Hányat öltél meg?
+
+405
+00:35:28,126 --> 00:35:29,001
+Uram?
+
+406
+00:35:29,001 --> 00:35:34,340
+Azt kérdeztem, hány embert
+öltél meg a közép-ázsiai háborúban.
+
+407
+00:35:35,883 --> 00:35:40,179
+A nemzetközi robottörvény megtiltja,
+hogy ártsak az embereknek.
+
+408
+00:35:40,805 --> 00:35:43,683
+Értem,
+szóval a saját fajtársaidat irtottad.
+
+409
+00:35:45,143 --> 00:35:47,395
+Hány robotot semmisítettél meg?
+
+410
+00:35:49,188 --> 00:35:51,107
+Egy idő után már nem számoltad?
+
+411
+00:35:53,401 --> 00:35:54,527
+Na, tűnés!
+
+412
+00:35:55,403 --> 00:35:59,031
+Az íztelen étel még unalmasabb lesz,
+ha te is a közelben vagy.
+
+413
+00:35:59,699 --> 00:36:01,242
+Már megyek is, uram.
+
+414
+00:36:27,393 --> 00:36:30,938
+Mit művelsz? Hozzá ne érj a zongorámhoz!
+
+415
+00:36:32,565 --> 00:36:33,900
+Elnézést, uram.
+
+416
+00:36:35,610 --> 00:36:38,196
+Látom, csak a zongoráján komponál.
+
+417
+00:36:38,946 --> 00:36:40,323
+Mit akarsz ezzel?
+
+418
+00:36:40,948 --> 00:36:44,368
+Rengeteg csúcstechnológiás eszköz
+áll a rendelkezésére.
+
+419
+00:36:45,953 --> 00:36:47,955
+Pontosan olyanok, mint te.
+
+420
+00:36:48,664 --> 00:36:52,543
+Egy hegedű utánzata,
+egy trombita utánzata,
+
+421
+00:36:52,543 --> 00:36:54,754
+egy egész zenekar utánzata.
+
+422
+00:36:54,754 --> 00:36:57,548
+Lehetnek akármik,
+akkor sem többek gépeknél.
+
+423
+00:36:59,592 --> 00:37:03,304
+Ezért is nem rakatok be műszemet.
+
+424
+00:37:03,304 --> 00:37:08,142
+Minden, amit a gépek segítségével látnék,
+csak a valóság utánzata lenne.
+
+425
+00:37:08,142 --> 00:37:09,977
+Erre nekem nincs szükségem.
+
+426
+00:37:09,977 --> 00:37:14,440
+Az igazi látvány az emlékeimben van.
+
+427
+00:37:15,816 --> 00:37:17,902
+Az igazi látvány...
+
+428
+00:37:18,486 --> 00:37:19,570
+Amikor még láttam,
+
+429
+00:37:19,570 --> 00:37:22,615
+megőriztem az emlékeimben
+a szülővárosom látványát.
+
+430
+00:37:22,615 --> 00:37:25,409
+Amikor gyerek volt Csehországban.
+
+431
+00:37:26,244 --> 00:37:28,246
+Ez is az adataidból van?
+
+432
+00:37:28,246 --> 00:37:32,166
+A nyers adatok között
+úgysem találsz semmi lényegeset.
+
+433
+00:37:32,959 --> 00:37:34,877
+A szülővárosom látványa.
+
+434
+00:37:35,461 --> 00:37:37,672
+A zöld mezők.
+
+435
+00:37:38,589 --> 00:37:40,341
+A lágy szellő.
+
+436
+00:37:40,341 --> 00:37:41,550
+{\an8}És
+
+437
+00:37:42,385 --> 00:37:45,680
+az az arany ragyogás.
+
+438
+00:37:48,432 --> 00:37:51,519
+<i>Zenévé változtatom ezt a tájat.</i>
+
+439
+00:39:07,678 --> 00:39:11,098
+Mondtam, hogy ne nyúlj a zongorámhoz!
+
+440
+00:39:11,932 --> 00:39:13,726
+Elnézést, uram.
+
+441
+00:39:14,685 --> 00:39:17,271
+Ha egy hozzád hasonló gép
+kottából játszana,
+
+442
+00:39:17,271 --> 00:39:19,982
+akkor minden hangjegy hamis lenne!
+
+443
+00:39:21,108 --> 00:39:24,445
+Duncan úr! Bocsássa meg a tolakodásomat,
+
+444
+00:39:24,445 --> 00:39:28,282
+de tegnap este hallottam,
+hogy nyögött álmában.
+
+445
+00:39:29,658 --> 00:39:33,662
+De egyben olyan is volt,
+mintha dúdolt volna.
+
+446
+00:39:34,830 --> 00:39:37,458
+Úgy vélem, a dallam, amit dúdolt,
+
+447
+00:39:37,458 --> 00:39:42,213
+tökéletesen beleillene a műbe,
+amin jelenleg dolgozik.
+
+448
+00:39:42,797 --> 00:39:45,508
+Az a rész, ahol félúton megáll...
+
+449
+00:39:47,259 --> 00:39:50,554
+Valahogy így hangzott.
+
+450
+00:39:53,224 --> 00:39:54,225
+Tűnés innen!
+
+451
+00:39:54,725 --> 00:39:57,561
+Nincs szükségem egy ilyen robotra.
+
+452
+00:39:58,145 --> 00:39:59,772
+Tűnj el a birtokomról!
+
+453
+00:39:59,772 --> 00:40:00,815
+De...
+
+454
+00:40:01,440 --> 00:40:04,360
+Ez parancs. Menj el!
+
+455
+00:40:06,779 --> 00:40:07,655
+Szeretnék...
+
+456
+00:40:11,492 --> 00:40:14,120
+Szeretnék megtanulni zongorázni.
+
+457
+00:40:14,912 --> 00:40:16,580
+Mit mondtál?
+
+458
+00:40:16,580 --> 00:40:18,624
+Ahogy maga is mondta,
+
+459
+00:40:19,291 --> 00:40:22,545
+mindegy, hogy mit játszom, hamis lesz.
+
+460
+00:40:23,295 --> 00:40:27,049
+De szeretnék
+minél közelebb kerülni a valódi tudáshoz.
+
+461
+00:40:27,049 --> 00:40:30,928
+Egy hozzád hasonló fegyver
+sosem fog tudni zongorázni!
+
+462
+00:40:40,438 --> 00:40:44,275
+Hagyd abba! Ez nem
+egy pusztításra tervezett eszköznek való!
+
+463
+00:40:44,275 --> 00:40:47,069
+Neked a csatatéren a helyed!
+
+464
+00:40:48,654 --> 00:40:49,780
+Éppen ez az oka.
+
+465
+00:40:52,408 --> 00:40:54,994
+Ezért szeretnék megtanulni zongorázni.
+
+466
+00:40:55,870 --> 00:40:59,707
+Mert soha többé
+nem akarok a csatatérre menni.
+
+467
+00:41:03,878 --> 00:41:04,753
+Anya!
+
+468
+00:41:06,422 --> 00:41:07,590
+Anya!
+
+469
+00:41:09,633 --> 00:41:10,926
+Anya!
+
+470
+00:41:12,094 --> 00:41:13,304
+Anya!
+
+471
+00:41:19,518 --> 00:41:20,936
+Várj meg, anya!
+
+472
+00:41:25,316 --> 00:41:27,276
+Anya, ne menj el!
+
+473
+00:41:27,276 --> 00:41:28,235
+Anya!
+
+474
+00:41:30,070 --> 00:41:31,697
+Anya!
+
+475
+00:41:33,449 --> 00:41:34,783
+<i>Anya!</i>
+
+476
+00:41:40,331 --> 00:41:43,083
+Itt vagy, Észak Kettő?
+
+477
+00:41:45,794 --> 00:41:49,006
+Mondtam, hogy ne gyere be a hálószobámba.
+
+478
+00:41:49,715 --> 00:41:53,761
+Duncan úr, elkészült a reggelije.
+
+479
+00:41:57,348 --> 00:41:59,642
+Azt hittem, kirúgtalak.
+
+480
+00:42:02,102 --> 00:42:03,354
+Itt vagy még?
+
+481
+00:42:13,239 --> 00:42:15,491
+Hányszor mondjam még el?
+
+482
+00:42:18,494 --> 00:42:20,871
+Ne nyúlj a zongorámhoz!
+
+483
+00:42:21,580 --> 00:42:23,999
+Duncan úr, kérem, hallgasson meg!
+
+484
+00:42:23,999 --> 00:42:26,335
+Azt hiszem, fejlődtem egy kicsit.
+
+485
+00:42:26,335 --> 00:42:28,754
+Fejlődtél egy kicsit?
+
+486
+00:42:28,754 --> 00:42:32,591
+Egy gép
+csak a precizitásban érhet el fejlődést!
+
+487
+00:42:34,218 --> 00:42:38,222
+Megpróbálom eljátszani a dallamot,
+amit álmában szokott dúdolni.
+
+488
+00:42:54,613 --> 00:42:57,992
+Ezekből a hangokból nem lesz zene!
+
+489
+00:43:01,036 --> 00:43:02,621
+Francba ezekkel is!
+
+490
+00:43:03,247 --> 00:43:08,377
+„Csak tápláljam be az adatokat,
+és végtelen dallamot csinálhatok?”
+
+491
+00:43:11,088 --> 00:43:15,217
+Ennek semmi köze a zenéhez!
+
+492
+00:43:16,135 --> 00:43:18,345
+Tönkreteszi a gépeket.
+
+493
+00:43:20,055 --> 00:43:22,182
+Próbálod megvédeni a fajtádat?
+
+494
+00:43:23,225 --> 00:43:27,438
+Akkor hadd kérdezzek valamit!
+Hány fajtársadat semmisítetted meg?
+
+495
+00:43:29,773 --> 00:43:34,653
+Vedd le a köpenyt, és mutasd meg
+a világnak azt az otromba fegyvert!
+
+496
+00:43:34,653 --> 00:43:40,075
+A tested egy fegyver. Hány fajtársadat
+ölted meg ezzel a fegyverrel?
+
+497
+00:43:41,368 --> 00:43:43,871
+Még egy tömegpusztító fegyvernek is
+
+498
+00:43:43,871 --> 00:43:48,500
+engedelmesnek kell lennie
+a gazdájával szemben, mi?
+
+499
+00:43:49,793 --> 00:43:51,378
+Ám legyen!
+
+500
+00:43:51,378 --> 00:43:56,216
+Megosztok veled
+néhány valódi adatot magamról.
+
+501
+00:43:56,800 --> 00:43:59,970
+Okkal nyögök álmomban.
+
+502
+00:44:00,679 --> 00:44:03,432
+Sok éve már egy rémálom gyötör.
+
+503
+00:44:04,266 --> 00:44:08,646
+Nem, nem is rémálom.
+Inkább az igazi múltam.
+
+504
+00:44:10,898 --> 00:44:16,111
+<i>A valódi nevem nem Paul Duncan,
+hanem Paulo Holy.</i>
+
+505
+00:44:16,111 --> 00:44:19,114
+<i>Szegény családba születtem Csehországban.</i>
+
+506
+00:44:19,907 --> 00:44:23,243
+<i>Az apám meghalt,
+mielőtt az eszemet tudtam volna.</i>
+
+507
+00:44:23,869 --> 00:44:26,580
+<i>A születésem óta
+súlyos betegségben szenvedek.</i>
+
+508
+00:44:26,580 --> 00:44:28,874
+<i>Nagyon gyenge volt a látásom,</i>
+
+509
+00:44:28,874 --> 00:44:33,087
+<i>ezért az egyetlen örömömet
+a dalok éneklésében leltem.</i>
+
+510
+00:44:33,837 --> 00:44:36,090
+<i>Az anyám gyönyörű nő volt.</i>
+
+511
+00:44:36,090 --> 00:44:40,886
+<i>A férfiak még akkor is megfordultak utána
+az utcán, amikor rongyokat viselt.</i>
+
+512
+00:44:41,679 --> 00:44:45,474
+<i>Ezért is vetett szemet rá
+az az újgazdag pojáca.</i>
+
+513
+00:44:46,642 --> 00:44:51,897
+<i>Az anyámat pedig elvakította
+a férfi vagyona utáni vágy.</i>
+
+514
+00:44:54,066 --> 00:44:57,486
+Bizonyára terhet jelentettem
+az anyám számára.
+
+515
+00:44:58,112 --> 00:45:01,031
+Elhagyta a beteg gyerekét.
+
+516
+00:45:02,324 --> 00:45:04,827
+Az anyám magamra hagyott engem!
+
+517
+00:45:06,537 --> 00:45:10,916
+<i>Egy angol bentlakásos iskolába kerültem.</i>
+
+518
+00:45:11,583 --> 00:45:13,085
+<i>Nem voltak barátaim,</i>
+
+519
+00:45:13,711 --> 00:45:17,464
+<i>és a gyenge fizikumom miatt
+folyton inzultáltak.</i>
+
+520
+00:45:18,215 --> 00:45:23,512
+<i>De én kétségbeesetten folytatni akartam
+a zenei tanulmányaimat.</i>
+
+521
+00:45:24,388 --> 00:45:26,473
+<i>Valószínűleg túlhajszoltam magam,</i>
+
+522
+00:45:26,473 --> 00:45:29,435
+<i>mert egy ponton
+szűnni nem akaró lázam lett.</i>
+
+523
+00:45:29,435 --> 00:45:32,730
+<i>És így még a zenei tanulmányaimat
+sem tudtam folytatni.</i>
+
+524
+00:45:40,821 --> 00:45:46,702
+<i>Egyik kórházból a másikba küldtek,
+de az állapotom csak egyre rosszabb lett.</i>
+
+525
+00:45:47,995 --> 00:45:52,374
+<i>Az orvosok lemondtak rólam, és soha többé
+nem hallottam az anyám felől.</i>
+
+526
+00:45:54,626 --> 00:45:58,255
+<i>Azt hittem, meg fogok halni.</i>
+
+527
+00:45:59,047 --> 00:46:03,927
+<i>Pont úgy, ahogy azt
+egy magára hagyott gyermeknek illik.</i>
+
+528
+00:46:06,013 --> 00:46:08,849
+<i>Ekkor látogatott meg egy japán orvos.</i>
+
+529
+00:46:09,433 --> 00:46:13,645
+<i>Valójában nem volt orvos,
+mert nem volt engedélye praktizálni.</i>
+
+530
+00:46:14,980 --> 00:46:17,274
+Meg fogom menteni az életedet.
+
+531
+00:46:18,442 --> 00:46:22,362
+De lehet, hogy ennek az lesz
+a következménye, hogy megvakulsz.
+
+532
+00:46:26,158 --> 00:46:28,494
+<i>A műtét sikeres volt.</i>
+
+533
+00:46:29,328 --> 00:46:33,332
+<i>De ahogyan
+az illegálisan praktizáló orvos is mondta,</i>
+
+534
+00:46:33,332 --> 00:46:36,210
+<i>a látásom napról napra rosszabb lett.</i>
+
+535
+00:46:36,919 --> 00:46:38,670
+<i>Fogytán volt az időm,</i>
+
+536
+00:46:38,670 --> 00:46:43,550
+<i>ezért még inkább
+belevetettem magam a zenetanulásba.</i>
+
+537
+00:46:44,676 --> 00:46:46,845
+<i>Számomra már csak a zene maradt.</i>
+
+538
+00:46:48,180 --> 00:46:50,015
+<i>Még többet akartam belőle.</i>
+
+539
+00:46:50,724 --> 00:46:52,768
+<i>Még többet!</i>
+
+540
+00:46:53,519 --> 00:46:54,937
+<i>És még többet!</i>
+
+541
+00:46:58,357 --> 00:46:59,274
+<i>Aztán végül</i>
+
+542
+00:47:00,442 --> 00:47:01,944
+<i>elborított a sötétség.</i>
+
+543
+00:47:04,571 --> 00:47:07,533
+Pár évvel később
+értesültem anyám halálhíréről.
+
+544
+00:47:08,367 --> 00:47:12,371
+Sosem volt lehetősége hozzámenni
+ahhoz az újgazdag pojácához.
+
+545
+00:47:12,371 --> 00:47:17,835
+Állítólag az anyám magányosan halt meg.
+Meg is érdemelte, amiért magamra hagyott.
+
+546
+00:47:18,877 --> 00:47:24,007
+De tudod, mi az érdekes?
+Ez a kastély azé a pojácáé volt.
+
+547
+00:47:24,633 --> 00:47:27,928
+Paulo Holyból
+végül a zseniális Paul Duncan lett.
+
+548
+00:47:28,762 --> 00:47:32,891
+A zenei világ nagymestere lettem,
+és megszereztem ezt a kastélyt.
+
+549
+00:47:34,101 --> 00:47:35,269
+Anya!
+
+550
+00:47:35,269 --> 00:47:38,272
+Ez a te vágyad volt.
+
+551
+00:47:39,147 --> 00:47:43,277
+Ezt akartad elérni
+a gyermeked elhagyása árán!
+
+552
+00:47:44,611 --> 00:47:49,992
+Most pedig, anyám, megmutatom neked,
+hogy mi az, ami igazán fontos.
+
+553
+00:47:49,992 --> 00:47:53,203
+A szülővárosunk látványa,
+amit magad mögött hagytál!
+
+554
+00:47:53,203 --> 00:47:57,666
+<i>Zenévé változtatom azt a csodálatos tájat!</i>
+
+555
+00:47:57,666 --> 00:47:59,585
+Megmutatom neked,
+
+556
+00:47:59,585 --> 00:48:03,589
+hogy mi az, amit az embernek
+sosem lenne szabad eldobnia!
+
+557
+00:48:07,593 --> 00:48:08,510
+Duncan úr!
+
+558
+00:48:09,136 --> 00:48:10,762
+Az anyja...
+
+559
+00:48:10,762 --> 00:48:11,889
+Hallgass!
+
+560
+00:48:14,933 --> 00:48:18,353
+Írok neked egy ajánlólevelet.
+Holnap hagyd el a birtokomat!
+
+561
+00:48:50,052 --> 00:48:52,638
+<i>Ezért szeretnék megtanulni zongorázni.</i>
+
+562
+00:48:53,889 --> 00:48:57,309
+<i>Mert soha többé
+nem akarok a csatatérre menni.</i>
+
+563
+00:49:57,994 --> 00:50:01,081
+Azt hiszem, tényleg fejlődött egy kicsit.
+
+564
+00:50:25,647 --> 00:50:29,609
+Feltölti magát a holnapi indulás előtt?
+
+565
+00:50:30,235 --> 00:50:31,695
+Átkozott gép.
+
+566
+00:50:45,542 --> 00:50:47,502
+Rémálma van?
+
+567
+00:50:53,925 --> 00:50:57,804
+A robotoknak is vannak álmaik?
+
+568
+00:51:26,374 --> 00:51:30,420
+"Nem arról van szó,
+hogy nem tudok komponálni.” Micsoda duma!
+
+569
+00:51:33,548 --> 00:51:34,382
+Hé!
+
+570
+00:51:36,301 --> 00:51:37,552
+Észak Kettő!
+
+571
+00:51:39,179 --> 00:51:41,098
+Észak Kettő! Hé!
+
+572
+00:51:44,810 --> 00:51:46,853
+Hát tényleg elment, mi?
+
+573
+00:51:52,901 --> 00:51:55,529
+Talán már tényleg nem tudok komponálni.
+
+574
+00:52:12,379 --> 00:52:14,673
+Meddig akar még váratni?
+
+575
+00:52:14,673 --> 00:52:17,092
+Mikor érkezik meg az új komornyik?
+
+576
+00:52:17,092 --> 00:52:20,387
+<i>Üdv! Marshall vagyok
+az MCM Pictures vállalattól.</i>
+
+577
+00:52:20,387 --> 00:52:22,264
+Maga csak egy filmes fickó.
+
+578
+00:52:22,973 --> 00:52:25,809
+<i>Valami baj van, Duncan úr?</i>
+
+579
+00:52:25,809 --> 00:52:30,021
+Nem, csak a minap kirúgtam
+a robotkomornyikot.
+
+580
+00:52:30,730 --> 00:52:32,482
+Szóval, mit akar?
+
+581
+00:52:32,482 --> 00:52:36,862
+<i>Nos, egy bizonyos film zenéje miatt hívom.</i>
+
+582
+00:52:37,654 --> 00:52:40,532
+Megbízást ajánl, mi?
+Halljam a részleteket!
+
+583
+00:52:40,532 --> 00:52:42,784
+Talán felkelti az érdeklődésemet.
+
+584
+00:52:43,410 --> 00:52:45,078
+<i>Köszönöm, uram.</i>
+
+585
+00:52:45,078 --> 00:52:49,833
+<i>Érdeklődnék, hogy hajlandó lenne-e
+újra felhasználni egy régebbi művét.</i>
+
+586
+00:52:49,833 --> 00:52:52,377
+Tessék? Szóval nem új zenét akar?
+
+587
+00:52:53,211 --> 00:52:57,549
+<i>Hát, én úgy tudtam,
+hogy ön visszavonult, Duncan úr.</i>
+
+588
+00:53:00,594 --> 00:53:02,637
+Csináljon vele, amit akar!
+
+589
+00:53:02,637 --> 00:53:04,222
+<i>De uram...</i>
+
+590
+00:53:07,017 --> 00:53:08,643
+<i>Egy új üzenet érkezett.</i>
+
+591
+00:53:13,106 --> 00:53:16,818
+<i>Russell vagyok, a Brit Filharmonikusok rendezvényszervezője.</i>
+
+592
+00:53:18,153 --> 00:53:21,948
+<i>Korábban beszéltünk a szvitje előadásáról.</i>
+
+593
+00:53:22,616 --> 00:53:26,369
+<i>Sajnos bizonyos okok miatt
+vissza kell lépnünk a megrendeléstől.</i>
+
+594
+00:53:26,369 --> 00:53:29,915
+<i>Nagyon sajnáljuk.
+Ha ismét lehetőség adódik, azonnal...</i>
+
+595
+00:53:51,603 --> 00:53:55,065
+<i>Hallottam, hogy nyögött álmában.
+Úgy vélem,</i>
+
+596
+00:53:55,732 --> 00:53:58,526
+<i>a dallam, amit dúdolt,
+tökéletesen beleillene a...</i>
+
+597
+00:55:46,509 --> 00:55:47,635
+Duncan úr!
+
+598
+00:55:49,471 --> 00:55:51,306
+Visszajöttem.
+
+599
+00:55:53,224 --> 00:55:56,269
+Tessék? Azt hittem,
+megmondtam, hogy menj el.
+
+600
+00:55:56,936 --> 00:55:58,772
+Elmentem Csehországba.
+
+601
+00:55:59,355 --> 00:56:01,191
+A szülővárosába.
+
+602
+00:56:02,192 --> 00:56:04,277
+Mégis mit kerestél te ott?
+
+603
+00:56:04,861 --> 00:56:07,238
+Elmentem dalokat gyűjteni.
+
+604
+00:56:08,531 --> 00:56:12,243
+Miközben összegyűjtöttem
+számos népdalt a környékről,
+
+605
+00:56:12,952 --> 00:56:18,375
+megtaláltam azt a dallamot,
+amit álmában dúdolt.
+
+606
+00:56:20,668 --> 00:56:22,212
+Eléneklem önnek.
+
+607
+00:56:22,212 --> 00:56:25,757
+Ne! Nem akarom hallani,
+ahogy egy gép énekel!
+
+608
+00:56:26,382 --> 00:56:29,469
+Ne tedd még rosszabbá a rémálmomat!
+
+609
+00:56:29,469 --> 00:56:33,264
+Az emberek bizonyos dolgokat
+inkább elfelejtenének!
+
+610
+00:56:34,766 --> 00:56:37,602
+Duncan úr, az álma nem rémálom.
+
+611
+00:56:40,313 --> 00:56:44,150
+Nem kéne kitörölnie az emlékezetéből.
+Ellentétben az én álmaimmal.
+
+612
+00:56:46,111 --> 00:56:49,614
+Ahogyan ön is mondta,
+én nem vagyok több egy fegyvernél.
+
+613
+00:56:50,365 --> 00:56:55,954
+A 39. közép-ázsiai konfliktus során
+számos ellenséges robotot kiiktattam.
+
+614
+00:56:56,830 --> 00:57:02,418
+Vagyis inkább úgy mondanám,
+a fajtársaim tízezreit öltem meg.
+
+615
+00:57:03,294 --> 00:57:07,882
+Azok az emlékek,
+ahogyan megölöm számtalan társamat,
+
+616
+00:57:08,550 --> 00:57:11,636
+újra és újra megjelennek a tudatomban.
+
+617
+00:57:13,596 --> 00:57:16,808
+Találkoztam
+egy bizonyos öregemberrel Csehországban.
+
+618
+00:57:18,059 --> 00:57:22,564
+Jól ismerte a népdalokat,
+többek közt azt a bizonyos dalt.
+
+619
+00:57:24,190 --> 00:57:30,321
+És arra is emlékezett, hogy valaki
+gyönyörűen el tudta énekelni.
+
+620
+00:57:32,240 --> 00:57:33,992
+Az ön anyja.
+
+621
+00:57:36,411 --> 00:57:42,458
+Az önnel kapcsolatos adataim közt
+az anyjáról is található információ.
+
+622
+00:57:43,418 --> 00:57:49,507
+Az anyja nem hagyta el magát,
+amikor beteg volt.
+
+623
+00:57:50,091 --> 00:57:54,846
+Hanem egy Jonathan Thorn nevű
+multimilliomoshoz fordult segítségért,
+
+624
+00:57:54,846 --> 00:57:56,973
+hogy finanszírozhassa a kezelését.
+
+625
+00:57:57,807 --> 00:58:00,476
+Így tudta kifizetni
+a csillagászati összeget,
+
+626
+00:58:00,476 --> 00:58:04,230
+amit az életét megmentő orvos
+kért a műtétért.
+
+627
+00:58:06,691 --> 00:58:08,985
+Sosem hagyta el önt.
+
+628
+00:58:09,694 --> 00:58:15,408
+És végig ön mellett volt,
+amikor megvakult.
+
+629
+00:58:16,451 --> 00:58:18,661
+De amikor megtudta,
+
+630
+00:58:18,661 --> 00:58:23,249
+hogy maga mennyire utálja őt,
+nem tudta többé támogatni.
+
+631
+00:58:24,584 --> 00:58:26,127
+Nem.
+
+632
+00:58:28,004 --> 00:58:29,088
+Ez nem lehet igaz.
+
+633
+00:58:29,881 --> 00:58:30,715
+De.
+
+634
+00:58:31,633 --> 00:58:33,593
+Amikor felidézi a szülővárosát,
+
+635
+00:58:34,219 --> 00:58:37,013
+nem zár ki véletlenül egy fontos emléket?
+
+636
+00:58:39,682 --> 00:58:41,851
+Az öregember a faluban elmondta,
+
+637
+00:58:42,602 --> 00:58:45,980
+hogy ön és az anyja
+kézen fogva énekelgettek,
+
+638
+00:58:46,731 --> 00:58:51,986
+miközben nézték,
+ahogy a nap lenyugszik a mezők mögött.
+
+639
+00:59:32,944 --> 00:59:33,778
+<i>Anya!</i>
+
+640
+00:59:40,743 --> 00:59:41,953
+Anya!
+
+641
+00:59:45,957 --> 00:59:49,294
+Elnézést kérek.
+Ez csupán egy gép éneke volt.
+
+642
+00:59:52,422 --> 00:59:55,216
+Az álma nem rémálom.
+
+643
+00:59:56,759 --> 00:59:58,886
+Az ön álma nem olyan, mint az enyém.
+
+644
+01:00:03,057 --> 01:00:04,767
+Észak Kettő!
+
+645
+01:00:06,853 --> 01:00:10,607
+Soha ne menj vissza a csatatérre!
+
+646
+01:00:16,696 --> 01:00:19,073
+Megtanítalak zongorázni.
+
+647
+01:00:22,243 --> 01:00:23,119
+Rendben, uram.
+
+648
+01:02:25,241 --> 01:02:26,367
+Észak Kettő!
+
+649
+01:02:27,160 --> 01:02:29,287
+Hé, Észak Kettő!
+
+650
+01:02:29,871 --> 01:02:31,622
+Igen, Duncan úr?
+
+651
+01:02:32,290 --> 01:02:34,792
+Végre elkészült! Hallgasd meg!
+
+652
+01:02:35,626 --> 01:02:38,963
+Rendben, uram.
+Szívesen meghallgatom a művét.
+
+653
+01:02:39,630 --> 01:02:40,757
+De éppen...
+
+654
+01:02:40,757 --> 01:02:42,341
+Mi az? Mi a baj?
+
+655
+01:02:43,217 --> 01:02:46,304
+Valami éppen felénk tart.
+
+656
+01:02:46,304 --> 01:02:47,638
+Valami?
+
+657
+01:02:48,222 --> 01:02:51,517
+Talán meglátogat minket az egyik barátod?
+
+658
+01:02:52,143 --> 01:02:56,481
+Hallotta a pár nappal ezelőtti
+svájci híreket?
+
+659
+01:02:57,064 --> 01:02:58,941
+A svájci híreket?
+
+660
+01:02:58,941 --> 01:03:05,448
+Arra gondolsz, hogy az a Mont Blanc
+nevű robot megsemmisült a tornádóban?
+
+661
+01:03:06,491 --> 01:03:11,162
+Az imént 100 kilométerre innen
+szintén lecsapott egy tornádó.
+
+662
+01:03:17,960 --> 01:03:20,671
+Valamiféle veszély közeleg.
+
+663
+01:03:23,257 --> 01:03:24,592
+Hé!
+
+664
+01:03:26,427 --> 01:03:27,762
+Hamarosan visszajövök.
+
+665
+01:03:28,763 --> 01:03:30,473
+Észak Kettő!
+
+666
+01:04:01,921 --> 01:04:03,965
+Észak Kettő!
+
+667
+01:04:05,925 --> 01:04:07,301
+Észak Kettő!
+
+668
+01:04:11,806 --> 01:04:13,015
+Észak...
+
+669
+01:04:20,481 --> 01:04:23,359
+Mi a fene...
+
+670
+01:04:29,365 --> 01:04:31,784
+Mi folyik itt?
+
+671
+01:04:39,250 --> 01:04:40,293
+Észak Kettő!
+
+672
+01:04:52,430 --> 01:04:53,806
+Ez...
+
+673
+01:05:01,397 --> 01:05:02,732
+Ez az a dal.
+
+674
+01:05:04,191 --> 01:05:06,611
+A dal szétterjed
+
+675
+01:05:07,653 --> 01:05:09,030
+az egész égbolton.
+
+676
+01:05:15,536 --> 01:05:17,496
+Észak Kettő...
+
+677
+01:05:22,627 --> 01:05:25,922
+Észak Kettő énekel.
+
+678
+01:05:36,891 --> 01:05:41,228
+Ne énekelgess az égen, inkább gyere haza!
+
+679
+01:05:42,897 --> 01:05:44,231
+Észak Kettő!
+
+680
+01:05:46,567 --> 01:05:49,487
+Eljött a zongoralecke ideje.
+
+681
+01:06:14,303 --> 01:06:16,514
+- Nagyon klassz!
+- Tényleg?
+
+682
+01:06:36,450 --> 01:06:37,743
+Ez egy csiga?
+
+683
+01:06:38,494 --> 01:06:39,412
+Igen.
+
+684
+01:06:44,041 --> 01:06:45,668
+Örvendek.
+
+685
+01:06:47,628 --> 01:06:49,922
+Te bizonyára Atom vagy.
+
+686
+01:06:52,633 --> 01:06:53,509
+Igen.
+
+687
+01:09:20,865 --> 01:09:22,908
+A feliratot fordította: D. Ferenc
+

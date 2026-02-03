@@ -1,0 +1,268 @@
+﻿[Script Info]
+Title: [Erai-raws] Deutsch
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Internal,Arial Bold,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: TypePlaceholder,Arial Unicode MS,22,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0020,1
+Style: Narrator,Arial Bold,23,&H00F2F2F9,&H000000FF,&H00000050,&H00000050,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Top Internal,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,8,0000,0000,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:08.28,0:00:09.32,Default,Ui,0000,0000,0000,,Schwester!
+Dialogue: 0,0:00:13.78,0:00:17.41,Default,Fluch,0000,0000,0000,,3, 2, 1 …
+Dialogue: 0,0:00:26.05,0:00:27.30,Internal,Mei,0000,0000,0000,,Echt eng hier.
+Dialogue: 0,0:00:30.22,0:00:31.51,Internal,Mei,0000,0000,0000,,Verstehe.
+Dialogue: 0,0:00:40.35,0:00:43.11,Internal,Mei,0000,0000,0000,,Schritt 1: In einen Sarg sperren.
+Dialogue: 0,0:00:43.48,0:00:45.98,TypePlaceholder,,0000,0000,0000,,{\fnVerdana bold\c&H020200&\fs+10\an2\bord0\fad(0,393)\xshad1.5\yshad0.5\4c&H4BA0B4&\pos(523.5,104.5)}Grab
+Dialogue: 0,0:00:43.86,0:00:46.03,Internal,Mei,0000,0000,0000,,Schritt 2: Unter einem Grabstein begraben.
+Dialogue: 0,0:00:46.94,0:00:49.61,Internal,Mei,0000,0000,0000,,Schritt 3: Von drei herunterzählen.
+Dialogue: 0,0:00:50.22,0:00:53.12,Internal,Mei,0000,0000,0000,,Bis hierhin gilt\Ndie Treffergarantie der Sphäre.
+Dialogue: 0,0:00:53.12,0:00:55.37,Internal,Mei,0000,0000,0000,,Es ist ein Krankheitsfluchgeist\Nder Sonderstufe.
+Dialogue: 0,0:00:55.87,0:00:59.87,Internal,Mei,0000,0000,0000,,Wenn ich nicht während\Ndes Countdowns ausbreche,
+Dialogue: 0,0:00:59.87,0:01:03.63,Internal,Mei,0000,0000,0000,,fange ich mir seine\NKrankheit ein und sterbe.
+Dialogue: 0,0:01:17.01,0:01:19.31,Internal,Mei,0000,0000,0000,,Besonders lästig ist der Grabstein.
+Dialogue: 0,0:01:19.81,0:01:23.68,Internal,Mei,0000,0000,0000,,Wenn ich noch zweimal getroffen werde,\Nkann ich mich nicht mehr wie sonst bewegen.
+Dialogue: 0,0:01:23.68,0:01:27.27,Internal,Mei,0000,0000,0000,,In dem Zustand würde ich\NGetō nur ungern bekämpfen.
+Dialogue: 0,0:01:28.28,0:01:29.82,Default,Mei,0000,0000,0000,,Ui Ui, alles in Ordnung?
+Dialogue: 0,0:01:30.61,0:01:32.36,Default,Ui,0000,0000,0000,,Ja, Schwester.
+Dialogue: 0,0:01:35.62,0:01:38.70,Internal,Mei,0000,0000,0000,,In der Sphäre zielt er vermutlich
+Dialogue: 0,0:01:38.70,0:01:41.16,Internal,Mei,0000,0000,0000,,instinktiv auf die\Nmit viel Fluchkraft.
+Dialogue: 0,0:01:42.80,0:01:46.38,Internal,Mei,0000,0000,0000,,Zwei Krähen wurden\Nin die Sphäre gezogen.
+Dialogue: 0,0:02:03.10,0:02:04.48,Default,Mei,0000,0000,0000,,Ich wusste es.
+Dialogue: 0,0:02:06.15,0:02:07.61,Internal,Mei,0000,0000,0000,,Um ihn zu schlagen, …
+Dialogue: 0,0:02:07.94,0:02:10.99,Internal,Mei,0000,0000,0000,,muss ich sein Ziel auf Ui Ui ändern,
+Dialogue: 0,0:02:10.99,0:02:14.32,Internal,Mei,0000,0000,0000,,damit ich mich in der Zeit\Nfrei bewegen kann.
+Dialogue: 0,0:02:15.16,0:02:19.89,Internal,Mei,0000,0000,0000,,Aber ein Treffer von dem Grabstein\Nwürde Ui Ui umbringen.
+Dialogue: 0,0:02:22.50,0:02:23.62,Default,Mei,0000,0000,0000,,Ui Ui.
+Dialogue: 0,0:02:25.73,0:02:27.88,Default,Mei,0000,0000,0000,,Würdest du für mich sterben?
+Dialogue: 0,0:02:31.91,0:02:35.18,Default,Ui,0000,0000,0000,,Darf ich wirklich für dich sterben?
+Dialogue: 0,0:02:54.70,0:02:59.45,Internal,Ui,0000,0000,0000,,Genau als ich meine Fluchkraft entfesselte,\Nunterdrückte sie ihre.
+Dialogue: 0,0:03:00.08,0:03:03.37,Internal,Ui,0000,0000,0000,,Ich begreife nun alles, Schwester!
+Dialogue: 0,0:03:24.23,0:03:28.27,Default,Mei,0000,0000,0000,,Dachtest du, ich hätte den Jungen\Nnur als meinen Packesel dabei?
+Dialogue: 0,0:03:30.73,0:03:32.86,Top Internal,Ui,0000,0000,0000,,Ihre Bitte, dass ich mich opfere,
+Dialogue: 0,0:03:32.86,0:03:36.28,Top Internal,Ui,0000,0000,0000,,ist das Zeichen, dass ich\Nmein Jujutsu benutzen darf.
+Dialogue: 0,0:03:35.65,0:03:36.86,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\an2\bord1.5\c&HFFFFFF&\3c&H000000&\blur2\3a&HAA&\pos(320,301)}Neuer Schattenstil: Einfache Sphäre
+Dialogue: 0,0:03:37.28,0:03:40.24,Default,Mei,0000,0000,0000,,Ui Uis Aufgabe ist es,\Ngegen Sphären vorzugehen.
+Dialogue: 0,0:03:40.91,0:03:44.20,Internal,Mei,0000,0000,0000,,Ich mag es nicht,\Nin jemandes Schuld zu stehen.
+Dialogue: 0,0:03:44.50,0:03:47.08,Internal,Mei,0000,0000,0000,,Das überlasse ich also ihm.
+Dialogue: 0,0:04:25.49,0:04:26.75,Internal,Mei,0000,0000,0000,,Was, glaubst du, …
+Dialogue: 0,0:04:27.12,0:04:32.67,Internal,Mei,0000,0000,0000,,ist der schnellste Weg, um die Stärke\Neines Jujuzisten zu erhöhen?
+Dialogue: 0,0:04:33.54,0:04:36.13,Default,Ui,0000,0000,0000,,Ein Vertrag mit dem Leben als Einsatz.
+Dialogue: 0,0:04:36.34,0:04:38.88,Default,Ui,0000,0000,0000,,Stimmt doch, oder, Schwester?
+Dialogue: 0,0:04:38.88,0:04:39.63,Internal,Ui,0000,0000,0000,,Ja!
+Dialogue: 0,0:04:39.63,0:04:43.97,Internal,Ui,0000,0000,0000,,Der Höhepunkt von ihrer\NSchwarzvogel-Manipulation,
+Dialogue: 0,0:04:43.97,0:04:45.64,Internal,Ui,0000,0000,0000,,Bird Strike!
+Dialogue: 0,0:04:46.72,0:04:49.73,Internal,Ui,0000,0000,0000,,Dafür, dass sie ihre Krähe\Nzum Selbstmord zwingt,
+Dialogue: 0,0:04:49.73,0:04:53.06,Internal,Ui,0000,0000,0000,,wird die Grenze an Fluchkraft,\Ndie bei Tieren gering ist, entfernt
+Dialogue: 0,0:04:53.06,0:04:54.65,Internal,Ui,0000,0000,0000,,und sie kracht in ihn.
+Dialogue: 0,0:04:54.65,0:05:00.90,Internal,Ui,0000,0000,0000,,Bislang konnte bis auf Gojō Satoru kein\NMensch ihrem Bird Strike Einhalt gebieten.
+Dialogue: 0,0:05:09.05,0:05:11.96,Default,Mei,0000,0000,0000,,Okay, meine Lieben.\NEs geht ans Eingemachte.
+Dialogue: 0,0:05:14.21,0:05:17.09,Default,Mei,0000,0000,0000,,Würdet ihr für mich sterben?
+Dialogue: 0,0:05:18.09,0:05:19.72,Default,Getō,0000,0000,0000,,Nicht übel.
+Dialogue: 0,0:05:20.34,0:05:22.97,Default,Getō,0000,0000,0000,,Für eine moderne Jujuzistin.
+Dialogue: 0,0:05:22.97,0:05:25.97,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fsp1\c&HFAFAFA&\bord0\pos(320,105)}Folge 38\N\N\N\N\N\N\N\N\N\N\N{\fs+5}Schwankungen
+Dialogue: 0,0:05:36.52,0:05:41.07,TypePlaceholder,Type,0000,0000,0000,,{\fad(0,1075)\fnVerdana Bold\shad0\bord2\an2\fs45)\move(320,75,320,80,29,4659)\c&H000103&\3c&H91D9D5&\t(0,0,\fscx95\fscy95)}Jujutsu Kaisen
+Dialogue: 0,0:05:36.52,0:05:41.07,TypePlaceholder,Type,0000,0000,0000,,{\fad(0,1075)\fnTimes New Roman Bold\fsp1\bord0\move(320,280,320,275.5,29,4659)\c&HFFFFFF&\t(0,0,\fscx95\fscy95)}Der Shibuya-Vorfall
+Dialogue: 0,0:06:56.48,0:06:59.69,Default,Naobito,0000,0000,0000,,Gojō Satoru wurde also versiegelt.
+Dialogue: 0,0:06:59.69,0:07:01.73,Default,Naobito,0000,0000,0000,,Ich kann es kaum glauben.
+Dialogue: 0,0:07:02.03,0:07:03.61,Default,Nanami,0000,0000,0000,,Ich auch nicht.
+Dialogue: 0,0:07:03.61,0:07:07.78,Default,Nanami,0000,0000,0000,,Aber Getō ist involviert,\NFälschung hin oder her.
+Dialogue: 0,0:07:07.78,0:07:10.24,Default,Nanami,0000,0000,0000,,Das muss der Grund sein.
+Dialogue: 0,0:07:11.08,0:07:16.58,Default,Naobito,0000,0000,0000,,Also ich würde gerne zusehen und\Nauf den Fall der Familie Gojō anstoßen.
+Dialogue: 0,0:07:18.75,0:07:21.13,Default,Maki,0000,0000,0000,,Wenn du keinen Bock hast, verzieh dich.
+Dialogue: 0,0:07:21.46,0:07:23.46,Default,Naobito,0000,0000,0000,,Ich soll mich verziehen?
+Dialogue: 0,0:07:23.80,0:07:26.84,Default,Naobito,0000,0000,0000,,Das gilt doch vielmehr\Nfür dich selbst.
+Dialogue: 0,0:07:27.59,0:07:30.14,Default,Naobito,0000,0000,0000,,Nicht wahr, Nanami,\Ndu Jujuzist von Rang 1?
+Dialogue: 0,0:07:30.51,0:07:31.51,Default,Nanami,0000,0000,0000,,Maki.
+Dialogue: 0,0:07:32.39,0:07:35.48,Default,Nanami,0000,0000,0000,,Was das angeht,\Nsolltest du tun, was er sa…
+Dialogue: 0,0:07:35.48,0:07:37.90,Default,Maki,0000,0000,0000,,Ich werde mehr beitragen\Nals dieser Besoffski.
+Dialogue: 0,0:07:37.90,0:07:44.65,TypePlaceholder,,0000,0000,0000,,{\fnVerdana bold\c&HFDFEFE&\bord0\an1\fs+1\pos(272,263.5)}22:20\h\h\h\h\h\h\h\hBahnhof Shibuya,\N{\alpha&HFF&)}22:20\h\h\h\h\h\h\h\h{\alpha&HF00&}Inokashira-Linie\N{\alpha&HFF&)}22:20\h\h\h\h\h\h\h\h{\alpha&HF00&}Ausgang Allee
+Dialogue: 0,0:07:38.94,0:07:40.40,Default,Nanami,0000,0000,0000,,Hast du was getrunken?
+Dialogue: 0,0:07:40.86,0:07:42.48,Default,Naobito,0000,0000,0000,,Habsch nich.
+Dialogue: 0,0:07:45.74,0:07:48.99,Internal,Nanami,0000,0000,0000,,Bisher war es nie ein Vorteil,\Nallein zu kämpfen.
+Dialogue: 0,0:08:00.67,0:08:01.71,Default,Maki,0000,0000,0000,,Nanami.
+Dialogue: 0,0:08:02.17,0:08:02.79,Default,Nanami,0000,0000,0000,,Ich weiß.
+Dialogue: 0,0:08:10.68,0:08:11.80,Default,Nanami,0000,0000,0000,,Ich übernehme den.
+Dialogue: 0,0:08:21.15,0:08:22.73,Default,Naobito,0000,0000,0000,,Ihr seid …
+Dialogue: 0,0:08:24.23,0:08:27.11,Default,Naobito,0000,0000,0000,,ein bisschen zu langsam.
+Dialogue: 0,0:08:36.20,0:08:37.33,Default,Maki,0000,0000,0000,,Hast du das gesehen?
+Dialogue: 0,0:08:37.91,0:08:38.71,Default,Nanami,0000,0000,0000,,Nein.
+Dialogue: 0,0:08:39.46,0:08:41.71,Internal,Nanami,0000,0000,0000,,Das muss seine Fluchtechnik sein.
+Dialogue: 0,0:08:57.93,0:08:59.06,Default,Naobito,0000,0000,0000,,Du hast Nerven.
+Dialogue: 0,0:08:59.85,0:09:02.85,Default,Naobito,0000,0000,0000,,Wie viele Menschen\Nhast du gefressen?
+Dialogue: 0,0:09:08.69,0:09:10.57,Default,Dagon,0000,0000,0000,,Jōgo …
+Dialogue: 0,0:09:15.03,0:09:17.08,Default,Dagon,0000,0000,0000,,Mahito …
+Dialogue: 0,0:09:18.50,0:09:20.21,Default,Dagon,0000,0000,0000,,Hanami …
+Dialogue: 0,0:09:22.01,0:09:23.96,Default,Dagon,0000,0000,0000,,Hana…
+Dialogue: 0,0:09:25.75,0:09:26.96,Default,Dagon,0000,0000,0000,,…mi!
+Dialogue: 0,0:09:29.09,0:09:33.64,Default,Dagon,0000,0000,0000,,Was fällt euch ein, Hanami zu töten?
+Dialogue: 0,0:09:33.64,0:09:35.97,Default,Dagon,0000,0000,0000,,Was fällt euch ein?!
+Dialogue: 0,0:09:37.47,0:09:40.81,Default,Naobito,0000,0000,0000,,Verstehe.\NDeshalb warst du so schwach.
+Dialogue: 0,0:09:42.19,0:09:45.86,Default,Naobito,0000,0000,0000,,Du warst also immer noch\Nein Fluchuterus.
+Dialogue: 0,0:09:53.20,0:09:54.45,Default,Maki,0000,0000,0000,,Wasser?!
+Dialogue: 0,0:10:04.97,0:10:06.92,Default,Maki,0000,0000,0000,,Und was für Unmengen!
+Dialogue: 0,0:10:12.22,0:10:13.88,Default,Naobito,0000,0000,0000,,Sag mir, Fluchgeist …
+Dialogue: 0,0:10:14.76,0:10:20.18,Default,Naobito,0000,0000,0000,,Weißt du, wie viele Einzelbilder\Neine Sekunde Animationsfilm hat?
+Dialogue: 0,0:10:20.43,0:10:23.02,Default,Dagon,0000,0000,0000,,Ich heiße nicht Fluchgeist,\Nsondern Dagon.
+Dialogue: 0,0:10:23.02,0:10:27.94,Default,Naobito,0000,0000,0000,,Der Trend geht dahin, die Auflösung\Nund Framerate zu erhöhen.
+Dialogue: 0,0:10:27.94,0:10:31.62,Default,Dagon,0000,0000,0000,,Hanami, Jōgo und auch Mahito.
+Dialogue: 0,0:10:31.62,0:10:37.26,Default,Naobito,0000,0000,0000,,4k-Upscaling,\NInterpolation auf 60 fps.
+Dialogue: 0,0:10:37.26,0:10:38.62,Default,Dago,0000,0000,0000,,Wir alle …
+Dialogue: 0,0:10:38.62,0:10:43.41,Default,Naobito,0000,0000,0000,,Für Privatzwecke genutzt, leidet niemand\Ndarunter, dann ist das eine gute Sache.
+Dialogue: 0,0:10:43.41,0:10:45.75,Default,Naobito,0000,0000,0000,,Doch neue Fernsehmodelle
+Dialogue: 0,0:10:45.75,0:10:49.42,Default,Naobito,0000,0000,0000,,haben die Motion-Interpolation\Nstandardmäßig aktiviert.
+Dialogue: 0,0:10:49.42,0:10:54.47,Default,Naobito,0000,0000,0000,,Ein typisches Beispiel von\N„gut gemeint, aber schädlich“.
+Dialogue: 0,0:10:54.47,0:10:58.55,Default,Naobito,0000,0000,0000,,Es gibt nichts Schlimmeres.\NDieser Seifenopern-Effekt …
+Dialogue: 0,0:10:58.55,0:11:01.01,Default,Dagon,0000,0000,0000,,Wir alle haben Namen.
+Dialogue: 0,0:11:01.01,0:11:03.06,Default,Naobito,0000,0000,0000,,Findest du das nicht
+Dialogue: 0,0:11:03.06,0:11:04.60,Default,Naobito,0000,0000,0000,,fürchterlich?
+Dialogue: 0,0:11:19.87,0:11:21.37,Default,Naobito,0000,0000,0000,,Hoppsala.
+Dialogue: 0,0:11:40.55,0:11:42.60,Internal,Nanami,0000,0000,0000,,Kein Schaden.
+Dialogue: 0,0:11:42.60,0:11:46.44,Internal,Nanami,0000,0000,0000,,Beziehungsweise fühlt es sich so an,\Nals hätte er unendlich viele HP.
+Dialogue: 0,0:11:58.86,0:12:02.34,Default,Naobito,0000,0000,0000,,Wenn wir zwei von Rang 1\Nihn nicht austreiben können,
+Dialogue: 0,0:12:02.34,0:12:04.87,Default,Naobito,0000,0000,0000,,ist die Lage wahrhaftig ernst.
+Dialogue: 0,0:12:04.87,0:12:06.20,Internal,Maki,0000,0000,0000,,Mist!
+Dialogue: 0,0:12:06.20,0:12:08.59,Internal,Maki,0000,0000,0000,,Wenn der Alte seine Fluchtechnik\Nnicht eingesetzt hätte,
+Dialogue: 0,0:12:08.59,0:12:10.79,Internal,Maki,0000,0000,0000,,wäre ich erbärmlich verreckt.
+Dialogue: 0,0:12:11.96,0:12:13.13,Internal,Maki,0000,0000,0000,,Was für eine Schmach.
+Dialogue: 0,0:12:13.13,0:12:15.69,Default,Naobito,0000,0000,0000,,Ein Schutzwall aus Wasser?
+Dialogue: 0,0:12:15.69,0:12:18.51,Default,Naobito,0000,0000,0000,,Und zeitgleich kannst du\Nim großen Stil angreifen?
+Dialogue: 0,0:12:18.84,0:12:22.89,Default,Naobito,0000,0000,0000,,Du hast noch genug Fluchkraft\Nund reichlich Techniken in petto, was?
+Dialogue: 0,0:12:23.10,0:12:24.89,Default,Naobito,0000,0000,0000,,Was soll ich also tun?
+Dialogue: 0,0:12:26.10,0:12:27.73,Default,Naobito,0000,0000,0000,,Ganz einfach.
+Dialogue: 0,0:12:27.73,0:12:30.27,Default,Naobito,0000,0000,0000,,Bevor du deine Technik\Neinsetzen kannst, …
+Dialogue: 0,0:12:32.15,0:12:33.79,Default,Naobito,0000,0000,0000,,bringe ich dich um!
+Dialogue: 0,0:12:37.65,0:12:38.82,Internal,Dagon,0000,0000,0000,,Das ist absurd!
+Dialogue: 0,0:12:47.08,0:12:49.96,Default,Naobito,0000,0000,0000,,Du kannst doch auch\Nschweben, oder?
+Dialogue: 0,0:12:50.33,0:12:52.50,Default,Naobito,0000,0000,0000,,Ich würde auch nach oben fliehen.
+Dialogue: 0,0:12:56.76,0:12:58.80,Internal,Dagon,0000,0000,0000,,Ich kann meine Technik nicht aktivieren!
+Dialogue: 0,0:13:06.77,0:13:08.18,Internal,Dagon,0000,0000,0000,,Dieser Mann …
+Dialogue: 0,0:13:08.98,0:13:11.19,Internal,Dagon,0000,0000,0000,,Er ist schuld.
+Dialogue: 0,0:13:20.61,0:13:21.97,Internal,Dago,0000,0000,0000,,Er ist schnell!
+Dialogue: 0,0:13:21.97,0:13:24.41,Internal,Dagon,0000,0000,0000,,Vermutlich noch schneller als Jōgo.
+Dialogue: 0,0:13:31.71,0:13:33.33,Narrator,Erzählerin,0000,0000,0000,,Projektionsmagie.
+Dialogue: 0,0:13:33.33,0:13:36.04,Narrator,Erzählerin,0000,0000,0000,,Zen’in Naobitos Fluchtechnik
+Dialogue: 0,0:13:36.04,0:13:40.80,Narrator,Erzählerin,0000,0000,0000,,teilt eine Sekunde in 24 Einzelbilder,\Nin denen er aus seiner Perspektive
+Dialogue: 0,0:13:40.80,0:13:44.90,Narrator,Erzählerin,0000,0000,0000,,die zuvor getätigten\NBewegungen nachbildet.
+Dialogue: 0,0:13:45.51,0:13:49.64,Narrator,Erzählerin,0000,0000,0000,,Während die Technik aktiv ist, müssen alle,\Ndie Naobitos Handflächen berühren,
+Dialogue: 0,0:13:49.64,0:13:54.06,Narrator,Erzählerin,0000,0000,0000,,ihre Aktionen in 1/24\Neiner Sekunde festlegen.
+Dialogue: 0,0:13:54.06,0:13:56.61,Narrator,Erzählerin,0000,0000,0000,,Falls nicht, werden ihre\NBewegungen abgehackt
+Dialogue: 0,0:13:56.61,0:13:59.03,Narrator,Erzählerin,0000,0000,0000,,und sie frieren eine Sekunde ein.
+Dialogue: 0,0:14:02.10,0:14:03.78,Narrator,Erzählerin,0000,0000,0000,,Dabei gibt es Risiken.
+Dialogue: 0,0:14:04.70,0:14:08.41,Narrator,Erzählerin,0000,0000,0000,,Getätigte Bewegungen können\Nnicht mittendrin angepasst werden.
+Dialogue: 0,0:14:08.41,0:14:12.41,Narrator,Erzählerin,0000,0000,0000,,Bewegungen, die die Regeln der Physik\Nund Flugbahnen zu sehr ignorieren,
+Dialogue: 0,0:14:11.54,0:14:15.25,TypePlaceholder,Erzählerin,0000,0000,0000,,{\fnComic Sans MS Bold\fsp2\fs+5\c&H435648&\bord3\fad(200,0)\3c&HDFFDE1&}Retake\N{\fs-3}Die Bewegungen passen nicht zusammen!!!
+Dialogue: 0,0:14:12.41,0:14:15.25,Narrator,Erzählerin,0000,0000,0000,,lassen den Anwender ebenfalls einfrieren.
+Dialogue: 0,0:14:26.01,0:14:31.02,Narrator,Erzählerin,0000,0000,0000,,Dennoch machen sein natürliches Gespür\Nfür Animation und sein präzises Zeitempfinden
+Dialogue: 0,0:14:31.02,0:14:36.65,Narrator,Erzählerin,0000,0000,0000,,ihn nach Gojō Satoru zum\Nschnellsten Jujuzisten überhaupt.
+Dialogue: 0,0:14:41.23,0:14:42.78,Default,Naobito,0000,0000,0000,,Vergiss es.
+Dialogue: 0,0:15:05.93,0:15:07.97,TypePlaceholder,Type,0000,0000,0000,,{\fad(250,0)\fnVerdana Bold\shad0\bord2\an2\fs45)\move(320,75,320,80,29,4659)\c&HFFFFFF&\3c&HFFFFFF&\t(0,550,1,\c&H0B070D&\3c&HA8DCD8&)\t(0,0,\fscx97\fscy97)}Jujutsu Kaisen
+Dialogue: 0,0:15:11.01,0:15:12.97,TypePlaceholder,,0000,0000,0000,,{\fad(250,0)\fnVerdana Bold\shad0\bord2\an2\fs45)\move(320,75,320,80,29,4659)\c&HFFFFFF&\3c&HFFFFFF&\t(0,550,1,\c&H0B070D&\3c&H5BD9EF&)\t(0,0,\fscx97\fscy97)}Jujutsu Kaisen
+Dialogue: 0,0:15:19.44,0:15:21.36,Default,Dagon,0000,0000,0000,,Sphärenentfaltung:
+Dialogue: 0,0:15:26.36,0:15:28.62,Default,Dagon,0000,0000,0000,,Horizont der betörenden Skandha.
+Dialogue: 0,0:15:32.70,0:15:35.50,Internal,Maki,0000,0000,0000,,Ein Shikigami? Das ist der Angriff\Nder Sphäre, der immer trifft?
+Dialogue: 0,0:15:35.50,0:15:37.12,Internal,Maki,0000,0000,0000,,Bis zum Treffer habe ich\Nnichts bemerkt!
+Dialogue: 0,0:15:37.75,0:15:40.75,Internal,Maki,0000,0000,0000,,Oder hat er bis dahin\Ngar nicht existiert?
+Dialogue: 0,0:15:42.84,0:15:44.80,Default,Naobito,0000,0000,0000,,Geheime Kunst: Gefühlssturz.
+Dialogue: 0,0:15:45.42,0:15:48.89,Narrator,Erzählerin,0000,0000,0000,,Ein traditioneller Konter der drei\Ngroßen Familien gegen Sphären.
+Dialogue: 0,0:15:48.89,0:15:52.81,Narrator,Erzählerin,0000,0000,0000,,Im Gegensatz zur Einfachen Sphäre\Nspannt sie keine eigene Sphäre auf,
+Dialogue: 0,0:15:52.81,0:15:56.10,Narrator,Erzählerin,0000,0000,0000,,sondern kontert bei Kontakt mit der\NFluchtechnik, die garantiert treffen würde,
+Dialogue: 0,0:15:56.10,0:15:59.69,Narrator,Erzählerin,0000,0000,0000,,mit Fluchenergie und\Nbeschützt den Anwender so.
+Dialogue: 0,0:16:00.36,0:16:02.98,Internal,Dagon,0000,0000,0000,,Ich wusste, dass dieser\NMann besonders ist.
+Dialogue: 0,0:16:02.98,0:16:04.90,Internal,Dagon,0000,0000,0000,,Genug experimentiert.
+Dialogue: 0,0:16:04.90,0:16:09.66,Internal,Dagon,0000,0000,0000,,Ich verwende 70 % meiner Kraft auf den Mann\Nmit Schnurrbart und 30 % auf den im Anzug.
+Dialogue: 0,0:16:09.66,0:16:11.66,Internal,Dagon,0000,0000,0000,,Fluchtechnik-Entfesselung:
+Dialogue: 0,0:16:11.66,0:16:13.87,Internal,Dagon,0000,0000,0000,,Todesschwarm!
+Dialogue: 0,0:16:18.79,0:16:23.34,Default,Nanami,0000,0000,0000,,Maki, die Shikigami kommen\Nnicht direkt auf uns zu.
+Dialogue: 0,0:16:23.80,0:16:27.35,Default,Nanami,0000,0000,0000,,Im nächsten Moment werden sie\Nunser Fleisch aushöhlen!
+Dialogue: 0,0:16:27.35,0:16:28.88,Default,Nanami,0000,0000,0000,,Denk ja nicht nach!
+Dialogue: 0,0:16:28.88,0:16:32.76,Default,Nanami,0000,0000,0000,,Sobald sie dich berühren,\Nschlag sie von dir!
+Dialogue: 0,0:16:32.76,0:16:35.72,Default,Nanami,0000,0000,0000,,Zu mehr reicht deine Fluchkraft ni…
+Dialogue: 0,0:16:39.23,0:16:40.31,Default,Maki,0000,0000,0000,,Nanami!
+Dialogue: 0,0:16:48.90,0:16:52.30,Internal,Naobito,0000,0000,0000,,Der Schwall an Shikigami\Nlässt kein Stück nach.
+Dialogue: 0,0:16:52.30,0:16:55.66,Internal,Naobito,0000,0000,0000,,Ist diese Fluchtechnik\Netwa Teil der Sphäre?
+Dialogue: 0,0:17:05.23,0:17:05.67,Default,Naobito,0000,0000,0000,,Gefü…
+Dialogue: 0,0:17:05.67,0:17:10.93,Default,Dagon,0000,0000,0000,,Das Meer ist die Quelle allen Lebens.
+Dialogue: 0,0:17:14.76,0:17:15.72,Default,Dagon,0000,0000,0000,,Zu schwach.
+Dialogue: 0,0:17:16.01,0:17:17.72,Default,Dagon,0000,0000,0000,,Du kommst zuerst dran.
+Dialogue: 0,0:17:21.06,0:17:26.15,Default,Dagon,0000,0000,0000,,Der Todesschwarm ist eine\Nendlose Welle an Shikigami.
+Dialogue: 0,0:17:34.74,0:17:36.87,Default,Maki,0000,0000,0000,,Wenn du mich schwach nennst, …
+Dialogue: 0,0:17:37.41,0:17:39.55,Default,Maki,0000,0000,0000,,dann bring mich gefälligst\Nmit einem Schlag um.
+Dialogue: 0,0:17:40.91,0:17:42.17,Default,Maki,0000,0000,0000,,Du dummer Polyp.
+Dialogue: 0,0:17:43.46,0:17:46.38,Default,Dagon,0000,0000,0000,,Dann werde ich dich\Nwie die anderen beiden …
+Dialogue: 0,0:17:47.09,0:17:47.96,Internal,Maki,0000,0000,0000,,Scheiße.
+Dialogue: 0,0:17:49.15,0:17:51.63,Default,Dagon,0000,0000,0000,,… eben verspeisen.
+Dialogue: 0,0:17:57.47,0:17:58.60,Default,Fushiguro,0000,0000,0000,,Maki!
+Dialogue: 0,0:17:59.39,0:18:00.43,Default,Maki,0000,0000,0000,,Megumi!
+Dialogue: 0,0:18:05.77,0:18:08.44,Internal,Maki,0000,0000,0000,,Du kannst es echt nicht lassen, …
+Dialogue: 0,0:18:10.90,0:18:13.20,Internal,Maki,0000,0000,0000,,mein scheißfrecher Kōhai!
+Dialogue: 0,0:18:14.11,0:18:15.37,Internal,Fushiguro,0000,0000,0000,,Ich habe ihn.
+Dialogue: 0,0:18:16.07,0:18:19.12,Internal,Fushiguro,0000,0000,0000,,Der Oktopus beherrscht diese Sphäre.
+Dialogue: 0,0:18:19.95,0:18:23.87,Default,Dagon,0000,0000,0000,,Du wagst es, einfach in\Nmeine Sphäre einzudringen?
+Dialogue: 0,0:18:26.13,0:18:27.13,Default,Dagon,0000,0000,0000,,Du Narr.
+Dialogue: 0,0:18:29.26,0:18:30.30,Default,Dagon,0000,0000,0000,,Was?!
+Dialogue: 0,0:18:45.77,0:18:49.86,Internal,Dagon,0000,0000,0000,,Die Treffergarantie meiner Sphäre\Nist verschwunden!
+Dialogue: 0,0:18:50.77,0:18:54.61,Internal,Dagon,0000,0000,0000,,Der Junge entfaltet\Nseine eigene Sphäre.
+Dialogue: 0,0:18:54.61,0:18:58.95,Internal,Dagon,0000,0000,0000,,Seine und meine Sphäre streiten\Ngerade um die Vorherrschaft.
+Dialogue: 0,0:18:58.95,0:19:01.66,Internal,Dagon,0000,0000,0000,,Um meine Treffergarantie\Nzurückzuerlangen,
+Dialogue: 0,0:19:01.66,0:19:05.08,Internal,Dagon,0000,0000,0000,,muss ich seine Sphäre also\Nerst einmal auslöschen.
+Dialogue: 0,0:19:05.62,0:19:07.29,Default,Dagon,0000,0000,0000,,Ein Kinderspiel!
+Dialogue: 0,0:19:28.94,0:19:30.40,Default,Nanami,0000,0000,0000,,Wie steht’s um die anderen?
+Dialogue: 0,0:19:30.40,0:19:33.48,Default,Fushiguro,0000,0000,0000,,Ino ist ausgeschieden,\NItadori agiert auf eigene Faust.
+Dialogue: 0,0:19:33.99,0:19:36.24,Default,Nanami,0000,0000,0000,,Ich werde dich beschützen,
+Dialogue: 0,0:19:36.24,0:19:38.62,Default,Nanami,0000,0000,0000,,also konzentrier dich bitte auf die Sphäre.
+Dialogue: 0,0:19:41.62,0:19:47.07,Internal,Dagon,0000,0000,0000,,Hat dieser Mann dem Todesschwarm\Nallen Ernstes eine Minute standgehalten?
+Dialogue: 0,0:19:48.12,0:19:50.89,Internal,Dagon,0000,0000,0000,,Und der mit dem Bart ebenfalls!
+Dialogue: 0,0:20:03.77,0:20:06.43,Default,Naobito,0000,0000,0000,,Alles für nur einen Arm.
+Dialogue: 0,0:20:07.89,0:20:11.06,Default,Naobito,0000,0000,0000,,Doch er war 71 Jahre gereift.
+Dialogue: 0,0:20:11.44,0:20:13.36,Default,Naobito,0000,0000,0000,,Dafür wirst du teuer bezahlen!
+Dialogue: 0,0:20:21.07,0:20:23.99,Internal,Nanami,0000,0000,0000,,Wenn es so weitergeht,\Nsind wir geliefert.
+Dialogue: 0,0:20:25.08,0:20:26.54,Internal,Nanami,0000,0000,0000,,Doch das wird es nicht.
+Dialogue: 0,0:20:32.13,0:20:33.34,Default,Fushiguro,0000,0000,0000,,Nanami!
+Dialogue: 0,0:20:35.17,0:20:40.09,Default,Fushiguro,0000,0000,0000,,Der Oktopus denkt, unsere Sphären\Nkämpfen um die Vorherrschaft.
+Dialogue: 0,0:20:40.55,0:20:42.68,Default,Fushiguro,0000,0000,0000,,Aber das ist nicht mein Ziel.
+Dialogue: 0,0:20:44.10,0:20:49.35,Default,Fushiguro,0000,0000,0000,,Ich werde ein winziges Loch\Nin die Barriere der Sphäre schlagen.
+Dialogue: 0,0:20:50.10,0:20:53.00,Default,Fushiguro,0000,0000,0000,,Das Loch, durch das\Nich kam, ist bereits zu.
+Dialogue: 0,0:20:53.00,0:20:55.11,Default,Fushiguro,0000,0000,0000,,Es ist schwerer,\Neins von innen zu öffnen,
+Dialogue: 0,0:20:55.11,0:20:59.61,Default,Fushiguro,0000,0000,0000,,aber für wenige Sekunden kann ich eins\Naufrechterhalten, durch das ein Mensch passt.
+Dialogue: 0,0:21:00.03,0:21:01.83,Default,Fushiguro,0000,0000,0000,,Unser Gegner ist nicht Herr Gojō.
+Dialogue: 0,0:21:01.83,0:21:05.54,Default,Fushiguro,0000,0000,0000,,An einem Tag wird er seine Sphäre\Nnicht zigfach entfalten können.
+Dialogue: 0,0:21:05.54,0:21:08.62,Default,Fushiguro,0000,0000,0000,,Wir können gewinnen,\Nwenn wir alle hier rauskommen.
+Dialogue: 0,0:21:08.62,0:21:10.79,Default,Fushiguro,0000,0000,0000,,Der Rand der Sphäre\Nist direkt unter mir.
+Dialogue: 0,0:21:10.79,0:21:13.21,Default,Fushiguro,0000,0000,0000,,Das weiß ich, weil ich ihn\Nbeim Eindringen berührt habe.
+Dialogue: 0,0:21:13.21,0:21:16.63,Default,Fushiguro,0000,0000,0000,,Ich kann jederzeit loslegen, aber ihr\Nmüsst alle gleichzeitig reinspringen!
+Dialogue: 0,0:21:18.13,0:21:21.01,Default,Nanami,0000,0000,0000,,Bleib ja nicht allein zurück, hörst du?
+Dialogue: 0,0:21:21.69,0:21:23.51,Default,Fushiguro,0000,0000,0000,,Ich riskiere mein Leben zwar, …
+Dialogue: 0,0:21:24.45,0:21:26.31,Default,Fushiguro,0000,0000,0000,,aber ich werde es nicht wegwerfen.
+Dialogue: 0,0:21:28.22,0:21:30.35,Default,Nanami,0000,0000,0000,,Ihr beiden!
+Dialogue: 0,0:21:30.64,0:21:32.98,Default,Nanami,0000,0000,0000,,Kommt zu mir!
+Dialogue: 0,0:21:39.28,0:21:42.49,Internal,Dagon,0000,0000,0000,,Wollen sie ihre Verteidigung\Num den Jungen konzentrieren?
+Dialogue: 0,0:21:42.49,0:21:43.99,Internal,Dagon,0000,0000,0000,,Dann kann ich sie ja alle gleichz…
+Dialogue: 0,0:21:46.41,0:21:47.33,Internal,Dagon,0000,0000,0000,,Nein!
+Dialogue: 0,0:21:47.33,0:21:49.83,Internal,Nanami,0000,0000,0000,,Er hat’s gemerkt,\Naber jetzt ist es zu spät!
+Dialogue: 0,0:21:49.83,0:21:51.96,Default,Nanami,0000,0000,0000,,Zu Fushiguros Füßen!
+Dialogue: 0,0:22:10.52,0:22:12.35,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fs18\fsp1\fad(0,0)\bord1\shad1\c&HC1C4C0&\3c&H201F19&\4c&H131313&\pos(151.5,257.5)}Übersetzung:\NRuben Grest
+Dialogue: 0,0:22:14.19,0:22:16.02,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fs18\fsp1\fad(0,0)\bord1\shad1\c&HC1C4C0&\3c&H201F19&\4c&H131313&\pos(145.5,265.5)}Spotting:\NPeter Schirrmeister
+Dialogue: 0,0:22:17.86,0:22:19.69,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fs18\fsp1\fad(0,0)\bord1\shad1\c&HC1C4C0&\3c&H201F19&\4c&H131313&\pos(151.5,286)}Revision & Typesetting:\NJacqueline Philippi
+Dialogue: 0,0:22:27.03,0:22:28.87,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fs18\fsp1\fad(0,0)\bord1\shad1\c&HC1C4C0&\3c&H201F19&\4c&H131313&\pos(401.5,44)}Qualitätskontrolle:\NJörg Bauer
+Dialogue: 0,0:22:30.70,0:22:32.54,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fs18\fsp1\fad(0,0)\bord1\shad1\c&HC1C4C0&\3c&H201F19&\4c&H131313&\pos(535,126)}Projektleitung:\NTobias Philippi
+Dialogue: 0,0:23:40.49,0:23:43.82,Default,Mei,0000,0000,0000,,Findet ihr auch, dass man es Menschen\Nansieht, ob sie Geschwister haben?
+Dialogue: 0,0:23:43.82,0:23:47.29,Default,Ui,0000,0000,0000,,Die Ansicht könnte das Vorurteil befeuern,\Ndass Einzelkinder egoistisch sind!
+Dialogue: 0,0:23:47.29,0:23:48.62,Default,Itadori,0000,0000,0000,,Ja, das wäre problematisch!
+Dialogue: 0,0:23:48.62,0:23:50.21,Default,Ui,0000,0000,0000,,Widersprichst du ihr etwa?
+Dialogue: 0,0:23:50.12,0:23:55.87,TypePlaceholder,Type,0000,0000,0000,,{\fnTimes New Roman Bold\fsp1\c&HFAFAFA&\bord3\blur3\pos(320,105)\3c&H000000&}Nächstes Mal\N\N\N\N\N\N\N\N\N\N\N{\fs+5}Schwankungen, Teil 2
+Dialogue: 0,0:23:50.21,0:23:51.75,Default,Mei,0000,0000,0000,,Nächstes Mal: „Schwankungen, Teil 2“.
+Dialogue: 0,0:23:51.75,0:23:53.08,Default,Ui,0000,0000,0000,,Was ist Gojō Satoru wohl?
+Dialogue: 0,0:23:53.08,0:23:54.79,Default,Beide,0000,0000,0000,,Definitiv ein Einzelkind.
+

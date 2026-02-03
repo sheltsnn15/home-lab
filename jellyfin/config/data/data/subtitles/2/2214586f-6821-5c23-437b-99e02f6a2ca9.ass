@@ -1,0 +1,284 @@
+﻿[Script Info]
+Title: [Erai-raws] Deutsch
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Internal,Arial Bold,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: Top,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0000,0000,0020,1
+Style: TypePlaceholder,Arial Unicode MS,22,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0020,1
+Style: TypePlaceholderBox,Arial Unicode MS,22,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,2,0,8,0010,0010,0020,1
+Style: Overlap,Arial Bold,23,&H00F3EDE3,&H000000FF,&H00362B17,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: Flashback,Arial Bold,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: Flashback Internal,Arial Bold,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.46,0:00:03.98,Internal,Jōgo,0000,0000,0000,,Ich wusste es ja.
+Dialogue: 0,0:00:04.72,0:00:07.61,Internal,Jōgo,0000,0000,0000,,Es war mir alles klar.
+Dialogue: 0,0:00:10.22,0:00:13.33,Internal,Jōgo,0000,0000,0000,,Doch so viel stärker …?
+Dialogue: 0,0:00:23.54,0:00:28.09,TypePlaceholder,Type,0000,0000,0000,,{\fad(0,1075)\fnVerdana Bold\shad0\bord2\an2\fs45)\move(320,75,320,80,29,4659)\c&H000103&\3c&H91D9D5&\t(0,0,\fscx95\fscy95)}Jujutsu Kaisen
+Dialogue: 0,0:00:23.54,0:00:28.09,TypePlaceholder,Type,0000,0000,0000,,{\fad(0,1075)\fnTimes New Roman Bold\fsp1\bord0\move(320,280,320,275.5,29,4659)\c&HFFFFFF&\t(0,0,\fscx95\fscy95)}Der Shibuya-Vorfall
+Dialogue: 0,0:01:50.92,0:01:53.54,Internal,Fushiguro,0000,0000,0000,,Er ist ohne Fluchkraft so schnell …
+Dialogue: 0,0:01:53.54,0:01:56.93,Internal,Fushiguro,0000,0000,0000,,Er muss die perfekte Version\Nvon Maki sein.
+Dialogue: 0,0:01:58.02,0:01:59.39,Internal,Fushiguro,0000,0000,0000,,Konzentrier dich.
+Dialogue: 0,0:01:59.72,0:02:03.39,Internal,Fushiguro,0000,0000,0000,,Dank Inumaki sind alle Zivilisten\Nund Umgestalteten fort.
+Dialogue: 0,0:02:04.24,0:02:07.94,Internal,Fushiguro,0000,0000,0000,,Stell dir vor, wie du ihn besiegst.
+Dialogue: 0,0:02:09.28,0:02:10.65,Internal,Fushiguro,0000,0000,0000,,Stell dir …
+Dialogue: 0,0:02:11.38,0:02:12.74,Internal,Fushiguro,0000,0000,0000,,den Sieg vor!
+Dialogue: 0,0:02:15.32,0:02:16.20,Default,Fushiguro,0000,0000,0000,,Hasenflucht!
+Dialogue: 0,0:02:19.44,0:02:21.33,Internal,Fushiguro,0000,0000,0000,,Ich habe gerade\NSukunas Finger gespürt!
+Dialogue: 0,0:02:22.00,0:02:25.29,Internal,Fushiguro,0000,0000,0000,,Was geht hier vor sich in Shibuya?!
+Dialogue: 0,0:02:33.46,0:02:35.26,Internal,Fushiguro,0000,0000,0000,,Er ist einfach nach Gefühl reingestürmt!
+Dialogue: 0,0:02:44.38,0:02:47.73,Internal,Fushiguro,0000,0000,0000,,Mist! Ich habe keine Fluchkraft mehr\Nfür eine Sphärenentfaltung!
+Dialogue: 0,0:03:30.90,0:03:33.86,TypePlaceholder,Type,0000,0000,0000,,{\fnVerdana BOLD\c&HFDFEFE&\bord0\an1\fs+1\fad(269,0)\pos(31.5,307.5)}23:01\h\h\h\h\h\h\h\hShibuya Stream
+Dialogue: 0,0:03:34.28,0:03:37.82,Default,Panda,0000,0000,0000,,Kusakabe, haben wir hier oben\Nnicht langsam alles abgesucht?
+Dialogue: 0,0:03:38.20,0:03:40.30,Default,Panda,0000,0000,0000,,Sie sind zwar noch im Schleier,
+Dialogue: 0,0:03:40.30,0:03:43.22,Default,Panda,0000,0000,0000,,doch dank Toge sind alle evakuiert,
+Dialogue: 0,0:03:43.22,0:03:45.57,Default,Panda,0000,0000,0000,,also lass uns zu Satoru.
+Dialogue: 0,0:03:46.40,0:03:49.90,Default,Panda,0000,0000,0000,,Wie kommen wir ins 5. UG?
+Dialogue: 0,0:03:49.90,0:03:53.92,Default,Panda,0000,0000,0000,,Toge meinte, die Versiegelung\Nsei echt, also zack, zack!
+Dialogue: 0,0:03:55.12,0:03:57.58,Default,Kusakabe,0000,0000,0000,,Gojō hier, Gojō da!
+Dialogue: 0,0:03:57.58,0:04:01.30,Default,Kusakabe,0000,0000,0000,,Die Welt dreht sich nicht\Nnur um Gojō, verdammt!
+Dialogue: 0,0:04:03.58,0:04:09.18,Default,Kusakabe,0000,0000,0000,,Just in diesem Moment könnten in den Ecken\Nvon Shibuya Menschen um ihr Leben bangen.
+Dialogue: 0,0:04:09.18,0:04:13.19,Default,Kusakabe,0000,0000,0000,,Stell dir Mädchen im jungen\NGrundschulalter vor.
+Dialogue: 0,0:04:13.19,0:04:16.10,Default,Kusakabe,0000,0000,0000,,Die dürfen wir nicht im Stich lassen.
+Dialogue: 0,0:04:16.10,0:04:21.45,Default,Kusakabe,0000,0000,0000,,Wir wären dafür mitverantwortlich,\Ndass ihnen die Zukunft geraubt wurde!
+Dialogue: 0,0:04:21.82,0:04:23.78,Default,Panda,0000,0000,0000,,D-Da ist was dran.
+Dialogue: 0,0:04:23.78,0:04:28.83,Default,Kusakabe,0000,0000,0000,,Klar so weit? Dann such jeden Winkel\Nund jedes Klo aller Gebäude ab, du Döspanda!
+Dialogue: 0,0:04:29.42,0:04:33.34,Internal,Kusakabe,0000,0000,0000,,Mist, so langsam gehen mir\Ndie Ausreden aus.
+Dialogue: 0,0:04:33.86,0:04:36.86,Internal,Kusakabe,0000,0000,0000,,Ich will um keinen Preis ins 5. UG.
+Dialogue: 0,0:04:36.86,0:04:40.09,Internal,Kusakabe,0000,0000,0000,,Lieber verbringe ich meine Zeit\Nhier mit Nichtstun.
+Dialogue: 0,0:04:40.09,0:04:42.59,Internal,Kusakabe,0000,0000,0000,,Denn wisst ihr: Ich hänge am Leben!
+Dialogue: 0,0:04:43.12,0:04:47.16,Internal,Kusakabe,0000,0000,0000,,Wenn Panda den Weg kennt,\Nwürde er sich auch allein hinbegeben.
+Dialogue: 0,0:04:47.16,0:04:51.35,Internal,Kusakabe,0000,0000,0000,,Das darf er nicht!\NSonst wäre ich ja ganz allein hier!
+Dialogue: 0,0:04:51.72,0:04:55.88,Internal,Kusakabe,0000,0000,0000,,Er ist ein Panda, aber hat ein\Nweit menschlicheres Herz als ich.
+Dialogue: 0,0:04:55.88,0:04:59.16,Internal,Kusakabe,0000,0000,0000,,Doch ein Panda kennt\Nsich in Shibuya nicht aus.
+Dialogue: 0,0:04:59.16,0:05:02.78,Internal,Kusakabe,0000,0000,0000,,Er begreift nicht, dass das 5. UG\Ngleich um die Ecke ist!
+Dialogue: 0,0:05:02.78,0:05:04.67,Default,Panda,0000,0000,0000,,Schau mal da!
+Dialogue: 0,0:05:05.30,0:05:07.41,Default,Kusakabe,0000,0000,0000,,Mach deinen Job ordentlich!
+Dialogue: 0,0:05:08.10,0:05:10.71,Internal,Kusakabe,0000,0000,0000,,Gleich tu ich, als hätte ich mich\Nim Bahnhof verlaufen.
+Dialogue: 0,0:05:10.71,0:05:15.51,Internal,Kusakabe,0000,0000,0000,,Eine gewaltige Fluchkraft blitzt bei denen,\Ndie Gojō versiegelt haben, immer wieder auf.
+Dialogue: 0,0:05:16.06,0:05:18.35,Default,Kusakabe,0000,0000,0000,,Ich bin doch nicht bescheuert.
+Dialogue: 0,0:05:23.54,0:05:25.89,Default,Negi,0000,0000,0000,,Ihr seid Jujuzisten der Akademie, ja?
+Dialogue: 0,0:05:25.89,0:05:27.80,Default,Negi,0000,0000,0000,,Ergebt euch.
+Dialogue: 0,0:05:27.80,0:05:30.01,Default,Negi,0000,0000,0000,,Ich bringe Jujuzisten nur ungern um.
+Dialogue: 0,0:05:31.42,0:05:32.74,Default,Kusakabe,0000,0000,0000,,Panda.
+Dialogue: 0,0:05:32.74,0:05:36.37,Default,Panda,0000,0000,0000,,Hinter uns sind drei.\NVermutlich verstecken sich noch mehr.
+Dialogue: 0,0:05:37.82,0:05:40.15,Default,Kusakabe,0000,0000,0000,,Ich will auch ungern sterben,
+Dialogue: 0,0:05:40.15,0:05:43.40,Default,Kusakabe,0000,0000,0000,,aber wir können da doch\Nnicht einfach mitspielen.
+Dialogue: 0,0:05:43.40,0:05:45.57,Default,Kusakabe,0000,0000,0000,,Also lasst uns erst mal reden.
+Dialogue: 0,0:05:45.96,0:05:48.69,Default,Kusakabe,0000,0000,0000,,Gaaaanz gemütlich.
+Dialogue: 0,0:06:22.76,0:06:24.15,Internal,Fushiguro,0000,0000,0000,,Ich muss das schnell beenden!
+Dialogue: 0,0:06:24.56,0:06:27.12,Internal,Fushiguro,0000,0000,0000,,Je länger es dauert,\Numso schlechter stehen meine Chancen!
+Dialogue: 0,0:06:27.12,0:06:29.95,Internal,Fushiguro,0000,0000,0000,,Nur so kann ich das Blatt\Nzu meinen Gunsten wenden!
+Dialogue: 0,0:06:29.95,0:06:33.72,Top,Shōko,0000,0000,0000,,Herr Rektor, ich habe doch die Fluchhüllen,\Nalso schaffe ich das allein.
+Dialogue: 0,0:06:29.95,0:06:34.96,TypePlaceholder,,0000,0000,0000,,{\fnVerdana BOLD\c&HFDFEFE&\bord0\an1\fs-1\fad(0,900)\pos(32.5,282)}22:51\h\h\h\h\h\h\h\hStadtautobahn Nr. 3, Shibuya-Linie\N{\alpha&HFF&}22:51\h\h\h\h\h\h\h\h{\alpha&H00&}Shibuya-Mautstelle
+Dialogue: 0,0:06:33.72,0:06:35.42,Default,Yaga,0000,0000,0000,,Nichts da.
+Dialogue: 0,0:06:35.42,0:06:38.40,Default,Yaga,0000,0000,0000,,Sobald sie von diesem Ort erfahren,\Nwerden sie angreifen.
+Dialogue: 0,0:06:38.40,0:06:42.62,Default,Yaga,0000,0000,0000,,Selbst Satoru kann andere mit\Nseiner Umkehrtechnik nicht heilen.
+Dialogue: 0,0:06:42.62,0:06:45.88,Default,Yaga,0000,0000,0000,,Ohne dich wären\NIno und Ijichi gestorben.
+Dialogue: 0,0:06:45.88,0:06:48.76,Default,Shōko,0000,0000,0000,,Das ist Ihrem Urteil zu verdanken.
+Dialogue: 0,0:06:48.76,0:06:51.98,Default,Shōko,0000,0000,0000,,Wäre ich erst Nanamis Ruf gefolgt,\Nwäre ich zu spät gekommen.
+Dialogue: 0,0:06:51.98,0:06:55.21,Default,Shōko,0000,0000,0000,,Es war klug, ihn für\Ndiese Aufgabe abzustellen.
+Dialogue: 0,0:06:58.76,0:07:01.75,Default,Yaga,0000,0000,0000,,Hattest du nicht\Nmit dem Rauchen aufgehört?
+Dialogue: 0,0:07:02.74,0:07:06.69,Default,Shōko,0000,0000,0000,,Ich musste nur gerade\Nan meine Schulzeit denken …
+Dialogue: 0,0:07:27.68,0:07:32.43,Internal,Fushiguro,0000,0000,0000,,Gleich da vorne ist Ieiri,\Nalso kann ich’s etwas wilder treiben.
+Dialogue: 0,0:07:33.98,0:07:37.23,Internal,Fushiguro,0000,0000,0000,,Meine Wunden müssen\Nnur schnell heilbar sein!
+Dialogue: 0,0:07:40.32,0:07:41.73,Internal,Fushiguro,0000,0000,0000,,Der Plan steht!
+Dialogue: 0,0:07:41.73,0:07:45.28,Internal,Fushiguro,0000,0000,0000,,Er ist so schnell wie Sukuna damals.\NSieh ihm nicht nach!
+Dialogue: 0,0:07:45.28,0:07:46.61,Internal,Fushiguro,0000,0000,0000,,Konzentrier dich aufs Timing!
+Dialogue: 0,0:07:47.08,0:07:49.24,Internal,Fushiguro,0000,0000,0000,,Davon hängt mein Leben ab.
+Dialogue: 0,0:07:49.72,0:07:51.77,Internal,Fushiguro,0000,0000,0000,,Wenn ich zu früh oder spät bin, …
+Dialogue: 0,0:07:53.80,0:07:55.25,Internal,Fushiguro,0000,0000,0000,,sterbe ich!
+Dialogue: 0,0:08:15.74,0:08:17.02,Internal,Fushiguro,0000,0000,0000,,Scheiße!
+Dialogue: 0,0:08:21.01,0:08:22.40,Flashback,Tōji,0000,0000,0000,,Was meinen Bengel angeht …
+Dialogue: 0,0:08:23.00,0:08:25.88,Flashback,Tōji,0000,0000,0000,,Der hat’s faustdick\Nhinter den Ohren.
+Dialogue: 0,0:08:25.88,0:08:29.03,Flashback,Tōji,0000,0000,0000,,Wenn sich seine Technik\Nmit fünf, sechs manifestiert, …
+Dialogue: 0,0:08:29.46,0:08:31.88,Flashback,Tōji,0000,0000,0000,,könnt ihr ihn gerne haben.
+Dialogue: 0,0:08:31.88,0:08:34.03,Flashback,Tōji,0000,0000,0000,,Natürlich wird das nicht billig.
+Dialogue: 0,0:08:34.66,0:08:39.04,Flashback,Tōji,0000,0000,0000,,Falls er die Erbtechnik hat,\Nnehme ich acht. Ansonsten sieben.
+Dialogue: 0,0:08:40.88,0:08:43.67,Flashback,Naobito,0000,0000,0000,,Mit Erbtechnik gebe ich dir zehn.
+Dialogue: 0,0:08:46.70,0:08:49.01,Flashback Internal,Tōji,0000,0000,0000,,Für mich war der Ort die Hölle,
+Dialogue: 0,0:08:49.01,0:08:52.09,Flashback Internal,Tōji,0000,0000,0000,,aber wer Talent hat,\Nwird es dort besser haben.
+Dialogue: 0,0:08:52.82,0:08:54.22,Flashback Internal,Tōji,0000,0000,0000,,Aber ist ja auch egal.
+Dialogue: 0,0:08:56.14,0:08:57.77,Flashback Internal,Tōji,0000,0000,0000,,Jetzt ist alles egal.
+Dialogue: 0,0:08:59.36,0:09:01.40,Flashback,Mutter,0000,0000,0000,,Kümmere dich um Megumi.
+Dialogue: 0,0:09:05.96,0:09:07.27,Default,Tōji,0000,0000,0000,,Sag mir …
+Dialogue: 0,0:09:10.70,0:09:12.07,Default,Tōji,0000,0000,0000,,Wie heißt du?
+Dialogue: 0,0:09:14.16,0:09:15.83,Default,Fushiguro,0000,0000,0000,,Fushiguro.
+Dialogue: 0,0:09:17.90,0:09:20.45,Default,Tōji,0000,0000,0000,,Nicht Zen’in?
+Dialogue: 0,0:09:25.76,0:09:27.47,Default,Tōji,0000,0000,0000,,Ein Glück.
+Dialogue: 0,0:09:45.08,0:09:47.97,Internal,Fushiguro,0000,0000,0000,,Was in aller Welt war das?
+Dialogue: 0,0:09:52.16,0:09:54.22,Internal,Fushiguro,0000,0000,0000,,Darüber kann ich später nachdenken.
+Dialogue: 0,0:09:54.22,0:09:57.09,Internal,Fushiguro,0000,0000,0000,,Erst mal muss ich zu Ieiri.
+Dialogue: 0,0:09:57.70,0:10:01.71,Internal,Fushiguro,0000,0000,0000,,Nein, vorher muss ich\Nnach Makis Gruppe sehen …
+Dialogue: 0,0:10:07.76,0:10:09.74,Default,Shigemo,0000,0000,0000,,Ich hab’s doch gesagt!
+Dialogue: 0,0:10:09.74,0:10:12.37,Default,Shigemo,0000,0000,0000,,Ich bin wie dafür geschaffen!
+Dialogue: 0,0:10:15.80,0:10:18.01,TypePlaceholder,Type,0000,0000,0000,,{\fad(250,0)\fnVerdana Bold\shad0\bord2\an2\fs45)\move(320,75,320,80,29,4659)\c&HFFFFFF&\3c&HFFFFFF&\t(0,550,1,\c&H0B070D&\3c&HABE2F8&)\t(0,0,\fscx97\fscy97)}Jujutsu Kaisen
+Dialogue: 0,0:10:19.70,0:10:21.82,Flashback,Nanako,0000,0000,0000,,Wir sollen mit ihm zusammenarbeiten?
+Dialogue: 0,0:10:21.82,0:10:26.08,Flashback,Nanako,0000,0000,0000,,Um Meister Getōs Körper\Nzurückzubekommen, richtig?
+Dialogue: 0,0:10:26.08,0:10:27.54,Flashback,Negi,0000,0000,0000,,Nein.
+Dialogue: 0,0:10:27.54,0:10:31.85,Flashback,Negi,0000,0000,0000,,Wir wissen nicht, wer seine Identität\Ngeklaut hat und was er vorhat, doch …
+Dialogue: 0,0:10:32.42,0:10:34.45,Flashback,Negi,0000,0000,0000,,Wenn diese Welt im Chaos versinkt,
+Dialogue: 0,0:10:34.45,0:10:37.48,Flashback,Negi,0000,0000,0000,,leiden diese dreckigen\NNicht-Jujuzisten darunter.
+Dialogue: 0,0:10:37.48,0:10:40.56,Flashback,Negi,0000,0000,0000,,Nur die Starken werden\Nüberleben können.
+Dialogue: 0,0:10:40.56,0:10:43.80,Flashback,Negi,0000,0000,0000,,Die natürliche Auslese wird diese Affen\Nzugunsten der Jujuzisten aussieben
+Dialogue: 0,0:10:43.80,0:10:45.79,Flashback,Negi,0000,0000,0000,,und die Fluchgeister\Nwerden verschwinden.
+Dialogue: 0,0:10:46.34,0:10:49.38,Flashback,Negi,0000,0000,0000,,Das ist die Welt,\Nvon der Meister Getō träumte.
+Dialogue: 0,0:10:49.38,0:10:51.44,Flashback,Negi,0000,0000,0000,,Deshalb helfen wir euch.
+Dialogue: 0,0:10:51.44,0:10:54.01,Flashback,Negi,0000,0000,0000,,Sein Körper hat damit nichts zu tun.
+Dialogue: 0,0:10:54.66,0:10:57.01,Flashback,Negi,0000,0000,0000,,Das bedeutet es,\Nseine Mission weiterzuführen.
+Dialogue: 0,0:10:57.36,0:11:00.02,Flashback,Nanako,0000,0000,0000,,Jetzt laber nicht so\Nkompliziertes Zeugs.
+Dialogue: 0,0:11:00.02,0:11:02.66,Flashback,Nanako,0000,0000,0000,,Ich will einfach nicht,\Ndass der, den ich liebe,
+Dialogue: 0,0:11:02.66,0:11:04.89,Flashback,Nanako,0000,0000,0000,,wie ein Zombie manipuliert wird!
+Dialogue: 0,0:11:05.48,0:11:08.30,Flashback,Nanako,0000,0000,0000,,Meister Getōs Geschichte ist vorbei!
+Dialogue: 0,0:11:08.30,0:11:10.48,Flashback,Nanako,0000,0000,0000,,Und niemand wird sie besudeln!
+Dialogue: 0,0:11:10.48,0:11:13.53,Flashback,Suda,0000,0000,0000,,Jetzt werd endlich\Nerwachsen, Nanako.
+Dialogue: 0,0:11:15.30,0:11:17.36,Flashback,Nanako,0000,0000,0000,,Erwachsen oder kindisch …
+Dialogue: 0,0:11:17.82,0:11:20.49,Flashback,Nanako,0000,0000,0000,,Ich red nicht mit Leuten,\Ndie mir so kommen!
+Dialogue: 0,0:11:26.60,0:11:28.91,Flashback,Larue,0000,0000,0000,,Hört auf, alle beide.
+Dialogue: 0,0:11:30.26,0:11:33.02,Flashback,Larue,0000,0000,0000,,Suguru wäre nichts mehr zuwider
+Dialogue: 0,0:11:33.02,0:11:36.12,Flashback,Larue,0000,0000,0000,,als ein blutiger Streit\Nin den eigenen Reihen.
+Dialogue: 0,0:11:36.12,0:11:39.09,Flashback,Larue,0000,0000,0000,,Niemand von euch hat Unrecht.
+Dialogue: 0,0:11:39.98,0:11:41.81,Flashback,Larue,0000,0000,0000,,Wir sollten uns hier aufteilen.
+Dialogue: 0,0:11:42.94,0:11:46.00,Flashback,Larue,0000,0000,0000,,Geht alle auf die Weise vor,\Ndie euch beliebt.
+Dialogue: 0,0:11:46.00,0:11:47.85,Flashback,Nanako,0000,0000,0000,,Und was ist mit dir, Larue?
+Dialogue: 0,0:11:48.76,0:11:50.86,Flashback,Larue,0000,0000,0000,,Ich wähle keine Seite.
+Dialogue: 0,0:11:50.86,0:11:52.81,Flashback,Larue,0000,0000,0000,,Ich bin wie Miguel.
+Dialogue: 0,0:11:53.26,0:11:57.65,Flashback,Larue,0000,0000,0000,,Ich wollte Suguru lediglich\Nzum König machen.
+Dialogue: 0,0:11:58.36,0:12:01.58,Flashback,Larue,0000,0000,0000,,Doch bitte vergesst eines nicht.
+Dialogue: 0,0:12:02.58,0:12:04.59,Flashback,Larue,0000,0000,0000,,Wir sind eine Familie.
+Dialogue: 0,0:12:05.80,0:12:07.97,Flashback,Larue,0000,0000,0000,,Eines Tages werden wir irgendwo …
+Dialogue: 0,0:12:08.80,0:12:11.15,Flashback,Larue,0000,0000,0000,,wieder gemeinsam speisen.
+Dialogue: 0,0:12:12.62,0:12:16.16,Default,Suda,0000,0000,0000,,Wir sind die, die Meister Getōs\NMission weiterführen.
+Dialogue: 0,0:12:16.16,0:12:20.43,Default,Suda,0000,0000,0000,,Wenn ihr von der Akademie seid,\Nsolltet ihr wissen, was das heißt.
+Dialogue: 0,0:12:20.43,0:12:23.14,Default,Suda,0000,0000,0000,,Ergebt ihr euch nun? Oder nicht?
+Dialogue: 0,0:12:23.14,0:12:25.55,Default,Suda,0000,0000,0000,,Ich hasse Männer, die vage bleiben.
+Dialogue: 0,0:12:26.18,0:12:28.81,Default,Panda,0000,0000,0000,,Ich bin ein Panda,\Nalso meint sie mich nicht.
+Dialogue: 0,0:12:28.81,0:12:32.81,Internal,Kusakabe,0000,0000,0000,,Mist, ich dachte, das könnte man\Nin die Länge ziehen!
+Dialogue: 0,0:12:33.36,0:12:37.72,Internal,Kusakabe,0000,0000,0000,,Aber eine Gruppe ihres Kalibers
+Dialogue: 0,0:12:37.72,0:12:39.68,Internal,Kusakabe,0000,0000,0000,,ist eine gute Gelegenheit.
+Dialogue: 0,0:12:39.68,0:12:43.33,Internal,Kusakabe,0000,0000,0000,,So kann ich ganz gemütlich\Njede Menge Zeit schinden.
+Dialogue: 0,0:12:45.60,0:12:49.08,Default,Kusakabe,0000,0000,0000,,Neuer-Schattenstil-Iai: Abendmond!
+Dialogue: 0,0:12:49.08,0:12:51.08,Default,Negi,0000,0000,0000,,Das ist also eure Antwort.
+Dialogue: 0,0:13:15.78,0:13:18.36,Flashback,Sukuna,0000,0000,0000,,Greif mich ruhig an.\NAls Dank für die Finger.
+Dialogue: 0,0:13:18.36,0:13:23.02,Flashback,Sukuna,0000,0000,0000,,Wenn du auch nur einen Treffer landest,\Ndann arbeite ich für eure Sache.
+Dialogue: 0,0:13:23.02,0:13:27.54,Flashback,Sukuna,0000,0000,0000,,Wollen wir fürs Erste die Menschen\Nin Shibuya abschlachten?
+Dialogue: 0,0:13:27.84,0:13:30.12,Flashback,Sukuna,0000,0000,0000,,Mit einer Ausnahme.
+Dialogue: 0,0:13:30.12,0:13:31.41,Default,Sukuna,0000,0000,0000,,Mehr hast du nicht drauf, …
+Dialogue: 0,0:13:31.41,0:13:32.71,Default,Jōgo,0000,0000,0000,,Das war noch nicht alles!
+Dialogue: 0,0:13:32.71,0:13:33.88,Default,Sukuna,0000,0000,0000,,… Fluchgeist?!
+Dialogue: 0,0:14:12.12,0:14:16.96,Flashback,Jōgo,0000,0000,0000,,Getō, die Stärke wie vieler\NFinger Sukunas besitze ich?
+Dialogue: 0,0:14:16.96,0:14:20.37,Flashback,Getō,0000,0000,0000,,Wohlwollend geschätzt\Nvielleicht acht bis neun.
+Dialogue: 0,0:14:28.28,0:14:29.81,Internal,Jōgo,0000,0000,0000,,Ich wusste es ja.
+Dialogue: 0,0:14:30.74,0:14:32.89,Internal,Jōgo,0000,0000,0000,,Es war mir alles klar.
+Dialogue: 0,0:15:17.84,0:15:21.15,Internal,Jōgo,0000,0000,0000,,Mir war klar, dass er stärker war.
+Dialogue: 0,0:15:21.15,0:15:23.15,Internal,Jōgo,0000,0000,0000,,Doch so viel stärker …?
+Dialogue: 0,0:15:36.26,0:15:38.95,Default,Sukuna,0000,0000,0000,,Der Mond scheint bis zu uns.
+Dialogue: 0,0:15:39.48,0:15:43.53,Default,Sukuna,0000,0000,0000,,Deshalb sieht man\Ndeine Torheit so klar.
+Dialogue: 0,0:15:45.38,0:15:49.05,Default,Sukuna,0000,0000,0000,,Komm schon. Enttäusch mich nicht.
+Dialogue: 0,0:15:49.48,0:15:53.37,Default,Sukuna,0000,0000,0000,,Ich mache gerne so lange weiter,\Nbis ich die Lust verliere.
+Dialogue: 0,0:15:57.18,0:15:59.82,Default,Kusakabe,0000,0000,0000,,Wir sind hier nicht mehr sicher! Weg hier!
+Dialogue: 0,0:15:59.82,0:16:01.31,Default,Negi,0000,0000,0000,,Wohin des Weges?
+Dialogue: 0,0:16:02.32,0:16:03.27,Default,Kusakabe,0000,0000,0000,,Hergehört!
+Dialogue: 0,0:16:09.98,0:16:14.68,Default,Kusakabe,0000,0000,0000,,Hergehört, ihr Fluchmagier! Hier kämpfen welche,\Ndie ’ne Nummer zu groß für uns sind!
+Dialogue: 0,0:16:14.68,0:16:18.01,Default,Kusakabe,0000,0000,0000,,Wie Elefanten, die über\Neiner Schar Ameisen tanzen!
+Dialogue: 0,0:16:18.66,0:16:21.58,Default,Kusakabe,0000,0000,0000,,Und mit Ameisen meine\Nich uns, verdammt!
+Dialogue: 0,0:16:27.26,0:16:30.34,Default,Jōgo,0000,0000,0000,,Ars Ultima: Meteorit!
+Dialogue: 0,0:16:37.02,0:16:38.98,Default,Kusakabe,0000,0000,0000,,Neuer Schattenstil: …
+Dialogue: 0,0:16:38.98,0:16:40.35,Default,Kusakabe,0000,0000,0000,,Schwertzug!
+Dialogue: 0,0:16:40.94,0:16:43.52,Default,Kusakabe,0000,0000,0000,,Panda! Lass uns abhau…
+Dialogue: 0,0:16:44.00,0:16:45.40,Default,Sukuna,0000,0000,0000,,Nichts da!
+Dialogue: 0,0:16:48.02,0:16:51.91,Default,Sukuna,0000,0000,0000,,Von nun an darf sich kein\NMensch in der Gegend
+Dialogue: 0,0:16:51.91,0:16:55.91,Default,Sukuna,0000,0000,0000,,bewegen, bis ich es gestatte.
+Dialogue: 0,0:16:56.36,0:16:58.79,Default,Sukuna,0000,0000,0000,,Und jeder Verstoß wird selbstredend
+Dialogue: 0,0:16:58.79,0:17:00.26,Default,Sukuna,0000,0000,0000,,mit dem Tod bestraft.
+Dialogue: 0,0:17:04.26,0:17:05.30,Default,Sukuna,0000,0000,0000,,Noch nicht.
+Dialogue: 0,0:17:06.96,0:17:08.42,Default,Sukuna,0000,0000,0000,,Immer noch nicht.
+Dialogue: 0,0:17:14.34,0:17:15.06,Default,Sukuna,0000,0000,0000,,Jetzt!
+Dialogue: 0,0:17:32.54,0:17:37.08,Default,Jōgo,0000,0000,0000,,Das dürfte selbst Sukuna\Nnicht unversehrt überstanden haben!
+Dialogue: 0,0:17:38.02,0:17:39.83,Default,Sukuna,0000,0000,0000,,Wenn du getroffen hättest.
+Dialogue: 0,0:17:41.54,0:17:44.58,Default,Sukuna,0000,0000,0000,,Wieso benutzt du deine Sphäre nicht?
+Dialogue: 0,0:17:46.21,0:17:51.00,Default,Jōgo,0000,0000,0000,,Weil ich weiß, dass ich in einem\NKampf der Sphären chancenlos bin!
+Dialogue: 0,0:17:51.00,0:17:53.95,Default,Sukuna,0000,0000,0000,,Weil es bei Gojō Satoru so war?
+Dialogue: 0,0:17:54.74,0:17:57.61,Default,Sukuna,0000,0000,0000,,Wie schnell ihr Verlierer\Nden Kopf in den Sand steckt.
+Dialogue: 0,0:17:59.10,0:18:03.02,Default,Sukuna,0000,0000,0000,,Doch so langsam\Nhabe ich Blut geleckt,
+Dialogue: 0,0:18:03.02,0:18:05.69,Default,Sukuna,0000,0000,0000,,also lass uns mit deiner\NSpezialität kämpfen.
+Dialogue: 0,0:18:08.36,0:18:09.89,Default,Sukuna,0000,0000,0000,,Fūga.
+Dialogue: 0,0:18:11.78,0:18:12.95,Default,Jōgo,0000,0000,0000,,Ist das …
+Dialogue: 0,0:18:14.90,0:18:16.56,Default,Jōgo,0000,0000,0000,,eine Flamme?
+Dialogue: 0,0:18:18.00,0:18:21.96,Internal,Jōgo,0000,0000,0000,,Sukunas Fluchtechnik\Nsind doch Schnitt- und Hiebangriffe.
+Dialogue: 0,0:18:22.64,0:18:26.88,Default,Sukuna,0000,0000,0000,,Ach so, ich dachte,\Ndu wüsstest Bescheid.
+Dialogue: 0,0:18:26.88,0:18:29.96,Default,Sukuna,0000,0000,0000,,Aber als Fluchgeist\Nhast du natürlich keine Ahnung.
+Dialogue: 0,0:18:29.96,0:18:34.65,Default,Sukuna,0000,0000,0000,,Nur keine Sorge, ich werde meine\NFluchtechnik nicht einfach enthüllen.
+Dialogue: 0,0:18:35.89,0:18:37.30,Default,Sukuna,0000,0000,0000,,Mach dich bereit.
+Dialogue: 0,0:18:39.74,0:18:42.56,Default,Sukuna,0000,0000,0000,,Zeit für einen Kampf der Flammen.
+Dialogue: 0,0:19:12.94,0:19:16.97,Default,Jōgo,0000,0000,0000,,Entschuldigt, Hanami und Dagon.
+Dialogue: 0,0:19:17.38,0:19:19.56,Default,Hanami,0000,0000,0000,,Mahito lebt ja noch.
+Dialogue: 0,0:19:21.72,0:19:24.75,Default,Hanami,0000,0000,0000,,Die Menschen fürchten\Nund verachten den Tod.
+Dialogue: 0,0:19:25.52,0:19:30.16,Default,Hanami,0000,0000,0000,,Doch auch jenseits des Tores\Nweilen Menschen.
+Dialogue: 0,0:19:30.16,0:19:32.88,Default,Hanami,0000,0000,0000,,Für sie ist der Tod ein Spiegel.
+Dialogue: 0,0:19:32.88,0:19:36.49,Default,Hanami,0000,0000,0000,,Und Mahito ist dieser Spiegel\Nhöchstselbst.
+Dialogue: 0,0:19:37.99,0:19:41.00,Default,Hanami,0000,0000,0000,,Er wird noch weit stärker werden.
+Dialogue: 0,0:19:41.00,0:19:45.09,Default,Hanami,0000,0000,0000,,Hast du ihn nicht deshalb\Nan unsere Spitze gesetzt?
+Dialogue: 0,0:19:46.04,0:19:48.46,Default,Jōgo,0000,0000,0000,,Wenn wir wiedergeboren werden,
+Dialogue: 0,0:19:48.46,0:19:51.46,Default,Jōgo,0000,0000,0000,,werden wir nicht mehr\Nwir selbst sein.
+Dialogue: 0,0:19:51.46,0:19:55.76,Default,Jōgo,0000,0000,0000,,Dennoch freue ich mich auf den Tag,\Nan dem wir uns wiedersehen.
+Dialogue: 0,0:19:56.86,0:20:00.04,Default,Jōgo,0000,0000,0000,,Wir sind die neuen Menschen.
+Dialogue: 0,0:20:00.04,0:20:02.11,Default,Sukuna,0000,0000,0000,,Ach, sieh an.
+Dialogue: 0,0:20:02.76,0:20:05.51,Default,Sukuna,0000,0000,0000,,Du wolltest also\Nein Mensch werden?
+Dialogue: 0,0:20:07.54,0:20:10.08,Default,Sukuna,0000,0000,0000,,Jaja, schon klar.
+Dialogue: 0,0:20:10.08,0:20:13.92,Default,Sukuna,0000,0000,0000,,Kein Mensch selbst,\Nsondern jemand in ihrer Position.
+Dialogue: 0,0:20:13.92,0:20:15.65,Default,Sukuna,0000,0000,0000,,Habe ich recht?
+Dialogue: 0,0:20:16.00,0:20:19.41,Default,Sukuna,0000,0000,0000,,Das macht es nur noch erbärmlicher.
+Dialogue: 0,0:20:20.16,0:20:22.07,Default,Sukuna,0000,0000,0000,,Eine Schar von Menschen,
+Dialogue: 0,0:20:22.07,0:20:24.33,Default,Sukuna,0000,0000,0000,,eine Schar von Flüchen …
+Dialogue: 0,0:20:24.33,0:20:27.21,Default,Sukuna,0000,0000,0000,,Weil alle ihren Wert\Nim Miteinander bemessen,
+Dialogue: 0,0:20:27.21,0:20:30.67,Default,Sukuna,0000,0000,0000,,verkümmern sie\Nund werden schwach.
+Dialogue: 0,0:20:31.14,0:20:34.24,Default,Sukuna,0000,0000,0000,,Du hättest all dies\Nniederbrennen sollen.
+Dialogue: 0,0:20:34.24,0:20:37.82,Default,Sukuna,0000,0000,0000,,Völlig willkürlich\Nund ohne große Planerei.
+Dialogue: 0,0:20:37.82,0:20:40.34,Default,Sukuna,0000,0000,0000,,Bis du bei Gojō Satoru angelangt bist,
+Dialogue: 0,0:20:40.34,0:20:43.60,Default,Sukuna,0000,0000,0000,,ohne Rücksicht auf deine Zukunft\Nund deinesgleichen.
+Dialogue: 0,0:20:43.60,0:20:49.19,Default,Sukuna,0000,0000,0000,,Der Hunger, deine Ideale zu erreichen –\Ndaran mangelte es dir.
+Dialogue: 0,0:20:50.60,0:20:54.19,Default,Jōgo,0000,0000,0000,,Da mag was dran sein …
+Dialogue: 0,0:20:55.36,0:20:59.20,Default,Sukuna,0000,0000,0000,,Doch immerhin hatte ich\Nmeinen Spaß mit dir.
+Dialogue: 0,0:21:01.04,0:21:04.24,Default,Sukuna,0000,0000,0000,,Im Vergleich zu den Menschen,\NJujuzisten und Fluchgeistern
+Dialogue: 0,0:21:04.24,0:21:08.23,Default,Sukuna,0000,0000,0000,,gehörtest du noch\Nzu den besseren Gegnern.
+Dialogue: 0,0:21:09.30,0:21:10.83,Default,Sukuna,0000,0000,0000,,Du kannst stolz sein.
+Dialogue: 0,0:21:11.84,0:21:14.01,Default,Sukuna,0000,0000,0000,,Denn du bist stark.
+Dialogue: 0,0:21:18.80,0:21:21.72,Default,Jōgo,0000,0000,0000,,Was ist das …?
+Dialogue: 0,0:21:22.96,0:21:24.71,Default,Sukuna,0000,0000,0000,,Frag mich nicht.
+Dialogue: 0,0:21:26.38,0:21:28.98,Default,Sukuna,0000,0000,0000,,Mir ist das völlig fremd.
+Dialogue: 0,0:21:39.04,0:21:40.49,Default,Sukuna,0000,0000,0000,,Wer bist du?
+Dialogue: 0,0:21:41.00,0:21:43.15,Default,Uraume,0000,0000,0000,,Ich bin zu Euch geeilt, …
+Dialogue: 0,0:21:44.88,0:21:46.23,Default,Uraume,0000,0000,0000,,Meister Sukuna.
+Dialogue: 0,0:21:49.82,0:21:51.24,Default,Sukuna,0000,0000,0000,,Uraume?
+Dialogue: 0,0:21:51.24,0:21:53.57,Default,Uraume,0000,0000,0000,,Welch Freude, Euch wiederzusehen.
+Dialogue: 0,0:21:54.13,0:21:57.13,TypePlaceholder,,0000,0000,0000,,{\fnVerdana BOLD\c&HFDFEFE&\bord1.5\3a&HCC&\blur1\an1\fs+1\fad(0,0)\pos(31.5,307.5)\3c&H000000&}23:07\h\h\h\h\h\h\h\hShibuya Dōgenzaka – vor Shibuya 109
+Dialogue: 0,0:21:56.70,0:21:58.61,Top,Shigemo,0000,0000,0000,,Das kann doch nicht wahr sein!
+Dialogue: 0,0:21:59.58,0:22:00.63,Default,Shigemo,0000,0000,0000,,Scheißdreck!
+Dialogue: 0,0:22:04.08,0:22:07.01,Default,Shigemo,0000,0000,0000,,Wach auf, du dreckiger Jujuzist!
+Dialogue: 0,0:22:07.01,0:22:10.01,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fsp1\c&HFAFAFA&\bord0\pos(320,105)}Folge 40\N\N\N\N\N\N\N\N\N\N\N{\fs+5}Donnerschlag
+Dialogue: 0,0:22:10.52,0:22:12.35,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fs18\fsp1\fad(0,0)\bord1\shad1\c&HC1C4C0&\3c&H201F19&\4c&H131313&\pos(145,215)}Übersetzung:\NRuben Grest
+Dialogue: 0,0:22:14.19,0:22:16.02,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fs18\fsp1\fad(0,0)\bord1\shad1\c&HC1C4C0&\3c&H201F19&\4c&H131313&\pos(145.5,291.5)}Spotting:\NPeter Schirrmeister
+Dialogue: 0,0:22:17.86,0:22:19.69,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fs18\fsp1\fad(0,0)\bord1\shad1\c&HC1C4C0&\3c&H201F19&\4c&H131313&\pos(159,254.5)}Revision & Typesetting:\NJacqueline Philippi
+Dialogue: 0,0:22:27.03,0:22:28.87,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fs18\fsp1\fad(0,0)\bord1\shad1\c&HC1C4C0&\3c&H201F19&\4c&H131313&\pos(465.5,26.5)}Qualitätskontrolle:\NJörg Bauer
+Dialogue: 0,0:22:30.70,0:22:32.54,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fs18\fsp1\fad(0,0)\bord1\shad1\c&HC1C4C0&\3c&H201F19&\4c&H131313&\pos(536.5,138.3)}Projektleitung:\NTobias Philippi
+Dialogue: 0,0:23:40.70,0:23:43.76,Default,Itadori,0000,0000,0000,,Ich seh im Netz ständig den\NMentos-Cola-Trick. Klappt der echt?
+Dialogue: 0,0:23:43.76,0:23:44.42,Default,Kugisaki,0000,0000,0000,,Wieso?
+Dialogue: 0,0:23:44.42,0:23:48.00,Default,Itadori,0000,0000,0000,,Als Kind hab ich mal versehentlich\Nbeides zusammen geschluckt.
+Dialogue: 0,0:23:48.00,0:23:50.37,Default,Itadori,0000,0000,0000,,Da ich mich kaum erinnere,\Nmüssen die Videos Fakes sein!
+Dialogue: 0,0:23:50.37,0:23:51.24,Default,Kugisaki,0000,0000,0000,,Los, friss!
+Dialogue: 0,0:23:51.24,0:23:53.04,Default,Itadori,0000,0000,0000,,Nächstes: „Donnerschlag, Teil …“
+Dialogue: 0,0:23:51.24,0:23:55.04,TypePlaceholder,,0000,0000,0000,,{\fnTimes New Roman Bold\fsp1\c&HFAFAFA&\bord3\blur3\pos(320,105)\3c&H000000&}Nächstes Mal\N\N\N\N\N\N\N\N\N\N\N{\fs+5}Donnerschlag, Teil 2
+Dialogue: 0,0:23:53.04,0:23:54.91,Default,Kugisaki,0000,0000,0000,,Bis dann!
+

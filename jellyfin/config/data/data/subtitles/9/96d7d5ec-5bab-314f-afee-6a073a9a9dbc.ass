@@ -1,0 +1,275 @@
+[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Narration,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Show_Title,Times New Roman,36,&H00000000,&H000000FF,&H0090D3CB,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Ep_Title,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0040,1
+Style: Next_Ep_Title,Times New Roman,24,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0060,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.48,0:00:02.78,Main,Fushiguro,0000,0000,0000,,Nanami-san!
+Dialogue: 0,0:00:04.50,0:00:09.48,Main,Fushiguro,0000,0000,0000,,O polvo acha que os nossos domínios\Nestão disputando o controle...
+Dialogue: 0,0:00:09.86,0:00:12.04,Main,Fushiguro,0000,0000,0000,,Mas meu objetivo é outro.
+Dialogue: 0,0:00:13.44,0:00:14.70,Main,Fushiguro,0000,0000,0000,,Vou abrir um buraco pequeno
+Dialogue: 0,0:00:14.70,0:00:16.43,Main,Fushiguro,0000,0000,0000,,na barreira desse domínio!
+Dialogue: 0,0:00:16.87,0:00:19.05,Main,Fushiguro,0000,0000,0000,,O buraco por onde eu\Nentrei já está selado!
+Dialogue: 0,0:00:19.54,0:00:22.12,Main,Fushiguro,0000,0000,0000,,É mais difícil de abrir por\Ndentro do que por fora,
+Dialogue: 0,0:00:22.44,0:00:28.90,Main,Fushiguro,0000,0000,0000,,mas consigo fazer um buraco grande o bastante\Npor alguns segundos para alguém passar.
+Dialogue: 0,0:00:29.18,0:00:31.14,Main,Fushiguro,0000,0000,0000,,A beira do domínio está abaixo.
+Dialogue: 0,0:00:31.14,0:00:33.57,Main,Fushiguro,0000,0000,0000,,Eu toquei quando entrei,\Nentão tenho certeza.
+Dialogue: 0,0:00:33.57,0:00:34.86,Main,Fushiguro,0000,0000,0000,,Estou pronto a qualquer momento!
+Dialogue: 0,0:00:34.86,0:00:36.97,Main,Fushiguro,0000,0000,0000,,É só os três mergulharem\Nao mesmo tempo!
+Dialogue: 0,0:00:38.38,0:00:41.42,Main,Nanami,0000,0000,0000,,Nada de ficar aqui sozinho para trás.
+Dialogue: 0,0:00:42.21,0:00:43.82,Main,Fushiguro,0000,0000,0000,,Estou arriscando a vida,
+Dialogue: 0,0:00:44.80,0:00:46.74,Main,Fushiguro,0000,0000,0000,,mas não pretendo jogá-la fora!
+Dialogue: 0,0:00:46.74,0:00:49.72,Ep_Title,Screen,0000,0000,0000,,Episódio 39{\fs30\fscy150}\NFlutuações, parte 2
+Dialogue: 0,0:00:54.50,0:00:55.74,Main,Nanami,0000,0000,0000,,Vocês dois!
+Dialogue: 0,0:00:59.00,0:01:00.25,Main,Nanami,0000,0000,0000,,Juntem-se aqui!
+Dialogue: 0,0:01:03.44,0:01:05.63,Narration,Narrator,0000,0000,0000,,Eles enfrentavam um inimigo\Nque entendia linguagem.
+Dialogue: 0,0:01:06.26,0:01:11.18,Narration,Narrator,0000,0000,0000,,E com fé em seus companheiros de nível um\Nindiretamente comunicando sua intenção,
+Dialogue: 0,0:01:12.52,0:01:14.98,Narration,Narrator,0000,0000,0000,,a possibilidade anteriormente excluída
+Dialogue: 0,0:01:15.86,0:01:20.00,Narration,Narrator,0000,0000,0000,,de escapar do domínio,\Nse tornou uma opção novamente.
+Dialogue: 0,0:01:20.94,0:01:24.28,Main,Dagon,0000,0000,0000,,{\i1}Estão criando uma barricada\Nem volta do garoto?
+Dialogue: 0,0:01:24.28,0:01:26.94,Main,Dagon,0000,0000,0000,,{\i1}Estão apenas se juntando para que eu...
+Dialogue: 0,0:01:27.10,0:01:27.95,Main,Dagon,0000,0000,0000,,{\i1}Não!
+Dialogue: 0,0:01:28.39,0:01:30.56,Main,Nanami,0000,0000,0000,,{\i1}Ele descobriu? Mas é tarde demais!
+Dialogue: 0,0:01:30.88,0:01:32.82,Main,Nanami,0000,0000,0000,,{\i1}Para o pé do Fushiguro-kun!
+Dialogue: 0,0:01:48.04,0:01:51.76,Narration,Narrator,0000,0000,0000,,O que havia herdado a maldição\Ndo clã Zen'in de nascença,
+Dialogue: 0,0:01:54.25,0:01:57.85,Narration,Narrator,0000,0000,0000,,e o que não conseguira se livrar\Ntotalmente dessa maldição,
+Dialogue: 0,0:01:58.47,0:02:00.63,Narration,Narrator,0000,0000,0000,,ambos eram testemunhas
+Dialogue: 0,0:02:03.27,0:02:05.86,Narration,Narrator,0000,0000,0000,,ao que jogou tudo isso fora
+Dialogue: 0,0:02:06.37,0:02:08.86,Narration,Narrator,0000,0000,0000,,agora manifesto num novo corpo
+Dialogue: 0,0:02:10.20,0:02:12.36,Narration,Narrator,0000,0000,0000,,e tomando forma!
+Dialogue: 0,0:02:13.89,0:02:14.86,Main,Fushiguro,0000,0000,0000,,{\i1}Quem é esse?!
+Dialogue: 0,0:02:15.24,0:02:16.30,Main,Maki,0000,0000,0000,,{\i1}É uma pessoa?
+Dialogue: 0,0:02:17.00,0:02:18.37,Main,Maki,0000,0000,0000,,{\i1}Um feiticeiro?
+Dialogue: 0,0:02:20.04,0:02:24.38,Main,Dagon,0000,0000,0000,,{\i1}Eles trouxerem um novo\Nfeiticeiro em vez de escaparem?!
+Dialogue: 0,0:02:29.38,0:02:32.39,Main,Maki,0000,0000,0000,,{\i1}Ele é rápido! O cara estava no ar!
+Dialogue: 0,0:02:32.73,0:02:34.76,Main,Maki,0000,0000,0000,,{\i1}E não é só isso!
+Dialogue: 0,0:02:34.76,0:02:37.02,Main,Maki,0000,0000,0000,,{\i1}Que raios de força é essa?!
+Dialogue: 0,0:02:40.90,0:02:42.22,Main,Fushiguro,0000,0000,0000,,Maki-san!
+Dialogue: 0,0:02:42.95,0:02:45.13,Main,Maki,0000,0000,0000,,{\i1}Eu não sinto nenhuma energia\Namaldiçoada vindo dele!
+Dialogue: 0,0:02:45.44,0:02:47.44,Main,Maki,0000,0000,0000,,{\i1}Eu perdi uma disputa de força pura?!
+Dialogue: 0,0:02:47.44,0:02:48.74,Main,Maki,0000,0000,0000,,{\i1}Justo eu?!
+Dialogue: 0,0:02:49.85,0:02:51.12,Main,Nanami,0000,0000,0000,,Fushiguro-kun?
+Dialogue: 0,0:02:51.38,0:02:52.36,Main,Fushiguro,0000,0000,0000,,Não adianta.
+Dialogue: 0,0:02:52.36,0:02:54.14,Main,Fushiguro,0000,0000,0000,,O buraco foi selado.
+Dialogue: 0,0:02:54.14,0:02:56.75,Main,Fushiguro,0000,0000,0000,,Para piorar, ele acabou de\Ndescobrir nosso objetivo...
+Dialogue: 0,0:02:57.24,0:03:00.24,Main,Fushiguro,0000,0000,0000,,Ele não vai nos deixar\Nabrir outro tão facilmente.
+Dialogue: 0,0:03:10.80,0:03:12.20,Main,Naobito,0000,0000,0000,,Toji!
+Dialogue: 0,0:03:13.54,0:03:18.12,Narration,Narrator,0000,0000,0000,,A técnica mediúnica da vovó Ogami se\Nmantinha, mesmo depois de sua morte.
+Dialogue: 0,0:03:18.36,0:03:21.56,Narration,Narrator,0000,0000,0000,,Sua invocação dos mortos\Ndeveria ter acabado
+Dialogue: 0,0:03:21.56,0:03:24.70,Narration,Narrator,0000,0000,0000,,assim que seu neto, o hospedeiro,\Nficou sem energia amaldiçoada.
+Dialogue: 0,0:03:27.73,0:03:30.60,Narration,Narrator,0000,0000,0000,,Mas não havia energia\Namaldiçoada na alma do neto
+Dialogue: 0,0:03:30.60,0:03:32.81,Narration,Narrator,0000,0000,0000,,para ser sobrescrita pelo\Ncorpo de Toji Zen'in,
+Dialogue: 0,0:03:32.81,0:03:36.70,Narration,Narrator,0000,0000,0000,,e o corpo dele também não\Nchegou a gastar energia.
+Dialogue: 0,0:03:37.54,0:03:41.02,Narration,Narrator,0000,0000,0000,,O feitiço dela havia perdido\Na chance de acabar.
+Dialogue: 0,0:03:41.78,0:03:46.44,Narration,Narrator,0000,0000,0000,,Essas irregularidades, acumuladas,\Nfizeram o encantamento ficar sem controle,
+Dialogue: 0,0:03:47.15,0:03:49.66,Narration,Narrator,0000,0000,0000,,e Toji Zen'in estava\Nlutando como indicado
+Dialogue: 0,0:03:49.66,0:03:52.96,Narration,Narrator,0000,0000,0000,,por seus instintos, até que\Nseu hospedeiro quebrasse.
+Dialogue: 0,0:03:52.96,0:03:56.08,Narration,Narrator,0000,0000,0000,,Ele havia se tornado uma máquina de matar.
+Dialogue: 0,0:03:57.02,0:03:58.72,Main,Dagon,0000,0000,0000,,{\i1}Esse homem...
+Dialogue: 0,0:03:59.08,0:04:00.88,Main,Dagon,0000,0000,0000,,...{\i1}não tem energia amaldiçoada?
+Dialogue: 0,0:04:01.16,0:04:03.39,Main,Dagon,0000,0000,0000,,Não vale minha atenção.
+Dialogue: 0,0:04:24.57,0:04:27.00,Narration,Narrator,0000,0000,0000,,Suas garras estavam constantemente
+Dialogue: 0,0:04:28.34,0:04:31.00,Narration,Narrator,0000,0000,0000,,apontadas ao mais forte.
+Dialogue: 0,0:04:41.57,0:04:46.04,Show_Title,Screen,0000,0000,0000,,{\fad(0,825)\pos(320,10)\3c&H8ECEDD&}JUJUTSU KAISEN\N{\fs16\bord0\fscy100\c&HDEDCE0&}Incidente em Shibuya
+Dialogue: 0,0:08:19.92,0:08:21.24,Main,Maki,0000,0000,0000,,Velho,
+Dialogue: 0,0:08:22.64,0:08:24.08,Main,Maki,0000,0000,0000,,quem é esse?
+Dialogue: 0,0:08:35.46,0:08:37.10,Main,Naobito,0000,0000,0000,,Um fantasma.
+Dialogue: 0,0:08:40.76,0:08:43.63,Main,Nanami,0000,0000,0000,,Consegue aguentar mais\Num pouco, Fushiguro-kun?
+Dialogue: 0,0:08:45.94,0:08:47.06,Main,Fushiguro,0000,0000,0000,,Sim.
+Dialogue: 0,0:08:47.06,0:08:48.10,Main,Nanami,0000,0000,0000,,Desculpe.
+Dialogue: 0,0:08:48.62,0:08:50.22,Main,Nanami,0000,0000,0000,,Teremos que apostar nele.
+Dialogue: 0,0:09:01.94,0:09:04.48,Main,Fushiguro,0000,0000,0000,,{\i1}Ele está batendo uma\NNuvem Espirituosa na outra?
+Dialogue: 0,0:09:05.52,0:09:06.64,Main,Nanami,0000,0000,0000,,Está mudando de forma...
+Dialogue: 0,0:09:09.55,0:09:10.96,Main,Nanami,0000,0000,0000,,{\i1}Ele está a afiando?!
+Dialogue: 0,0:09:19.50,0:09:22.80,Main,Dagon,0000,0000,0000,,{\i1}Eu vou perder?
+Dialogue: 0,0:09:24.86,0:09:28.06,Main,Dagon,0000,0000,0000,,{\i1}Contra um humano sem\Nenergia amaldiçoada?!
+Dialogue: 0,0:09:28.88,0:09:29.76,Main,Dagon,0000,0000,0000,,{\i1}Não!
+Dialogue: 0,0:09:29.76,0:09:32.64,Main,Dagon,0000,0000,0000,,{\i1}Consigo sentir o domínio do\Ngaroto se enfraquecendo!
+Dialogue: 0,0:09:32.64,0:09:36.61,Main,Dagon,0000,0000,0000,,{\i1}Se recuperar meu efeito de acerto\Ngarantido, posso matar todos!
+Dialogue: 0,0:09:36.61,0:09:37.76,Main,Dagon,0000,0000,0000,,{\i1}Preciso...
+Dialogue: 0,0:09:38.16,0:09:39.52,Main,Dagon,0000,0000,0000,,{\i1}...ganhar tempo!
+Dialogue: 0,0:09:40.02,0:09:42.82,Main,Naobito,0000,0000,0000,,Claro que você consegue flutuar!
+Dialogue: 0,0:09:44.22,0:09:46.52,Main,Naobito,0000,0000,0000,,Preciso dizer de novo?
+Dialogue: 0,0:10:00.07,0:10:01.66,Main,Dagon,0000,0000,0000,,Ainda não...
+Dialogue: 0,0:10:01.66,0:10:03.34,Main,Dagon,0000,0000,0000,,...acabou!
+Dialogue: 0,0:10:25.80,0:10:26.98,Main,Maki,0000,0000,0000,,{\i1}O domínio!
+Dialogue: 0,0:10:27.32,0:10:29.98,Main,Maki,0000,0000,0000,,{\i1}Ele exorcizou aquele\Npolvo sozinho mesmo!
+Dialogue: 0,0:10:35.39,0:10:37.78,Main,Nanami,0000,0000,0000,,{\i1}Se o Fushiguro-kun não tivesse vindo,
+Dialogue: 0,0:10:37.78,0:10:40.27,Main,Nanami,0000,0000,0000,,{\i1}nós teríamos sido\Naniquilados, com certeza.
+Dialogue: 0,0:10:40.99,0:10:43.86,Main,Nanami,0000,0000,0000,,{\i1}Mas ainda restam problemas...
+Dialogue: 0,0:10:47.16,0:10:49.07,Main,Nanami,0000,0000,0000,,{\i1}Ele é nosso aliado?!
+Dialogue: 0,0:11:24.15,0:11:25.00,Main,Fushiguro,0000,0000,0000,,Hã?
+Dialogue: 0,0:11:29.55,0:11:32.32,Main,Fushiguro,0000,0000,0000,,{\i1}Quando eu fui forçado para fora?!
+Dialogue: 0,0:11:33.70,0:11:35.59,Main,Fushiguro,0000,0000,0000,,{\i1}Isso não é só ser rápido...
+Dialogue: 0,0:11:35.85,0:11:37.59,Main,Fushiguro,0000,0000,0000,,{\i1}Se bobear, é ainda pior que o Sukuna!
+Dialogue: 0,0:11:39.14,0:11:41.12,Main,Fushiguro,0000,0000,0000,,{\i1}Qual é a desse cara?!
+Dialogue: 0,0:11:42.10,0:11:43.55,Main,Maki,0000,0000,0000,,Megumi!
+Dialogue: 0,0:11:50.98,0:11:53.92,Main,Jogo,0000,0000,0000,,Você se foi, Dagon?
+Dialogue: 0,0:11:54.96,0:11:56.51,Main,Naobito,0000,0000,0000,,{\i1}Ei, ei, ei!
+Dialogue: 0,0:11:56.51,0:11:57.87,Main,Naobito,0000,0000,0000,,{\i1}É brincadeira, né?!
+Dialogue: 0,0:11:58.56,0:12:00.62,Main,Nanami,0000,0000,0000,,{\i1}Ele está um nível acima...
+Dialogue: 0,0:12:01.66,0:12:03.82,Main,Jogo,0000,0000,0000,,Deixe o resto comigo.
+Dialogue: 0,0:12:03.82,0:12:05.62,Main,Nanami,0000,0000,0000,,...daquele espírito chamado Dagon!
+Dialogue: 0,0:12:05.62,0:12:10.39,Main,Jogo,0000,0000,0000,,Nossas almas vão reencarnar,\Nmesmo sem depender dos humanos.
+Dialogue: 0,0:12:11.21,0:12:14.51,Main,Jogo,0000,0000,0000,,Vamos nos encontrar novamente\Nno deserto, daqui a 100 anos...
+Dialogue: 0,0:12:19.50,0:12:21.14,Main,Jogo,0000,0000,0000,,Agora...
+Dialogue: 0,0:12:25.96,0:12:27.39,Main,Jogo,0000,0000,0000,,O primeiro.
+Dialogue: 0,0:12:28.80,0:12:29.64,Main,Maki,0000,0000,0000,,Nana—
+Dialogue: 0,0:12:31.43,0:12:32.40,Main,Jogo,0000,0000,0000,,Segunda.
+Dialogue: 0,0:12:57.12,0:12:59.13,Main,Jogo,0000,0000,0000,,Terceiro.
+Dialogue: 0,0:13:03.56,0:13:05.12,Main,Jogo,0000,0000,0000,,Sukuna?
+Dialogue: 0,0:13:06.02,0:13:07.68,Main,Jogo,0000,0000,0000,,Não, não é!
+Dialogue: 0,0:13:07.68,0:13:08.80,Main,Jogo,0000,0000,0000,,Os dedos!
+Dialogue: 0,0:13:09.13,0:13:13.06,Main,Jogo,0000,0000,0000,,Alguém libertou os dedos de\NSukuna em algum lugar de Shibuya!
+Dialogue: 0,0:13:13.99,0:13:15.71,Main,Mimiko,0000,0000,0000,,Vamos logo, Nanako.
+Dialogue: 0,0:13:17.09,0:13:18.91,Main,Mimiko,0000,0000,0000,,Pode ser que os dedos\Natraiam espíritos para cá.
+Dialogue: 0,0:13:19.28,0:13:20.57,Main,Nanako,0000,0000,0000,,Eu sei.
+Dialogue: 0,0:13:21.11,0:13:22.28,Main,Nanako,0000,0000,0000,,Por favor,
+Dialogue: 0,0:13:23.08,0:13:24.18,Main,Nanako,0000,0000,0000,,apareça,
+Dialogue: 0,0:13:26.88,0:13:28.30,Main,Nanako,0000,0000,0000,,Sukuna-sama.
+Dialogue: 0,0:13:35.66,0:13:36.34,Main,Jogo,0000,0000,0000,,Hum?
+Dialogue: 0,0:13:40.35,0:13:41.09,Main,Jogo,0000,0000,0000,,Tsk!
+Dialogue: 0,0:13:41.09,0:13:44.43,Main,Jogo,0000,0000,0000,,Quantos dedos vocês\Nderam para ele, malditos?!
+Dialogue: 0,0:13:45.43,0:13:46.36,Main,Mimiko,0000,0000,0000,,Não vou dizer!
+Dialogue: 0,0:13:46.77,0:13:47.43,Main,Nanako,0000,0000,0000,,Mimiko!
+Dialogue: 0,0:13:47.43,0:13:49.44,Main,Jogo,0000,0000,0000,,Ah, é? Então morram.
+Dialogue: 0,0:13:54.75,0:13:58.07,Main,Jogo,0000,0000,0000,,{\i1}Ótimo. Os sinais não desapareceram.
+Dialogue: 0,0:13:58.07,0:14:02.58,Main,Jogo,0000,0000,0000,,{\i1}A situação é inesperada, mas vou me\Naproveitar dela o máximo possível.
+Dialogue: 0,0:14:03.42,0:14:07.95,Flashback,Geto,0000,0000,0000,,Yuji Itadori provavelmente não passará\No controle de seu corpo para Sukuna
+Dialogue: 0,0:14:07.95,0:14:11.73,Flashback,Geto,0000,0000,0000,,mesmo depois de ingerir\Ntodos os 20 dedos.
+Dialogue: 0,0:14:12.48,0:14:16.47,Flashback,Geto,0000,0000,0000,,Mas isso só se ele passar 20\Ndias engolindo um por dia...
+Dialogue: 0,0:14:16.47,0:14:19.21,Flashback,Geto,0000,0000,0000,,Se ele engolir 10 de uma vez,
+Dialogue: 0,0:14:19.76,0:14:22.22,Flashback,Geto,0000,0000,0000,,seu corpo não seria capaz de\Nse adaptar rápido o bastante,
+Dialogue: 0,0:14:22.22,0:14:28.80,Flashback,Geto,0000,0000,0000,,e o controle passaria para Sukuna,\Nmesmo que temporariamente.
+Dialogue: 0,0:14:38.62,0:14:39.98,Main,Jogo,0000,0000,0000,,Acorde,
+Dialogue: 0,0:14:40.34,0:14:41.55,Main,Jogo,0000,0000,0000,,Sukuna!
+Dialogue: 0,0:14:45.44,0:14:47.99,Show_Title,Eyecatch,0000,0000,0000,,{\fad(1350,0)\1c&H213835&\3c&H75EFED&\blur20\1a&HE0&\3a&HC0&\pos(320,18)}JUJUTSU KAISEN
+Dialogue: 0,0:14:45.44,0:14:47.99,Show_Title,Eyecatch,0000,0000,0000,,{\fad(675,0)\3c&HA0DCE8&\pos(320,18)\c&H292619&}JUJUTSU KAISEN
+Dialogue: 0,0:14:50.95,0:14:52.99,Show_Title,Eyecatch,0000,0000,0000,,{\fad(1350,0)\1c&H213835&\3c&H75EFED&\blur20\1a&HE0&\3a&HC0&\pos(320,18)}JUJUTSU KAISEN
+Dialogue: 0,0:14:50.95,0:14:52.99,Show_Title,Eyecatch,0000,0000,0000,,{\fad(675,0)\3c&HA0DCE8&\pos(320,18)\c&H292619&}JUJUTSU KAISEN
+Dialogue: 0,0:15:09.41,0:15:11.88,Main,Jogo,0000,0000,0000,,{\i1}Dei todos os dez...
+Dialogue: 0,0:15:11.88,0:15:16.22,Main,Jogo,0000,0000,0000,,{\i1}Agora deve haver pelo menos\N15 dedos dentro do Itadori...
+Dialogue: 0,0:15:26.33,0:15:28.32,Main,Jogo,0000,0000,0000,,Você está vivo?
+Dialogue: 0,0:15:28.78,0:15:31.32,Main,Jogo,0000,0000,0000,,{\i1}Deve ter sido o encantamento\Nde alguma delas...
+Dialogue: 0,0:15:31.32,0:15:32.94,Main,Jogo,0000,0000,0000,,{\i1}Mas, vendo como estão assustadas,
+Dialogue: 0,0:15:32.94,0:15:35.46,Main,Jogo,0000,0000,0000,,{\i1}duvido que consigam se\Ndefender tantas vezes.
+Dialogue: 0,0:15:35.46,0:15:37.68,Main,Jogo,0000,0000,0000,,Não me façam perder meu tempo!
+Dialogue: 0,0:15:38.33,0:15:39.29,Main,Jogo,0000,0000,0000,,Hã?
+Dialogue: 0,0:15:42.06,0:15:43.59,Main,Both,0000,0000,0000,,Hã?!
+Dialogue: 0,0:15:44.42,0:15:46.10,Main,Sukuna,0000,0000,0000,,Vou lhe dar um segundo.
+Dialogue: 0,0:15:48.39,0:15:49.59,Main,Sukuna,0000,0000,0000,,Saia da frente.
+Dialogue: 0,0:15:56.69,0:15:58.61,Main,Jogo,0000,0000,0000,,{\i1}Esse é o Sukuna...
+Dialogue: 0,0:15:59.26,0:16:01.60,Main,Jogo,0000,0000,0000,,{\i1}A força é diferente da do Satoru Gojo!
+Dialogue: 0,0:16:01.60,0:16:04.10,Main,Jogo,0000,0000,0000,,{\i1}Um mal esmagador!
+Dialogue: 0,0:16:04.52,0:16:09.62,Main,Jogo,0000,0000,0000,,{\i1}Um pavor de que o menor\Nmovimento possa levar à morte!
+Dialogue: 0,0:16:11.61,0:16:13.07,Main,Nanako,0000,0000,0000,,{\i1}Respire!
+Dialogue: 0,0:16:13.07,0:16:15.12,Main,Nanako,0000,0000,0000,,{\i1}Respire, respire!
+Dialogue: 0,0:16:15.12,0:16:17.22,Main,Nanako,0000,0000,0000,,{\i1}Respire, respire, respire, respire, respire!
+Dialogue: 0,0:16:17.22,0:16:20.02,Main,Mimiko,0000,0000,0000,,{\i1}A gente pode respirar, né?!
+Dialogue: 0,0:16:20.57,0:16:22.10,Main,Mimiko,0000,0000,0000,,{\i1}Ele não vai nos matar por isso, vai?!
+Dialogue: 0,0:16:40.08,0:16:42.14,Main,Sukuna,0000,0000,0000,,Quanto orgulho.
+Dialogue: 0,0:16:52.33,0:16:55.16,Main,Sukuna,0000,0000,0000,,Acharam que se agachar num\Njoelho só era o bastante?
+Dialogue: 0,0:16:55.82,0:16:58.15,Main,Sukuna,0000,0000,0000,,Obedece quem tem juízo, ou coisa assim...
+Dialogue: 0,0:16:58.15,0:17:00.79,Main,Sukuna,0000,0000,0000,,Vejo que vocês não\Nvalorizam suas cabeças.
+Dialogue: 0,0:17:02.44,0:17:03.66,Main,Sukuna,0000,0000,0000,,Suas pirralhas,
+Dialogue: 0,0:17:04.12,0:17:05.93,Main,Sukuna,0000,0000,0000,,vou começar por vocês.
+Dialogue: 0,0:17:06.42,0:17:09.17,Main,Sukuna,0000,0000,0000,,Queriam falar algo comigo, não?
+Dialogue: 0,0:17:09.62,0:17:12.32,Main,Sukuna,0000,0000,0000,,Posso dar um tempinho.
+Dialogue: 0,0:17:12.32,0:17:13.68,Main,Sukuna,0000,0000,0000,,Podem falar.
+Dialogue: 0,0:17:18.83,0:17:26.42,Main,Nanako,0000,0000,0000,,Abaixo de nós, há um homem vestido\Nde monge, com uma costura na testa...
+Dialogue: 0,0:17:27.87,0:17:34.16,Main,Nanako,0000,0000,0000,,Mate-o, por favor.
+Dialogue: 0,0:17:36.40,0:17:41.34,Main,Mimiko,0000,0000,0000,,Por favor, liberte o Getou-sama.
+Dialogue: 0,0:17:51.91,0:17:53.84,Flashback,Nanako,0000,0000,0000,,Então, Getou-sama...
+Dialogue: 0,0:17:54.44,0:17:56.50,Flashback,Nanako,0000,0000,0000,,Quem é Satoru Gojou?
+Dialogue: 0,0:17:57.02,0:17:58.50,Flashback,Nanako,0000,0000,0000,,Ele é muito forte, né?
+Dialogue: 0,0:17:59.61,0:18:00.48,Flashback,Geto,0000,0000,0000,,Hum...
+Dialogue: 0,0:18:01.05,0:18:02.91,Flashback,Geto,0000,0000,0000,,Ele foi meu melhor amigo.
+Dialogue: 0,0:18:02.91,0:18:05.44,Flashback,Geto,0000,0000,0000,,Mas brigamos, e não nos\Nfalamos desde então.
+Dialogue: 0,0:18:07.60,0:18:08.80,Flashback,Nanako,0000,0000,0000,,Amo você.
+Dialogue: 0,0:18:10.20,0:18:11.38,Flashback,Mimiko,0000,0000,0000,,Amo você.
+Dialogue: 0,0:18:12.72,0:18:13.86,Flashback,Nanako,0000,0000,0000,,Amo você.
+Dialogue: 0,0:18:14.70,0:18:16.00,Flashback,Mimiko,0000,0000,0000,,Amo você.
+Dialogue: 0,0:18:21.06,0:18:26.29,Main,Nanako,0000,0000,0000,,{\i1}Enquanto vivermos, nunca perdoaremos\NSatoru Gojou por ter matado Getou-sama...
+Dialogue: 0,0:18:26.62,0:18:29.96,Main,Mimiko,0000,0000,0000,,{\i1}Mesmo assim, achamos que foi bom.
+Dialogue: 0,0:18:30.50,0:18:31.60,Main,Nanako,0000,0000,0000,,{\i1}Afinal de contas,
+Dialogue: 0,0:18:31.60,0:18:35.64,Main,Nanako,0000,0000,0000,,{\i1}Satoru Gojou foi o primeiro e único\Nmelhor amigo do Getou-sama.
+Dialogue: 0,0:18:36.63,0:18:38.64,Main,Mimiko,0000,0000,0000,,{\i1}Mas você é diferente!
+Dialogue: 0,0:18:39.44,0:18:41.21,Main,Nanako,0000,0000,0000,,{\i1}Vá pro inferno!
+Dialogue: 0,0:18:41.81,0:18:43.73,Main,Nanako,0000,0000,0000,,{\i1}Vamos fazer você se arrepender!
+Dialogue: 0,0:18:45.22,0:18:49.00,Main,Nanako,0000,0000,0000,,Nós sabemos a localização\Nde mais um dedo.
+Dialogue: 0,0:18:50.64,0:18:52.66,Main,Nanako,0000,0000,0000,,Se você matar esse homem por nós,
+Dialogue: 0,0:18:53.14,0:18:55.36,Main,Nanako,0000,0000,0000,,diremos onde ele está.
+Dialogue: 0,0:18:55.91,0:18:58.46,Main,Nanako,0000,0000,0000,,Então, por favor...
+Dialogue: 0,0:18:58.46,0:19:00.12,Main,Sukuna,0000,0000,0000,,Levantem a cabeça.
+Dialogue: 0,0:19:18.76,0:19:21.77,Main,Nanako,0000,0000,0000,,Mimiko! Mimiko! Mimiko!
+Dialogue: 0,0:19:21.77,0:19:24.12,Main,Sukuna,0000,0000,0000,,Acham que um ou dois dedos
+Dialogue: 0,0:19:21.77,0:19:24.12,Main,Nanako,0000,0000,0000,,{\an8}Mimiko! Mimiko!
+Dialogue: 0,0:19:24.12,0:19:26.72,Main,Sukuna,0000,0000,0000,,lhes dariam o direito de\Nmandar eu fazer algo?
+Dialogue: 0,0:19:24.12,0:19:26.73,Main,Nanako,0000,0000,0000,,{\an8}Não! Mimiko!
+Dialogue: 0,0:19:26.73,0:19:27.56,Main,Nanako,0000,0000,0000,,É mentira! É mentira!
+Dialogue: 0,0:19:27.56,0:19:30.35,Main,Nanako,0000,0000,0000,,Mimiko! Mimiko!
+Dialogue: 0,0:19:30.35,0:19:31.74,Main,Sukuna,0000,0000,0000,,Desagradável.
+Dialogue: 0,0:19:30.87,0:19:32.23,Main,Nanako,0000,0000,0000,,{\an8}Mimiko!
+Dialogue: 0,0:19:32.22,0:19:33.69,Main,Nanako,0000,0000,0000,,Sukuna!
+Dialogue: 0,0:19:33.97,0:19:35.40,Main,Nanako,0000,0000,0000,,Morra!
+Dialogue: 0,0:19:49.62,0:19:52.26,Main,Sukuna,0000,0000,0000,,Hum, um telefone celular?
+Dialogue: 0,0:19:52.26,0:19:55.30,Main,Sukuna,0000,0000,0000,,Não. É a função de fotos, é?
+Dialogue: 0,0:19:55.30,0:20:00.05,Main,Sukuna,0000,0000,0000,,Deveria ser a habilidade de realizar o\Nque estivesse sendo mostrado na foto...
+Dialogue: 0,0:20:00.82,0:20:01.60,Main,Sukuna,0000,0000,0000,,Que chato.
+Dialogue: 0,0:20:03.14,0:20:06.31,Main,Sukuna,0000,0000,0000,,Você é o próximo, espírito amaldiçoado.
+Dialogue: 0,0:20:06.31,0:20:07.79,Main,Sukuna,0000,0000,0000,,O que você quer?
+Dialogue: 0,0:20:09.53,0:20:11.20,Main,Jogo,0000,0000,0000,,Eu não quero...
+Dialogue: 0,0:20:12.22,0:20:13.30,Main,Jogo,0000,0000,0000,,...nada!
+Dialogue: 0,0:20:15.94,0:20:17.24,Main,Sukuna,0000,0000,0000,,O quê?
+Dialogue: 0,0:20:17.56,0:20:22.46,Main,Jogo,0000,0000,0000,,Nosso objetivo, Sukuna,\Nera sua ressurreição completa.
+Dialogue: 0,0:20:23.20,0:20:26.22,Main,Jogo,0000,0000,0000,,No momento, você tem\Napenas liberdade temporária
+Dialogue: 0,0:20:26.22,0:20:28.88,Main,Jogo,0000,0000,0000,,enquanto Itadori tem\Ndificuldade de se adaptar.
+Dialogue: 0,0:20:28.88,0:20:32.88,Main,Jogo,0000,0000,0000,,Certamente, você é quem mais sabe disso.
+Dialogue: 0,0:20:34.80,0:20:39.58,Main,Jogo,0000,0000,0000,,Mesmo que a Reversão de Feitiço de\NSukuna seja capaz de curar os outros,
+Dialogue: 0,0:20:39.58,0:20:41.96,Main,Jogo,0000,0000,0000,,ela não tem como alterar o formato
+Dialogue: 0,0:20:41.96,0:20:45.26,Main,Jogo,0000,0000,0000,,da alma assim que a Transfiguração\NInerte de Mahito a transforma.
+Dialogue: 0,0:20:47.40,0:20:51.78,Main,Jogo,0000,0000,0000,,Não é que ele não forjou\Num pacto naquela hora...
+Dialogue: 0,0:20:51.78,0:20:53.84,Main,Jogo,0000,0000,0000,,Ele não podia.
+Dialogue: 0,0:20:55.33,0:21:00.58,Main,Jogo,0000,0000,0000,,Faça um pacto com Yuji\NItadori antes de ele voltar!
+Dialogue: 0,0:21:00.91,0:21:05.33,Main,Jogo,0000,0000,0000,,E que esse pacto lhe garanta\Nautoridade eterna sobre o corpo dele!
+Dialogue: 0,0:21:06.47,0:21:10.14,Main,Jogo,0000,0000,0000,,Vários dos aliados do Itadori já estão aqui!
+Dialogue: 0,0:21:10.14,0:21:13.18,Main,Jogo,0000,0000,0000,,Há várias formas de conseguir esse pacto!
+Dialogue: 0,0:21:18.06,0:21:19.75,Main,Sukuna,0000,0000,0000,,Não há necessidade.
+Dialogue: 0,0:21:23.68,0:21:26.40,Main,Sukuna,0000,0000,0000,,Eu tenho meu próprio plano.
+Dialogue: 0,0:21:26.40,0:21:28.80,Main,Sukuna,0000,0000,0000,,Mas... Entendi.
+Dialogue: 0,0:21:30.33,0:21:33.37,Main,Sukuna,0000,0000,0000,,Vocês também estão desesperados.
+Dialogue: 0,0:21:34.81,0:21:36.39,Main,Sukuna,0000,0000,0000,,Essa é sua recompensa pelos dedos.
+Dialogue: 0,0:21:36.39,0:21:37.69,Main,Sukuna,0000,0000,0000,,Pode atacar.
+Dialogue: 0,0:21:38.25,0:21:40.94,Main,Sukuna,0000,0000,0000,,Se conseguir atingir um\Núnico ataque que seja,
+Dialogue: 0,0:21:41.68,0:21:44.20,Main,Sukuna,0000,0000,0000,,eu passarei a obedecer vocês.
+Dialogue: 0,0:21:49.04,0:21:53.20,Main,Sukuna,0000,0000,0000,,Para começar, que tal se eu matar\Ntodos os humanos em Shibuya?
+Dialogue: 0,0:21:53.82,0:21:55.77,Main,Sukuna,0000,0000,0000,,Tirando um.
+Dialogue: 0,0:22:04.79,0:22:07.12,Main,Jogo,0000,0000,0000,,Você não voltará atrás, certo?
+Dialogue: 0,0:23:40.44,0:23:42.21,Main,Naobito,0000,0000,0000,,Se é pra usar Jujutsu,
+Dialogue: 0,0:23:42.21,0:23:44.48,Main,Naobito,0000,0000,0000,,tem que usar assim!
+Dialogue: 0,0:23:42.79,0:23:44.47,Main,Nanami,0000,0000,0000,,{\an8}Ah, temos menores no recinto.
+Dialogue: 0,0:23:44.47,0:23:47.07,Main,Naobito,0000,0000,0000,,Barreira! Feitiço! Um, dois, e vai!
+Dialogue: 0,0:23:45.55,0:23:47.52,Main,Nanami,0000,0000,0000,,{\an8}Por favor, os alunos estão olhando.
+Dialogue: 0,0:23:47.07,0:23:49.03,Main,Naobito,0000,0000,0000,,Eu coloquei papel, então todo\Nmundo que colocou tesoura
+Dialogue: 0,0:23:49.03,0:23:50.67,Main,Naobito,0000,0000,0000,,talvez veja algo de bom\Nacontecer amanhã!
+Dialogue: 0,0:23:50.67,0:23:52.35,Main,Nanami,0000,0000,0000,,Não tente transformar isso\Nnum programa para crianças.
+Dialogue: 0,0:23:52.18,0:23:55.55,Next_Ep_Title,Screen,0000,0000,0000,,{\c&HFFFFFF&\bord2\blur4}Próximo episódio\N{\fs30\fscy150}Trovão
+Dialogue: 0,0:23:52.35,0:23:53.45,Main,Maki,0000,0000,0000,,Próximo episódio: "Trovão".
+Dialogue: 0,0:23:53.45,0:23:54.86,Main,Naobito,0000,0000,0000,,Eu tô bebaço!
+

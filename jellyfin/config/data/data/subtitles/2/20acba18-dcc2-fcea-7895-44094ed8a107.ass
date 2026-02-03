@@ -1,0 +1,320 @@
+[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Italic,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Show_Title,Times New Roman,36,&H00000000,&H000000FF,&H0090D3CB,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Ep_Title,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0040,1
+Style: Next_Ep_Title,Times New Roman,24,&H0AFFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0060,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.42,0:00:16.74,Main,Yuji,0000,0000,0000,,Não adianta...
+Dialogue: 0,0:00:16.74,0:00:18.32,Main,Yuji,0000,0000,0000,,Nem tá se mexendo.
+Dialogue: 0,0:00:18.80,0:00:21.96,Main,Ino,0000,0000,0000,,F-Forcinha razoável...
+Dialogue: 0,0:00:22.60,0:00:24.20,Main,Ino,0000,0000,0000,,{\i1}É sério esse cara?!
+Dialogue: 0,0:00:24.20,0:00:27.48,Main,Ino,0000,0000,0000,,{\i1}Ele até deixaria o Namami-san para trás\Nem termos de golpes físicos, não?
+Dialogue: 0,0:00:27.48,0:00:29.71,Main,Ino,0000,0000,0000,,{\i1}Mas acho que é por isso...
+Dialogue: 0,0:00:29.71,0:00:32.43,Main,Fushiguro,0000,0000,0000,,É uma cortina bem resistente.
+Dialogue: 0,0:00:32.43,0:00:34.70,Main,Fushiguro,0000,0000,0000,,Vamos ter que procurar um ponto fraco,
+Dialogue: 0,0:00:34.70,0:00:37.22,Main,Fushiguro,0000,0000,0000,,e aí criar um buraco nela,\Nnem que seja por um segundo.
+Dialogue: 0,0:00:37.22,0:00:40.02,Main,Fushiguro,0000,0000,0000,,Não dá para fazer mais\Nnada sem entrar antes.
+Dialogue: 0,0:00:40.84,0:00:42.72,Main,Yuji,0000,0000,0000,,Hã? Por que não?
+Dialogue: 0,0:00:42.72,0:00:44.52,Main,Ino,0000,0000,0000,,Por que não?
+Dialogue: 0,0:00:44.52,0:00:48.03,Main,Ino,0000,0000,0000,,Olha, isso é uma cortina\Nque barra feiticeiros...
+Dialogue: 0,0:00:48.03,0:00:50.36,Main,Ino,0000,0000,0000,,É uma barreira.
+Dialogue: 0,0:00:50.36,0:00:52.47,Main,Ino,0000,0000,0000,,Barreiras são feitas para cercar você
+Dialogue: 0,0:00:52.47,0:00:54.08,Main,Ino,0000,0000,0000,,e proteger, sabe?
+Dialogue: 0,0:00:54.08,0:00:57.53,Main,Ino,0000,0000,0000,,O que basicamente quer dizer que,\Na pessoa que ativou essa cortina,
+Dialogue: 0,0:00:57.53,0:01:00.24,Main,Ino,0000,0000,0000,,está aí dentro.
+Dialogue: 0,0:01:01.07,0:01:04.16,Main,Yuji,0000,0000,0000,,Mas lá em Harajuku...
+Dialogue: 0,0:01:07.96,0:01:09.96,Main,Ino,0000,0000,0000,,Entendi!
+Dialogue: 0,0:01:09.96,0:01:12.92,Main,Ino,0000,0000,0000,,Se ficam fora da cortina,\Nem vez de se cercarem com ela,
+Dialogue: 0,0:01:12.92,0:01:15.96,Main,Ino,0000,0000,0000,,aumentam o risco de serem\Ndescobertos e derrotados.
+Dialogue: 0,0:01:15.96,0:01:17.96,Main,Ino,0000,0000,0000,,Então, aumentam a força da cortina...
+Dialogue: 0,0:01:18.70,0:01:20.86,Main,Ino,0000,0000,0000,,É tipo um Ovo de Colombo...
+Dialogue: 0,0:01:20.86,0:01:22.19,Main,Yuji,0000,0000,0000,,Ovo?
+Dialogue: 0,0:01:22.19,0:01:26.19,Main,Ino,0000,0000,0000,,Mas os caras estão ignorando totalmente\Nos fundamentos das barreiras!
+Dialogue: 0,0:01:26.19,0:01:27.99,Main,Ino,0000,0000,0000,,Que coisa maluca!
+Dialogue: 0,0:01:28.28,0:01:33.05,Main,Ino,0000,0000,0000,,Agora faz sentido a barreira não ter\Ncaído com aquele golpe do Yuji.
+Dialogue: 0,0:01:33.05,0:01:34.54,Main,Fushiguro,0000,0000,0000,,Se a lógica é essa,
+Dialogue: 0,0:01:34.54,0:01:37.99,Main,Fushiguro,0000,0000,0000,,a fonte da cortina deve estar em algum\Nlugar que chama muito a atenção, não?
+Dialogue: 0,0:01:38.55,0:01:41.12,Main,Ino,0000,0000,0000,,Então, aumentando o risco de descoberta,
+Dialogue: 0,0:01:41.12,0:01:43.60,Main,Ino,0000,0000,0000,,eles também aumentam a força?
+Dialogue: 0,0:01:45.16,0:01:48.00,Main,Yuji,0000,0000,0000,,Um lugar que chame a atenção...
+Dialogue: 0,0:01:49.46,0:01:52.96,Sign_Basic,Screen,0000,0000,0000,,{\an3\fnArial\bord0\shad0\b1\pos(457,307)}Shibuya Central Tower
+Dialogue: 0,0:01:54.47,0:01:56.96,Main,Awasaka,0000,0000,0000,,Acha que os feiticeiros vão perceber?
+Dialogue: 0,0:02:03.71,0:02:07.72,Main,Awasaka,0000,0000,0000,,Este é o lugar que mais chama\Natenção dentro da cortina, certo?
+Dialogue: 0,0:02:07.72,0:02:09.46,Main,Ogami,0000,0000,0000,,Provavelmente.
+Dialogue: 0,0:02:09.46,0:02:12.31,Main,Grandson,0000,0000,0000,,Mas mesmo que percebam...
+Dialogue: 0,0:02:12.79,0:02:14.06,Main,Awasaka,0000,0000,0000,,É.
+Dialogue: 0,0:02:14.78,0:02:18.86,Main,Awasaka,0000,0000,0000,,Os andares inferiores estão lotados\Ndesses humanos transfigurados.
+Dialogue: 0,0:02:19.69,0:02:23.05,Main,Awasaka,0000,0000,0000,,Não conseguirão subir para cá tão rápido.
+Dialogue: 0,0:02:27.78,0:02:29.12,Main,Awasaka,0000,0000,0000,,{\i1}Fios?!
+Dialogue: 0,0:02:29.29,0:02:31.46,Sign_Basic,Screen,0000,0000,0000,,{\an8\fnTimes New Roman\shad0\fad(222,0)\bord1.5\fs19\c&HBCADCD&\3c&HFFFFFF&\pos(108,25)}Bonzão
+Dialogue: 0,0:02:29.39,0:02:30.77,Flashback,Maki,0000,0000,0000,,Isto aqui é bonzão.
+Dialogue: 0,0:02:30.74,0:02:31.63,Flashback,Yuji,0000,0000,0000,,Uau!
+Dialogue: 0,0:02:38.55,0:02:44.09,Main,Awasaka,0000,0000,0000,,{\i1}Esses pilantras não sabem\Nsobre a cortina comissionada?!
+Dialogue: 0,0:02:45.20,0:02:47.56,Main,Ino,0000,0000,0000,,Beleza! Igual ao plano!
+Dialogue: 0,0:02:48.12,0:02:50.52,Main,Ino,0000,0000,0000,,Então esta é a fonte da cortina?!
+Dialogue: 0,0:02:50.52,0:02:51.48,Main,Yuji,0000,0000,0000,,Sim.
+Dialogue: 0,0:02:51.48,0:02:52.78,Main,Yuji,0000,0000,0000,,De acordo com a Mei-san,
+Dialogue: 0,0:02:52.78,0:02:55.79,Main,Yuji,0000,0000,0000,,ele já tem a barreira programada dentro,
+Dialogue: 0,0:02:55.79,0:02:59.65,Main,Yuji,0000,0000,0000,,e só precisa de alguém para colocar\Nenergia amaldiçoada nele.
+Dialogue: 0,0:02:59.65,0:03:02.78,Main,Fushiguro,0000,0000,0000,,Então, se destruirmos essas coisas,
+Dialogue: 0,0:03:02.78,0:03:05.66,Main,Fushiguro,0000,0000,0000,,podemos ignorar os mestres\Nde maldições até mais tarde.
+Dialogue: 0,0:03:06.92,0:03:09.00,Main,Ino,0000,0000,0000,,Tinha três no total?!
+Dialogue: 0,0:03:09.87,0:03:12.25,Main,Ino,0000,0000,0000,,A cortina que barra os\Nfeiticeiros ainda está ativa.
+Dialogue: 0,0:03:12.25,0:03:14.25,Main,Ino,0000,0000,0000,,Onde estão os outros dois?!
+Dialogue: 0,0:03:15.18,0:03:16.38,Main,Ino,0000,0000,0000,,Com ele?!
+Dialogue: 0,0:03:29.89,0:03:30.85,Main,Awasaka,0000,0000,0000,,Hã?!
+Dialogue: 0,0:03:32.28,0:03:34.28,Main,Yuji,0000,0000,0000,,Fushiguro! Solte o Nue!
+Dialogue: 0,0:03:42.09,0:03:43.36,Main,Ogami,0000,0000,0000,,Neto.
+Dialogue: 0,0:03:43.84,0:03:47.28,Main,Grandson,0000,0000,0000,,Sim, eu sei, vovó.
+Dialogue: 0,0:03:47.80,0:03:50.73,Main,Ino,0000,0000,0000,,Agora eu tenho uns calourinhos pra mim,
+Dialogue: 0,0:03:50.73,0:03:54.46,Main,Ino,0000,0000,0000,,então é hora de mostrar\Num pouco de serviço
+Dialogue: 0,0:03:54.46,0:03:58.45,Main,Ino,0000,0000,0000,,para poder virar de nível um também.
+Dialogue: 0,0:04:02.56,0:04:03.56,Main,Yuji,0000,0000,0000,,Fushiguro!
+Dialogue: 0,0:04:04.80,0:04:05.92,Main,Yuji,0000,0000,0000,,Cadê ele?!
+Dialogue: 0,0:04:05.92,0:04:07.30,Main,Fushiguro,0000,0000,0000,,Ali.
+Dialogue: 0,0:04:09.28,0:04:11.63,Main,Fushiguro,0000,0000,0000,,Eu não vi o momento do impacto...
+Dialogue: 0,0:04:12.87,0:04:14.67,Main,Fushiguro,0000,0000,0000,,O cadáver está limpo demais.
+Dialogue: 0,0:04:15.89,0:04:17.48,Main,Fushiguro,0000,0000,0000,,Mesmo sendo feiticeiro,
+Dialogue: 0,0:04:17.48,0:04:20.48,Main,Fushiguro,0000,0000,0000,,ele despencou do 41º andar.
+Dialogue: 0,0:04:20.48,0:04:23.48,Main,Fushiguro,0000,0000,0000,,Levante-se, seu velho fingido!
+Dialogue: 0,0:04:28.73,0:04:30.21,Main,Awasaka,0000,0000,0000,,Ai, ai.
+Dialogue: 0,0:04:34.17,0:04:37.68,Main,Awasaka,0000,0000,0000,,Os jovens de hoje não\Ntêm pena dos idosos.
+Dialogue: 0,0:04:38.09,0:04:40.08,Main,Fushiguro,0000,0000,0000,,Não podemos perder tempo.
+Dialogue: 0,0:04:40.08,0:04:41.78,Main,Yuji,0000,0000,0000,,Nem vai demorar.
+Dialogue: 0,0:04:42.01,0:04:45.01,Ep_Title,Screen,0000,0000,0000,,Episódio 35\N{\fs30\fscy150}Sessão Espiritual
+Dialogue: 0,0:04:55.56,0:05:00.07,Show_Title,Screen,0000,0000,0000,,{\fad(0,825)\pos(320,10)\3c&H8ECEDD&}JUJUTSU KAISEN\N{\fs16\bord0\fscy100\c&HDEDCE0&}Incidente em Shibuya
+Dialogue: 0,0:06:18.12,0:06:21.44,Flashback,Nanami,0000,0000,0000,,Por que você insiste tanto\Nque eu o recomende?
+Dialogue: 0,0:06:21.74,0:06:25.95,Flashback,Nanami,0000,0000,0000,,Seria simples chegar no nível\Num com o seu encantamento...
+Dialogue: 0,0:06:26.67,0:06:30.22,Flashback,Ino,0000,0000,0000,,Porque acho que temos o dever importante\Nde fazer as coisas do jeito certo.
+Dialogue: 0,0:06:30.55,0:06:34.20,Flashback,Ino,0000,0000,0000,,Especialmente com esse trabalho\Nsangrento que é ser feiticeiro.
+Dialogue: 0,0:06:34.71,0:06:39.71,Flashback,Ino,0000,0000,0000,,Mas eu não sou tão inteligente, então\Nnem sempre sei qual o jeito certo.
+Dialogue: 0,0:06:41.18,0:06:44.07,Flashback,Ino,0000,0000,0000,,Então, sempre que fico\Nem dúvida, eu penso:
+Dialogue: 0,0:06:45.35,0:06:47.53,Flashback,Ino,0000,0000,0000,,"O que o Nanami-san faria?"
+Dialogue: 0,0:06:48.21,0:06:52.42,Flashback,Ino,0000,0000,0000,,Então não seria certo eu subir\Nde nível sem a sua aprovação.
+Dialogue: 0,0:06:53.44,0:06:55.94,Flashback,Ino,0000,0000,0000,,Ah, o senhor quer outra bebida?
+Dialogue: 0,0:06:56.68,0:06:57.93,Flashback,Nanamni,0000,0000,0000,,Um makgeolli.
+Dialogue: 0,0:06:58.97,0:07:01.40,Main,Ino,0000,0000,0000,,Invocação das Bestas Auspiciosas Um,
+Dialogue: 0,0:07:02.89,0:07:04.41,Main,Ino,0000,0000,0000,,Kaichi!
+Dialogue: 0,0:07:13.03,0:07:14.29,Italic,Grandson,0000,0000,0000,,É teleguiado?!
+Dialogue: 0,0:07:14.85,0:07:17.92,Italic,Narrator,0000,0000,0000,,A "Invocação das Bestas Auspiciosas"\Né um encantamento de sessão espiritual.
+Dialogue: 0,0:07:17.92,0:07:20.95,Italic,Narrator,0000,0000,0000,,Ao esconder seu rosto,\NIno pode se tornar um médium
+Dialogue: 0,0:07:20.95,0:07:24.16,Italic,Narrator,0000,0000,0000,,e manifestar os poderes das\Nquatro bestas auspiciosas.
+Dialogue: 0,0:07:24.79,0:07:27.36,Main,Grandson,0000,0000,0000,,Vovó, isso foi...
+Dialogue: 0,0:07:27.36,0:07:30.17,Main,Ogami,0000,0000,0000,,Sim. Que coincidência.
+Dialogue: 0,0:07:32.40,0:07:34.68,Italic,Ino,0000,0000,0000,,Número dois, Reiki.
+Dialogue: 0,0:07:35.09,0:07:37.40,Italic,Ino,0000,0000,0000,,O Nanami-san deixou os meninos comigo,
+Dialogue: 0,0:07:37.40,0:07:39.43,Italic,Ino,0000,0000,0000,,então não posso deixá-los sozinhos,
+Dialogue: 0,0:07:39.90,0:07:43.43,Italic,Ino,0000,0000,0000,,mas também seria ruim\Nlevar esses dois até eles.
+Dialogue: 0,0:07:43.43,0:07:47.19,Italic,Ino,0000,0000,0000,,A melhor opção é matá-los rápido,\Ne voltar para os meus calouros.
+Dialogue: 0,0:08:10.14,0:08:13.61,Main,Ino,0000,0000,0000,,{\i1}Adapte-se aos fatos,\Ne mantenha o autocontrole.
+Dialogue: 0,0:08:14.83,0:08:17.23,Main,Ino,0000,0000,0000,,{\i1}Livre-se do orgulho.
+Dialogue: 0,0:08:31.55,0:08:33.20,Main,Fushiguro,0000,0000,0000,,{\i1}Pra ser sincero,\Nacompanhar o ritmo dele
+Dialogue: 0,0:08:33.78,0:08:36.82,Main,Fushiguro,0000,0000,0000,,{\i1}cansa muito mais do que\Nacompanhar o inimigo...
+Dialogue: 0,0:09:02.87,0:09:03.88,Main,Fushiguro,0000,0000,0000,,Itadori!
+Dialogue: 0,0:09:05.64,0:09:06.90,Main,Yuji,0000,0000,0000,,Tô suave!
+Dialogue: 0,0:09:06.90,0:09:08.22,Main,Yuji,0000,0000,0000,,Foi só um arranhão!
+Dialogue: 0,0:09:10.00,0:09:11.41,Main,Awasaka,0000,0000,0000,,Quanta energia.
+Dialogue: 0,0:09:11.41,0:09:13.16,Main,Awasaka,0000,0000,0000,,Que futuros promissores.
+Dialogue: 0,0:09:15.16,0:09:17.61,Main,Awasaka,0000,0000,0000,,Faz valer a pena matar.
+Dialogue: 0,0:09:18.63,0:09:21.63,Main,Fushiguro,0000,0000,0000,,As garras do Cão Celestial\Nferem até níveis especiais.
+Dialogue: 0,0:09:22.16,0:09:24.49,Main,Yuji,0000,0000,0000,,Eu também bati com bastante força...
+Dialogue: 0,0:09:25.39,0:09:27.42,Main,Fushiguro,0000,0000,0000,,Então como...
+Dialogue: 0,0:09:28.65,0:09:31.12,Main,Fushiguro,0000,0000,0000,,...ele está sem nenhum arranhão?!
+Dialogue: 0,0:09:31.92,0:09:34.20,Main,Fushiguro,0000,0000,0000,,Você não falou que não ia demorar?
+Dialogue: 0,0:09:34.20,0:09:35.88,Main,Yuji,0000,0000,0000,,Sem comentários.
+Dialogue: 0,0:09:34.26,0:09:35.72,Sign_Basic,Screen,0000,0000,0000,,{\fad(397,0)\fs17\bord1.5\fnArial\c&H2F2D2B&\3c&HC5CBC8&\pos(81.666,180.333)\frz285.4}Sem comentários
+Dialogue: 0,0:09:52.24,0:09:55.03,Main,Ino,0000,0000,0000,,{\i1}Ele não é tão forte.\NBem como parece.
+Dialogue: 0,0:09:55.67,0:09:59.78,Main,Ino,0000,0000,0000,,{\i1}Mas está fazendo todo o possível, e se\Nsacrificando para proteger essa velha...
+Dialogue: 0,0:10:00.51,0:10:01.76,Main,Ino,0000,0000,0000,,{\i1}Tem coisa aí.
+Dialogue: 0,0:10:01.76,0:10:03.28,Main,Ino,0000,0000,0000,,{\i1}É melhor me apressar.
+Dialogue: 0,0:10:09.61,0:10:11.80,Main,Ino,0000,0000,0000,,{\i1}Ah! As auras deles mudaram!
+Dialogue: 0,0:10:11.80,0:10:13.71,Main,Ogami,0000,0000,0000,,Está tudo pronto.
+Dialogue: 0,0:10:13.71,0:10:15.80,Main,Grandson,0000,0000,0000,,Entendido, vovó.
+Dialogue: 0,0:10:15.80,0:10:17.04,Main,Ino,0000,0000,0000,,Nem a pau!
+Dialogue: 0,0:10:25.86,0:10:28.19,Main,Ogami,0000,0000,0000,,Toji Zen'in.
+Dialogue: 0,0:10:34.89,0:10:36.79,Main,Ogami,0000,0000,0000,,E então, meu neto?
+Dialogue: 0,0:10:37.94,0:10:42.20,Main,Grandson,0000,0000,0000,,Uhum. Está ótimo, vovó.
+Dialogue: 0,0:10:43.60,0:10:45.52,Main,Grandson,0000,0000,0000,,O melhor até hoje.
+Dialogue: 0,0:10:47.70,0:10:51.04,Show_Title,Eyecatch,0000,0000,0000,,{\fad(1350,0)\1c&H75EFED&\3c&H75EFED&\blur20\1a&HE0&\3a&HC0&\pos(320,18)}JUJUTSU KAISEN
+Dialogue: 0,0:10:47.70,0:10:51.04,Show_Title,Eyecatch,0000,0000,0000,,{\fad(1350,0)\1a&HFF&\3c&HC5E3EC&\pos(320,18)}JUJUTSU KAISEN
+Dialogue: 0,0:10:54.17,0:10:56.05,Show_Title,Eyecatch,0000,0000,0000,,{\fad(675,0)\3c&H1EDDF0&\pos(320,18)\c&H292619&}JUJUTSU KAISEN
+Dialogue: 0,0:11:00.05,0:11:03.05,Sign_Basic,Screen,0000,0000,0000,,{\an8\fnArial\bord0\shad0\b1\pos(312,128)}7 de dezembro de 1989
+Dialogue: 0,0:11:10.81,0:11:13.81,Sign_Basic,Screen,0000,0000,0000,,{\an8\fnArial\bord0\shad0\b1\pos(317,126)}Nasce Satoru Gojou
+Dialogue: 0,0:11:17.42,0:11:20.44,Main,Girl,0000,0000,0000,,Feliz aniversário, papai!
+Dialogue: 0,0:11:22.98,0:11:26.57,Main,Girl,0000,0000,0000,,Seu presente é me ver de uniforme.
+Dialogue: 0,0:11:26.57,0:11:28.47,Main,Girl,0000,0000,0000,,Não é fofo?
+Dialogue: 0,0:11:28.47,0:11:31.82,Main,Girl,0000,0000,0000,,Ainda bem que resolvi ir\Npro Colégio Mori mesmo.
+Dialogue: 0,0:11:32.19,0:11:34.18,Main,Papa,0000,0000,0000,,Olha, tudo muito legal,
+Dialogue: 0,0:11:34.18,0:11:36.47,Main,Papa,0000,0000,0000,,mas com o peito todo estufado assim,
+Dialogue: 0,0:11:36.47,0:11:38.78,Main,Papa,0000,0000,0000,,você vai acabar virando sua mamãe.
+Dialogue: 0,0:11:38.78,0:11:42.73,Main,Girl,0000,0000,0000,,Hã? Você odeia a mamãe?
+Dialogue: 0,0:11:43.05,0:11:45.11,Main,Papa,0000,0000,0000,,Não odeio,
+Dialogue: 0,0:11:45.11,0:11:47.11,Main,Papa,0000,0000,0000,,mas é que ela pulou a cerca.
+Dialogue: 0,0:11:47.11,0:11:48.71,Main,Girl,0000,0000,0000,,Verdade...
+Dialogue: 0,0:11:53.63,0:11:55.46,Main,Girl,0000,0000,0000,,Tadinho do papai.
+Dialogue: 0,0:11:58.83,0:12:00.03,Main,Papa,0000,0000,0000,,Quem?
+Dialogue: 0,0:12:01.91,0:12:03.92,Main,Papa,0000,0000,0000,,Honoka...
+Dialogue: 0,0:12:05.56,0:12:08.11,Main,Papa,0000,0000,0000,,Cadê a minha filha?
+Dialogue: 0,0:12:08.11,0:12:09.56,Main,Ogami,0000,0000,0000,,Eu a matei.
+Dialogue: 0,0:12:09.56,0:12:12.72,Main,Ogami,0000,0000,0000,,Preciso de um cadáver para me\Ntransformar em alguém que invoquei.
+Dialogue: 0,0:12:17.03,0:12:22.48,Main,Ogami,0000,0000,0000,,Quando ela morreu,\Nfoi pela mãe que ela gritou.
+Dialogue: 0,0:12:23.07,0:12:25.83,Main,Man,0000,0000,0000,,Desculpa!
+Dialogue: 0,0:12:26.51,0:12:28.75,Main,Man,0000,0000,0000,,Desculpa!
+Dialogue: 0,0:12:29.39,0:12:31.94,Main,Man,0000,0000,0000,,Desculpa!
+Dialogue: 0,0:12:32.73,0:12:35.01,Main,Awasaka,0000,0000,0000,,Acabou rasgando no meio do caminho...
+Dialogue: 0,0:12:35.01,0:12:38.08,Main,Man,0000,0000,0000,,Por favor, me deixa sair!
+Dialogue: 0,0:12:38.08,0:12:39.51,Main,Awasaka,0000,0000,0000,,Quieto.
+Dialogue: 0,0:12:39.51,0:12:43.82,Main,Man,0000,0000,0000,,Por que você está fazendo isso?
+Dialogue: 0,0:12:51.17,0:12:53.78,Main,Awasaka,0000,0000,0000,,Meu trabalho é matar gente.
+Dialogue: 0,0:12:54.56,0:12:58.66,Main,Awasaka,0000,0000,0000,,Então preciso entender muito bem\Ncomo funciona o corpo humano.
+Dialogue: 0,0:13:01.15,0:13:02.72,Main,Awasaka,0000,0000,0000,,{\i1}Nós éramos
+Dialogue: 0,0:13:03.56,0:13:05.27,Main,Awasaka,0000,0000,0000,,{\i1}livres.
+Dialogue: 0,0:13:06.55,0:13:09.05,Main,Awasaka,0000,0000,0000,,{\i1}Os feiticeiros estavam ocupados\Ncom os espíritos amaldiçoados,
+Dialogue: 0,0:13:09.05,0:13:11.05,Main,Awasaka,0000,0000,0000,,{\i1}porque ficaram mais ativos\Ncom o passar dos anos.
+Dialogue: 0,0:13:11.05,0:13:12.47,Main,Awasaka,0000,0000,0000,,{\i1}Era só fazermos as coisas direitinho
+Dialogue: 0,0:13:12.47,0:13:15.41,Main,Awasaka,0000,0000,0000,,{\i1}que poderíamos ganhar a vida\Nsem nenhum tipo de amarra.
+Dialogue: 0,0:13:15.71,0:13:19.85,Main,Awasaka,0000,0000,0000,,{\i1}Nós, mestres das maldições, éramos livres\Npara viver e fazer o que quiséssemos.
+Dialogue: 0,0:13:23.41,0:13:25.17,Flashback,Awasaka,0000,0000,0000,,Satoru Gojou?
+Dialogue: 0,0:13:25.17,0:13:26.26,Flashback,Man,0000,0000,0000,,Sim.
+Dialogue: 0,0:13:26.67,0:13:29.85,Flashback,Man,0000,0000,0000,,A criança que nasceu no clã\NGojou, com os Seis Olhos.
+Dialogue: 0,0:13:29.85,0:13:31.19,Flashback,Awasaka,0000,0000,0000,,Uma criança?
+Dialogue: 0,0:13:31.93,0:13:35.68,Flashback,Man,0000,0000,0000,,O total da recompensa pela cabeça\Ndele já passou os 100 milhões de ienes.
+Dialogue: 0,0:13:36.35,0:13:39.34,Flashback,Man,0000,0000,0000,,Ah, e não é um pedido.
+Dialogue: 0,0:13:40.99,0:13:43.05,Flashback,Man,0000,0000,0000,,Quem chegar primeiro, leva.
+Dialogue: 0,0:13:51.35,0:13:53.11,Flashback,Waiter,0000,0000,0000,,Sinto muito pela demora.
+Dialogue: 0,0:14:33.32,0:14:35.97,Main,Awasaka,0000,0000,0000,,{\i1}Os espíritos amaldiçoados têm\Nficado mais fortes com os anos...
+Dialogue: 0,0:14:35.97,0:14:39.05,Main,Awasaka,0000,0000,0000,,{\i1}e naquele instante,\Neu entendi exatamente o motivo!
+Dialogue: 0,0:14:39.50,0:14:42.37,Main,Awasaka,0000,0000,0000,,{\i1}É por causa dele! Do Satoru Gojou!
+Dialogue: 0,0:14:42.76,0:14:45.25,Main,Awasaka,0000,0000,0000,,{\i1}Foi como se um recorde\Nde atletismo absurdo
+Dialogue: 0,0:14:45.25,0:14:47.83,Main,Awasaka,0000,0000,0000,,{\i1}tivesse sido quebrado de repente!
+Dialogue: 0,0:14:47.83,0:14:50.41,Main,Awasaka,0000,0000,0000,,{\i1}É igual a quando todos\Nos patinadores começam
+Dialogue: 0,0:14:50.41,0:14:53.26,Main,Awasaka,0000,0000,0000,,{\i1}a adicionar mais piruetas nos\Npulos por causa de um atleta!
+Dialogue: 0,0:14:53.26,0:14:57.93,Main,Awasaka,0000,0000,0000,,{\i1}Quando Satoru Gojou nasceu,\No equilíbrio do mundo mudou!
+Dialogue: 0,0:14:57.93,0:15:00.02,Flashback,Gojo,0000,0000,0000,,Não olhe pra mim, fracote.
+Dialogue: 0,0:15:00.79,0:15:04.18,Main,Awasaka,0000,0000,0000,,{\i1}Nós éramos livres.
+Dialogue: 0,0:15:05.44,0:15:09.03,Main,Awasaka,0000,0000,0000,,{\i1}E em nossos últimos anos,\Nessa liberdade foi roubada!
+Dialogue: 0,0:15:10.03,0:15:11.87,Main,Awasaka,0000,0000,0000,,{\i1}Vá se danar!
+Dialogue: 0,0:15:16.50,0:15:19.46,Main,Awasaka,0000,0000,0000,,{\i1}Eu nunca vou me aposentar!
+Dialogue: 0,0:15:24.26,0:15:27.80,Main,Awasaka,0000,0000,0000,,{\i1}Vou passar por cima dos fracos\Naté o dia de minha morte.
+Dialogue: 0,0:15:30.02,0:15:32.18,Main,Awasaka,0000,0000,0000,,Que divertido!
+Dialogue: 0,0:15:41.36,0:15:43.65,Main,Yuji,0000,0000,0000,,Sério, qual é a desse cara?!
+Dialogue: 0,0:15:43.65,0:15:46.27,Main,Yuji,0000,0000,0000,,Nem dá só pra dizer que ele é resistente!
+Dialogue: 0,0:15:47.18,0:15:50.29,Italic,Fushiguro,0000,0000,0000,,Quase certeza que é o efeito\Ndo encantamento dele.
+Dialogue: 0,0:15:50.91,0:15:52.94,Italic,Fushiguro,0000,0000,0000,,Ele está anulando os ataques?
+Dialogue: 0,0:15:53.27,0:15:54.28,Italic,Fushiguro,0000,0000,0000,,Não...
+Dialogue: 0,0:15:57.79,0:15:58.79,Main,Fushiguro,0000,0000,0000,,Ei!
+Dialogue: 0,0:15:58.79,0:16:01.01,Main,Fushiguro,0000,0000,0000,,Satoru Gojou está aqui em Shibuya!
+Dialogue: 0,0:16:01.01,0:16:04.05,Main,Fushiguro,0000,0000,0000,,Que tal deixar as fundações das\Ncortinas e fugir enquanto dá tempo?!
+Dialogue: 0,0:16:05.23,0:16:07.68,Main,Awasaka,0000,0000,0000,,Que blefe bem ruim.
+Dialogue: 0,0:16:08.55,0:16:10.35,Main,Awasaka,0000,0000,0000,,"Gojou foi selado."
+Dialogue: 0,0:16:10.35,0:16:13.80,Main,Awasaka,0000,0000,0000,,Foram vocês que saíram\Ngritando alto por aí.
+Dialogue: 0,0:16:14.29,0:16:17.27,Main,Awasaka,0000,0000,0000,,É por isso que estamos\Nnos divertindo, sabia?
+Dialogue: 0,0:16:17.27,0:16:20.31,Main,Awasaka,0000,0000,0000,,Se Gojou ainda estivesse na ativa,\Nestaríamos dormindo em casa.
+Dialogue: 0,0:16:20.71,0:16:22.27,Italic,Fushiguro,0000,0000,0000,,Eu sabia.
+Dialogue: 0,0:16:22.27,0:16:24.75,Main,Fushiguro,0000,0000,0000,,{\i1}Ele não consegue vencer o Gojou-sensei...
+Dialogue: 0,0:16:24.75,0:16:27.31,Main,Yuji,0000,0000,0000,,Fushiguro, você mente muito mal.
+Dialogue: 0,0:16:27.31,0:16:31.95,Main,Fushiguro,0000,0000,0000,,{\i1}Então, o encantamento dele não pode\Nter algo exagerado como anular dano.
+Dialogue: 0,0:16:32.61,0:16:33.83,Main,Yuji,0000,0000,0000,,Mas tudo bem.
+Dialogue: 0,0:16:34.16,0:16:35.07,Main,Yuji,0000,0000,0000,,Tudo bem!
+Dialogue: 0,0:16:35.07,0:16:36.32,Main,Fushiguro,0000,0000,0000,,Quieto.
+Dialogue: 0,0:16:38.72,0:16:42.08,Main,Awasaka,0000,0000,0000,,Se não quiserem lutar,\Neu posso matá-los agora.
+Dialogue: 0,0:16:43.35,0:16:44.39,Main,Yuji,0000,0000,0000,,Lá vem!
+Dialogue: 0,0:16:48.43,0:16:49.55,Main,Fushiguro,0000,0000,0000,,Coelho em Fuga!
+Dialogue: 0,0:17:03.85,0:17:04.66,Main,Yuji,0000,0000,0000,,Hein?!
+Dialogue: 0,0:17:04.66,0:17:05.71,Main,Fushiguro,0000,0000,0000,,Recue um pouco.
+Dialogue: 0,0:17:07.52,0:17:09.67,Main,Fushiguro,0000,0000,0000,,Eu saquei o encantamento dele.
+Dialogue: 0,0:17:09.67,0:17:10.90,Main,Yuji,0000,0000,0000,,Ah!
+Dialogue: 0,0:17:15.17,0:17:17.87,Main,Ino,0000,0000,0000,,{\i1}Transformação por sessão espiritual?
+Dialogue: 0,0:17:17.87,0:17:20.11,Main,Ino,0000,0000,0000,,{\i1}Essa velha é médium?!
+Dialogue: 0,0:17:20.46,0:17:22.87,Main,Ino,0000,0000,0000,,{\i1}Não, o problema não é esse.
+Dialogue: 0,0:17:22.87,0:17:24.51,Main,Ino,0000,0000,0000,,{\i1}Que negócio é esse?!
+Dialogue: 0,0:17:24.51,0:17:26.20,Main,Ino,0000,0000,0000,,{\i1}Ele é um feiticeiro famoso?!
+Dialogue: 0,0:17:26.20,0:17:28.32,Main,Ino,0000,0000,0000,,{\i1}Dá pra ver pela postura...
+Dialogue: 0,0:17:28.32,0:17:30.13,Main,Ino,0000,0000,0000,,{\i1}Ele é forte pra cacete!
+Dialogue: 0,0:17:30.13,0:17:31.55,Main,Ino,0000,0000,0000,,Número quatro, Ryu!
+Dialogue: 0,0:17:54.94,0:17:57.90,Main,Awasaka,0000,0000,0000,,{\i1}É o tipo de shikigami que\Nse distrai com quantidade?
+Dialogue: 0,0:17:58.25,0:18:02.75,Main,Awasaka,0000,0000,0000,,{\i1}Então querem dar um ataque grande,\Nusando esses coelhos de cobertura, é?
+Dialogue: 0,0:18:05.88,0:18:06.98,Main,Awasaka,0000,0000,0000,,Sumiram!
+Dialogue: 0,0:18:06.98,0:18:08.26,Main,Awasaka,0000,0000,0000,,Eles fugiram?!
+Dialogue: 0,0:18:12.17,0:18:13.05,Main,Fushiguro,0000,0000,0000,,Grande Elefante.
+Dialogue: 0,0:18:22.52,0:18:24.64,Main,Awasaka,0000,0000,0000,,Que negócio é esse?
+Dialogue: 0,0:18:26.03,0:18:28.56,Main,Awasaka,0000,0000,0000,,Aparece, desaparece, não para quieto...
+Dialogue: 0,0:18:29.08,0:18:30.93,Main,Awasaka,0000,0000,0000,,Homem tem que ser claro e decidido!
+Dialogue: 0,0:18:32.02,0:18:34.61,Main,Fushiguro,0000,0000,0000,,Meu departamento não é esse.
+Dialogue: 0,0:18:35.17,0:18:36.07,Main,Awasaka,0000,0000,0000,,Hã?
+Dialogue: 0,0:18:44.59,0:18:45.64,Main,Awasaka,0000,0000,0000,,{\i1}Esse pirralho!
+Dialogue: 0,0:18:45.64,0:18:47.66,Main,Awasaka,0000,0000,0000,,{\i1}Que poder todo é esse?!
+Dialogue: 0,0:18:47.66,0:18:49.65,Main,Awasaka,0000,0000,0000,,{\i1}Ele tá me dando calafrios!
+Dialogue: 0,0:18:53.53,0:18:55.26,Main,Fushiguro,0000,0000,0000,,{\i1}Por enquanto, continua atacando.
+Dialogue: 0,0:18:57.51,0:18:59.67,Main,Awasaka,0000,0000,0000,,{\i1}Esse aí também pisou fundo no pedal!
+Dialogue: 0,0:18:59.67,0:19:01.51,Main,Awasaka,0000,0000,0000,,{\i1}Sim, sim!
+Dialogue: 0,0:19:07.73,0:19:09.77,Main,Awasaka,0000,0000,0000,,{\i1}Um golpe matador!
+Dialogue: 0,0:19:12.78,0:19:15.78,Main,Awasaka,0000,0000,0000,,{\i1}Meu encantamento é a Inversão.
+Dialogue: 0,0:19:15.78,0:19:17.60,Main,Awasaka,0000,0000,0000,,{\i1}Enquanto o encantamento está ativo,
+Dialogue: 0,0:19:17.60,0:19:20.21,Main,Awasaka,0000,0000,0000,,{\i1}quanto mais fortes vêm os ataques,\Nmais fracos eles ficam,
+Dialogue: 0,0:19:20.21,0:19:22.53,Main,Awasaka,0000,0000,0000,,{\i1}e quanto mais fracos são,\Nmais fortes ficam.
+Dialogue: 0,0:19:23.09,0:19:28.51,Main,Awasaka,0000,0000,0000,,{\i1}Ninguém conseguiu se esquivar do meu\Ncontra-ataque após acertar um golpe mortal.
+Dialogue: 0,0:19:28.51,0:19:33.54,Main,Awasaka,0000,0000,0000,,{\i1}Quanto mais vocês se esforçam,\Nmenos chances têm contra mim!
+Dialogue: 0,0:19:44.63,0:19:46.51,Flashback,Fushiguro,0000,0000,0000,,Eu saquei o encantamento dele...
+Dialogue: 0,0:19:46.51,0:19:47.27,Flashback,Yuji,0000,0000,0000,,Ah!
+Dialogue: 0,0:19:47.67,0:19:50.02,Flashback,Fushiguro,0000,0000,0000,,Deve ser a Inversão.
+Dialogue: 0,0:19:50.22,0:19:54.48,Flashback,Fushiguro,0000,0000,0000,,O ataque que eu dei desalinhado\Ncom o seu doeu mais.
+Dialogue: 0,0:19:55.37,0:19:57.25,Flashback,Fushiguro,0000,0000,0000,,Os Coelhos em Fuga não\Nforam feitos pro ataque,
+Dialogue: 0,0:19:57.25,0:20:00.03,Flashback,Fushiguro,0000,0000,0000,,mas ele não tentou furar imediatamente,\Nmesmo estando cercado...
+Dialogue: 0,0:20:00.03,0:20:04.91,Flashback,Fushiguro,0000,0000,0000,,Deve ter sido assim que ele conseguiu\Nficar ileso depois de bater no chão.
+Dialogue: 0,0:20:05.57,0:20:08.05,Flashback,Yuji,0000,0000,0000,,Então... dá pra vencer com\Num peteleco na testa?
+Dialogue: 0,0:20:08.05,0:20:10.67,Flashback,Fushiguro,0000,0000,0000,,Não, o ataque não pode ser fraco demais.
+Dialogue: 0,0:20:10.93,0:20:12.43,Flashback,Fushiguro,0000,0000,0000,,Se fosse só uma inversão de força,
+Dialogue: 0,0:20:12.43,0:20:16.58,Flashback,Fushiguro,0000,0000,0000,,ativá-la faria ele morrer com a\Nmínima força de resistência do ar.
+Dialogue: 0,0:20:16.02,0:20:16.98,Sign_Basic,Screen,0000,0000,0000,,{\fad(278,140)\fnComic Sans MS\c&H000000&\3c&HFFFFFF&\shad0\bord1\pos(77.333,82)}Verdade
+Dialogue: 0,0:20:16.58,0:20:17.43,Flashback,Yuji,0000,0000,0000,,Ah.
+Dialogue: 0,0:20:17.97,0:20:19.86,Flashback,Fushiguro,0000,0000,0000,,Como isso não aconteceu,
+Dialogue: 0,0:20:19.86,0:20:22.68,Flashback,Fushiguro,0000,0000,0000,,essa Inversão deve ter um\Nlimite {\i1}mínimo{\i0} e outro {\i1}máximo{\i0}.
+Dialogue: 0,0:20:22.68,0:20:24.63,Flashback,Fushiguro,0000,0000,0000,,Mesmo com ela ativada,
+Dialogue: 0,0:20:24.63,0:20:27.85,Flashback,Fushiguro,0000,0000,0000,,ele ainda parou nossos ataques,\Ne usou energia para se defender
+Dialogue: 0,0:20:27.85,0:20:29.85,Flashback,Fushiguro,0000,0000,0000,,de cortes e efeitos dos feitiços, não foi?
+Dialogue: 0,0:20:29.85,0:20:31.31,Flashback,Yuji,0000,0000,0000,,Faz sentido.
+Dialogue: 0,0:20:31.94,0:20:35.25,Flashback,Fushiguro,0000,0000,0000,,Também explica ele não conseguir\Nvencer uma anomalia feito o Gojou-sensei,
+Dialogue: 0,0:20:35.25,0:20:38.31,Flashback,Fushiguro,0000,0000,0000,,e o encantamento dele não deve funcionar\Nbem contra outros complexos.
+Dialogue: 0,0:20:38.31,0:20:41.21,Flashback,Yuji,0000,0000,0000,,Quer dizer que precisamos acertar juntos.
+Dialogue: 0,0:20:41.21,0:20:45.93,Flashback,Yuji,0000,0000,0000,,Um ataque poderoso {\i1}e{\i0} outro\Nmeio fraco... ao mesmo tempo!
+Dialogue: 0,0:20:46.70,0:20:47.50,Flashback,Fushiguro,0000,0000,0000,,É.
+Dialogue: 0,0:20:47.50,0:20:50.59,Flashback,Fushiguro,0000,0000,0000,,Mas não queremos que ele\Nperceba que descobrimos isso.
+Dialogue: 0,0:20:51.11,0:20:55.34,Flashback,Fushiguro,0000,0000,0000,,Então vamos continuar com tudo,\Ne chamar atenção para nossa força monstruosa.
+Dialogue: 0,0:21:01.16,0:21:03.62,Flashback,Fushiguro,0000,0000,0000,,Vamos começar com um\Ngolpe fraco do Gama.
+Dialogue: 0,0:21:04.34,0:21:07.03,Flashback,Fushiguro,0000,0000,0000,,Depois, espancamos com tudo.
+Dialogue: 0,0:21:14.33,0:21:15.54,Main,Awasaka,0000,0000,0000,,{\i1}Esses moleques!
+Dialogue: 0,0:21:17.71,0:21:19.35,Main,Awasaka,0000,0000,0000,,{\i1}Quando eles descobriram?
+Dialogue: 0,0:21:24.74,0:21:25.99,Main,Awasaka,0000,0000,0000,,{\i1}Mas...
+Dialogue: 0,0:21:26.87,0:21:33.02,Main,Awasaka,0000,0000,0000,,Não fiquem se gabando, moleques!
+Dialogue: 0,0:21:54.79,0:21:56.41,Main,Awasaka,0000,0000,0000,,{\i1}Ele parou?!
+Dialogue: 0,0:21:56.79,0:22:00.90,Main,Awasaka,0000,0000,0000,,{\i1}Ele matou o impulso por\Num único instante...
+Dialogue: 0,0:22:06.50,0:22:08.75,Main,Fushiguro,0000,0000,0000,,Você até que é habilidoso, hein?
+Dialogue: 0,0:22:08.75,0:22:10.24,Main,Yuji,0000,0000,0000,,Sério?
+Dialogue: 0,0:23:40.89,0:23:44.53,Main,Mahito,0000,0000,0000,,Ei, você ficou sabendo que o\NSatoru-kun do clã Gojou foi selado?!
+Dialogue: 0,0:23:44.53,0:23:45.43,Main,Geto,0000,0000,0000,,Hã? Ah, sim.
+Dialogue: 0,0:23:45.43,0:23:46.33,Main,Mahito,0000,0000,0000,,Puxa, não se interessou?
+Dialogue: 0,0:23:46.33,0:23:47.18,Main,Jogo,0000,0000,0000,,Ei, você!
+Dialogue: 0,0:23:47.18,0:23:49.01,Main,Jogo,0000,0000,0000,,A gente ouviu essa fofoca do Getou-san!
+Dialogue: 0,0:23:49.01,0:23:52.70,Main,Mahito,0000,0000,0000,,{\an8}Ai, puxa vida!\NQue mancada! Perdão!
+Dialogue: 0,0:23:51.36,0:23:55.03,Next_Ep_Title,Screen,0000,0000,0000,,{\c&HFFFFFF&\bord2\blur4\pos(318,292)}Próximo Episódio:\N{\fs30\fscy150}Faca Cega
+Dialogue: 0,0:23:51.49,0:23:52.70,Main,Screen,0000,0000,0000,,Próximo Episódio: "Faca Cega"!
+Dialogue: 0,0:23:52.70,0:23:54.94,Main,Geto,0000,0000,0000,,Assista com a luz acesa,\Ne de uma distância segura...
+

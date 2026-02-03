@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "lovelace.dashboard_leakage",
+  "data": {
+    "config": {
+      "views": [
+        {
+          "title": "Water Leaks",
+          "icon": "mdi:water-alert",
+          "type": "sidebar",
+          "cards": [
+            {
+              "type": "vertical-stack",
+              "cards": [
+                {
+                  "type": "markdown",
+                  "content": "# 💧 Water Leak Monitoring"
+                },
+                {
+                  "type": "entity-filter",
+                  "show_empty": false,
+                  "state_filter": [
+                    "on"
+                  ],
+                  "card": {
+                    "type": "entities",
+                    "title": "🚨 Active Leaks",
+                    "show_header_toggle": false
+                  },
+                  "entities": [
+                    {
+                      "entity": "binary_sensor.kitchen_wls_water_leak",
+                      "name": "Kitchen Leak"
+                    },
+                    {
+                      "entity": "binary_sensor.toilet_ds_wls_water_leak",
+                      "name": "Toilet Leak"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "vertical-stack",
+              "cards": [
+                {
+                  "type": "markdown",
+                  "content": "## 🗂 All Leak Sensors"
+                },
+                {
+                  "type": "entities",
+                  "show_header_toggle": false,
+                  "entities": [
+                    {
+                      "entity": "binary_sensor.kitchen_wls_water_leak",
+                      "name": "Kitchen",
+                      "state_color": true,
+                      "secondary_info": "last-changed"
+                    },
+                    {
+                      "entity": "binary_sensor.toilet_ds_wls_water_leak",
+                      "name": "Toilet",
+                      "state_color": true,
+                      "secondary_info": "last-changed"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "vertical-stack",
+              "cards": [
+                {
+                  "type": "markdown",
+                  "content": "## 📈 Last 24h"
+                },
+                {
+                  "type": "history-graph",
+                  "hours_to_show": 24,
+                  "refresh_interval": 0,
+                  "entities": [
+                    "binary_sensor.kitchen_wls_water_leak",
+                    "binary_sensor.toilet_ds_wls_water_leak"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

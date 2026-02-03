@@ -1,0 +1,13 @@
+
+  vaultwarden:
+    image: vaultwarden/server:latest
+    container_name: vaultwarden
+    restart: unless-stopped
+    env_file: [ ../.env ]
+    environment:
+      WEBSOCKET_ENABLED: "true"
+      # SIGNUPS_ALLOWED=false     # uncomment after you create your first user
+    volumes:
+      - ./vaultwarden:/data
+    ports:
+      - "127.0.0.1:${VAULT_WARDEN_PORT}:80"

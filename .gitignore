@@ -1,0 +1,158 @@
+# =========================
+# OS / Editor / Tooling
+# =========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*.tmp
+*~
+.idea/
+.vscode/
+*.code-workspace
+
+# Windows volume metadata (you have this)
+System Volume Information/
+
+# =========================
+# Env / Secrets (DO NOT COMMIT)
+# =========================
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+**/secrets/
+*secret*
+*password*
+*token*
+*apikey*
+*api_key*
+*credentials*
+*creds*
+
+# =========================
+# Logs / Cache / Runtime
+# =========================
+*.log
+logs/
+log/
+tmp/
+temp/
+.cache/
+__pycache__/
+*.pyc
+
+# =========================
+# Ignore Invidious entirely
+# =========================
+invidious/
+
+# =========================
+# Monitoring stack
+# =========================
+# Prometheus TSDB data
+monitoring/prom-data/
+
+# Grafana runtime
+monitoring/grafana/data/
+monitoring/grafana/plugins/
+monitoring/grafana/logs/
+
+# Uptime Kuma runtime
+monitoring/uptime-kuma/data/
+
+# Node-RED runtime
+monitoring/nodered/node_modules/
+monitoring/nodered/.config.runtime.json
+monitoring/nodered/.sessions.json
+monitoring/nodered/.npm/
+monitoring/nodered/.cache/
+monitoring/nodered/*.log
+
+# AdGuard Home
+monitoring/adguard/work/
+monitoring/adguard/data/
+monitoring/adguard/logs/
+
+# =========================
+# Home Assistant stack
+# =========================
+# Keep YAML in homeassistant/config; ignore DB/cache/storage & secrets
+homeassistant/config/.storage/
+homeassistant/config/.cloud/
+homeassistant/config/deps/
+homeassistant/config/www/tts/
+homeassistant/config/home-assistant_v2.db
+homeassistant/config/home-assistant_v2.db-shm
+homeassistant/config/home-assistant_v2.db-wal
+homeassistant/config/*.log
+homeassistant/config/backups/
+homeassistant/config/backup/
+homeassistant/config/secrets.yaml
+homeassistant/config/known_devices.yaml
+homeassistant/config/ip_bans.yaml
+
+# Home Assistant Node-RED
+homeassistant/nodered/node_modules/
+homeassistant/nodered/.config.runtime.json
+homeassistant/nodered/.sessions.json
+homeassistant/nodered/.npm/
+homeassistant/nodered/.cache/
+homeassistant/nodered/*.log
+
+# Home Assistant local store dir
+homeassistant/store/
+
+# =========================
+# CouchDB livesync
+# =========================
+couchdb-livesync/data/
+
+# =========================
+# Jellyfin
+# =========================
+jellyfin/config/
+jellyfin/movies/
+jellyfin/tvseries/
+
+# =========================
+# PhotoPrism
+# =========================
+photoprism/database/
+photoprism/media/
+photoprism/storage/
+
+# =========================
+# qBittorrent
+# =========================
+qbittorrent/appdata/
+qbittorrent/downloads/
+
+# =========================
+# Vaultwarden
+# =========================
+vault_warden/data/
+vault_warden/.env
+
+# =========================
+# Backups / dumps
+# =========================
+backups/
+backup/
+*.bak
+*.dump
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+*.tar
+*.tar.gz
+*.tgz
+*.zip

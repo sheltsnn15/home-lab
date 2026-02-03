@@ -1,0 +1,6 @@
+# Mosquitto password file
+# Add users with: mosquitto_passwd -b passwd username password
+# Format: username:encrypted_password_hash
+
+# Example (uncomment and replace):
+# admin:$6$...

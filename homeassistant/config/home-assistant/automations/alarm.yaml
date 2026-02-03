@@ -1,0 +1,132 @@
+# Door → trigger when armed_home or armed_night
+- id: alarm_trigger_door
+  alias: 'Alarm (YAML): Trigger on Door'
+  triggers:
+    - trigger: state
+      entity_id: group.doors_all
+      from: 'on'
+      to: 'off'
+  conditions:
+    - condition: template
+      value_template: "{{ states('input_select.alarm_mode') in ['armed_home','armed_night'] }}"
+  actions:
+    - service: input_boolean.turn_on
+      target: { entity_id: input_boolean.alarm_triggered }
+    - service: mqtt.publish
+      data: { topic: alarm/trigger/door, payload: '1', retain: false }
+
+    - choose:
+        # armed_home → 3s chirp then stop
+        - conditions:
+            - condition: state
+              entity_id: input_select.alarm_mode
+              state: armed_home
+          sequence:
+            - service: script.alarm_fire
+              data:
+                reason: door
+                ringtone: "ringtone 11"
+                volume: medium
+                seconds: 3
+      # armed_night → full siren (duration slider)
+      default:
+        - service: script.alarm_fire
+          data:
+            reason: door
+            ringtone: "ringtone 3"
+            volume: medium
+            seconds: "{{ states('input_number.alarm_siren_seconds')|int }}"
+  mode: single
+
+# Motion → nights only
+- id: alarm_trigger_motion
+  alias: 'Alarm (YAML): Trigger on Motion (night only)'
+  triggers:
+    - trigger: state
+      entity_id: group.motion_all
+      from: 'off'
+      to: 'on'
+  conditions:
+    - condition: state
+      entity_id: input_select.alarm_mode
+      state: armed_night
+  actions:
+    - service: input_boolean.turn_on
+      target: { entity_id: input_boolean.alarm_triggered }
+    - service: mqtt.publish
+      data: { topic: alarm/trigger/motion, payload: '1', retain: false }
+    - service: script.alarm_fire
+      data:
+        reason: motion
+        ringtone: "ringtone 3"
+        volume: medium
+        seconds: "{{ states('input_number.alarm_siren_seconds')|int }}"
+  mode: single
+
+# Tamper → serious (any armed)
+- id: alarm_trigger_tamper
+  alias: 'Alarm (YAML): Trigger on Tamper'
+  triggers:
+    - trigger: state
+      entity_id: group.tamper_all
+      from: 'off'
+      to: 'on'
+  conditions:
+    - condition: template
+      value_template: "{{ states('input_select.alarm_mode') in ['armed_home','armed_night'] }}"
+  actions:
+    - service: input_boolean.turn_on
+      target: { entity_id: input_boolean.alarm_triggered }
+    - service: mqtt.publish
+      data: { topic: alarm/trigger/tamper, payload: '1', retain: false }
+    - service: script.alarm_fire
+      data:
+        reason: tamper
+        ringtone: "ringtone 10"
+        volume: high
+        seconds: "{{ states('input_number.alarm_siren_seconds')|int }}"
+  mode: single
+
+# Escalate if motion persists while triggered
+- id: alarm_escalate_motion
+  alias: 'Alarm (YAML): Escalate on motion while triggered'
+  triggers:
+    - trigger: state
+      entity_id: group.motion_all
+      from: 'off'
+      to: 'on'
+      for: "00:00:30"
+  conditions:
+    - condition: state
+      entity_id: input_boolean.alarm_triggered
+      state: 'on'
+  actions:
+    - service: mqtt.publish
+      data: { topic: alarm/escalate, payload: '1' }
+    - service: script.alarm_fire
+      data:
+        reason: escalate
+        ringtone: "ringtone 10"
+        volume: high
+        seconds: "{{ states('input_number.alarm_siren_seconds')|int }}"
+  mode: single
+
+# Disarm → clear state + ensure sirens off (safety)
+- id: alarm_clear_when_disarmed
+  alias: 'Alarm (YAML): Clear on Disarm'
+  triggers:
+    - trigger: state
+      entity_id: input_select.alarm_mode
+      to: disarmed
+  actions:
+    - service: input_boolean.turn_off
+      target: { entity_id: input_boolean.alarm_triggered }
+    - service: mqtt.publish
+      data:
+        topic: zigbee2mqtt/downstairs_alarm/set/alarm
+        payload: "OFF"
+    - service: mqtt.publish
+      data:
+        topic: zigbee2mqtt/upstairs_alarm/set/alarm
+        payload: "OFF"
+  mode: single

@@ -1,0 +1,273 @@
+- id: '1743205575294'
+  alias: Electric Blanket Schedule (Winter Only) – Group
+  description: Control all bedroom electric blankets via a switch group.
+  triggers:
+  - trigger: time
+    id: turn_on_night
+    at: '21:30:00'
+  - trigger: time
+    id: turn_off_night
+    at: '22:30:00'
+  - trigger: time
+    id: turn_on_morning
+    at: 06:30:00
+  - trigger: time
+    id: turn_off_morning
+    at: 07:00:00
+  conditions:
+  - condition: template
+    value_template: '{{ now().month in [11, 12, 1, 2, 3] }}'
+  - condition: template
+    value_template: '{% set members = state_attr(''switch.electric_blankets'',''entity_id'')
+      or [] %} {{ (expand(members) | selectattr(''state'',''in'',[''on'',''off''])
+      | list | length) == (members | length) }}
+
+      '
+  actions:
+  - choose:
+    - conditions:
+      - condition: trigger
+        id: turn_on_night
+      sequence:
+      - action: switch.turn_on
+        target:
+          entity_id: switch.electric_blankets
+    - conditions:
+      - condition: trigger
+        id: turn_off_night
+      sequence:
+      - action: switch.turn_off
+        target:
+          entity_id: switch.electric_blankets
+    - conditions:
+      - condition: trigger
+        id: turn_on_morning
+      sequence:
+      - action: switch.turn_on
+        target:
+          entity_id: switch.electric_blankets
+    - conditions:
+      - condition: trigger
+        id: turn_off_morning
+      sequence:
+      - action: switch.turn_off
+        target:
+          entity_id: switch.electric_blankets
+  mode: single
+- id: '1743266793306'
+  alias: 'Alarm: Trigger on Door Open'
+  description: ''
+  triggers:
+  - entity_id:
+    - binary_sensor.main_door_ds_contact
+    - binary_sensor.kitchen_balcony_ds_contact
+    - binary_sensor.dinning_balcony_ds_contact
+    from: 'on'
+    to: 'off'
+    trigger: state
+  conditions:
+  - condition: state
+    entity_id: alarm_control_panel.alarmo
+    state: armed_night
+  actions:
+  - data:
+      topic: alarm/trigger/door
+      payload: '1'
+      retain: false
+    action: mqtt.publish
+  mode: single
+- id: '1743266839417'
+  alias: 'Alarm: Trigger on Motion'
+  description: ''
+  triggers:
+  - entity_id:
+    - binary_sensor.ms_dining_occupancy
+    - binary_sensor.ms_kitchen_occupancy
+    - binary_sensor.ms_stairs_occupancy
+    from: 'off'
+    to: 'on'
+    trigger: state
+  conditions:
+  - condition: state
+    entity_id: alarm_control_panel.alarmo
+    state: armed_night
+  actions:
+  - data:
+      topic: alarm/trigger/motion
+      payload: '1'
+      retain: false
+    action: mqtt.publish
+  mode: single
+- id: '1743266864320'
+  alias: 'Alarm: Trigger on Tamper'
+  description: ''
+  triggers:
+  - entity_id:
+    - binary_sensor.main_door_ds_tamper
+    - binary_sensor.kitchen_balcony_ds_tamper
+    - binary_sensor.dinning_balcony_ds_tamper
+    from: 'off'
+    to: 'on'
+    trigger: state
+  conditions:
+  - condition: state
+    entity_id: alarm_control_panel.alarmo
+    state: armed_night
+  actions:
+  - data:
+      topic: alarm/trigger/tamper
+      payload: '1'
+      retain: false
+    action: mqtt.publish
+  mode: single
+- id: '1743266894358'
+  alias: 'Alarm: Activate Sirens'
+  triggers:
+  - entity_id: alarm_control_panel.alarmo
+    to: triggered
+    trigger: state
+  actions:
+  - data:
+      topic: zigbee2mqtt/downstairs_alarm/set/alarm
+      payload: 'ON'
+    action: mqtt.publish
+  - data:
+      topic: zigbee2mqtt/upstairs_alarm/set/alarm
+      payload: 'ON'
+    action: mqtt.publish
+  mode: single
+- id: '1743266924965'
+  alias: 'Alarm: Set Ringtone Based on Event'
+  triggers:
+  - entity_id: alarm_control_panel.alarmo
+    to: triggered
+    trigger: state
+  actions:
+  - choose:
+    - conditions:
+      - condition: template
+        value_template: '{{ states(''alarm_control_panel.alarmo'') == ''triggered''
+          }}'
+      sequence:
+      - data:
+          topic: zigbee2mqtt/downstairs_alarm/set/ringtone
+          payload: ringtone 3
+        action: mqtt.publish
+      - data:
+          topic: zigbee2mqtt/upstairs_alarm/set/ringtone
+          payload: ringtone 3
+        action: mqtt.publish
+  mode: single
+- id: '1743266952826'
+  alias: 'Alarm: Escalate on Repeated Motion'
+  triggers:
+  - entity_id:
+    - binary_sensor.ms_dining_occupancy
+    - binary_sensor.ms_kitchen_occupancy
+    - binary_sensor.ms_stairs_occupancy
+    from: 'off'
+    to: 'on'
+    for:
+      seconds: 30
+    trigger: state
+  conditions:
+  - condition: state
+    entity_id: alarm_control_panel.alarmo
+    state: triggered
+  actions:
+  - data:
+      topic: zigbee2mqtt/downstairs_alarm/set/volume
+      payload: high
+    action: mqtt.publish
+  - data:
+      topic: zigbee2mqtt/upstairs_alarm/set/volume
+      payload: high
+    action: mqtt.publish
+  - data:
+      topic: zigbee2mqtt/downstairs_alarm/set/ringtone
+      payload: ringtone 10
+    action: mqtt.publish
+  - data:
+      topic: zigbee2mqtt/upstairs_alarm/set/ringtone
+      payload: ringtone 10
+    action: mqtt.publish
+  mode: single
+- id: '1743266981216'
+  alias: 'Alarm: Increase Volume on Escalation'
+  description: ''
+  triggers:
+  - topic: alarm/escalate
+    trigger: mqtt
+  conditions: []
+  actions:
+  - data:
+      topic: zigbee2mqtt/downstairs_alarm/set/volume
+      payload: high
+    action: mqtt.publish
+  - data:
+      topic: zigbee2mqtt/upstairs_alarm/set/volume
+      payload: high
+    action: mqtt.publish
+  - data:
+      topic: zigbee2mqtt/downstairs_alarm/set/ringtone
+      payload: ringtone 10
+    action: mqtt.publish
+  - data:
+      topic: zigbee2mqtt/upstairs_alarm/set/ringtone
+      payload: ringtone 10
+    action: mqtt.publish
+  mode: single
+- id: '1743291742745'
+  alias: Trigger Sirens when Alarmo is Activated
+  description: ''
+  triggers:
+  - entity_id: alarm_control_panel.alarmo
+    to: triggered
+    trigger: state
+  actions:
+  - data:
+      topic: alarm/trigger/general
+      payload: '1'
+    action: mqtt.publish
+- id: '1743780808495'
+  alias: 'Notification: Door Open Alert'
+  description: ''
+  triggers:
+  - entity_id:
+    - binary_sensor.main_door_ds_contact
+    - binary_sensor.kitchen_balcony_ds_contact
+    - binary_sensor.dinning_balcony_ds_contact
+    from: 'on'
+    to: 'off'
+    trigger: state
+  conditions:
+  - condition: state
+    entity_id: alarm_control_panel.alarmo
+    state: armed_home
+  actions:
+  - data:
+      topic: zigbee2mqtt/downstairs_alarm/set/volume
+      payload: medium
+    action: mqtt.publish
+  - data:
+      topic: zigbee2mqtt/upstairs_alarm/set/volume
+      payload: medium
+    action: mqtt.publish
+  - data:
+      topic: zigbee2mqtt/downstairs_alarm/set/ringtone
+      payload: ringtone 11
+    action: mqtt.publish
+  - data:
+      topic: zigbee2mqtt/upstairs_alarm/set/ringtone
+      payload: ringtone 11
+    action: mqtt.publish
+  - delay: 00:00:03
+  - data:
+      topic: zigbee2mqtt/downstairs_alarm/set/alarm
+      payload: 'OFF'
+    action: mqtt.publish
+  - data:
+      topic: zigbee2mqtt/upstairs_alarm/set/alarm
+      payload: 'OFF'
+    action: mqtt.publish
+  mode: single

@@ -1,244 +1,166 @@
-# =========================
-# OS / Editor / Tooling
-# =========================
+#################################################################
+# Global OS / Editor / Temp
+#################################################################
 .DS_Store
 Thumbs.db
+ehthumbs.db
 Desktop.ini
 *.swp
 *.swo
-*.tmp
 *~
-.idea/
-.vscode/
-*.code-workspace
-.project
-.classpath
-.settings/
-*.sublime-project
-*.sublime-workspace
+*.tmp
+*.bak
+*.orig
+*.log
 
-# Windows volume metadata
-System Volume Information/
-
-# =========================
-# Docker Compose & Runtime
-# =========================
-docker-compose.override.yml
-docker-compose.*.yml
-*.local
-
-# =========================
-# Env / Secrets (DO NOT COMMIT)
-# =========================
+#################################################################
+# Secrets / Environment
+#################################################################
 .env
 .env.*
 !.env.example
-*.key
-*.pem
-*.p12
-*.pfx
-secrets/
-**/secrets/
-*secret*
-*password*
-*token*
-*apikey*
-*api_key*
-*credentials*
-*creds*
-**/secrets.yaml
-**/secrets.yml
+**/*.token
+**/hass.token
+**/kuma.token
+**/*secret*
+**/*secrets*
+**/*apikey*
+**/*api_key*
+**/*password*
+**/*passwd*
+**/*key*
+**/*private*
 
-# =========================
-# Logs / Cache / Runtime
-# =========================
-*.log
-logs/
-log/
-tmp/
-temp/
-.cache/
-__pycache__/
-*.pyc
-*.db-shm
-*.db-wal
+#################################################################
+# Docker / Compose misc
+#################################################################
+**/.docker/
+**/docker-tls/
+**/*-tls/
+**/*cert*
+**/*certs*
 
-# =========================
-# Package / Dependency Files
-# =========================
-package-lock.json
-yarn.lock
-shard.lock
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
-
-# =========================
-# Ignore Invidious entirely
-# =========================
-invidious/
-
-# =========================
-# Monitoring stack
-# =========================
-# Prometheus TSDB data
+#################################################################
+# Monitoring stack (Prometheus / Grafana / Uptime Kuma)
+#################################################################
+# Prometheus TSDB data (huge)
 monitoring/prom-data/
+monitoring/prom-data/**
 
-# Prometheus tokens (keep .example files)
-monitoring/prometheus/*.token
-
-# Grafana runtime
+# Grafana local state
 monitoring/grafana/grafana.db
 monitoring/grafana/plugins/
-monitoring/grafana/logs/
-monitoring/grafana/data/
-monitoring/grafana/csv/
-monitoring/grafana/pdf/
+monitoring/grafana/plugins/**
 monitoring/grafana/png/
+monitoring/grafana/png/**
+monitoring/grafana/pdf/
+monitoring/grafana/pdf/**
+monitoring/grafana/csv/
+monitoring/grafana/csv/**
 
-# Uptime Kuma runtime
+# Uptime Kuma DB + uploads
 monitoring/uptime-kuma/kuma.db
-monitoring/uptime-kuma/kuma.db-*
-monitoring/uptime-kuma/error.log
-monitoring/uptime-kuma/data/
-monitoring/uptime-kuma/docker-tls/
-monitoring/uptime-kuma/screenshots/
+monitoring/uptime-kuma/kuma.db-shm
+monitoring/uptime-kuma/kuma.db-wal
 monitoring/uptime-kuma/upload/
+monitoring/uptime-kuma/upload/**
+monitoring/uptime-kuma/screenshots/
+monitoring/uptime-kuma/screenshots/**
+monitoring/uptime-kuma/error.log
+monitoring/uptime-kuma/error.log.*
 
-# Node-RED runtime
-monitoring/nodered/node_modules/
-monitoring/nodered/.config.runtime.json
-monitoring/nodered/.sessions.json
-monitoring/nodered/.npm/
-monitoring/nodered/.cache/
-monitoring/nodered/*.log
+#################################################################
+# Node-RED (both homeassistant/ and monitoring/)
+#################################################################
+**/node_modules/
+**/node_modules/**
+**/.npm/
+**/.cache/
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
 
-# AdGuard Home
-monitoring/adguard/work/
-monitoring/adguard/data/
-monitoring/adguard/logs/
+# Optional: ignore Node-RED runtime state if it appears
+**/.node-red/
+**/.node-red/**
 
-# =========================
-# Home Assistant stack
-# =========================
-# Keep YAML configs; ignore DB/cache/storage & secrets
-homeassistant/config/.storage/
-homeassistant/config/.cloud/
-homeassistant/config/deps/
-homeassistant/config/www/tts/
-homeassistant/config/home-assistant_v2.db
-homeassistant/config/home-assistant_v2.db-shm
-homeassistant/config/home-assistant_v2.db-wal
-homeassistant/config/*.log
-homeassistant/config/backups/
-homeassistant/config/backup/
-homeassistant/config/secrets.yaml
-homeassistant/config/known_devices.yaml
-homeassistant/config/ip_bans.yaml
+#################################################################
+# Home Assistant / Zigbee2MQTT / Mosquitto
+#################################################################
+# Keep your YAML + configs, but ignore runtime DBs, backups, and caches
+homeassistant/config/**/.storage/
+homeassistant/config/**/.storage/**
+homeassistant/config/**/.cloud/
+homeassistant/config/**/.cloud/**
+homeassistant/config/**/backup/
+homeassistant/config/**/backup/**
+homeassistant/config/**/backups/
+homeassistant/config/**/backups/**
+homeassistant/config/**/home-assistant.log*
+homeassistant/config/**/home-assistant_v2.db*
+homeassistant/config/**/home-assistant_v2.db-shm
+homeassistant/config/**/home-assistant_v2.db-wal
 
-# Zigbee2MQTT
-homeassistant/config/zigbee2mqtt/data/
-homeassistant/config/zigbee2mqtt/log/
+# Zigbee2MQTT runtime artifacts (keep configuration.yaml)
+homeassistant/config/zigbee2mqtt/data/database.db
+homeassistant/config/zigbee2mqtt/data/database.db-shm
+homeassistant/config/zigbee2mqtt/data/database.db-wal
+homeassistant/config/zigbee2mqtt/data/log/
+homeassistant/config/zigbee2mqtt/data/log/**
+homeassistant/config/zigbee2mqtt/data/state.json
 
-# Mosquitto
+# Mosquitto persistence/logs if you use them
 homeassistant/config/mosquitto/data/
+homeassistant/config/mosquitto/data/**
 homeassistant/config/mosquitto/log/
+homeassistant/config/mosquitto/log/**
 
-# Home Assistant Node-RED
-homeassistant/nodered/node_modules/
-homeassistant/nodered/.config.runtime.json
-homeassistant/nodered/.sessions.json
-homeassistant/nodered/.npm/
-homeassistant/nodered/.cache/
-homeassistant/nodered/*.log
-homeassistant/nodered/settings.js.bak
-
-# Home Assistant local store dir
-homeassistant/store/
-
-# Local setup script (if contains secrets)
-homeassistant/setup.sh
-
-# =========================
-# CouchDB livesync
-# =========================
-couchdb-livesync/data/
-
-# =========================
-# Jellyfin
-# =========================
-jellyfin/config/
-jellyfin/movies/
-jellyfin/tvseries/
-
-# =========================
-# PhotoPrism
-# =========================
+#################################################################
+# Databases / App data (do NOT commit)
+#################################################################
+# MariaDB data stores
+homeassistant/store/mariadb/
+homeassistant/store/mariadb/**
 photoprism/database/
+photoprism/database/**
+couchdb-livesync/data/
+couchdb-livesync/data/**
+couchdb-livesync/data/**
+
+# CouchDB node/metadata files (if they appear)
+**/couchdb*.db
+**/*.couch
+**/*.couchdb
+
+#################################################################
+# Media libraries / Downloads (very large)
+#################################################################
+jellyfin/movies/
+jellyfin/movies/**
+jellyfin/tvseries/
+jellyfin/tvseries/**
 photoprism/media/
+photoprism/media/**
 photoprism/storage/
-photoprism/storage/index/
-photoprism/storage/thumbnails/
-photoprism/storage/sessions/
-photoprism/storage/backup/
-photoprism/storage/cache/
-photoprism/storage/config/
-
-# =========================
-# qBittorrent
-# =========================
-qbittorrent/appdata/
+photoprism/storage/**
 qbittorrent/downloads/
+qbittorrent/downloads/**
+invidious/
 
-# =========================
-# Vaultwarden
-# =========================
-vault_warden/data/
-vault_warden/.env
+#################################################################
+# Jellyfin runtime (cache/log/data are huge + host-specific)
+#################################################################
+jellyfin/config/cache/
+jellyfin/config/cache/**
+jellyfin/config/log/
+jellyfin/config/log/**
+jellyfin/config/data/
+jellyfin/config/data/**
 
-# =========================
-# Heimdall
-# =========================
-heimdall/data/
-heimdall/config/
-heimdall/app/
-
-# =========================
-# Watchtower
-# =========================
-watchtower/.env
-watchtower/data/
-
-# =========================
-# Backups / dumps / archives
-# =========================
-backups/
-backup/
-*.bak
-*.dump
-*.sql
-*.sqlite
-*.sqlite3
-*.db
-*.tar
-*.tar.gz
-*.tgz
-*.zip
-*.7z
-*.rar
-
-# =========================
-# Temporary / Build files
-# =========================
-build/
-dist/
-out/
-target/
-*.o
-*.obj
-*.exe
-*.dll
-*.so
-*.dylib
+#################################################################
+# System / external drive artifacts
+#################################################################
+System Volume Information/
+System Volume Information/**
+$RECYCLE.BIN/
+$RECYCLE.BIN/**

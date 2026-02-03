@@ -1,137 +1,84 @@
-########################################
-# Global / OS / Editor
-########################################
+############################################
+# Secrets / env
+############################################
 .env
+**/*.token
+**/*.key
+**/*.pem
+
+############################################
+# OS / editor junk
+############################################
 .DS_Store
 Thumbs.db
 System Volume Information/
-*.swp
-*.swo
-*.tmp
 
-########################################
-# Invidious: ignore entire folder
-########################################
-invidious/
-
-########################################
-# Home Assistant: keep YAML config, ignore secrets + runtime
-########################################
-# Secrets / tokens / keys
+############################################
+# Home Assistant (keep YAML, ignore state)
+############################################
+homeassistant/config/home-assistant/.storage/
 homeassistant/config/home-assistant/secrets.yaml
 homeassistant/config/home-assistant/secrets.yaml.example
-homeassistant/config/home-assistant/*.key
-homeassistant/config/home-assistant/*.pem
-homeassistant/config/home-assistant/*.crt
-
-# Logs / runtime
 homeassistant/config/home-assistant/home-assistant.log*
-homeassistant/config/home-assistant/*.log
-homeassistant/config/home-assistant/.storage/
-homeassistant/config/home-assistant/.cloud/
-homeassistant/config/home-assistant/tts/
-homeassistant/config/home-assistant/backup/
-homeassistant/config/home-assistant/backups/
+homeassistant/config/home-assistant/home-assistant_v2.db*
+homeassistant/config/home-assistant/custom_components/
+homeassistant/store/
 
-# Python cache (you already hit this via HACS)
-__pycache__/
-*.pyc
+# Mosquitto
+homeassistant/config/mosquitto/passwd
 
-# Zigbee2MQTT: keep config yaml, ignore DB + logs + temp
+# Zigbee2MQTT (state + DB + temp)
+homeassistant/config/zigbee2mqtt/configuration.yaml.tmp
 homeassistant/config/zigbee2mqtt/database.db
 homeassistant/config/zigbee2mqtt/log/
-homeassistant/config/zigbee2mqtt/configuration.yaml.tmp
+homeassistant/config/zigbee2mqtt/state.json
+homeassistant/config/zigbee2mqtt/coordinator_backup.json
 
-########################################
-# Node-RED: keep flows/settings, ignore runtime & dependencies
-########################################
-**/node_modules/
-**/.npm/
-**/.node-red/
-homeassistant/nodered/.config.runtime.json
+# Node-RED (HA stack)
+homeassistant/nodered/.npm/
+homeassistant/nodered/node_modules/
 homeassistant/nodered/.sessions.json
-monitoring/nodered/.config.runtime.json
+homeassistant/nodered/.config.runtime.json
+homeassistant/nodered/.config.nodes.json
+homeassistant/nodered/settings.js.bak
 
-# If you export flows to JSON files, keep them.
-# (No ignore rule needed; just make sure they exist as files you commit.)
-
-########################################
+############################################
 # Monitoring stack
-########################################
-# Prometheus: keep prometheus.yml, ignore tokens and data
-monitoring/prometheus/*.token
+############################################
 monitoring/prom-data/
-monitoring/prometheus/data/
-monitoring/prometheus/wal/
-monitoring/prometheus/lock
-
-# Grafana: keep dashboard exports, ignore db/plugins/cache
-monitoring/grafana/grafana.db
-monitoring/grafana/plugins/
-monitoring/grafana/png/
-monitoring/grafana/pdf/
-# Keep JSON exports:
-!monitoring/grafana/**/*.json
-
-# Uptime Kuma: ignore db + uploads + runtime
+monitoring/grafana/
 monitoring/uptime-kuma/
-monitoring/uptime-kuma/*.db*
-monitoring/uptime-kuma/upload/
-monitoring/uptime-kuma/screenshots/
-monitoring/uptime-kuma/error.log
+monitoring/prometheus/*.token
+monitoring/prometheus/hass.token
+monitoring/prometheus/kuma.token
 
-# AdGuard: ignore runtime working data
+# Node-RED (monitoring stack)
+monitoring/nodered/.npm/
+monitoring/nodered/node_modules/
+monitoring/nodered/.config.runtime.json
+monitoring/nodered/.config.nodes.json
+
+# AdGuard
 monitoring/adguard/work/
 
-########################################
-# Jellyfin: keep compose, ignore media + logs + cache
-########################################
-jellyfin/config/log/
+############################################
+# Media services (big data / caches)
+############################################
+# Invidious (you currently don't want it tracked)
+invidious/
+
+# Jellyfin
 jellyfin/config/.cache/
+jellyfin/config/cache/
+jellyfin/config/data/
+jellyfin/config/log/
 jellyfin/movies/
 jellyfin/tvseries/
 
-########################################
-# Qbittorrent: ignore app state + downloads + logs
-########################################
-qbittorrent/appdata/
-qbittorrent/downloads/
-**/qbittorrent.log
-
-########################################
-# PhotoPrism: ignore media + DB storage
-########################################
+# PhotoPrism
 photoprism/database/
 photoprism/media/
-photoprism/storage/cache/
-photoprism/storage/sidecar/
-photoprism/storage/backup/
-photoprism/storage/users/
-photoprism/storage/serial/
+photoprism/storage/
 
-########################################
-# CouchDB livesync: keep config, ignore data
-########################################
-couchdb-livesync/data/
-
-########################################
-# Generic database / state directories (safety net)
-########################################
-**/*.db
-**/*.db-shm
-**/*.db-wal
-**/wal/
-**/chunks_head/
-**/lock
-**/queries.active
-**/*-journal
-
-########################################
-# Backups / exports / large binaries
-########################################
-**/*.bak
-**/*.zip
-**/*.tar
-**/*.tar.gz
-**/*.7z
-**/*.iso
+# qBittorrent
+qbittorrent/appdata/

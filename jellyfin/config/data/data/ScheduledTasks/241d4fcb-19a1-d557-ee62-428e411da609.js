@@ -1,1 +1,0 @@
-{"StartTimeUtc":"2026-02-02T13:55:05.4221566Z","EndTimeUtc":"2026-02-02T13:55:05.630946Z","Status":"Completed","Name":"Clean Cache Directory","Key":"DeleteCacheFiles","Id":"241d4fcb19a1d557ee62428e411da609"}

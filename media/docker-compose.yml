@@ -1,0 +1,141 @@
+services:
+  jellyfin:
+    image: lscr.io/linuxserver/jellyfin:latest
+    container_name: jellyfin
+    env_file:
+      - ../.env
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+      # - JELLYFIN_PublishedServerUrl=192.168.0.5
+    volumes:
+      - ./jellyfin/config:/config
+      - ./jellyfin/tvseries:/data/tvshows
+      - ./jellyfin/movies:/data/movies
+    ports:
+      - "127.0.0.1:${JELLYFIN_PORT}:8096"
+    restart: unless-stopped
+
+  mariadb:
+    image: mariadb:11
+    container_name: photoprism-db
+    restart: unless-stopped
+    stop_grace_period: 15s
+    security_opt:
+      - seccomp:unconfined
+      - apparmor:unconfined
+    command: >
+      --innodb-buffer-pool-size=512M
+      --transaction-isolation=READ-COMMITTED
+      --character-set-server=utf8mb4
+      --collation-server=utf8mb4_unicode_ci
+      --max-connections=512
+      --innodb-rollback-on-timeout=OFF
+      --innodb-lock-wait-timeout=120
+    env_file:
+      - ../.env
+    environment:
+      TZ: ${TZ}
+      MARIADB_AUTO_UPGRADE: "1"
+      MARIADB_INITDB_SKIP_TZINFO: "1"
+      MARIADB_DATABASE: photoprism
+      MARIADB_USER: photoprism
+      MARIADB_PASSWORD: ${MARIADB_PASSWORD}
+      MARIADB_ROOT_PASSWORD: ${MARIADB_ROOT_PASSWORD}
+    volumes:
+      - ./photoprism/database:/var/lib/mysql
+
+  photoprism:
+    image: photoprism/photoprism:latest
+    container_name: photoprism
+    depends_on:
+      - mariadb
+    restart: unless-stopped
+    stop_grace_period: 15s
+    security_opt:
+      - seccomp:unconfined
+      - apparmor:unconfined
+    env_file:
+      - ../.env
+    ports:
+      - "127.0.0.1:${PHOTOPRISM_PORT}:2342"
+    environment:
+      TZ: ${TZ}
+      PHOTOPRISM_ADMIN_USER: "admin"
+      PHOTOPRISM_ADMIN_PASSWORD: ${PHOTOPRISM_ADMIN_PASSWORD}
+      PHOTOPRISM_AUTH_MODE: "password"
+
+      PHOTOPRISM_DISABLE_TLS: "true"
+      PHOTOPRISM_DEFAULT_TLS: "false"
+
+      PHOTOPRISM_DEFAULT_LOCALE: "en"
+      PHOTOPRISM_PLACES_LOCALE: "local"
+      PHOTOPRISM_SITE_URL: ${PHOTOPRISM_SITE_URL}
+      PHOTOPRISM_SITE_TITLE: "PhotoPrism"
+      PHOTOPRISM_SITE_CAPTION: "AI-Powered Photos App"
+      PHOTOPRISM_LOG_LEVEL: "info"
+
+      PHOTOPRISM_READONLY: "false"
+      PHOTOPRISM_EXPERIMENTAL: "false"
+      PHOTOPRISM_DISABLE_CHOWN: "false"
+      PHOTOPRISM_DISABLE_WEBDAV: "false"
+      PHOTOPRISM_DISABLE_SETTINGS: "false"
+      PHOTOPRISM_DISABLE_TENSORFLOW: "false"
+      PHOTOPRISM_DISABLE_FACES: "false"
+      PHOTOPRISM_DISABLE_CLASSIFICATION: "false"
+      PHOTOPRISM_DISABLE_VECTORS: "false"
+      PHOTOPRISM_DISABLE_RAW: "false"
+      PHOTOPRISM_RAW_PRESETS: "false"
+
+      PHOTOPRISM_SIDECAR_YAML: "true"
+      PHOTOPRISM_BACKUP_ALBUMS: "true"
+      PHOTOPRISM_BACKUP_DATABASE: "true"
+      PHOTOPRISM_BACKUP_SCHEDULE: "daily"
+      PHOTOPRISM_INDEX_SCHEDULE: "@every 6h"
+      PHOTOPRISM_AUTO_INDEX: "300"
+      PHOTOPRISM_AUTO_IMPORT: "-1"
+      PHOTOPRISM_DETECT_NSFW: "true"
+      PHOTOPRISM_UPLOAD_NSFW: "true"
+      PHOTOPRISM_UPLOAD_LIMIT: "5000"
+      PHOTOPRISM_ORIGINALS_LIMIT: "5000"
+      PHOTOPRISM_HTTP_COMPRESSION: "gzip"
+
+      PHOTOPRISM_DATABASE_DRIVER: "mysql"
+      PHOTOPRISM_DATABASE_SERVER: "mariadb:3306"
+      PHOTOPRISM_DATABASE_NAME: "photoprism"
+      PHOTOPRISM_DATABASE_USER: "photoprism"
+      PHOTOPRISM_DATABASE_PASSWORD: ${MARIADB_PASSWORD}
+
+      PHOTOPRISM_UPLOAD_ALLOW: "jpg,jpeg,png,heic,mp4,mov"
+      PHOTOPRISM_UPLOAD_ARCHIVES: "true"
+      PHOTOPRISM_UID: "1000"
+      PHOTOPRISM_GID: "1000"
+      PHOTOPRISM_FFMPEG_SIZE: "1920"
+      PHOTOPRISM_FFMPEG_BITRATE: "32"
+      PHOTOPRISM_FFMPEG_ENCODER: "software"
+      PHOTOPRISM_INIT: "tensorflow"
+    working_dir: /photoprism
+    volumes:
+      - ./photoprism/media:/photoprism/originals
+      - ./photoprism/storage:/photoprism/storage
+
+  qbittorrent:
+    image: lscr.io/linuxserver/qbittorrent:latest
+    container_name: qbittorrent
+    env_file:
+      - ../.env
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+      - WEBUI_PORT=8080
+      - TORRENTING_PORT=6881
+    volumes:
+      - ./qbittorrent/appdata:/config
+      - ./qbittorrent/downloads:/downloads
+    ports:
+      - "127.0.0.1:${QBITTORRENT_WEBUI_PORT}:8080"
+      - "127.0.0.1:6881:6881"
+      - "127.0.0.1:6881:6881/udp"
+    restart: unless-stopped

@@ -1,0 +1,44 @@
+services:
+  couchdb:
+    image: apache/couchdb:3
+    container_name: couchdb-livesync
+    restart: unless-stopped
+    env_file:
+      - ../.env
+    environment:
+      COUCHDB_USER: admin
+      COUCHDB_PASSWORD: ${COUCHDB_PASSWORD}
+    ports:
+      - "127.0.0.1:5984:5984"
+    volumes:
+      - ./couchdb/data:/opt/couchdb/data
+      # - ./couchdb/config/local.ini:/opt/couchdb/etc/local.d/local.ini:ro
+
+  heimdall:
+    image: lscr.io/linuxserver/heimdall:latest
+    container_name: heimdall
+    restart: unless-stopped
+    env_file:
+      - ../.env
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    ports:
+      - "127.0.0.1:${HEIMDALL_PORT}:80"
+    volumes:
+      - ./heimdall/config:/config
+
+  # vaultwarden:
+  #   image: vaultwarden/server:latest
+  #   container_name: vaultwarden
+  #   restart: unless-stopped
+  #   env_file:
+  #     - ../.env
+  #   environment:
+  #     WEBSOCKET_ENABLED: "true"
+  #     # SIGNUPS_ALLOWED: "false"
+  #   ports:
+  #     - "127.0.0.1:${VAULT_WARDEN_PORT}:80"
+  #   volumes:
+  #     - ./vaultwarden/data:/data

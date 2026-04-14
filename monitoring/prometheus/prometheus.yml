@@ -32,5 +32,3 @@ scrape_configs:
     bearer_token_file: /etc/prometheus/hass.token
     static_configs:
       - targets: ['host.docker.internal:8123']
-
-

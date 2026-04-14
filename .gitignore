@@ -14,71 +14,102 @@ Thumbs.db
 System Volume Information/
 
 ############################################
-# Home Assistant (keep YAML, ignore state)
+# Automation stack
 ############################################
-homeassistant/config/home-assistant/.storage/
-homeassistant/config/home-assistant/secrets.yaml
-homeassistant/config/home-assistant/secrets.yaml.example
-homeassistant/config/home-assistant/home-assistant.log*
-homeassistant/config/home-assistant/home-assistant_v2.db*
-homeassistant/config/home-assistant/custom_components/
-homeassistant/store/
+
+# Home Assistant
+automation/homeassistant/config/home-assistant/.storage/
+automation/homeassistant/config/home-assistant/secrets.yaml
+automation/homeassistant/config/home-assistant/home-assistant.log*
+automation/homeassistant/config/home-assistant/home-assistant_v2.db*
+automation/homeassistant/config/home-assistant/custom_components/
+automation/homeassistant/store/
 
 # Mosquitto
-homeassistant/config/mosquitto/passwd
+automation/homeassistant/config/mosquitto/passwd
 
-# Zigbee2MQTT (state + DB + temp)
-homeassistant/config/zigbee2mqtt/configuration.yaml.tmp
-homeassistant/config/zigbee2mqtt/database.db
-homeassistant/config/zigbee2mqtt/log/
-homeassistant/config/zigbee2mqtt/state.json
-homeassistant/config/zigbee2mqtt/coordinator_backup.json
+# Zigbee2MQTT
+automation/homeassistant/config/zigbee2mqtt/configuration.yaml.tmp
+automation/homeassistant/config/zigbee2mqtt/database.db
+automation/homeassistant/config/zigbee2mqtt/log/
+automation/homeassistant/config/zigbee2mqtt/state.json
+automation/homeassistant/config/zigbee2mqtt/coordinator_backup.json
+automation/homeassistant/config/zigbee2mqtt/configuration.yaml
 
-# Node-RED (HA stack)
-homeassistant/nodered/.npm/
-homeassistant/nodered/node_modules/
-homeassistant/nodered/.sessions.json
-homeassistant/nodered/.config.runtime.json
-homeassistant/nodered/.config.nodes.json
-homeassistant/nodered/settings.js.bak
+# Node-RED
+automation/homeassistant/nodered/.npm/
+automation/homeassistant/nodered/node_modules/
+automation/homeassistant/nodered/.sessions.json
+automation/homeassistant/nodered/.config.runtime.json
+automation/homeassistant/nodered/.config.runtime.json.backup
+automation/homeassistant/nodered/.config.nodes.json
+automation/homeassistant/nodered/.config.nodes.json.backup
+automation/homeassistant/nodered/.config.users.json
+automation/homeassistant/nodered/.config.users.json.backup
+automation/homeassistant/nodered/settings.js.bakp
+automation/homeassistant/nodered/settings.js
 
 ############################################
 # Monitoring stack
 ############################################
-monitoring/prom-data/
 monitoring/grafana/
 monitoring/uptime-kuma/
+monitoring/prometheus/prom-data/
 monitoring/prometheus/*.token
 monitoring/prometheus/hass.token
 monitoring/prometheus/kuma.token
 
-# Node-RED (monitoring stack)
+# AdGuard
+monitoring/adguard/work/
+
+# Optional: old monitoring Node-RED if it still exists later
 monitoring/nodered/.npm/
 monitoring/nodered/node_modules/
 monitoring/nodered/.config.runtime.json
 monitoring/nodered/.config.nodes.json
 
-# AdGuard
-monitoring/adguard/work/
+############################################
+# Media stack
+############################################
 
-############################################
-# Media services (big data / caches)
-############################################
-# Invidious (you currently don't want it tracked)
-invidious/
+# Invidious
+media/invidious/
 
 # Jellyfin
-jellyfin/config/.cache/
-jellyfin/config/cache/
-jellyfin/config/data/
-jellyfin/config/log/
-jellyfin/movies/
-jellyfin/tvseries/
+media/jellyfin/config/cache/
+media/jellyfin/config/data/
+media/jellyfin/config/log/
+media/jellyfin/config/.cache/
+media/jellyfin/movies/
+media/jellyfin/tvseries/
 
 # PhotoPrism
-photoprism/database/
-photoprism/media/
-photoprism/storage/
+media/photoprism/database/
+media/photoprism/media/
+media/photoprism/storage/
 
 # qBittorrent
-qbittorrent/appdata/
+media/qbittorrent/appdata/
+media/qbittorrent/downloads/
+
+############################################
+# Services stack
+############################################
+
+# CouchDB data
+services/couchdb/data/
+
+# Optional old/stale CouchDB folder from previous layout
+services/couchdb-livesync/
+
+# Heimdall runtime data
+services/heimdall/config/
+
+# Vaultwarden runtime data
+services/vault_warden/
+services/vaultwarden/
+
+############################################
+# Temporary / backup junk
+############################################
+*.bak

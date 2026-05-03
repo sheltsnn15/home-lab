@@ -1,77 +1,97 @@
 services:
-  # HomeAssistant
   homeassistant:
-    container_name: home-assistant
     image: homeassistant/home-assistant:latest
+    container_name: home-assistant
+    restart: unless-stopped
+    network_mode: host
+    env_file:
+      - ../../.env
     volumes:
       - ./config/home-assistant:/config
       - /etc/localtime:/etc/localtime:ro
-    restart: unless-stopped
-    network_mode: host
     cap_add:
       - NET_ADMIN
       - NET_RAW
-    env_file:
-      - ../../.env
     depends_on:
       - mariadb
       - zigbee2mqtt
       - eclipse-mosquitto
+    logging:
+      options:
+        max-size: "10m"
+        max-file: "3"
 
-  # MariaDb
   mariadb:
-    container_name: mariadb
-    image: mariadb:latest
+    image: mariadb:11
+    container_name: homeassistant-db
     restart: unless-stopped
     env_file:
       - ../../.env
     environment:
-      MYSQL_ROOT_PASSWORD: "${MYSQL_ROOT_PASSWORD}"
-      MYSQL_DATABASE: ha_db
-      MYSQL_USER: homeassistant
-      MYSQL_PASSWORD: "${HA_MYSQL_PASSWORD}"
-    user: "${LOCAL_USER}"
+      MARIADB_DATABASE: ha_db
+      MARIADB_USER: homeassistant
+      MARIADB_PASSWORD: ${HA_MYSQL_PASSWORD}
+      MARIADB_ROOT_PASSWORD: ${HA_MYSQL_ROOT_PASSWORD}
     volumes:
       - ./store/mariadb:/var/lib/mysql
+    # user: ${LOCAL_USER}
 
-  # eclipse-mosquitto (MQTT broker)
+    logging:
+      options:
+        max-size: "10m"
+        max-file: "3"
+
   eclipse-mosquitto:
-    container_name: eclipse-mosquitto
     image: eclipse-mosquitto:latest
+    container_name: mosquitto
     restart: unless-stopped
     network_mode: host
     env_file:
       - ../../.env
     volumes:
-      - ./config/mosquitto/mosquitto.conf:/mosquitto/config/mosquitto.conf
-      - ./config/mosquitto/passwd:/mosquitto/config/passwd
+      - ./config/mosquitto/mosquitto.conf:/mosquitto/config/mosquitto.conf:ro
+      - ./config/mosquitto/passwd:/mosquitto/config/passwd:ro
+    logging:
+      options:
+        max-size: "10m"
+        max-file: "3"
 
-  # zigbee2mqtt
   zigbee2mqtt:
-    container_name: zigbee2mqtt
     image: koenkk/zigbee2mqtt:latest
+    container_name: zigbee2mqtt
     restart: unless-stopped
     network_mode: host
     env_file:
       - ../../.env
     environment:
-      - TZ=${TZ}
+      TZ: ${TZ}
     volumes:
       - ./config/zigbee2mqtt:/app/data
       - /run/udev:/run/udev:ro
     devices:
-      - "${ZIGBEE_ADAPTER_TTY}:/dev/ttyZigbee"
+      - ${ZIGBEE_ADAPTER_TTY}:/dev/ttyZigbee
+    logging:
+      options:
+        max-size: "10m"
+        max-file: "3"
 
   nodered:
     image: nodered/node-red:latest
     container_name: nodered
     restart: unless-stopped
-    env_file: [../../.env]
-    user: "${PUID}:${PGID}"
-    network_mode: host
+    env_file:
+      - ../../.env
+    user: ${PUID}:${PGID}
+    ports:
+      - "127.0.0.1:${NODE_RED_PORT}:1880"
     environment:
-      - TZ=${TZ}
-      - PORT=${NODE_RED_PORT}
-      - NODE_OPTIONS=--max-old-space-size=256
+      TZ: ${TZ}
+      NODE_OPTIONS: --max-old-space-size=256
     volumes:
       - ./nodered:/data
+    security_opt:
+      - no-new-privileges:true
+    logging:
+      options:
+        max-size: "10m"
+        max-file: "3"

@@ -2,9 +2,13 @@
 # Secrets / env
 ############################################
 .env
+.env.*
 **/*.token
 **/*.key
 **/*.pem
+**/secrets.*
+**/*secret*
+**/*credentials*
 
 ############################################
 # OS / editor junk
@@ -14,9 +18,34 @@ Thumbs.db
 System Volume Information/
 
 ############################################
+# General runtime / logs / databases
+############################################
+*.log
+*.log.*
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.pid
+*.sock
+*.lock
+*.wal
+*.shm
+
+############################################
+# Build / dependencies
+############################################
+node_modules/
+.npm/
+dist/
+build/
+.tmp/
+.cache/
+
+############################################
 # Automation stack
 ############################################
-
 # Home Assistant
 automation/homeassistant/config/home-assistant/.storage/
 automation/homeassistant/config/home-assistant/secrets.yaml
@@ -37,36 +66,28 @@ automation/homeassistant/config/zigbee2mqtt/coordinator_backup.json
 automation/homeassistant/config/zigbee2mqtt/configuration.yaml
 
 # Node-RED
-automation/homeassistant/nodered/.npm/
 automation/homeassistant/nodered/node_modules/
+automation/homeassistant/nodered/.npm/
+automation/homeassistant/nodered/.config.*
 automation/homeassistant/nodered/.sessions.json
-automation/homeassistant/nodered/.config.runtime.json
-automation/homeassistant/nodered/.config.runtime.json.backup
-automation/homeassistant/nodered/.config.nodes.json
-automation/homeassistant/nodered/.config.nodes.json.backup
-automation/homeassistant/nodered/.config.users.json
-automation/homeassistant/nodered/.config.users.json.backup
-automation/homeassistant/nodered/settings.js.bakp
-automation/homeassistant/nodered/settings.js
+automation/homeassistant/nodered/settings.js*
 
 ############################################
 # Monitoring stack
 ############################################
-monitoring/grafana/
-monitoring/uptime-kuma/
+# Grafana
+monitoring/grafana/grafana.db
+monitoring/grafana/plugins/
+
+# Uptime Kuma
+monitoring/uptime-kuma/*.db*
+monitoring/uptime-kuma/upload/
+
+# Prometheus
 monitoring/prometheus/prom-data/
 monitoring/prometheus/*.token
 monitoring/prometheus/hass.token
 monitoring/prometheus/kuma.token
-
-# AdGuard
-monitoring/adguard/work/
-
-# Optional: old monitoring Node-RED if it still exists later
-monitoring/nodered/.npm/
-monitoring/nodered/node_modules/
-monitoring/nodered/.config.runtime.json
-monitoring/nodered/.config.nodes.json
 
 ############################################
 # Media stack
@@ -96,20 +117,28 @@ media/qbittorrent/downloads/
 # Services stack
 ############################################
 
-# CouchDB data
+# CouchDB
 services/couchdb/data/
-
-# Optional old/stale CouchDB folder from previous layout
 services/couchdb-livesync/
 
 # Heimdall runtime data
 services/heimdall/config/
 
 # Vaultwarden runtime data
-services/vault_warden/
 services/vaultwarden/
+############################################
+# Docker / generic persistent data
+############################################
+**/data/
+**/cache/
+**/log/
 
 ############################################
 # Temporary / backup junk
 ############################################
 *.bak
+
+############################################
+# Seafile
+############################################
+ops/seafile/

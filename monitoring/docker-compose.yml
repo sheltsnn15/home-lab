@@ -65,6 +65,7 @@ services:
     logging: *default-logging
     networks:
       - monitoring-net
+
   grafana:
     image: grafana/grafana-oss:latest
     container_name: grafana
@@ -99,6 +100,30 @@ services:
       - /var/run:/var/run:ro
       - /sys:/sys:ro
       - /var/lib/docker/:/var/lib/docker:ro
+    logging: *default-logging
+    networks:
+      - monitoring-net
+
+  mqtt-exporter:
+    image: kpetrem/mqtt-exporter:latest
+    container_name: mqtt-exporter
+    restart: unless-stopped
+    env_file: ../.env
+    environment:
+      MQTT_ADDRESS: host.docker.internal
+      MQTT_PORT: ${MOSQUITTO_PORT}
+      MQTT_USERNAME: ${MOSQUITTO_USERNAME}
+      MQTT_PASSWORD: ${MOSQUITTO_PASSWORD}
+      MQTT_TOPIC: zigbee2mqtt/+/availability
+      MQTT_IGNORED_TOPICS: zigbee2mqtt/bridge/log,zigbee2mqtt/bridge/extensions
+      ZIGBEE2MQTT_AVAILABILITY: "True"
+      EXPOSE_LAST_SEEN: "true"
+      PROMETHEUS_PORT: 9000
+      MAX_METRICS: 500
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    ports:
+      - "127.0.0.1:${MQTT_EXPORTER_PORT}:9000"
     logging: *default-logging
     networks:
       - monitoring-net

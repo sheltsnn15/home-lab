@@ -1,0 +1,10 @@
+- name: Restart container
+  hosts: all
+  vars:
+    container_name: ""
+  tasks:
+    - name: Restart container
+      community.docker.docker_container:
+        name: "{{ container_name }}"
+        state: started
+        restart: true

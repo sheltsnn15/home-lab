@@ -1,0 +1,10 @@
+- name: Cleanup disk
+  hosts: all
+  gather_facts: false
+  become: true
+  tasks:
+    - name: Prune unused Docker data
+      command: docker system prune -af
+
+    - name: Vacuum journal logs
+      command: journalctl --vacuum-time=3d

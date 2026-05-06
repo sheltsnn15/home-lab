@@ -1,0 +1,12 @@
+- name: Restart container
+  hosts: all
+  gather_facts: false
+  any_errors_fatal: true
+  vars:
+    container_name: ""
+  pre_tasks:
+    - name: Fail if running on more than one host
+      assert:
+        that:
+          - ansible_play_hosts_all | length == 1
+        fail_msg: "Refuse to run on multiple hosts. Use -l <host>."

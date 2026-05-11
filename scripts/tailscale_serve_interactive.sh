@@ -39,7 +39,7 @@ jellyfin_PORT="${JELLYFIN_PORT:-8015}"
 qbit_PORT="${QBITTORRENT_WEBUI_PORT:-8016}"
 kuma_PORT="${KUMA_PORT:-8017}"
 prometheus_PORT="${PROMETHEUS_PORT:-8018}"
-NODE_EXPORTER_PORT="${NODE_EXPORTER_PORT:-8019}"
+node_exporter_PORT="${NODE_EXPORTER_PORT:-8019}"
 grafana_PORT="${GRAFANA_PORT:-8020}"
 nodered_PORT="${NODE_RED_PORT:-8022}"
 cAdvisor_PORT="${CADVISOR_PORT:-8023}"
@@ -61,10 +61,9 @@ declare -A ROUTES=(
   [8452]="$nodered_PORT"
   [8453]="$heimdall_PORT"
   [8454]="$seafile_PORT"
-  [8455]="$couchDB_PORT"
   [8456]="$cAdvisor_PORT"
-  [8457]="$PROMETHEUS_PORT"
-  [8458]="$NODE_EXPORTER_PORT"
+  [8457]="$prometheus_PORT"
+  [8458]="$node_exporter_PORT"
 )
 
 echo

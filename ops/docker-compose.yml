@@ -15,6 +15,8 @@ services:
       DIUN_PROVIDERS_DOCKER_WATCHBYDEFAULT: "true"
       DIUN_NOTIF_NTFY_ENDPOINT: "https://ntfy.sh"
       DIUN_NOTIF_NTFY_TOPIC: "homelab-updates"
+    labels:
+      diun.enable: "false"
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - ./diun/data:/data
@@ -32,7 +34,7 @@ services:
     volumes:
       - ./seafile/store/mysql:/var/lib/mysql
     healthcheck:
-      test: [ "CMD-SHELL", "mysqladmin ping -h localhost" ]
+      test: ["CMD-SHELL", "mysqladmin ping -h localhost"]
       interval: 30s
       timeout: 5s
       retries: 5

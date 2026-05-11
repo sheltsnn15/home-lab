@@ -4,20 +4,6 @@ x-logging: &default-logging
     max-file: "3"
 
 services:
-  couchdb:
-    image: apache/couchdb:3
-    container_name: couchdb-livesync
-    restart: unless-stopped
-    env_file: ../.env
-    environment:
-      COUCHDB_USER: admin
-      COUCHDB_PASSWORD: ${COUCHDB_PASSWORD}
-    ports:
-      - "127.0.0.1:${COUCHDB_PORT}:5984"
-    volumes:
-      - ./couchdb/data:/opt/couchdb/data
-    logging: *default-logging
-
   heimdall:
     image: lscr.io/linuxserver/heimdall:latest
     container_name: heimdall

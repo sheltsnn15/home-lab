@@ -1,0 +1,54 @@
+---
+- name: Update home server containers
+  hosts: home-server
+  gather_facts: false
+
+  vars:
+    compose_projects:
+      - path: /mnt/myssd2/automation/homeassistant
+        env_file: ../../.env
+      - path: /mnt/myssd2/media
+        env_file: ../.env
+      - path: /mnt/myssd2/media/invidious
+        env_file: ../../.env
+      - path: /mnt/myssd2/monitoring
+        env_file: ../.env
+      - path: /mnt/myssd2/ops
+        env_file: ../.env
+      - path: /mnt/myssd2/services
+        env_file: ../.env
+
+  tasks:
+    - name: Pull latest images and recreate containers
+      ansible.builtin.shell: |
+        docker compose --env-file {{ item.env_file }} pull
+        docker compose --env-file {{ item.env_file }} up -d
+      args:
+        chdir: "{{ item.path }}"
+      loop: "{{ compose_projects }}"
+      register: compose_results
+
+    - name: Wait for services to stabilize
+      ansible.builtin.pause:
+        seconds: 30
+
+    - name: Collect container status
+      ansible.builtin.command:
+        cmd: docker ps -a
+      register: docker_status
+
+    - name: Fail if unhealthy or exited containers exist
+      ansible.builtin.fail:
+        msg: |
+          One or more containers are unhealthy or exited.
+          Current container states:
+          {{ docker_status.stdout }}
+      when:
+        - "'unhealthy' in docker_status.stdout or 'Exited' in docker_status.stdout"
+
+    - name: Remove dangling images only
+      ansible.builtin.command:
+        cmd: docker image prune -f
+      register: prune_result
+      changed_when: >
+        'Total reclaimed space:' in prune_result.stdout
